@@ -24,7 +24,7 @@ export function ProfilePage() {
         <div className="profile-hero-title"><h1>{copy.title.split("\n").map((line) => <span key={line}>{line}</span>)}</h1><img src={mainData.identity.profileImage.src} alt={t(mainData.identity.profileImage.alt)} /></div>
         <div className="page-hero-bottom"><p>{t(mainData.identity.introduction)}</p><dl>
           <div><dt>{copy.major}</dt><dd>Computer Science<br />Applied Mathematics<br />Space Science</dd></div>
-          <div><dt>{copy.additional}</dt><dd>Korean Language<br />Multimedia\nBusiness Administration</dd></div>
+          <div><dt>{copy.additional}</dt><dd>Korean Language<br />Multimedia Engineering<br />Business Administration</dd></div>
           <div><dt>{copy.focus}</dt><dd>System Science · Algorithmic Governance<br />Scientific Modeling · Data Science<br />Formal Verification · Pedagogy</dd></div>
           </dl></div>
       </section>
