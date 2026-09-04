@@ -16,7 +16,7 @@ export function SiteHeader({ current }: { current?: "main" | "profile" | "archiv
         <span className="wordmark-copy"><strong>Jeongsik Park</strong><small>Portfolio / 2026</small></span>
       </a>
       <div className="header-actions">
-        <nav aria-label={locale === "ko" ? "주요 메뉴" : "Primary navigation"}>
+        <nav aria-label={locale === "ko" ? "메뉴" : "Navigation"}>
           {navItems.map((item) => (
             <a aria-current={current === item.key ? "page" : undefined} href={item.href} key={item.href}>{t(item.label)}</a>
           ))}

@@ -5,7 +5,7 @@ export function SiteFooter() {
   const { locale, t } = useLocale();
   return (
     <footer className="site-footer">
-      <div className="footer-identity"><span>JP</span><p>{mainData.motto.primary}</p></div>
+      <div className="footer-identity"><p>{mainData.motto.primary}</p></div>
       <div className="footer-navigation">
         <a href="#/profile">{locale === "ko" ? "프로필" : "Profile"}</a>
         <a href="#/archive">{locale === "ko" ? "아카이브" : "Archive"}</a>
