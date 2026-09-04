@@ -2,8 +2,9 @@
   "identity": {
     "name": { "ko": "박정식", "en": "Jeongsik Park" },
     "roles": [
-      { "ko": "컴퓨터공학", "en": "Computer Engineering" },
-      { "ko": "응용수학", "en": "Applied Mathematics" }
+      { "ko": "컴퓨터공학", "en": "Computer Science" },
+      { "ko": "응용수학", "en": "Applied Mathematics" },
+      { "ko": "멀티미디어학", "en": "Multimedia" }
     ],
     "headline": { "ko": "연구하고, 만들고, 가르칩니다.", "en": "I research, build, and teach." },
     "introduction": {
