@@ -23,9 +23,9 @@ export function ProfilePage() {
         <div className="page-index">01 / Profile</div><p className="page-overline">{copy.overline}</p>
         <div className="profile-hero-title"><h1>{copy.title.split("\n").map((line) => <span key={line}>{line}</span>)}</h1><img src={mainData.identity.profileImage.src} alt={t(mainData.identity.profileImage.alt)} /></div>
         <div className="page-hero-bottom"><p>{t(mainData.identity.introduction)}</p><dl>
-          <div><dt>{copy.major}</dt><dd>Computer Science\nApplied Mathematics\nSpace Science</dd></div>
-          <div><dt>{copy.additional}</dt><dd>Korean Language\nMultimedia\nBusiness Administration</dd></div>
-          <div><dt>{copy.focus}</dt><dd>System Science · Algorithmic Governance\nScientific Modeling · Data Science\nFormal Verification · Pedagogy</dd></div>
+          <div><dt>{copy.major}</dt><dd>{"Computer Science\nApplied Mathematics\nSpace Science"}</dd></div>
+          <div><dt>{copy.additional}</dt><dd>{"Korean Language\nMultimedia\nBusiness Administration"}</dd></div>
+          <div><dt>{copy.focus}</dt><dd>{"System Science · Algorithmic Governance\nScientific Modeling · Data Science\nFormal Verification · Pedagogy"}</dd></div>
           </dl></div>
       </section>
       <section className="detail-section timeline-section"><SectionHeading index="01" overline="Degree & study" title={copy.degree} /><Timeline items={education} /></section>
