@@ -1,0 +1,130 @@
+[
+  {
+    "slug": "hs-meta-learning-body-head-2022", "sortDate": "2022-12-31", "kind": "research", "status": "published", "period": "2022",
+    "title": { "ko": "메타러닝 모델의 Body·Head 파라미터 업데이트 성능 분석", "en": "Body and Head Parameter Update Analysis in Meta-learning" },
+    "summary": { "ko": "메타러닝 모델의 body와 head 업데이트 방식에 따른 성능 차이를 분석해 교내 학술지에 정리했습니다.", "en": "Analyzed performance differences among body and head update strategies in a meta-learning model for a school journal." },
+    "featured": false, "tags": ["research", "meta-learning", "machine-learning", "ai", "high-school"]
+  },
+  {
+    "slug": "improved-binary-selection-sort", "sortDate": "2022-12-15", "kind": "research", "status": "completed", "period": "2022",
+    "title": { "ko": "개선된 이진 선택 정렬 알고리즘", "en": "An Improved Binary Selection Sort Algorithm" },
+    "summary": { "ko": "선택 정렬의 탐색 구조를 이진 방식으로 바꾸어 성능을 비교한 정보과학 연구입니다.", "en": "An informatics study that compared a binary search-style modification of selection sort." },
+    "featured": false, "tags": ["research", "algorithm", "sorting", "cpp", "high-school"]
+  },
+  {
+    "slug": "hans-zimmer-composition-ai", "sortDate": "2021-12-15", "kind": "research", "status": "completed", "period": "2021",
+    "title": { "ko": "한스 짐머의 영화음악을 학습한 작곡 인공지능", "en": "Composition AI Trained on Hans Zimmer's Film Music" },
+    "summary": { "ko": "영화음악의 특징을 분석하고 학습 데이터로 활용해 인공지능 작곡을 탐구했습니다.", "en": "Explored AI composition by analyzing characteristics of film music and using them as training data." },
+    "featured": false, "tags": ["research", "ai", "machine-learning", "music", "high-school"]
+  },
+  {
+    "slug": "pi-area-recurrence", "sortDate": "2022-11-30", "kind": "research", "status": "completed", "period": "2022",
+    "title": { "ko": "넓이 점화식을 이용한 원주율 계산", "en": "Calculating Pi with an Area Recurrence" },
+    "summary": { "ko": "도형의 넓이 관계를 점화식으로 표현해 원주율을 근사하는 방법을 탐구했습니다.", "en": "Explored a method for approximating pi by expressing geometric area relationships as a recurrence." },
+    "featured": false, "tags": ["research", "mathematics", "numerical-method", "high-school"]
+  },
+  {
+    "slug": "game-theory-expected-empirical", "sortDate": "2021-11-30", "kind": "research", "status": "completed", "period": "2021",
+    "title": { "ko": "게임이론의 이론적 기대값과 실험 결과 비교", "en": "Theoretical and Empirical Expectations in Game Theory" },
+    "summary": { "ko": "게임이론에서 계산한 기대값과 실제 반복 실험의 결과를 비교했습니다.", "en": "Compared calculated expectations in game theory with outcomes from repeated experiments." },
+    "featured": false, "tags": ["research", "mathematics", "game-theory", "statistics", "high-school"]
+  },
+  {
+    "slug": "reusable-multi-bookmark", "sortDate": "2021-12-01", "kind": "project", "status": "completed", "period": "2021",
+    "title": { "ko": "재사용 가능한 다중 책갈피", "en": "Reusable Multi-bookmark" },
+    "summary": { "ko": "여러 페이지를 동시에 표시하면서 반복 사용할 수 있는 책갈피를 설계·제작했습니다.", "en": "Designed and built a reusable bookmark that can mark several pages at once." },
+    "featured": false, "tags": ["project", "maker", "product-design", "high-school"]
+  },
+  {
+    "slug": "chemical-formula-mass-calculator", "sortDate": "2021-11-01", "kind": "project", "status": "completed", "period": "2021",
+    "title": { "ko": "C언어 화학식 질량 계산기", "en": "Chemical Formula Mass Calculator in C" },
+    "summary": { "ko": "입력한 화학식을 해석해 분자량을 계산하는 C 프로그램을 제작했습니다.", "en": "Built a C program that parses a chemical formula and calculates its molecular mass." },
+    "featured": false, "tags": ["project", "c", "chemistry", "parser", "high-school"],
+    "links": [{ "label": { "ko": "프로젝트 기록", "en": "Project note" }, "href": "https://blog.naver.com/oriisme/222916104260" }]
+  },
+  {
+    "slug": "physics-achievement-assessment", "sortDate": "2021-10-15", "kind": "project", "status": "completed", "period": "2021",
+    "title": { "ko": "오답을 고려한 물리 성취도 평가 프로그램", "en": "Physics Achievement Assessment Considering Wrong Answers" },
+    "summary": { "ko": "정답뿐 아니라 오답의 유형을 반영해 물리 개념 성취도를 평가하는 프로그램을 만들었습니다.", "en": "Built a program that evaluates physics concept mastery using both correct answers and error types." },
+    "featured": false, "tags": ["project", "education", "assessment", "physics", "software", "high-school"]
+  },
+  {
+    "slug": "cosine-community", "sortDate": "2020-12-15", "kind": "project", "status": "completed", "period": "2020",
+    "title": { "ko": "COSINE 온라인 커뮤니티", "en": "COSINE Online Community" },
+    "summary": { "ko": "학생 간 정보 공유와 소통을 위한 온라인 커뮤니티를 기획·개발했습니다.", "en": "Planned and developed an online community for student information sharing and communication." },
+    "featured": false, "tags": ["project", "web", "community", "software", "high-school"]
+  },
+  {
+    "slug": "derivative-works-legal-report", "sortDate": "2022-12-10", "kind": "research", "status": "completed", "period": "2022",
+    "title": { "ko": "2차적저작물과 저작권 판례 분석", "en": "Legal Analysis of Derivative Works and Copyright" },
+    "summary": { "ko": "대법원 99도863 판결을 중심으로 2차적저작물의 성립과 저작권 쟁점을 분석했습니다.", "en": "Analyzed derivative-work and copyright issues centered on Supreme Court case 99Do863." },
+    "featured": false, "tags": ["research", "copyright", "law", "report", "high-school"]
+  },
+  {
+    "slug": "hydropower-turbine-blade-efficiency", "sortDate": "2022-10-30", "kind": "research", "status": "completed", "period": "2022",
+    "title": { "ko": "수력발전 터빈 날개 형태와 효율", "en": "Hydropower Turbine Blade Shape and Efficiency" },
+    "summary": { "ko": "터빈 날개의 형태가 수력발전 효율에 미치는 영향을 실험했습니다.", "en": "Experimented with how turbine-blade shape affects hydropower efficiency." },
+    "featured": false, "tags": ["research", "energy", "physics", "experiment", "high-school"]
+  },
+  {
+    "slug": "carcinogen-emissions-cancer-correlation", "sortDate": "2022-09-30", "kind": "research", "status": "completed", "period": "2022",
+    "title": { "ko": "발암물질 배출량과 암 발생의 상관관계", "en": "Correlation between Carcinogen Emissions and Cancer Incidence" },
+    "summary": { "ko": "지역별 발암물질 배출 자료와 암 발생 자료의 상관관계를 통계적으로 분석했습니다.", "en": "Statistically analyzed regional carcinogen-emission data against cancer-incidence data." },
+    "featured": false, "tags": ["research", "statistics", "public-health", "environment", "data-science", "high-school"]
+  },
+  {
+    "slug": "speed-skating-science-statistics", "sortDate": "2022-08-30", "kind": "research", "status": "completed", "period": "2022",
+    "title": { "ko": "스피드스케이팅의 수학·과학 원리와 기록 통계", "en": "Mathematics, Science, and Performance Statistics of Speed Skating" },
+    "summary": { "ko": "스피드스케이팅의 곡선 주행 원리와 기록 데이터를 수학·과학·통계 관점에서 탐구했습니다.", "en": "Explored speed-skating turns and performance data through mathematics, science, and statistics." },
+    "featured": false, "tags": ["research", "sports", "physics", "mathematics", "statistics", "high-school"]
+  },
+  {
+    "slug": "future-plans-statistics-poster", "sortDate": "2020-10-30", "kind": "research", "status": "completed", "period": "2020",
+    "title": { "ko": "장래 계획과 삶의 중요도에 관한 통계 포스터", "en": "Statistics Poster on Future Plans and Life Priorities" },
+    "summary": { "ko": "장래 계획과 삶에서 중요하게 여기는 요소를 조사해 통계 포스터로 표현했습니다.", "en": "Surveyed future plans and perceived life priorities and presented the results as a statistics poster." },
+    "featured": false, "tags": ["research", "statistics", "survey", "visualization", "high-school"]
+  },
+  {
+    "slug": "musical-transposition-semitones", "sortDate": "2020-09-30", "kind": "research", "status": "completed", "period": "2020",
+    "title": { "ko": "반음 단위 조옮김의 수학적 원리", "en": "Mathematics of Semitone Transposition" },
+    "summary": { "ko": "음정을 반음 단위로 옮길 때 나타나는 주파수 관계를 수학적으로 탐구했습니다.", "en": "Explored the mathematical frequency relationships involved in semitone transposition." },
+    "featured": false, "tags": ["research", "music", "mathematics", "acoustics", "high-school"],
+    "links": [{ "label": { "ko": "연구 기록", "en": "Research note" }, "href": "https://blog.naver.com/oriisme/222888248170" }]
+  },
+  {
+    "slug": "notion-3d-printer-repair", "sortDate": "2023-09-09", "kind": "project", "status": "completed", "period": "2023.06 — 2023.09",
+    "title": { "ko": "3D 프린터 수리", "en": "3D Printer Repair" },
+    "summary": { "ko": "2명이 함께 3D 프린터의 하드웨어 문제를 점검하고 수리했습니다.", "en": "Diagnosed and repaired 3D-printer hardware in a two-person project." },
+    "featured": false, "tags": ["project", "hardware", "3d-printing", "maker"]
+  },
+  {
+    "slug": "club-room-smart-lock", "sortDate": "2023-09-17", "kind": "project", "status": "completed", "period": "2023.05 — 2023.09",
+    "title": { "ko": "동아리방 출입문 잠금장치", "en": "Club Room Door Lock" },
+    "summary": { "ko": "4명이 Raspberry Pi와 IoT 기술을 이용해 동아리방 출입문 잠금장치를 제작했습니다.", "en": "Built a club-room door lock with Raspberry Pi and IoT technology in a four-person team." },
+    "featured": false, "tags": ["project", "raspberry-pi", "iot", "hardware", "team"]
+  },
+  {
+    "slug": "todays-school-lunch", "sortDate": "2022-09-12", "kind": "project", "status": "completed", "period": "2022.09",
+    "title": { "ko": "오늘의 급식", "en": "Today's School Lunch" },
+    "summary": { "ko": "Python·Flask·HTML로 학교 급식 정보를 제공하는 웹 서비스를 개발했습니다.", "en": "Developed a school-lunch web service with Python, Flask, and HTML." },
+    "featured": false, "tags": ["project", "python", "flask", "html", "web"]
+  },
+  {
+    "slug": "orbital-diagram-generator", "sortDate": "2022-07-28", "kind": "project", "status": "completed", "period": "2022.07",
+    "title": { "ko": "Orbital Diagram Generator", "en": "Orbital Diagram Generator" },
+    "summary": { "ko": "Python과 Matplotlib로 원자 오비탈 다이어그램을 생성하는 프로그램을 개발했습니다.", "en": "Developed a Python and Matplotlib program that generates atomic orbital diagrams." },
+    "featured": false, "tags": ["project", "python", "matplotlib", "chemistry", "visualization"]
+  },
+  {
+    "slug": "habituation-neural-network-project", "sortDate": "2021-12-22", "kind": "project", "status": "completed", "period": "2021.10 — 2021.12",
+    "title": { "ko": "인공신경망의 습관화 AI", "en": "Habituation AI with an Artificial Neural Network" },
+    "summary": { "ko": "3명이 Python·생물학·인공지능을 결합해 습관화 행동을 모사하는 프로젝트를 수행했습니다.", "en": "Combined Python, biology, and AI in a three-person project that modeled habituation behavior." },
+    "featured": false, "tags": ["project", "python", "biology", "ai", "team", "high-school"]
+  },
+  {
+    "slug": "mulriege-mulligi", "sortDate": "2021-12-08", "kind": "project", "status": "completed", "period": "2021.08 — 2021.12",
+    "title": { "ko": "물리에게 물리기", "en": "Mulriege Mulligi" },
+    "summary": { "ko": "3명이 HTML·JavaScript·Android Java를 활용해 물리 학습을 돕는 전산교육시스템을 개발했습니다.", "en": "Developed a physics-learning system with HTML, JavaScript, and Android Java in a three-person team." },
+    "featured": false, "tags": ["project", "education", "physics", "html", "javascript", "android", "team"]
+  }
+]

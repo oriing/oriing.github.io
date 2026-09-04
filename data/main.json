@@ -1,0 +1,100 @@
+{
+  "identity": {
+    "name": { "ko": "박정식", "en": "Jeongsik Park" },
+    "roles": [
+      { "ko": "컴퓨터공학", "en": "Computer Engineering" },
+      { "ko": "응용수학", "en": "Applied Mathematics" }
+    ],
+    "headline": { "ko": "연구하고, 만들고, 가르칩니다.", "en": "I research, build, and teach." },
+    "introduction": {
+      "ko": "연구자이자 개발자 박정식입니다. 컴퓨터를 중심으로 한 융·복합 학문을 추구합니다. 학문의 경계와 분야를 가리지 않고 공부하며, 아이디어를 떠올리고 해결하는 것을 좋아합니다.",
+      "en": "I am Jeongsik Park, a researcher and developer pursuing interdisciplinary work centered on computing. I enjoy learning across boundaries, forming ideas, and turning them into working answers."
+    },
+    "location": { "ko": "대한민국", "en": "Republic of Korea" },
+    "profileImage": {
+      "src": "./images/profile.webp",
+      "alt": { "ko": "박정식의 오리 프로필 이미지", "en": "Jeongsik Park's duck profile avatar" }
+    }
+  },
+  "motto": {
+    "primary": "Ad lucem per scientiam, ad astra per intellectum",
+    "translation": { "ko": "지식을 통해 빛으로, 이성을 통해 별들로", "en": "To light through knowledge, to the stars through reason" },
+    "secondary": {
+      "ko": "사색은 진리를 뚫어보고, 의지는 대망을 성취한다.",
+      "en": "Reflection sees through to truth; will accomplishes great aspirations."
+    }
+  },
+  "current": [],
+  "researchAxes": [
+    {
+      "id": "systems-security",
+      "index": "01",
+      "title": { "ko": "시스템 보안과 암호", "en": "Systems Security & Cryptography" },
+      "overline": { "ko": "Systems & Security", "en": "Systems & Security" },
+      "description": {
+        "ko": "저사양 장치와 위성 통신 환경에서 양자내성암호의 구현·최적화·적용 가능성을 연구했습니다.",
+        "en": "I have studied the implementation, optimization, and practical use of post-quantum cryptography on constrained devices and satellite links."
+      },
+      "tags": ["security", "cryptography", "pqc", "satellite"]
+    },
+    {
+      "id": "algorithms-data",
+      "index": "02",
+      "title": { "ko": "알고리즘과 데이터", "en": "Algorithms & Data" },
+      "overline": { "ko": "Algorithms & Data", "en": "Algorithms & Data" },
+      "description": {
+        "ko": "정렬 알고리즘부터 메타러닝, 기후·관광 데이터까지 문제에 맞는 계산 방법을 설계하고 실험했습니다.",
+        "en": "From sorting algorithms to meta-learning and climate or tourism data, I design and test computational methods around the problem at hand."
+      },
+      "tags": ["algorithm", "machine-learning", "data-science", "mathematics"]
+    },
+    {
+      "id": "education-community",
+      "index": "03",
+      "title": { "ko": "교육과 커뮤니티", "en": "Education & Community" },
+      "overline": { "ko": "Education & Community", "en": "Education & Community" },
+      "description": {
+        "ko": "강의·멘토링·학생자치·행사 운영을 통해 기술을 설명하고 사람들이 함께 학습하는 구조를 만들었습니다.",
+        "en": "Through teaching, mentoring, student governance, and event operations, I explain technology and build structures for people to learn together."
+      },
+      "tags": ["education", "mentoring", "leadership", "community"]
+    }
+  ],
+  "featuredSlugs": [
+    "satellite-security-analysis-tool",
+    "smaug-memory-optimization",
+    "adaptive-partition-sort",
+    "khuthon-operations"
+  ],
+  "quotes": [
+    {
+      "ko": "어리석은 질문 하나에 철저히 답하려다 보면 꽤 흥미로운 곳에 닿게 된다.",
+      "en": "But it turns out that trying to thoroughly answer a stupid question can take you to some pretty interesting places."
+    },
+    { "ko": "사용자를 알라. 그는 당신이 아니다.", "en": "Know thy user, for he is not thee." },
+    {
+      "ko": "경험을 현명하게 사용한다면 낭비되는 시간은 없다.",
+      "en": "Nothing is a waste of time if you use the experience wisely."
+    }
+  ],
+  "links": [
+    { "label": { "ko": "업무 이메일", "en": "Business email" }, "href": "mailto:cyangsa10@gmail.com" },
+    { "label": { "ko": "학교 이메일", "en": "Academic email" }, "href": "mailto:ori@khu.ac.kr" },
+    { "label": { "ko": "GitHub", "en": "GitHub" }, "href": "https://github.com/oriing" },
+    { "label": { "ko": "LinkedIn", "en": "LinkedIn" }, "href": "https://www.linkedin.com/in/parkjeongsik/" },
+    { "label": { "ko": "블로그", "en": "Blog" }, "href": "https://blog.naver.com/oriisme" }
+  ],
+  "contact": {
+    "title": { "ko": "함께 이야기할 주제가 있다면", "en": "If there is something worth exploring together" },
+    "description": {
+      "ko": "연구 협업, 기술 프로젝트, 컴퓨터공학 교육과 커뮤니티에 관한 제안과 대화를 기다립니다.",
+      "en": "I welcome conversations about research collaboration, technical projects, computing education, and communities."
+    },
+    "topics": [
+      { "ko": "연구 협업과 학술 교류", "en": "Research collaboration" },
+      { "ko": "보안·데이터·시스템 프로젝트", "en": "Security, data, and systems projects" },
+      { "ko": "컴퓨터공학 교육과 강연", "en": "Computing education and talks" }
+    ]
+  },
+  "updated": "2026.09"
+}

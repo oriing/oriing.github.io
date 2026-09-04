@@ -1,0 +1,798 @@
+[
+  {
+    "slug": "pqc-polynomial-multiplication",
+    "sortDate": "2026-06-30",
+    "kind": "research",
+    "status": "published",
+    "period": "2026",
+    "title": { "ko": "격자 기반 암호의 다항식 곱셈 최적화 기법 비교 분석", "en": "Comparative Analysis of Polynomial Multiplication Optimization Techniques for Lattice-based Cryptography" },
+    "summary": { "ko": "격자 기반 암호에서 사용되는 다항식 곱셈 최적화 기법을 비교한 한국정보보호학회 하계학술대회 논문입니다.", "en": "A KIISC summer conference paper comparing polynomial multiplication optimization techniques used in lattice-based cryptography." },
+    "featured": false,
+    "tags": ["publication", "conference", "cryptography", "pqc", "lattice-crypto", "optimization"],
+    "detail": { "outcomes": [{ "ko": "한국정보보호학회 하계학술대회 논문집 36권 1호, 1254–1256쪽", "en": "Published in the KIISC Summer Conference Proceedings, Vol. 36 No. 1, pp. 1254–1256" }] }
+  },
+  {
+    "slug": "hybrid-pqc-army-c4i",
+    "sortDate": "2026-06-15",
+    "kind": "research",
+    "status": "published",
+    "period": "2026",
+    "title": { "ko": "육군 전술 C4I 환경을 위한 하이브리드 양자내성암호 키 교환 설계", "en": "Design of Hybrid Post-quantum Cryptographic Key Exchange for Army Tactical C4I Environments" },
+    "summary": { "ko": "전술 C4I 환경의 제약을 고려한 하이브리드 양자내성암호 키 교환 구조를 제안한 군사과학기술학회 논문입니다.", "en": "A KIMST conference paper proposing a hybrid post-quantum key exchange for constrained tactical C4I environments." },
+    "featured": false,
+    "tags": ["publication", "conference", "pqc", "military-technology", "network", "security"],
+    "detail": { "outcomes": [{ "ko": "2026 한국군사과학기술학회 종합학술대회 논문집, 2015–2016쪽", "en": "Published in the 2026 KIMST Annual Conference Proceedings, pp. 2015–2016" }] }
+  },
+  {
+    "slug": "satellite-security-analysis-tool",
+    "sortDate": "2025-07-31",
+    "kind": "research",
+    "status": "published",
+    "period": "2025",
+    "title": { "ko": "위성 통신 보안 분석을 위한 오픈소스 기반 자동화 도구", "en": "An Open-source Tool for Satellite Communication Security Analysis" },
+    "summary": { "ko": "TLE 궤도정보와 주파수·변조 자료를 결합해 관측 지점별 위성 가시성과 잠재적 보안 위협을 분석했습니다.", "en": "Combined TLE orbital data with frequency and modulation data to analyze satellite visibility and potential security threats by observation point." },
+    "featured": true,
+    "tags": ["publication", "conference", "satellite", "satellite-communication", "security", "automation", "python"],
+    "detail": {
+      "context": { "ko": "위성 통신 보안 분석에는 궤도·가시성·주파수·변조처럼 흩어진 정보가 동시에 필요했습니다.", "en": "Satellite communication security analysis requires orbital, visibility, frequency, and modulation data that are usually scattered across sources." },
+      "role": { "ko": "연구 질문 설정부터 TLE 처리, 가시성 계산, 데이터 수집과 결과 정리까지 분석 파이프라인을 구현했습니다.", "en": "I framed the research question and implemented the pipeline from TLE processing and visibility calculation to data collection and reporting." },
+      "approach": [
+        { "ko": "SGP4와 TLE로 관측점 기준 위성 가시성을 계산", "en": "Calculated observer-specific satellite visibility using SGP4 and TLE data" },
+        { "ko": "공개된 주파수·변조 정보를 위성 식별자와 결합", "en": "Matched public frequency and modulation data to satellite identifiers" },
+        { "ko": "결과를 재검토 가능한 표 형식으로 자동 출력", "en": "Exported results automatically in a reviewable tabular format" }
+      ],
+      "outcomes": [{ "ko": "한국정보보호학회 하계학술대회 논문집 35권 1호, 900–902쪽", "en": "Published in the KIISC Summer Conference Proceedings, Vol. 35 No. 1, pp. 900–902" }],
+      "takeaways": [{ "ko": "보안 평가는 암호만이 아니라 물리·통신 환경의 제약을 함께 모델링해야 합니다.", "en": "Security evaluation must model physical and communication constraints, not cryptography alone." }]
+    }
+  },
+  {
+    "slug": "avr-satellite-pqc-software",
+    "sortDate": "2025-01-31",
+    "kind": "project",
+    "status": "completed",
+    "period": "2025.01",
+    "title": { "ko": "AVR 8비트 MCU 기반 위성-지상국 양자내성암호 통신 프로그램", "en": "Post-quantum Satellite-to-Ground Communication on an AVR 8-bit MCU" },
+    "summary": { "ko": "SMAUG-T와 LEA를 이용한 위성-지상국 통신 프로그램을 구현하고 프로그램 저작물로 등록했습니다.", "en": "Implemented satellite-to-ground communication using SMAUG-T and LEA and registered the resulting software." },
+    "featured": false,
+    "tags": ["registered-software", "pqc", "embedded", "avr", "satellite-communication", "cryptography"],
+    "detail": { "outcomes": [{ "ko": "2025년 1월 31일 프로그램 저작물 등록", "en": "Software registered on January 31, 2025" }] }
+  },
+  {
+    "slug": "bob-low-resource-satellite-pqc",
+    "sortDate": "2025-03-28",
+    "kind": "research",
+    "status": "published",
+    "period": "2024.07 — 2025.03",
+    "title": { "ko": "저성능 MCU 기반 위성 양자내성암호 모듈", "en": "Post-quantum Cryptography Module for Satellites on Low-performance MCUs" },
+    "summary": { "ko": "차세대 보안리더 양성 프로그램에서 저사양 위성 환경을 위한 양자내성암호 모듈을 연구·개발했습니다.", "en": "Researched and developed a post-quantum cryptography module for constrained satellite environments in the Best of the Best program." },
+    "featured": false,
+    "tags": ["security", "pqc", "embedded", "satellite", "cryptography"],
+    "detail": { "outcomes": [{ "ko": "BoB 13기 프로젝트 결과보고서 645–664쪽", "en": "Documented in the BoB 13 project report, pp. 645–664" }] }
+  },
+  {
+    "slug": "cat-bond-climate-model",
+    "sortDate": "2025-06-15",
+    "kind": "project",
+    "status": "completed",
+    "period": "2025",
+    "title": { "ko": "기후 리스크 관리를 위한 Cat Bond 상품 설계", "en": "Cat Bond Product Design for Climate Risk Management" },
+    "summary": { "ko": "기후·강수 데이터로 재해 발생 가능성과 손실을 추정해 Cat Bond의 위험 구조를 설계했습니다.", "en": "Used climate and rainfall data to estimate disaster probability and loss for a Cat Bond risk structure." },
+    "featured": false,
+    "tags": ["data-science", "climate", "finance", "machine-learning", "python"]
+  },
+  {
+    "slug": "naratmalsami-spelling",
+    "sortDate": "2025-05-31",
+    "kind": "project",
+    "status": "completed",
+    "period": "2025",
+    "title": { "ko": "한국어 맞춤법 추천 프로젝트 ‘나랏말싸미’", "en": "Naratmalsami: Korean Spelling Recommendation" },
+    "summary": { "ko": "한국어 맞춤법을 추천하는 머신러닝 토이 프로젝트를 수행했습니다.", "en": "Built a machine-learning toy project for Korean spelling recommendations." },
+    "featured": false,
+    "tags": ["machine-learning", "nlp", "python", "software"]
+  },
+  {
+    "slug": "walking-into-provinces",
+    "sortDate": "2024-11-30",
+    "kind": "project",
+    "status": "completed",
+    "period": "2024",
+    "title": { "ko": "보행 경로 데이터 기반 관광 프로젝트 ‘지방으로 걸어들어가기’", "en": "Walking into the Provinces: Tourism with Walking-route Data" },
+    "summary": { "ko": "보행 경로 데이터를 활용해 지역 관광 경험을 설계한 데이터 프로젝트입니다.", "en": "A data project that designed local tourism experiences using walking-route data." },
+    "featured": false,
+    "tags": ["data-science", "tourism", "planning"]
+  },
+  {
+    "slug": "pqc-low-spec-trends",
+    "sortDate": "2024-12-20",
+    "kind": "research",
+    "status": "published",
+    "period": "2024",
+    "title": { "ko": "저사양 환경의 양자내성암호 적용을 위한 최적화 동향", "en": "Optimization Trends for Applying Post-quantum Cryptography in Constrained Environments" },
+    "summary": { "ko": "제한된 메모리와 연산 성능을 가진 환경에서 양자내성암호를 적용하기 위한 최적화 연구를 정리했습니다.", "en": "Reviewed optimization research for applying post-quantum cryptography in memory- and compute-constrained environments." },
+    "featured": false,
+    "tags": ["publication", "conference", "pqc", "embedded", "optimization"],
+    "links": [{ "label": { "ko": "RISS 논문", "en": "Paper on RISS" }, "href": "https://www.riss.kr/link?id=A109533307" }]
+  },
+  {
+    "slug": "maml-body-head-analysis",
+    "sortDate": "2024-12-19",
+    "kind": "research",
+    "status": "published",
+    "period": "2024",
+    "title": { "ko": "MAML의 Body·Head 업데이트 성능 분석", "en": "Performance Analysis of Body and Head Updates in MAML" },
+    "summary": { "ko": "메타러닝 MAML에서 모델의 body와 head 업데이트 방식에 따른 성능을 비교했습니다.", "en": "Compared performance under different body and head update strategies in MAML meta-learning." },
+    "featured": false,
+    "tags": ["publication", "conference", "meta-learning", "machine-learning", "ai"],
+    "links": [{ "label": { "ko": "RISS 논문", "en": "Paper on RISS" }, "href": "https://www.riss.kr/link?id=A109533134" }]
+  },
+  {
+    "slug": "smaug-memory-optimization",
+    "sortDate": "2024-11-30",
+    "kind": "research",
+    "status": "published",
+    "period": "2024",
+    "title": { "ko": "8KB 칩셋에서 SMAUG-T의 메모리 최적화", "en": "Memory Optimization of SMAUG-T on an 8KB Chipset" },
+    "summary": { "ko": "메모리 8KB 수준의 제한된 칩셋에서 격자 기반 양자내성암호 SMAUG-T를 구동하기 위한 최적화를 연구했습니다.", "en": "Studied optimizations for running the lattice-based PQC scheme SMAUG-T on a chipset with roughly 8KB of memory." },
+    "featured": true,
+    "tags": ["publication", "conference", "pqc", "embedded", "optimization", "lattice-crypto"],
+    "detail": {
+      "context": { "ko": "일반 PC 환경에서 동작하는 암호 구현은 소형 위성·센서 노드의 메모리 제약을 그대로 통과하지 못합니다.", "en": "Cryptographic implementations that work on general-purpose computers do not automatically fit the memory limits of small satellites or sensor nodes." },
+      "role": { "ko": "메모리 사용 구조를 분석하고 제한된 칩셋에서의 구현 가능성을 확인했습니다.", "en": "I analyzed memory use and tested feasibility on a constrained chipset." },
+      "outcomes": [{ "ko": "한국정보보호학회 동계학술대회 논문집 34권 2호, 123–126쪽", "en": "Published in the KIISC Winter Conference Proceedings, Vol. 34 No. 2, pp. 123–126" }],
+      "takeaways": [{ "ko": "알고리즘의 안전성뿐 아니라 메모리 배치와 구현 세부가 실제 적용 가능성을 결정합니다.", "en": "Practical viability depends on memory layout and implementation details as well as algorithmic security." }]
+    }
+  },
+  {
+    "slug": "adaptive-partition-sort",
+    "sortDate": "2023-06-30",
+    "kind": "research",
+    "status": "published",
+    "period": "2023",
+    "title": { "ko": "적응형 분할 정렬 알고리즘", "en": "Adaptive Partition Sort" },
+    "summary": { "ko": "입력 데이터의 특성에 따라 분할 전략을 조정하는 정렬 알고리즘을 제안하고 성능을 분석했습니다.", "en": "Proposed and evaluated a sorting algorithm that adapts its partition strategy to the input." },
+    "featured": true,
+    "tags": ["publication", "conference", "algorithm", "sorting", "cpp"],
+    "links": [{ "label": { "ko": "RISS 논문", "en": "Paper on RISS" }, "href": "http://www.riss.kr/link?id=A108709557" }],
+    "detail": {
+      "context": { "ko": "정렬 알고리즘의 성능은 입력 분포와 분할 방식에 크게 영향을 받습니다.", "en": "Sorting performance is strongly affected by input distribution and partition strategy." },
+      "role": { "ko": "알고리즘을 설계·구현하고 비교 실험을 수행해 논문으로 정리했습니다.", "en": "I designed and implemented the algorithm, ran comparative experiments, and wrote the paper." },
+      "outcomes": [{ "ko": "KCC 2023 논문집 2019–2021쪽", "en": "Published in the KCC 2023 Proceedings, pp. 2019–2021" }]
+    }
+  },
+  {
+    "slug": "genetic-algorithm-variables",
+    "sortDate": "2021-12-31",
+    "kind": "research",
+    "status": "published",
+    "period": "2021",
+    "title": { "ko": "유전 알고리즘의 효율에 영향을 주는 변수 분석", "en": "Analysis of Variables Affecting Genetic Algorithm Efficiency" },
+    "summary": { "ko": "유전 알고리즘의 주요 설정값이 탐색 효율과 결과에 미치는 영향을 실험했습니다.", "en": "Experimented with how key genetic-algorithm parameters affect search efficiency and outcomes." },
+    "featured": false,
+    "tags": ["publication", "conference", "genetic-algorithm", "algorithm", "ai"],
+    "links": [{ "label": { "ko": "RISS 논문", "en": "Paper on RISS" }, "href": "http://www.riss.kr/link?id=A108045562" }]
+  },
+  {
+    "slug": "improved-selection-sort",
+    "sortDate": "2021-06-30",
+    "kind": "research",
+    "status": "published",
+    "period": "2021",
+    "title": { "ko": "개선된 선택 정렬 알고리즘", "en": "An Improved Selection Sort Algorithm" },
+    "summary": { "ko": "선택 정렬의 비교·교환 구조를 개선하고 기존 방식과 성능을 비교했습니다.", "en": "Modified the comparison and exchange structure of selection sort and compared it with the conventional method." },
+    "featured": false,
+    "tags": ["publication", "conference", "algorithm", "sorting"],
+    "links": [{ "label": { "ko": "RISS 논문", "en": "Paper on RISS" }, "href": "http://www.riss.kr/link?id=A107797523" }]
+  },
+  {
+    "slug": "habituation-ai-connectome",
+    "sortDate": "2022-08-31",
+    "kind": "research",
+    "status": "published",
+    "period": "2022",
+    "title": { "ko": "예쁜꼬마선충 커넥톰 기반 습관화 인공지능", "en": "Habituation AI Based on the C. elegans Connectome" },
+    "summary": { "ko": "예쁜꼬마선충의 신경 연결 구조를 참고해 습관화 행동을 모사하는 인공지능을 탐구했습니다.", "en": "Explored an AI model of habituation inspired by the neural connectivity of C. elegans." },
+    "featured": false,
+    "tags": ["publication", "ai", "machine-learning", "science-communication"]
+  },
+  {
+    "slug": "origami-huzita-hatori",
+    "sortDate": "2022-06-30",
+    "kind": "research",
+    "status": "completed",
+    "period": "2021 — 2022",
+    "title": { "ko": "후지타–하토리 공리의 종이접기 증명과 시각화", "en": "Origami Proof and Visualization of the Huzita–Hatori Axioms" },
+    "summary": { "ko": "종이접기 기하의 후지타–하토리 공리를 증명하고 GeoGebra로 시각화했습니다.", "en": "Proved the Huzita–Hatori axioms of origami geometry and visualized them in GeoGebra." },
+    "featured": false,
+    "tags": ["mathematics", "origami", "education"],
+    "detail": { "outcomes": [
+      { "ko": "2021년 GeoGebra를 이용한 후지타–하토리 공리 시각화", "en": "Visualized the Huzita–Hatori axioms with GeoGebra in 2021" },
+      { "ko": "2022년 후지타–하토리 공리의 종이접기 증명", "en": "Developed an origami proof of the Huzita–Hatori axioms in 2022" }
+    ] }
+  },
+  {
+    "slug": "hearing-substitution-device",
+    "sortDate": "2021-10-31",
+    "kind": "project",
+    "status": "completed",
+    "period": "2021",
+    "title": { "ko": "SVD·Arduino 기반 청각 대체 보조기기", "en": "Hearing-substitution Assistive Device with SVD and Arduino" },
+    "summary": { "ko": "소리를 다른 감각 정보로 전달하기 위한 보조기기를 SVD와 Arduino를 활용해 설계·제작했습니다.", "en": "Designed and built an assistive device using SVD and Arduino to convey sound through alternative sensory information." },
+    "featured": false,
+    "tags": ["assistive-technology", "arduino", "maker", "mathematics"],
+    "detail": { "outcomes": [
+      { "ko": "특이값 분해(SVD)를 이용한 청각 대체 정보 표현 연구", "en": "Studied sensory-substitution representation using singular value decomposition" },
+      { "ko": "Arduino 기반 청각 대체 보조기기 제작", "en": "Built an Arduino-based hearing-substitution assistive device" }
+    ] }
+  },
+  {
+    "slug": "starlink-light-pollution",
+    "sortDate": "2021-09-30",
+    "kind": "research",
+    "status": "completed",
+    "period": "2021",
+    "title": { "ko": "Starlink 위성의 광공해와 천문 관측", "en": "Starlink Light Pollution and Astronomical Observation" },
+    "summary": { "ko": "저궤도 위성군이 야간 천문 관측에 미치는 광공해 문제를 조사했습니다.", "en": "Investigated how low-Earth-orbit satellite constellations affect nighttime astronomical observation." },
+    "featured": false,
+    "tags": ["satellite", "astronomy", "environment", "science-communication"]
+  },
+  {
+    "slug": "ott-viral-coefficient",
+    "sortDate": "2020-11-30",
+    "kind": "research",
+    "status": "completed",
+    "period": "2020",
+    "title": { "ko": "바이럴 계수를 이용한 OTT 플랫폼 확산 분석", "en": "OTT Platform Diffusion Analysis with the Viral Coefficient" },
+    "summary": { "ko": "바이럴 계수와 통계 자료를 사용해 OTT 플랫폼의 확산을 분석했습니다.", "en": "Analyzed the diffusion of OTT platforms using the viral coefficient and statistical data." },
+    "featured": false,
+    "tags": ["mathematics", "statistics", "data-science", "media"]
+  },
+  {
+    "slug": "ksc2024-two-paper-awards",
+    "sortDate": "2025-01-31",
+    "kind": "award",
+    "status": "completed",
+    "period": "2025",
+    "title": { "ko": "KSC 2024 학부·주니어논문경진대회 우수상 2건", "en": "Two Excellence Awards, KSC 2024 Undergraduate and Junior Paper Competition" },
+    "summary": { "ko": "양자내성암호 최적화 동향과 MAML 성능 분석 논문으로 한국정보과학회장상을 수상했습니다.", "en": "Received two KIISE President's Excellence Awards for papers on PQC optimization trends and MAML performance." },
+    "featured": false,
+    "tags": ["award", "publication", "conference", "pqc", "meta-learning"]
+  },
+  {
+    "slug": "department-video-contest",
+    "sortDate": "2025-01-15",
+    "kind": "award",
+    "status": "completed",
+    "period": "2025",
+    "title": { "ko": "‘우리학과 추구미’ 학과 홍보 영상 공모전 우수상", "en": "Excellence Award, Department Promotion Video Contest" },
+    "summary": { "ko": "학과의 특징과 학생 경험을 표현한 홍보 영상으로 교수학습개발원장상을 수상했습니다.", "en": "Received an excellence award for a video presenting the department and student experience." },
+    "featured": false,
+    "tags": ["award", "media", "content", "kyunghee"]
+  },
+  {
+    "slug": "khu-programming-contest-2024",
+    "sortDate": "2024-11-15",
+    "kind": "award",
+    "status": "completed",
+    "period": "2024",
+    "title": { "ko": "경희대학교 추계 프로그래밍 경시대회 장려상(3위)", "en": "Third Place, Kyung Hee Fall Programming Contest" },
+    "summary": { "ko": "경희대학교 추계 프로그래밍 경시대회에서 장려상(3위)을 수상했습니다.", "en": "Placed third in the Kyung Hee University Fall Programming Contest." },
+    "featured": false,
+    "tags": ["award", "programming-contest", "algorithm", "kyunghee"]
+  },
+  {
+    "slug": "assistive-platform-idea-award",
+    "sortDate": "2023-12-01",
+    "kind": "award",
+    "status": "completed",
+    "period": "2023",
+    "title": { "ko": "보조기기 열린플랫폼 아이디어 공모전 우수상", "en": "Excellence Award, Assistive Devices Open Platform Idea Contest" },
+    "summary": { "ko": "국립재활원 보조기기 아이디어 부문에서 우수상을 수상했습니다.", "en": "Received an excellence award in the National Rehabilitation Center's assistive-device idea category." },
+    "featured": false,
+    "tags": ["award", "assistive-technology", "planning"]
+  },
+  {
+    "slug": "chungcheong-cyber-defense-2022",
+    "sortDate": "2022-10-31",
+    "kind": "award",
+    "status": "completed",
+    "period": "2022",
+    "title": { "ko": "충청권 청소년 사이버방어 경진대회 우수상", "en": "Excellence Award, Chungcheong Youth Cyber Defense Competition" },
+    "summary": { "ko": "청소년 사이버방어 경진대회에서 K-water 사장상을 수상했습니다.", "en": "Received the K-water President's Excellence Award in a youth cyber defense competition." },
+    "featured": false,
+    "tags": ["award", "security", "information-security", "competition"]
+  },
+  {
+    "slug": "kookmin-algorithm-2022",
+    "sortDate": "2022-08-31",
+    "kind": "award",
+    "status": "completed",
+    "period": "2022",
+    "title": { "ko": "제7회 국민대학교 알고리즘대회 장려상", "en": "Encouragement Award, 7th Kookmin University Algorithm Contest" },
+    "summary": { "ko": "알고리즘 프로그래밍 부문에서 국민대학교 총장상을 수상했습니다.", "en": "Received the Kookmin University President's Encouragement Award in algorithmic programming." },
+    "featured": false,
+    "tags": ["award", "algorithm", "programming-contest"]
+  },
+  {
+    "slug": "ict-award-korea-2022",
+    "sortDate": "2022-07-31",
+    "kind": "award",
+    "status": "completed",
+    "period": "2022",
+    "title": { "ko": "제19회 ICT Award Korea 이산수학 부문 장려상", "en": "Encouragement Award, 19th ICT Award Korea in Discrete Mathematics" },
+    "summary": { "ko": "고등부 이산수학 분야에서 장려상을 수상했습니다.", "en": "Received an encouragement award in the high-school discrete mathematics category." },
+    "featured": false,
+    "tags": ["award", "mathematics", "computer-engineering"]
+  },
+  {
+    "slug": "ai-data-essay-2022",
+    "sortDate": "2022-06-30",
+    "kind": "award",
+    "status": "completed",
+    "period": "2022",
+    "title": { "ko": "인공지능 학습용 데이터 구축사업 전국 수기 공모전 장려상(3위)", "en": "Third Place, National AI Training Data Essay Contest" },
+    "summary": { "ko": "인공지능 학습용 데이터 구축 경험을 다룬 수기로 장려상을 수상했습니다.", "en": "Placed third in a national essay contest about AI training-data construction." },
+    "featured": false,
+    "tags": ["award", "ai", "data-science", "content"]
+  },
+  {
+    "slug": "koi-2022-first-round",
+    "sortDate": "2022-05-31",
+    "kind": "award",
+    "status": "completed",
+    "period": "2022",
+    "title": { "ko": "제39회 한국정보올림피아드 1차대회 장려상", "en": "Encouragement Award, 39th Korean Olympiad in Informatics First Round" },
+    "summary": { "ko": "고등부 전체 부문에서 한국정보과학회장상을 수상했습니다.", "en": "Received a KIISE President's encouragement award in the high-school division." },
+    "featured": false,
+    "tags": ["award", "programming-contest", "algorithm"]
+  },
+  {
+    "slug": "ksc2021-junior-paper-award",
+    "sortDate": "2022-02-28",
+    "kind": "award",
+    "status": "completed",
+    "period": "2022",
+    "title": { "ko": "KSC 2021 주니어논문경진대회 우수상", "en": "Excellence Award, KSC 2021 Junior Paper Competition" },
+    "summary": { "ko": "유전 알고리즘 연구 논문으로 한국정보과학회장상을 수상했습니다.", "en": "Received a KIISE President's Excellence Award for research on genetic algorithms." },
+    "featured": false,
+    "tags": ["award", "publication", "genetic-algorithm", "conference"]
+  },
+  {
+    "slug": "youth-academic-staff-award",
+    "sortDate": "2022-01-30",
+    "kind": "award",
+    "status": "completed",
+    "period": "2022",
+    "title": { "ko": "제17회 대한민국청소년학술대회 우수 운영위원 표창", "en": "Outstanding Staff Commendation, 17th Korea Youth Academic Conference" },
+    "summary": { "ko": "컴퓨터공학 세션 운영과 기술 지원 활동으로 우수 운영위원 표창을 받았습니다.", "en": "Recognized as outstanding staff for computer engineering session operations and technical support." },
+    "featured": false,
+    "tags": ["award", "conference", "leadership", "youth"]
+  },
+  {
+    "slug": "creative-math-2021",
+    "sortDate": "2021-12-15",
+    "kind": "award",
+    "status": "completed",
+    "period": "2021",
+    "title": { "ko": "충남 창의수학탐구대회 동상", "en": "Bronze Award, Chungnam Creative Mathematics Inquiry" },
+    "summary": { "ko": "청소년 자기주도 연구 고등부 부문에서 동상을 수상했습니다.", "en": "Received a bronze award in the high-school self-directed research category." },
+    "featured": false,
+    "tags": ["award", "mathematics", "research"]
+  },
+  {
+    "slug": "kcc2021-junior-paper-award",
+    "sortDate": "2021-07-31",
+    "kind": "award",
+    "status": "completed",
+    "period": "2021",
+    "title": { "ko": "KCC 2021 주니어논문경진대회 우수상", "en": "Excellence Award, KCC 2021 Junior Paper Competition" },
+    "summary": { "ko": "개선된 선택 정렬 알고리즘 논문으로 한국정보과학회장상을 수상했습니다.", "en": "Received a KIISE President's Excellence Award for an improved selection sort paper." },
+    "featured": false,
+    "tags": ["award", "publication", "algorithm", "sorting"]
+  },
+  {
+    "slug": "creative-math-2020",
+    "sortDate": "2020-12-15",
+    "kind": "award",
+    "status": "completed",
+    "period": "2020",
+    "title": { "ko": "충남 창의수학탐구대회 금상", "en": "Gold Award, Chungnam Creative Mathematics Inquiry" },
+    "summary": { "ko": "수학 탐구 결과로 충청남도교육감상을 수상했습니다.", "en": "Received the Chungnam Superintendent's Gold Award for mathematics inquiry." },
+    "featured": false,
+    "tags": ["award", "mathematics", "research"]
+  },
+  {
+    "slug": "koi-2019-second-round",
+    "sortDate": "2019-08-31",
+    "kind": "award",
+    "status": "completed",
+    "period": "2019",
+    "title": { "ko": "제36회 한국정보올림피아드 2차대회 장려상", "en": "Encouragement Award, 36th Korean Olympiad in Informatics Second Round" },
+    "summary": { "ko": "중등부 한국정보올림피아드 2차대회에서 장려상을 수상했습니다.", "en": "Received an encouragement award in the middle-school division of the second-round KOI." },
+    "featured": false,
+    "tags": ["award", "programming-contest", "algorithm"]
+  },
+  {
+    "slug": "chungnam-coding-eduthon-2018",
+    "sortDate": "2018-11-30",
+    "kind": "award",
+    "status": "completed",
+    "period": "2018",
+    "title": { "ko": "제1회 충남 영재 코딩 에듀톤 장영실상", "en": "Jang Yeong-sil Award, 1st Chungnam Young Coding Eduthon" },
+    "summary": { "ko": "코딩 에듀톤에서 공주교육대학교 총장상을 수상했습니다.", "en": "Received the Gongju National University of Education President's Award at a coding eduthon." },
+    "featured": false,
+    "tags": ["award", "programming-contest", "education"]
+  },
+  {
+    "slug": "chungnam-informatics-2018",
+    "sortDate": "2018-07-31",
+    "kind": "award",
+    "status": "completed",
+    "period": "2018",
+    "title": { "ko": "제20회 충남정보올림피아드 경시 부문 동상", "en": "Bronze Award, 20th Chungnam Informatics Olympiad" },
+    "summary": { "ko": "정보올림피아드 경시 부문에서 충청남도교육감상을 수상했습니다.", "en": "Received the Chungnam Superintendent's Bronze Award in informatics competition." },
+    "featured": false,
+    "tags": ["award", "programming-contest", "algorithm"]
+  },
+  {
+    "slug": "robot-camp-2016",
+    "sortDate": "2016-08-31",
+    "kind": "award",
+    "status": "completed",
+    "period": "2016",
+    "title": { "ko": "제6회 춘천 로봇캠프 최우수상", "en": "Excellence Award, 6th Chuncheon Robot Camp" },
+    "summary": { "ko": "로봇캠프에서 강원정보문화산업진흥원장 최우수상을 수상했습니다.", "en": "Received an excellence award from the Gangwon IT Promotion Agency at a robot camp." },
+    "featured": false,
+    "tags": ["award", "maker", "software"]
+  },
+  {
+    "slug": "khuthon-operations",
+    "sortDate": "2025-05-10",
+    "kind": "leadership",
+    "status": "completed",
+    "period": "2023 — 2025",
+    "title": { "ko": "KHUTHON 해커톤 기획·운영·진행", "en": "KHUTHON Hackathon Planning and Operations" },
+    "summary": { "ko": "2023년부터 2025년까지 교내 해커톤을 기획하고 행사 진행과 운영을 맡았습니다.", "en": "Planned and hosted university hackathons from 2023 through 2025." },
+    "featured": true,
+    "tags": ["hackathon", "leadership", "planning", "community", "kyunghee"],
+    "links": [
+      { "label": { "ko": "2025 행사 기사", "en": "2025 event article" }, "href": "https://hello.khlug.org/109940" },
+      { "label": { "ko": "2024 행사 기사", "en": "2024 event article" }, "href": "https://hello.khlug.org/105312" }
+    ],
+    "detail": {
+      "context": { "ko": "학생들이 짧은 시간 안에 문제를 정의하고 협업 결과물을 완성할 수 있는 장이 필요했습니다.", "en": "Students needed a setting where they could frame problems and finish collaborative work within a short time." },
+      "role": { "ko": "행사 기획, 운영 준비, 현장 진행과 참가자 커뮤니케이션을 맡았습니다.", "en": "I handled event planning, operations preparation, live hosting, and participant communication." },
+      "outcomes": [{ "ko": "3개 연도 해커톤 운영 경험과 공개 기사 기록", "en": "Three years of hackathon operations documented in public articles" }]
+    }
+  },
+  {
+    "slug": "tedi-programming-classes",
+    "sortDate": "2024-07-07",
+    "kind": "teaching",
+    "status": "completed",
+    "period": "2024.02 — 2024.07",
+    "title": { "ko": "C++·SW대회·한국정보올림피아드 대비 수업", "en": "C++, Software Competition, and KOI Preparation Classes" },
+    "summary": { "ko": "중·고등학생 대상 C++와 알고리즘 수업을 운영했고, 수강생 1명이 KOI 2차대회 장려상을 수상했습니다.", "en": "Taught C++ and algorithms to secondary-school students; one student received a second-round KOI award." },
+    "featured": false,
+    "tags": ["teaching", "mentoring", "cpp", "algorithm", "programming-contest"],
+    "detail": { "outcomes": [
+      { "ko": "SW대회 준비반: 2024.02.04–05.05, 주 1회 2.5시간", "en": "Software competition preparation: Feb–May 2024, 2.5 hours weekly" },
+      { "ko": "C++반: 2024.03.03–05.05, 주 1회 2.5시간", "en": "C++ class: Mar–May 2024, 2.5 hours weekly" },
+      { "ko": "정보올림피아드 본선대비반: 2024.05.19–07.07, 주 1회 2.5시간", "en": "KOI finals preparation: May–Jul 2024, 2.5 hours weekly" },
+      { "ko": "수강생 1명 제41회 KOI 2차대회 중등부 장려상", "en": "One student received a middle-school honorable mention in the 41st KOI Round 2" }
+    ] }
+  },
+  {
+    "slug": "school-career-mentoring",
+    "sortDate": "2024-11-30",
+    "kind": "teaching",
+    "status": "completed",
+    "period": "2023.07 — 2024.11",
+    "title": { "ko": "중·고등학교 진로·전공 멘토링", "en": "Career and Major Mentoring at Secondary Schools" },
+    "summary": { "ko": "15개교에서 총 34시간 동안 컴퓨터공학, 대학생활과 진로를 주제로 멘토링했습니다.", "en": "Delivered 34 hours of mentoring across 15 schools on computer engineering, university life, and careers." },
+    "featured": false,
+    "tags": ["education", "mentoring", "career-education", "computer-engineering"],
+    "detail": { "outcomes": [
+      { "ko": "충남과학고(컴퓨터공학·신약개발, 2024.02.07), 대영고(독서토론, 2024.05.25), 경북소프트웨어고(컴퓨터공학 개론, 2024.11.27)", "en": "Chungnam Science High (computer engineering and drug discovery), Daeyoung High (reading discussion), Gyeongbuk Software High (intro to computer engineering)" },
+      { "ko": "평택고(대입·생활기록부), 구성고(생활기록부·모의고사), 단원고(전공 소개·토의), 안화고·고잔고(전공 쟁점 토론)", "en": "Pyeongtaek, Guseong, Danwon, Anhwa, and Gojan High School mentoring on admissions, school records, and major-related discussion" },
+      { "ko": "봉담고(주제탐구보고서), 판교고(전공 탐색·토론), 독산고(입시·생활기록부·주제탐구), 홍천고(생활기록부·자기주도학습)", "en": "Bongdam, Pangyo, Doksan, and Hongcheon High School mentoring on research reports, major exploration, admissions, and self-directed study" },
+      { "ko": "보평중(대입·고교학점제), 송탄고·호원고(진로 연계 독서 토의)", "en": "Bopyeong Middle (admissions and high-school credit system), Songtan and Howon High (career-linked reading discussion)" }
+    ] }
+  },
+  {
+    "slug": "khlug-tgwing-education",
+    "sortDate": "2025-06-30",
+    "kind": "teaching",
+    "status": "completed",
+    "period": "2023 — 2025",
+    "title": { "ko": "KHLUG·T.G.WinG 전공 교육 프로그램", "en": "KHLUG and T.G.WinG Computing Education Programs" },
+    "summary": { "ko": "정보보호, 알고리즘, Python, Linux 등 전공 주제의 스터디와 교육을 기획·진행했습니다.", "en": "Planned and taught study programs in information security, algorithms, Python, Linux, and related topics." },
+    "featured": false,
+    "tags": ["education", "teaching", "information-security", "algorithm", "python", "linux", "community"],
+    "detail": { "outcomes": [
+      { "ko": "T.G.WinG [2025-2] 알고리즘 원리 이해하기: 3개 분반·9차시", "en": "T.G.WinG Fall 2025 Understanding Algorithm Principles: three sections, nine sessions" },
+      { "ko": "KHLUG&N.E.T [2025-1] 정보보안 10차시 중 7차시, 리눅스 10차시", "en": "KHLUG & N.E.T Spring 2025: seven of ten security sessions and ten Linux sessions" },
+      { "ko": "T.G.WinG 2025 신입생 파이썬 9차시 중 1차시", "en": "T.G.WinG 2025 freshman Python: one of nine sessions" },
+      { "ko": "KHLUG&T.G.WinG [2024-2] 정보보안 9차시, 알고리즘 9차시", "en": "KHLUG & T.G.WinG Fall 2024: nine security and nine algorithm sessions" },
+      { "ko": "KHLUG [2024-1] 알고리즘 10차시, 파이썬 개발 기초 10차시", "en": "KHLUG Spring 2024: ten algorithm and ten introductory Python sessions" },
+      { "ko": "T.G.WinG 2024 신입생 파이썬 10차시 중 2차시·현장멘토 5회", "en": "T.G.WinG 2024 freshman Python: two of ten sessions and five on-site mentoring sessions" },
+      { "ko": "경희대 컴퓨터공학부 2024 모바일 트랙 Dart/Flutter 9차시 보조강사", "en": "Assistant instructor for a nine-session 2024 Dart/Flutter mobile track" },
+      { "ko": "고품 2024-1 베이스 8명 개별 레슨·6차시", "en": "Six individual bass-lesson sessions for eight GOPOOM members" },
+      { "ko": "KHLUG [2023-2] 파이썬 개발 기초 10차시; 엄사중 UPC Scratch 5차시(2018)", "en": "KHLUG Fall 2023 introductory Python, ten sessions; UPC Scratch at Eomsa Middle, five sessions in 2018" }
+    ] }
+  },
+  {
+    "slug": "admissions-mentoring",
+    "sortDate": "2024-12-31",
+    "kind": "teaching",
+    "status": "completed",
+    "period": "2021 — 2024",
+    "title": { "ko": "고등학교·대학교 입시 멘토링", "en": "High School and University Admissions Mentoring" },
+    "summary": { "ko": "과학고와 대학 입시를 준비하는 학생에게 지원 전략과 학교생활 경험을 안내했습니다.", "en": "Mentored students preparing for science-high-school and university admissions." },
+    "featured": false,
+    "tags": ["education", "mentoring", "admissions", "youth"],
+    "detail": { "outcomes": [
+      { "ko": "대학 입시: 2024 한국에너지공과대 1명, 2023 POSTECH 1명·아주대 1명 합격 지원", "en": "University admissions: supported one KENTECH admit in 2024 and one POSTECH and one Ajou admit in 2023" },
+      { "ko": "고교 입시: 2024 한국과학영재학교 1차 1명, 2023 강원과학고 1명, 2022·2021 충남과학고 각 1명 합격 지원", "en": "High-school admissions: supported one KSA first-round pass in 2024, one Gangwon Science High admit in 2023, and one Chungnam Science High admit in each of 2022 and 2021" },
+      { "ko": "전형·대학·학과 상담, 자기소개서·면접·특기자료·생활기록부 피드백", "en": "Advised on admission tracks, institutions and majors, essays, interviews, portfolios, and school records" },
+      { "ko": "개인 입시 결과: 경희대·DGIST·아주대 최종, 건국대 1차", "en": "Personal admissions: final admission to KHU, DGIST, and Ajou; first-round pass at Konkuk" }
+    ] }
+  },
+  {
+    "slug": "science-coding-booths",
+    "sortDate": "2023-12-31",
+    "kind": "teaching",
+    "status": "completed",
+    "period": "2017 — 2023",
+    "title": { "ko": "과학·수학·코딩 체험부스 운영", "en": "Science, Mathematics, and Coding Experience Booths" },
+    "summary": { "ko": "사이버과학축제, 과학카페, 수학축전 등에서 유전알고리즘·피지컬컴퓨팅·스마트팜 체험을 운영했습니다.", "en": "Ran hands-on activities in genetic algorithms, physical computing, and smart farms at science and mathematics festivals." },
+    "featured": false,
+    "tags": ["education", "science-communication", "maker", "ai", "arduino"],
+    "detail": { "outcomes": [
+      { "ko": "2023 용인사이버과학축제 12시간 — VR·AR·햅틱스·모션인식", "en": "2023 Yongin Cyber Science Festival, 12h — VR, AR, haptics, motion recognition" },
+      { "ko": "2022·2021 사이언스 카페 각 3시간 — 오조봇 비주얼 코딩", "en": "2022 and 2021 Science Café, 3h each — Ozobot visual coding" },
+      { "ko": "2022 과학기기설명회 4시간 — 유전 알고리즘", "en": "2022 Science Equipment Fair, 4h — genetic algorithms" },
+      { "ko": "2022 과학문화 확산주간 8시간 — 생태환경배움터 온실", "en": "2022 Science Culture Week, 8h — greenhouse ecology learning" },
+      { "ko": "2019 충남과학창의축전 8시간 — 피지컬컴퓨팅 체험", "en": "2019 Chungnam Science Creativity Festival, 8h — physical computing" },
+      { "ko": "2019 엄사수학축제 5시간 — 다빈치 돔", "en": "2019 Eomsa Math Festival, 5h — Da Vinci dome" },
+      { "ko": "2018 엄사수학축제 5시간 — 확률 실험실", "en": "2018 Eomsa Math Festival, 5h — probability laboratory" },
+      { "ko": "2017 엄사수학축제 5시간 — 다빈치 다리", "en": "2017 Eomsa Math Festival, 5h — Da Vinci bridge" }
+    ] }
+  },
+  {
+    "slug": "gangwon-youth-olympics-tech",
+    "sortDate": "2024-02-03",
+    "kind": "volunteer",
+    "status": "completed",
+    "period": "2023.11 — 2024.02",
+    "title": { "ko": "2024 강원 동계청소년올림픽 테크놀로지 봉사", "en": "Technology Volunteer, Gangwon 2024 Winter Youth Olympics" },
+    "summary": { "ko": "강릉 컬링센터에서 네트워크·프린터·전원 기술지원과 영어 기술 통역을 담당했습니다.", "en": "Provided network, printer, and power support and English technical interpretation at the Gangneung Curling Centre." },
+    "featured": false,
+    "tags": ["volunteer", "international-event", "technical-support", "network"]
+  },
+  {
+    "slug": "scienceon-supporters",
+    "sortDate": "2024-11-30",
+    "kind": "experience",
+    "status": "completed",
+    "period": "2023 · 2024",
+    "title": { "ko": "KISTI ScienceON 서포터즈 ‘사이언스오너’", "en": "KISTI ScienceON Supporter, Science Owner" },
+    "summary": { "ko": "ScienceON 활용 사례와 과학기술정보를 카드뉴스와 블로그 콘텐츠로 소개했습니다.", "en": "Introduced ScienceON use cases and science and technology information through card news and blog content." },
+    "featured": false,
+    "tags": ["science-communication", "content", "media"]
+  },
+  {
+    "slug": "bob-13-program",
+    "sortDate": "2025-03-28",
+    "kind": "experience",
+    "status": "completed",
+    "period": "2024.07 — 2025.03",
+    "title": { "ko": "차세대 보안리더 양성 프로그램 BoB 13기", "en": "Best of the Best 13, Security Product Development Track" },
+    "summary": { "ko": "보안제품개발 트랙에서 저사양 위성 양자내성암호 모듈 프로젝트를 수행했습니다.", "en": "Completed the security product development track with a constrained-satellite PQC module project." },
+    "featured": false,
+    "tags": ["security", "information-security", "pqc", "education"]
+  },
+  {
+    "slug": "susc-programs",
+    "sortDate": "2024-03-24",
+    "kind": "leadership",
+    "status": "completed",
+    "period": "2023.04 — 2024.03",
+    "title": { "ko": "SUSC 대학 연합 IT 교류 프로그램 운영", "en": "SUSC Inter-university IT Programs" },
+    "summary": { "ko": "운영진과 콘텐츠기획팀장으로 여름·겨울 교육 프로그램과 대학 간 IT 교류를 운영했습니다.", "en": "Led content planning and operations for summer and winter programs and inter-university IT exchange." },
+    "featured": false,
+    "tags": ["leadership", "planning", "community", "education", "content"]
+  },
+  {
+    "slug": "postech-security-camp",
+    "sortDate": "2021-01-22",
+    "kind": "competition",
+    "status": "completed",
+    "period": "2021.01",
+    "title": { "ko": "POSTECH 온라인 해킹·보안 캠프 CTF 팀 3위", "en": "Third Place Team, POSTECH Online Hacking and Security Camp CTF" },
+    "summary": { "ko": "POSTECH 온라인 해킹·보안 캠프에 참가해 팀 CTF 3위를 기록했습니다.", "en": "Participated in POSTECH's online hacking and security camp and placed third in the team CTF." },
+    "featured": false,
+    "tags": ["security", "competition", "education", "information-security"]
+  },
+  {
+    "slug": "information-processing-industrial-engineer",
+    "sortDate": "2025-09-12",
+    "kind": "certificate",
+    "status": "completed",
+    "period": "2025.09",
+    "title": { "ko": "정보처리산업기사", "en": "Industrial Engineer Information Processing" },
+    "summary": { "ko": "한국산업인력공단 국가기술자격을 취득했습니다.", "en": "Earned the national technical qualification administered by HRDKorea." },
+    "featured": false,
+    "tags": ["certificate", "computer-engineering", "software"]
+  },
+  {
+    "slug": "information-processing-technician",
+    "sortDate": "2021-10-01",
+    "kind": "certificate",
+    "status": "completed",
+    "period": "2021.10",
+    "title": { "ko": "정보처리기능사", "en": "Craftsman Information Processing" },
+    "summary": { "ko": "한국산업인력공단 국가기술자격을 취득했습니다.", "en": "Earned the national technical qualification administered by HRDKorea." },
+    "featured": false,
+    "tags": ["certificate", "computer-engineering", "software"]
+  },
+  {
+    "slug": "linux-master-level-2",
+    "sortDate": "2026-04-03",
+    "kind": "certificate",
+    "status": "completed",
+    "period": "2026.04",
+    "title": { "ko": "리눅스마스터 2급", "en": "Linux Master Level 2" },
+    "summary": { "ko": "한국정보통신진흥협회 리눅스 활용 자격을 취득했습니다.", "en": "Earned the Linux qualification administered by KAIT." },
+    "featured": false,
+    "tags": ["certificate", "linux", "computer-engineering"]
+  },
+  {
+    "slug": "video-information-manager",
+    "sortDate": "2026-06-30",
+    "kind": "certificate",
+    "status": "completed",
+    "period": "2026.06",
+    "title": { "ko": "영상정보관리사", "en": "Video Information Manager" },
+    "summary": { "ko": "영상정보관리 자격을 취득했으며 유효기간은 2031년 6월 29일까지입니다.", "en": "Earned the Video Information Manager qualification, valid through June 29, 2031." },
+    "featured": false,
+    "tags": ["certificate", "media", "technical-support"]
+  },
+  {
+    "slug": "office-digital-certifications",
+    "sortDate": "2026-05-25",
+    "kind": "certificate",
+    "status": "completed",
+    "period": "2015 — 2026",
+    "title": { "ko": "사무·디지털 리터러시 자격군", "en": "Office and Digital Literacy Certifications" },
+    "summary": { "ko": "워드프로세서, 비서 1급, ITQ OA Master, 디지털정보활용능력 고급·공인강사 등 관련 자격을 취득했습니다.", "en": "Earned certifications including Word Processor, Secretary Level 1, ITQ OA Master, and advanced digital literacy and instructor credentials." },
+    "featured": false,
+    "tags": ["certificate", "office-software", "digital-literacy"],
+    "detail": { "outcomes": [
+      { "ko": "비서 1급, 워드프로세서", "en": "Secretary Level 1 and Word Processor" },
+      { "ko": "GTQ 그래픽기술자격 2급(2017.01.13)", "en": "GTQ Graphic Technology Level 2, Jan 13, 2017" },
+      { "ko": "ITQ 한글 A(2016.07.28), 엑셀 A(2015.12.31), 파워포인트 B(2015.07.02), 인터넷 A(2016.06.02)", "en": "ITQ Hangul A, Excel A, PowerPoint B, and Internet A" },
+      { "ko": "ITQ OA Master(2016.08.08)", "en": "ITQ OA Master, Aug 8, 2016" },
+      { "ko": "DIAT 고급: 인터넷정보검색·스프레드시트·워드프로세서(2026.03.06), 정보통신상식(03.20), 멀티미디어제작·프레젠테이션(05.15)", "en": "DIAT Advanced in Internet Search, Spreadsheets, Word Processing, ICT Knowledge, Multimedia Production, and Presentation" },
+      { "ko": "DIAT 공인강사(2026.05.25)", "en": "DIAT Certified Instructor, May 25, 2026" }
+    ] }
+  },
+  {
+    "slug": "korean-history-level-2",
+    "sortDate": "2026-02-20",
+    "kind": "certificate",
+    "status": "completed",
+    "period": "2026.02",
+    "title": { "ko": "한국사능력검정시험 2급", "en": "Korean History Proficiency Test Level 2" },
+    "summary": { "ko": "국사편찬위원회 한국사능력검정시험 2급을 취득했습니다.", "en": "Earned Level 2 of the Korean History Proficiency Test." },
+    "featured": false,
+    "tags": ["certificate", "history"]
+  },
+  {
+    "slug": "unmanned-aircraft-pilot-class-4",
+    "sortDate": "2025-09-01",
+    "kind": "certificate",
+    "status": "completed",
+    "period": "2025.09",
+    "title": { "ko": "무인동력비행장치 4종 조종자", "en": "Class 4 Unmanned Aircraft Pilot" },
+    "summary": { "ko": "한국교통안전공단 무인비행장치 조종 자격을 취득했습니다.", "en": "Earned the Class 4 unmanned aircraft pilot qualification from KOTSA." },
+    "featured": false,
+    "tags": ["certificate", "drone", "satellite"]
+  },
+  {
+    "slug": "khu-major-fair-media",
+    "sortDate": "2025-05-23",
+    "kind": "media",
+    "status": "published",
+    "period": "2025.05",
+    "title": { "ko": "경희대학교 전공알림단 관련 대학주보 기사", "en": "Kyung Hee University Newspaper Article on the Major Fair" },
+    "summary": { "ko": "전공알림단 활동과 전공 소개에 관한 대학주보 기사에 소개되었습니다.", "en": "Featured in the university newspaper for major-fair and major-introduction activities." },
+    "featured": false,
+    "tags": ["media", "interview", "career-education", "kyunghee"],
+    "links": [{ "label": { "ko": "기사 보기", "en": "Read article" }, "href": "https://media.khu.ac.kr/bbs/board.php?bo_table=univJubo&wr_id=34455" }]
+  },
+  {
+    "slug": "khu-council-website-media",
+    "sortDate": "2025-01-07",
+    "kind": "media",
+    "status": "published",
+    "period": "2025.01",
+    "title": { "ko": "경희대학교 총학생회 홈페이지 관련 대학주보 기사", "en": "University Newspaper Article on the Student Council Website" },
+    "summary": { "ko": "총학생회 홈페이지와 학생사회 디지털 소통에 관한 기사에 소개되었습니다.", "en": "Featured in an article about the student council website and digital communication in student society." },
+    "featured": false,
+    "tags": ["media", "software", "student-governance", "kyunghee"],
+    "links": [{ "label": { "ko": "기사 보기", "en": "Read article" }, "href": "https://media.khu.ac.kr/bbs/board.php?bo_table=univJubo&wr_id=34091" }]
+  },
+  {
+    "slug": "khu-interview-tips",
+    "sortDate": "2024-11-01",
+    "kind": "media",
+    "status": "published",
+    "period": "2024.11",
+    "title": { "ko": "경희대학교 면접 팁 인터뷰", "en": "Kyung Hee University Interview Tips" },
+    "summary": { "ko": "대학 입시 면접 경험과 준비 팁을 짧은 인터뷰로 공유했습니다.", "en": "Shared university admissions interview experience and preparation tips in a short-form interview." },
+    "featured": false,
+    "tags": ["media", "interview", "admissions", "mentoring"],
+    "links": [{ "label": { "ko": "YouTube Shorts", "en": "YouTube Shorts" }, "href": "https://youtube.com/shorts/n33g-3zdyck?feature=shared" }]
+  },
+  {
+    "slug": "e4ds-khlug-interview",
+    "sortDate": "2024-08-01",
+    "kind": "media",
+    "status": "published",
+    "period": "2024.08",
+    "title": { "ko": "e4ds KHLUG 인터뷰", "en": "e4ds Interview on KHLUG" },
+    "summary": { "ko": "교내 IT 동아리 KHLUG의 활동과 운영 경험을 인터뷰로 소개했습니다.", "en": "Discussed the activities and operations of KHLUG, a university IT club, in an e4ds interview." },
+    "featured": false,
+    "tags": ["media", "interview", "community", "education"],
+    "links": [{ "label": { "ko": "인터뷰 보기", "en": "Read interview" }, "href": "https://www.e4ds.com/sub_view.asp?ch=2&t=0&idx=19494" }]
+  },
+  {
+    "slug": "scienceon-media",
+    "sortDate": "2024-04-02",
+    "kind": "media",
+    "status": "published",
+    "period": "2023 — 2024",
+    "title": { "ko": "ScienceON 활용사례 콘텐츠·인터뷰", "en": "ScienceON Use-case Content and Interviews" },
+    "summary": { "ko": "KISTI 블로그·활용사례집·YouTube에서 ScienceON 활용 경험을 소개했습니다.", "en": "Shared ScienceON use cases through the KISTI blog, casebook, and YouTube." },
+    "featured": false,
+    "tags": ["media", "interview", "science-communication", "content"],
+    "links": [
+      { "label": { "ko": "KISTI 블로그", "en": "KISTI blog" }, "href": "https://blog.naver.com/withkisti/223403043897" },
+      { "label": { "ko": "YouTube", "en": "YouTube" }, "href": "https://www.youtube.com/watch?v=sQVkNowcIuI" }
+    ]
+  },
+  {
+    "slug": "music-platform-releases",
+    "sortDate": "2022-12-31",
+    "kind": "experience",
+    "status": "completed",
+    "period": "2022",
+    "title": { "ko": "네이버 그라폴리오 음악 ‘Debut’·‘Discovery’ 공개", "en": "Music Releases: Debut and Discovery on Naver Grafolio" },
+    "summary": { "ko": "직접 만든 음악 두 곡을 네이버 그라폴리오에 공개했습니다.", "en": "Released two original music tracks on Naver Grafolio." },
+    "featured": false,
+    "tags": ["music", "content", "media"]
+  },
+  {
+    "slug": "thousand-person-flashmob",
+    "sortDate": "2023-05-14",
+    "kind": "experience",
+    "status": "completed",
+    "period": "2023.05",
+    "title": { "ko": "천인음악회 플래시몹 베이스 연주", "en": "Bass Performance in a 1,000-person Flash Mob" },
+    "summary": { "ko": "천인음악회 플래시몹에서 베이스 연주자로 참여했습니다.", "en": "Performed bass in a thousand-person music flash mob." },
+    "featured": false,
+    "tags": ["music", "community", "experience"]
+  },
+  {
+    "slug": "ten-kilometer-marathon",
+    "sortDate": "2024-10-05",
+    "kind": "experience",
+    "status": "completed",
+    "period": "2024.10.05",
+    "title": { "ko": "10km 마라톤 완주", "en": "10 km Marathon Finish" },
+    "summary": { "ko": "10km 마라톤을 1시간 1분 24초에 완주했습니다.", "en": "Completed a 10 km marathon in 1:01:24." },
+    "featured": false,
+    "tags": ["sport", "marathon", "experience"]
+  }
+]

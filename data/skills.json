@@ -1,0 +1,24 @@
+{
+  "groups": [
+    {
+      "title": { "ko": "프로그래밍", "en": "Programming" },
+      "description": { "ko": "연구 구현과 자동화에 활용한 언어", "en": "Languages used for research implementation and automation" },
+      "items": ["Python", "C / C++", "TypeScript / JavaScript", "HTML / CSS", "Kotlin / Android Java", "MATLAB", "SQL"]
+    },
+    {
+      "title": { "ko": "시스템·보안", "en": "Systems & Security" },
+      "description": { "ko": "시스템을 관찰하고 실험하기 위한 기반", "en": "Foundations for observing and testing systems" },
+      "items": ["Linux", "Git", "Network Analysis", "Cryptography", "Raspberry Pi", "Arduino / Physical Computing"]
+    },
+    {
+      "title": { "ko": "연구", "en": "Research" },
+      "description": { "ko": "재현 가능한 분석과 설명을 위한 방법", "en": "Methods for reproducible analysis and communication" },
+      "items": ["Benchmarking", "Statistical Modeling", "Experiment Design", "Technical Writing"]
+    },
+    {
+      "title": { "ko": "교육·운영", "en": "Education & Operations" },
+      "description": { "ko": "사람과 조직이 함께 학습하도록 만드는 도구", "en": "Tools for helping people and organizations learn together" },
+      "items": ["Curriculum Design", "Mentoring", "Event Operations", "Content Planning", "Bass Guitar", "Composition / Sound Design"]
+    }
+  ]
+}

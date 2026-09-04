@@ -1,0 +1,156 @@
+[
+  {
+    "id": "kyunghee-university",
+    "period": "2023.03 — Present",
+    "order": 10,
+    "kind": "education",
+    "title": { "ko": "컴퓨터공학·응용수학 학사과정", "en": "B.E. Computer Engineering · B.S. Applied Mathematics" },
+    "organization": { "ko": "경희대학교", "en": "Kyung Hee University" },
+    "description": {
+      "ko": "컴퓨터공학을 중심으로 응용수학을 함께 공부하고 있습니다. 이 항목은 현재 학적을 나타내며, 진행 중 연구·프로젝트 기록과는 분리했습니다.",
+      "en": "Studying computer engineering alongside applied mathematics. This item represents current enrollment and is separate from in-progress research or project records."
+    },
+    "status": "ongoing",
+    "tags": ["computer-engineering", "applied-mathematics", "degree", "kyunghee"]
+  },
+  {
+    "id": "multimedia-associate",
+    "period": "2025.12 — 2026.08",
+    "order": 20,
+    "kind": "education",
+    "title": { "ko": "멀티미디어학 전문학사", "en": "Associate Degree in Multimedia" },
+    "organization": { "ko": "학점은행제", "en": "Academic Credit Bank System" },
+    "description": {
+      "ko": "멀티미디어 분야의 별도 전문학사 과정을 이수했습니다.",
+      "en": "Completed a separate associate-degree curriculum in multimedia."
+    },
+    "status": "completed",
+    "tags": ["multimedia", "degree"]
+  },
+  {
+    "id": "chungnam-science-high-school",
+    "period": "2020.03 — 2023.02",
+    "order": 30,
+    "kind": "education",
+    "title": { "ko": "과학·정보과정", "en": "Science and Informatics Program" },
+    "organization": { "ko": "충남과학고등학교", "en": "Chungnam Science High School" },
+    "description": {
+      "ko": "정보과학, 수학, 자연과학을 중심으로 연구·탐구 활동을 수행했습니다.",
+      "en": "Conducted research and inquiry activities centered on informatics, mathematics, and natural science."
+    },
+    "status": "completed",
+    "tags": ["education", "computer-engineering", "mathematics"]
+  },
+  {
+    "id": "army-cyber-operations",
+    "period": "2025.07 — 2027.01",
+    "order": 35,
+    "kind": "career",
+    "title": { "ko": "사이버작전 분야 복무", "en": "Service in Cyber Operations" },
+    "organization": { "ko": "대한민국 육군", "en": "Republic of Korea Army" },
+    "description": {
+      "ko": "사이버작전센터 기술통제팀과 사이버작전여단 202작전대에서 사이버·보안 기술 연구와 관련 과업을 수행합니다.",
+      "en": "Conducting cyber and security research tasks with the Cyber Operations Center and the 202nd Operations Unit of the Cyber Operations Brigade."
+    },
+    "status": "ongoing",
+    "tags": ["military", "cybersecurity", "security", "technical-support"]
+  },
+  {
+    "id": "academic-division-chair",
+    "period": "2023.12 — 2025.07",
+    "order": 40,
+    "kind": "career",
+    "title": { "ko": "학술분과 비상대책위원장·위원장", "en": "Chair, Academic Division" },
+    "organization": { "ko": "경희대학교 중앙동아리연합회", "en": "Kyung Hee University Club Union" },
+    "description": {
+      "ko": "학술동아리 교류·교육 사업을 기획하고, 분과 운영과 제도 개선을 담당했습니다.",
+      "en": "Planned academic-club exchange and education programs while leading division operations and policy improvements."
+    },
+    "status": "completed",
+    "tags": ["leadership", "planning", "student-governance", "education"]
+  },
+  {
+    "id": "flow-education",
+    "period": "2024.02 — 2024.06",
+    "order": 50,
+    "kind": "career",
+    "title": { "ko": "교육 조교·강사", "en": "Teaching Assistant · Instructor" },
+    "organization": { "ko": "플로우교육 TEdI 코딩학원", "en": "Flow Education · TEdI Coding Academy" },
+    "description": {
+      "ko": "C++와 소프트웨어 대회·한국정보올림피아드 대비 수업을 운영했습니다.",
+      "en": "Taught C++ and prepared students for software competitions and the Korean Olympiad in Informatics."
+    },
+    "status": "completed",
+    "tags": ["education", "teaching", "cpp", "programming-contest"]
+  },
+  {
+    "id": "youth-olympics-volunteer",
+    "period": "2023.11 — 2024.02",
+    "order": 60,
+    "kind": "career",
+    "title": { "ko": "테크놀로지 자원봉사자", "en": "Technology Volunteer" },
+    "organization": { "ko": "2024 강원 동계청소년올림픽", "en": "Gangwon 2024 Winter Youth Olympic Games" },
+    "description": {
+      "ko": "강릉 컬링센터에서 네트워크·프린터·전원 기술지원과 영어 기술 통역을 맡았습니다.",
+      "en": "Provided network, printer, and power support and English technical interpretation at the Gangneung Curling Centre."
+    },
+    "status": "completed",
+    "tags": ["volunteer", "international-event", "technical-support", "network"]
+  },
+  {
+    "id": "susc-staff",
+    "period": "2023.04 — 2024.03",
+    "order": 70,
+    "kind": "career",
+    "title": { "ko": "운영진·콘텐츠기획팀장", "en": "Staff · Content Planning Lead" },
+    "organization": { "ko": "대학생 연합 IT 동아리 SUSC", "en": "SUSC Inter-university IT Community" },
+    "description": {
+      "ko": "대학 간 IT 교류 프로그램과 교육 콘텐츠를 기획·운영했습니다.",
+      "en": "Planned and operated inter-university IT exchange programs and learning content."
+    },
+    "status": "completed",
+    "tags": ["community", "planning", "content", "leadership"]
+  },
+  {
+    "id": "scienceon-supporter",
+    "period": "2023.07 — 2024.11",
+    "order": 80,
+    "kind": "career",
+    "title": { "ko": "ScienceON 서포터즈", "en": "ScienceON Supporter" },
+    "organization": { "ko": "한국과학기술정보연구원", "en": "Korea Institute of Science and Technology Information" },
+    "description": {
+      "ko": "ScienceON 활용 사례와 과학기술정보 콘텐츠를 카드뉴스·블로그로 제작했습니다.",
+      "en": "Created card news and blog content about ScienceON use cases and science and technology information."
+    },
+    "status": "completed",
+    "tags": ["science-communication", "content", "media"]
+  },
+  {
+    "id": "omok-association",
+    "period": "2022.11 — 2025.09",
+    "order": 90,
+    "kind": "career",
+    "title": { "ko": "사무국 운영위원", "en": "Secretariat Steering Committee Member" },
+    "organization": { "ko": "사단법인 대한오목협회", "en": "Korea Omok Association" },
+    "description": {
+      "ko": "협회 사무국의 대회·조직 운영을 지원했습니다.",
+      "en": "Supported tournament and organizational operations within the association secretariat."
+    },
+    "status": "completed",
+    "tags": ["omok", "community", "planning"]
+  },
+  {
+    "id": "youth-academic-conference",
+    "period": "2021.11 — 2022.01",
+    "order": 100,
+    "kind": "career",
+    "title": { "ko": "청소년 운영위원", "en": "Youth Staff Member" },
+    "organization": { "ko": "제17회 대한민국청소년학술대회", "en": "17th Korea Youth Academic Conference" },
+    "description": {
+      "ko": "컴퓨터공학 세션의 연구 피드백·질의응답·홍보를 맡고 시스템 취약점을 제보했습니다.",
+      "en": "Supported research feedback, Q&A, and publicity for the computer engineering session and reported a system vulnerability."
+    },
+    "status": "completed",
+    "tags": ["youth", "conference", "technical-support", "security"]
+  }
+]
