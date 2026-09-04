@@ -126,20 +126,6 @@
     "tags": ["science-communication", "content", "media"]
   },
   {
-    "id": "omok-association",
-    "period": "2022.11 — 2025.09",
-    "order": 90,
-    "kind": "career",
-    "title": { "ko": "사무국 운영위원", "en": "Secretariat Steering Committee Member" },
-    "organization": { "ko": "사단법인 대한오목협회", "en": "Korea Omok Association" },
-    "description": {
-      "ko": "협회 사무국의 대회·조직 운영을 지원했습니다.",
-      "en": "Supported tournament and organizational operations within the association secretariat."
-    },
-    "status": "completed",
-    "tags": ["omok", "community", "planning"]
-  },
-  {
     "id": "youth-academic-conference",
     "period": "2021.11 — 2022.01",
     "order": 100,
