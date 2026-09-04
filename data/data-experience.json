@@ -16,8 +16,7 @@
     "featured": false,
     "tags": [
       "omok",
-      "mind-sport",
-      "ranking"
+      "mind-sport"
     ]
   },
   {
@@ -572,7 +571,7 @@
     },
     "featured": false,
     "tags": [
-      "sport",
+      "sports",
       "marathon",
       "experience"
     ]
@@ -639,27 +638,6 @@
         }
       ]
     }
-  },
-  {
-    "slug": "unissued-high-school-merit-award",
-    "sortDate": "2023-02-28",
-    "kind": "experience",
-    "status": "completed",
-    "period": "2023",
-    "title": {
-      "ko": "충남과학고 공로상 발급 누락 기록",
-      "en": "Unissued Chungnam Science High School Merit Award"
-    },
-    "summary": {
-      "ko": "공로상 대상자였으나 발급이 누락되어 실제 상장을 받지 못한 기록입니다.",
-      "en": "Was eligible for a merit award, but it was omitted from issuance and no certificate was received."
-    },
-    "featured": false,
-    "tags": [
-      "high-school",
-      "record",
-      "leadership"
-    ]
   },
   {
     "slug": "ktls-student-activity",

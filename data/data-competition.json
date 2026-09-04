@@ -21,8 +21,7 @@
       "ai",
       "reversing",
       "pwn",
-      "web",
-      "finalist"
+      "web"
     ]
   },
   {
@@ -44,8 +43,7 @@
       "competition",
       "ctf",
       "cybersecurity",
-      "military",
-      "team"
+      "military"
     ]
   },
   {
@@ -66,8 +64,7 @@
     "tags": [
       "competition",
       "algorithm",
-      "competitive-programming",
-      "finalist"
+      "competitive-programming"
     ]
   },
   {
@@ -89,7 +86,6 @@
       "competition",
       "algorithm",
       "competitive-programming",
-      "icpc",
       "award"
     ]
   },
@@ -111,8 +107,7 @@
     "tags": [
       "competition",
       "algorithm",
-      "competitive-programming",
-      "ucpc"
+      "competitive-programming"
     ]
   },
   {
@@ -133,8 +128,7 @@
     "tags": [
       "competition",
       "ctf",
-      "cybersecurity",
-      "team"
+      "cybersecurity"
     ]
   },
   {
@@ -218,8 +212,7 @@
     "tags": [
       "competition",
       "algorithm",
-      "competitive-programming",
-      "finalist"
+      "competitive-programming"
     ]
   },
   {
@@ -262,8 +255,7 @@
     "tags": [
       "competition",
       "algorithm",
-      "competitive-programming",
-      "ucpc"
+      "competitive-programming"
     ]
   },
   {
@@ -322,8 +314,7 @@
     "tags": [
       "competition",
       "algorithm",
-      "competitive-programming",
-      "nypc"
+      "competitive-programming"
     ]
   },
   {
@@ -344,8 +335,7 @@
     "tags": [
       "competition",
       "algorithm",
-      "competitive-programming",
-      "nypc"
+      "competitive-programming"
     ]
   },
   {
@@ -366,9 +356,7 @@
     "tags": [
       "competition",
       "algorithm",
-      "competitive-programming",
-      "nypc",
-      "finalist"
+      "competitive-programming"
     ]
   },
   {
@@ -389,8 +377,7 @@
     "tags": [
       "competition",
       "ctf",
-      "cybersecurity",
-      "team"
+      "cybersecurity"
     ]
   },
   {
@@ -411,8 +398,7 @@
     "tags": [
       "competition",
       "ctf",
-      "cybersecurity",
-      "team"
+      "cybersecurity"
     ],
     "links": [
       {
@@ -493,8 +479,7 @@
     "tags": [
       "competition",
       "algorithm",
-      "competitive-programming",
-      "nypc"
+      "competitive-programming"
     ]
   },
   {
@@ -559,8 +544,7 @@
     "tags": [
       "competition",
       "algorithm",
-      "competitive-programming",
-      "nypc"
+      "competitive-programming"
     ]
   },
   {
@@ -624,8 +608,7 @@
     "tags": [
       "competition",
       "algorithm",
-      "competitive-programming",
-      "nypc"
+      "competitive-programming"
     ]
   },
   {
@@ -648,8 +631,7 @@
       "algorithm",
       "competitive-programming",
       "koi",
-      "award",
-      "finalist"
+      "award"
     ]
   }
 ]

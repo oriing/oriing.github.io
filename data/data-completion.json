@@ -17,8 +17,7 @@
     "tags": [
       "education",
       "coursework",
-      "multimedia",
-      "degree"
+      "multimedia"
     ],
     "detail": {
       "outcomes": [
@@ -516,8 +515,7 @@
       "course",
       "openstack",
       "cloud",
-      "infrastructure",
-      "susc"
+      "infrastructure"
     ]
   },
   {
@@ -539,28 +537,6 @@
       "course",
       "korean-language",
       "education"
-    ]
-  },
-  {
-    "slug": "youth-olympics-basic-training",
-    "sortDate": "2023-11-15",
-    "kind": "completion",
-    "status": "completed",
-    "period": "2023.11.15 · 4h",
-    "title": {
-      "ko": "강원 동계청소년올림픽 기본교육",
-      "en": "Gangwon Winter Youth Olympics Basic Training"
-    },
-    "summary": {
-      "ko": "대회 자원봉사자 기본교육을 4시간 이수했습니다.",
-      "en": "Completed four hours of basic volunteer training for the Games."
-    },
-    "featured": false,
-    "tags": [
-      "course",
-      "volunteer",
-      "international-event",
-      "training"
     ]
   },
   {
@@ -602,8 +578,7 @@
     "featured": false,
     "tags": [
       "course",
-      "career",
-      "susc"
+      "career"
     ]
   },
   {
@@ -808,8 +783,7 @@
     "tags": [
       "course",
       "cpp",
-      "programming",
-      "sololearn"
+      "programming"
     ]
   },
   {
@@ -960,8 +934,7 @@
     "tags": [
       "course",
       "c",
-      "programming",
-      "sololearn"
+      "programming"
     ]
   },
   {
@@ -982,8 +955,7 @@
     "tags": [
       "course",
       "html",
-      "web",
-      "sololearn"
+      "web"
     ]
   },
   {
@@ -1025,8 +997,7 @@
     "featured": false,
     "tags": [
       "program",
-      "leadership",
-      "camp"
+      "leadership"
     ]
   },
   {
@@ -1046,8 +1017,7 @@
     "featured": false,
     "tags": [
       "program",
-      "leadership",
-      "self-development"
+      "leadership"
     ]
   },
   {

@@ -60,7 +60,7 @@
     },
     "featured": false,
     "tags": [
-      "registered-software",
+      "invention",
       "pqc",
       "embedded",
       "avr",
@@ -116,8 +116,7 @@
       "project",
       "raspberry-pi",
       "iot",
-      "hardware",
-      "team"
+      "hardware"
     ]
   },
   {
@@ -208,7 +207,6 @@
       "python",
       "biology",
       "ai",
-      "team",
       "high-school"
     ]
   },
@@ -233,8 +231,7 @@
       "physics",
       "html",
       "javascript",
-      "android",
-      "team"
+      "android"
     ]
   },
   {
