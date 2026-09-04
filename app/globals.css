@@ -420,7 +420,7 @@ button { color: inherit; }
 
 .tag-list li:lang(en) {
   position: relative;
-  top: 0.06em;
+  top: 0.04em;
 }
 
 .work-card-link {
