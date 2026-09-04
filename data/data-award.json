@@ -1,13 +1,13 @@
 [
   {
-    "slug": "khlug-excellent-club-four-times",
-    "sortDate": "2026-02-28",
+    "slug": "khlug-excellent-club",
+    "sortDate": "2026-08-31",
     "kind": "award",
     "status": "completed",
-    "period": "2023-2 — 2025-2",
+    "period": "2023-2 — 2026-1",
     "title": {
-      "ko": "쿠러그 활동우수동아리 4회 선정",
-      "en": "KHLUG Selected as an Excellent Club Four Times"
+      "ko": "쿠러그 활동우수동아리 5회 선정",
+      "en": "KHLUG Selected as an Excellent Club Five Times"
     },
     "summary": {
       "ko": "공동대표 재임 중 네 차례 활동우수동아리로 선정되었습니다.",
@@ -18,14 +18,14 @@
       "award",
       "khlug",
       "leadership",
-      "community",
+      "club",
       "kyunghee"
     ],
     "detail": {
       "outcomes": [
         {
-          "ko": "2023-2 3위, 2024-1 선정, 2025-1 2위, 2025-2 4위(2024-2 미선정)",
-          "en": "3rd in Fall 2023, selected in Spring 2024, 2nd in Spring 2025, and 4th in Fall 2025; not selected in Fall 2024"
+          "ko": "2023-2 3위, 2024-1 선정, 2025-1 2위, 2025-2 4위, 2026-1 3위",
+          "en": "3rd in Fall 2023, selected in Spring 2024, 2nd in Spring 2025, 4th in Fall 2025, 3th in Spring 2026"
         }
       ]
     }
