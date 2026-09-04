@@ -20,9 +20,14 @@ export function WorkCard({ work, compact = false }: { work: WorkRecord; compact?
       </div>
 
       <ul className="tag-list" aria-label={locale === "ko" ? `${title} 태그` : `${title} tags`}>
-        {work.tags.slice(0, compact ? 4 : 7).map((tag) => (
-          <li key={tag}>#{tagLabel(tag, locale)}</li>
-        ))}
+        {work.tags.slice(0, compact ? 4 : 7).map((tag) => {
+          const label = tagLabel(tag, locale);
+          return (
+            <li key={tag} lang={/[가-힣]/.test(label) ? "ko" : "en"}>
+              #{label}
+            </li>
+          );
+        })}
       </ul>
 
       <a className="work-card-link" href={`#/work/${work.slug}`} aria-label={locale === "ko" ? `${title} 상세 보기` : `View details for ${title}`}>

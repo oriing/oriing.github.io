@@ -10,20 +10,19 @@ export function HomePage() {
   const careerPreview = timeline.filter((item) => item.kind === "career").slice(0, 3);
   const identityPoints = mainData.current.length > 0 ? mainData.current : mainData.identity.roles;
   const copy = locale === "ko" ? {
-    skip: "본문으로 건너뛰기", profile: "프로필 자세히 보기", focusLabel: "서로 다른 작업을 잇는 세 개의 축", focusTitle: "경계를 넘나들며, 문제를 끝까지 파고듭니다.",
-    focusCta: "전체 작업에서 연구축 따라가기", workLabel: "대표 기록", workTitle: "기록으로 남긴 연구와 경험", workBody: "메인에는 대표 작업만 남겼습니다. 전체 연구·프로젝트·교육·활동은 아카이브에서 검색하거나 태그로 모아볼 수 있습니다.", workCta: "전체 아카이브 검색하기",
-    journeyLabel: "배움에서 운영까지", journeyTitle: "학습을 조직하고 경험으로 남긴 시간", journeyBody: "학위, 연구, 교육과 학생자치 경험은 서로 떨어진 목록이 아니라 문제를 보는 관점을 넓혀 온 흐름입니다.", journeyCta: "학위·경력 타임라인 보기",
+    profile: "프로필 자세히 보기", focusLabel: "서로 다른 작업을 잇는 축", focusTitle: "경계를 넘나들며, 질문에 답하고, 문제를 끝까지 파고듭니다.",
+    focusCta: "전체 작업에서 연구축 따라가기", workLabel: "대표 활동", workTitle: "기록으로 남긴 연구와 경험", workBody: "메인에는 대표 작업만 남겼습니다. 전체 연구·프로젝트·교육·활동은 아카이브에서 검색하거나 태그로 모아볼 수 있습니다.", workCta: "전체 아카이브 검색하기",
+    journeyLabel: "배움에서 운영까지", journeyTitle: "학습을 조직하고 경험으로 남긴 시간", journeyBody: "학위, 연구, 교육, 리더 경험은 열거된 목록이 아니라 문제를 보는 관점을 넓혀 온 흐름입니다.", journeyCta: "학위·경력 타임라인 보기",
     profileTitle: "학위와 경력의 흐름", profileBody: "학력, 경력, 기술 기반과 작업 원칙을 타임라인으로 확인합니다.", archiveTitle: "모든 경험을 태그로 탐색", archiveBody: "분야와 형식이 다른 연구·프로젝트·교육·활동을 검색하고 연결합니다.", contactTitle: "함께 이야기할 주제", contactBody: "연구·프로젝트·교육 제안과 대화를 위한 연락 채널을 확인합니다.",
   } : {
-    skip: "Skip to content", profile: "View full profile", focusLabel: "Three axes connecting different kinds of work", focusTitle: "Crossing boundaries, staying with the question.",
-    focusCta: "Follow these axes through the archive", workLabel: "Representative records", workTitle: "Research and experiences, made tangible", workBody: "Only selected work appears here. Search the archive or combine tags to explore every research, project, teaching, and activity record.", workCta: "Search the full archive",
-    journeyLabel: "From learning to operating", journeyTitle: "Organizing learning and turning it into experience", journeyBody: "Degrees, research, teaching, and student governance form one path that has expanded how I frame and solve problems.", journeyCta: "View the education and career timeline",
+    profile: "View full profile", focusLabel: "Axes connecting different kinds of work", focusTitle: "Crossing boundaries, staying with the question.",
+    focusCta: "Follow these axes through the archive", workLabel: "Representative activities", workTitle: "Research and experiences, made tangible", workBody: "Only selected work appears here. Search the archive or combine tags to explore every research, project, teaching, and activity record.", workCta: "Search the full archive",
+    journeyLabel: "From learning to operating", journeyTitle: "Organizing learning and turning it into experience", journeyBody: "Degrees, research, teaching, and leader experience form one path that has expanded how I frame and solve problems.", journeyCta: "View the education and career timeline",
     profileTitle: "Education and career", profileBody: "Review education, work, technical foundations, and working principles as a timeline.", archiveTitle: "Explore every record by tag", archiveBody: "Search and connect research, projects, teaching, and activities across fields and formats.", contactTitle: "Start a conversation", contactBody: "Find contact channels for research, project, and education proposals.",
   };
 
   return (
     <>
-      <a className="skip-link" href="#main-content">{copy.skip}</a>
       <SiteHeader current="main" />
       <main className="home-deck" id="main-content">
         <section className="home-slide hero-slide" id="intro">

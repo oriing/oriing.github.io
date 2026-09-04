@@ -14,7 +14,7 @@ export function ProfilePage() {
   const { locale, t } = useLocale();
   const education = timeline.filter((item) => item.kind === "education");
   const career = timeline.filter((item) => item.kind === "career");
-  const copy = locale === "ko" ? { skip: "본문으로 건너뛰기", overline: "학력 · 경력 · 기반", title: "무엇을 공부했고,\n어떤 자리에서 일했는가", degree: "학위와 학습의 흐름", career: "역할과 경험의 흐름", skills: "도구보다 문제에 맞는 조합", principles: "연구하고 설명하는 방식", cta: "이 원칙이 적용된 작업 보기", major: "전공", additional: "추가전공", focus: "관심 분야" } : { skip: "Skip to content", overline: "Education · Career · Foundation", title: "What I studied,\nand where I contributed", degree: "Education and learning", career: "Roles and experience", skills: "Choosing tools around the problem", principles: "How I research and explain", cta: "See these principles in practice", major: "Major", additional: "Additional major", focus: "Interests" };
+  const copy = locale === "ko" ? { overline: "학력 · 경력 · 기반", title: "무엇을 공부했고,\n어떤 자리에서 일했는가", degree: "학위와 학습의 흐름", career: "역할과 경험의 흐름", skills: "도구보다 문제에 맞는 조합", principles: "연구하고 설명하는 방식", cta: "이 원칙이 적용된 작업 보기", major: "전공", additional: "추가전공", focus: "관심 분야" } : { overline: "Education · Career · Foundation", title: "What I studied,\nand where I contributed", degree: "Education and learning", career: "Roles and experience", skills: "Choosing tools around the problem", principles: "How I research and explain", cta: "See these principles in practice", major: "Major", additional: "Additional major", focus: "Interests" };
 
   return <>
     <a className="skip-link" href="#main-content">{copy.skip}</a><SiteHeader current="profile" />
