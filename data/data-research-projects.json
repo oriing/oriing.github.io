@@ -1,6 +1,6 @@
 [
   {
-    "slug": "hs-meta-learning-body-head-2022", "sortDate": "2022-12-31", "kind": "research", "status": "published", "period": "2022",
+    "slug": "hs-meta-learning-body-head-2022", "sortDate": "2022-12-31", "kind": "research", "status": "completed", "period": "2022",
     "title": { "ko": "메타러닝 모델의 Body·Head 파라미터 업데이트 성능 분석", "en": "Body and Head Parameter Update Analysis in Meta-learning" },
     "summary": { "ko": "메타러닝 모델의 body와 head 업데이트 방식에 따른 성능 차이를 분석해 교내 학술지에 정리했습니다.", "en": "Analyzed performance differences among body and head update strategies in a meta-learning model for a school journal." },
     "featured": false, "tags": ["research", "meta-learning", "machine-learning", "ai", "high-school"]

@@ -2,11 +2,6 @@ import mainJson from "@/data/main.json";
 import skillsJson from "@/data/skills.json";
 import tagsJson from "@/data/tags.json";
 import timelineJson from "@/data/timeline.json";
-import worksJson from "@/data/works.json";
-import notionActivitiesJson from "@/data/notion-activities.json";
-import notionCompetitionsAwardsJson from "@/data/notion-competitions-awards.json";
-import notionLearningJson from "@/data/notion-learning.json";
-import notionResearchProjectsJson from "@/data/notion-research-projects.json";
 import type { Locale, LocalizedText } from "@/lib/i18n";
 
 export type LinkItem = { label: LocalizedText; href: string };
@@ -51,8 +46,8 @@ export type TimelineItem = {
   tags: string[];
 };
 
-export type WorkKind = "research" | "project" | "teaching" | "leadership" | "experience" | "competition" | "award" | "certificate" | "media" | "volunteer";
-export type WorkStatus = "ongoing" | "completed" | "presented" | "published";
+export type WorkKind = "research" | "project" | "teaching" | "leadership" | "experience" | "competition" | "award" | "certificate" | "media" | "volunteer" | "completion";
+export type WorkStatus = "ongoing" | "completed";
 
 export type WorkDetail = {
   context?: LocalizedText;
@@ -83,13 +78,20 @@ export type SkillGroup = { title: LocalizedText; description: LocalizedText; ite
 
 export const mainData = mainJson as MainData;
 export const timeline = [...(timelineJson as TimelineItem[])].sort((a, b) => a.order - b.order);
+
+const dataModules = import.meta.glob<{ default: WorkRecord[] }>(
+  "../data/data-*.json",
+  { eager: true }
+);
+
+const dataWorks = Object.values(dataModules).flatMap(
+  (module) => module.default
+);
+
 export const works = [
-  ...(worksJson as WorkRecord[]),
-  ...(notionActivitiesJson as WorkRecord[]),
-  ...(notionCompetitionsAwardsJson as WorkRecord[]),
-  ...(notionLearningJson as WorkRecord[]),
-  ...(notionResearchProjectsJson as WorkRecord[]),
+  ...dataWorks,
 ].sort((a, b) => b.sortDate.localeCompare(a.sortDate));
+
 export const skillGroups = (skillsJson as { groups: SkillGroup[] }).groups;
 const tagDictionary = tagsJson as Record<string, LocalizedText>;
 
@@ -108,13 +110,12 @@ const kindLabels: Record<WorkKind, LocalizedText> = {
   certificate: { ko: "자격", en: "Certification" },
   media: { ko: "미디어", en: "Media" },
   volunteer: { ko: "봉사", en: "Volunteer" },
+  completion : { ko: "수료", en: "Completion" },
 };
 
 const statusLabels: Record<WorkStatus, LocalizedText> = {
   ongoing: { ko: "진행 중", en: "In progress" },
   completed: { ko: "완료", en: "Completed" },
-  presented: { ko: "발표", en: "Presented" },
-  published: { ko: "게재", en: "Published" },
 };
 
 export function tagLabel(tag: string, locale: Locale) {
