@@ -57,6 +57,7 @@ export function HomePage() {
             ))}
           </div>
           <a className="section-cta" href="#/archive">{copy.focusCta} <ArrowRight aria-hidden="true" size={18} /></a>
+          <p className="closing-line">{t(mainData.quotes[0])}</p>
         </section>
 
         <section className="home-slide selected-slide" id="selected">
@@ -64,6 +65,7 @@ export function HomePage() {
           <header className="slide-heading slide-heading-row"><div><p className="slide-label">{copy.workLabel}</p><h2>{copy.workTitle}</h2></div><p>{copy.workBody}</p></header>
           <div className="featured-grid">{featuredWorks.map((work) => <WorkCard compact key={work.slug} work={work} />)}</div>
           <a className="section-cta" href="#/archive">{copy.workCta} <Search aria-hidden="true" size={17} /></a>
+          <p className="closing-line">{t(mainData.quotes[1])}</p>
         </section>
 
         <section className="home-slide journey-slide" id="journey">
@@ -73,6 +75,7 @@ export function HomePage() {
             {careerPreview.map((item, index) => <article key={item.id}><span className="timeline-dot" aria-hidden="true" /><p className="timeline-preview-index">{String(index + 1).padStart(2, "0")}</p><p className="timeline-preview-period">{item.period}</p><h3>{t(item.title)}</h3><p className="timeline-preview-org">{t(item.organization)}</p><p>{t(item.description)}</p></article>)}
           </div>
           <a className="section-cta" href="#/profile">{copy.journeyCta} <ArrowRight aria-hidden="true" size={18} /></a>
+          <p className="closing-line">{t(mainData.quotes[2])}</p>
         </section>
 
         <section className="home-slide more-slide" id="more">
@@ -83,7 +86,6 @@ export function HomePage() {
             <a href="#/archive"><Search aria-hidden="true" size={28} strokeWidth={1.4} /><span>02 / Archive</span><h2>{copy.archiveTitle}</h2><p>{copy.archiveBody}</p><ArrowRight aria-hidden="true" size={24} /></a>
             <a href="#/contact"><Mail aria-hidden="true" size={28} strokeWidth={1.4} /><span>03 / Contact</span><h2>{copy.contactTitle}</h2><p>{copy.contactBody}</p><ArrowRight aria-hidden="true" size={24} /></a>
           </div>
-          <p className="closing-line">{t(mainData.quotes[2])}</p>
         </section>
       </main>
       <SiteFooter />
