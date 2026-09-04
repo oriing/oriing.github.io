@@ -6,14 +6,31 @@ import { tagLabel, works, type WorkKind, type WorkStatus, workKindLabel, workSta
 
 type KindFilter = WorkKind | "all";
 type StatusFilter = WorkStatus | "all";
+const KIND_ORDER: WorkKind[] = [
+  "research",
+  "project",
+  "teaching",
+  "leadership",
+  "experience",
+  "award",
+  "certificate",
+  "competition",
+  "volunteer",
+  "completion",
+  "media",
+];
 
-function shuffleTags() {
-  const values = Array.from(new Set(works.flatMap((work) => work.tags)));
-  for (let index = values.length - 1; index > 0; index -= 1) {
-    const target = Math.floor(Math.random() * (index + 1));
-    [values[index], values[target]] = [values[target], values[index]];
-  }
-  return values;
+function getTagsByRecency() {
+  const seen = new Set<string>();
+
+  return [...works]
+    .sort((a, b) => b.sortDate.localeCompare(a.sortDate))
+    .flatMap((work) => work.tags)
+    .filter((tag) => {
+      if (seen.has(tag)) return false;
+      seen.add(tag);
+      return true;
+    });
 }
 
 export function ArchiveExplorer({ initialTag = "" }: { initialTag?: string }) {
@@ -25,10 +42,14 @@ export function ArchiveExplorer({ initialTag = "" }: { initialTag?: string }) {
   const [selectedTags, setSelectedTags] = useState<string[]>(validInitialTag ? [validInitialTag] : []);
   const [showAllTags, setShowAllTags] = useState(false);
   const [visibleLimit, setVisibleLimit] = useState(24);
-  const [tags] = useState(shuffleTags);
+  const [tags] = useState(getTagsByRecency);
   const deferredQuery = useDeferredValue(query.trim().toLocaleLowerCase(locale));
 
-  const availableKinds = useMemo(() => Array.from(new Set(works.map((work) => work.kind))), []);
+  const availableKinds = useMemo(() =>
+    KIND_ORDER.filter((item) =>
+      works.some((work) => work.kind === item)
+    ),
+  []);
   const availableStatuses = useMemo(() => (["ongoing", "published", "presented", "completed"] as WorkStatus[]).filter((item) => works.some((work) => work.status === item)), []);
 
   const filteredWorks = useMemo(() => works.filter((work) => {
