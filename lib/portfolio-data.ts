@@ -100,17 +100,50 @@ export const featuredWorks = mainData.featuredSlugs
   .filter((work): work is WorkRecord => Boolean(work));
 
 const kindLabels: Record<WorkKind, LocalizedText> = {
-  research: { ko: "연구", en: "Research" },
-  project: { ko: "프로젝트", en: "Project" },
-  teaching: { ko: "교육", en: "Teaching" },
-  leadership: { ko: "리더십", en: "Leadership" },
-  experience: { ko: "활동", en: "Experience" },
-  competition: { ko: "대회", en: "Competition" },
-  award: { ko: "수상", en: "Award" },
-  certificate: { ko: "자격", en: "Certification" },
-  media: { ko: "미디어", en: "Media" },
-  volunteer: { ko: "봉사", en: "Volunteer" },
-  completion : { ko: "수료", en: "Completion" },
+  research: {
+    ko: "연구",
+    en: "Research",
+  },
+  project: {
+    ko: "프로젝트",
+    en: "Project",
+  },
+  teaching: {
+    ko: "교육·강의",
+    en: "Teaching",
+  },
+  leadership: {
+    ko: "리더십·운영",
+    en: "Leadership",
+  },
+  experience: {
+    ko: "기타 활동",
+    en: "Other Experience",
+  },
+  competition: {
+    ko: "대회",
+    en: "Competition",
+  },
+  award: {
+    ko: "수상",
+    en: "Award",
+  },
+  certificate: {
+    ko: "자격·면허",
+    en: "Certificates & Licenses",
+  },
+  media: {
+    ko: "미디어·인터뷰",
+    en: "Media & Interviews",
+  },
+  volunteer: {
+    ko: "봉사",
+    en: "Volunteer",
+  },
+  completion: {
+    ko: "교육 이수",
+    en: "Coursework & Training",
+  },
 };
 
 const statusLabels: Record<WorkStatus, LocalizedText> = {

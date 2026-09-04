@@ -13,7 +13,7 @@
     "location": { "ko": "대한민국", "en": "Republic of Korea" },
     "profileImage": {
       "src": "./images/profile.webp",
-      "alt": { "ko": "박정식의 오리 프로필 이미지", "en": "Jeongsik Park's duck profile avatar" }
+      "alt": { "ko": "프로필 사진", "en": "profile picture" }
     }
   },
   "motto": {
@@ -68,10 +68,10 @@
   ],
   "quotes": [
     {
-      "ko": "어리석은 질문 하나에 철저히 답하려다 보면 꽤 흥미로운 곳에 닿게 된다.",
+      "ko": "질문에 제대로 답하려고 노력하다 보면 꽤나 흥미로운 곳에 도달할 때도 있다.",
       "en": "But it turns out that trying to thoroughly answer a stupid question can take you to some pretty interesting places."
     },
-    { "ko": "사용자를 알라. 그는 당신이 아니다.", "en": "Know thy user, for he is not thee." },
+    { "ko": "사용자를 알라. 사용자는 당신이 아니다.", "en": "Know thy user, for he is not thee." },
     {
       "ko": "경험을 현명하게 사용한다면 낭비되는 시간은 없다.",
       "en": "Nothing is a waste of time if you use the experience wisely."
@@ -87,13 +87,13 @@
   "contact": {
     "title": { "ko": "함께 이야기할 주제가 있다면", "en": "If there is something worth exploring together" },
     "description": {
-      "ko": "연구 협업, 기술 프로젝트, 컴퓨터공학 교육과 커뮤니티에 관한 제안과 대화를 기다립니다.",
-      "en": "I welcome conversations about research collaboration, technical projects, computing education, and communities."
+      "ko": "연구 협업, 기술 프로젝트, 교육과 컴퓨터공학에 관한 제안과 대화를 기다립니다.",
+      "en": "I welcome conversations about research collaboration, technical projects, education, and computing."
     },
     "topics": [
       { "ko": "연구 협업과 학술 교류", "en": "Research collaboration" },
       { "ko": "보안·데이터·시스템 프로젝트", "en": "Security, data, and systems projects" },
-      { "ko": "컴퓨터공학 교육과 강연", "en": "Computing education and talks" }
+      { "ko": "교육과 강연", "en": "Education and talks" }
     ]
   },
   "updated": "2026.09"
