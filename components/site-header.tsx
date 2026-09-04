@@ -12,7 +12,7 @@ export function SiteHeader({ current }: { current?: "main" | "profile" | "archiv
   return (
     <header className="site-header">
       <a className="wordmark" href="#/" aria-label={locale === "ko" ? "메인 페이지로 이동" : "Go to the main page"}>
-        <img className="wordmark-image" src="public/favicon.webp" />
+        <img className="wordmark-image" src="favicon.webp" />
         <span className="wordmark-copy"><strong>Jeongsik Park</strong><small>Portfolio</small></span>
       </a>
       <div className="header-actions">
