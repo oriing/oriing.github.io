@@ -5,16 +5,16 @@ import { useLocale } from "@/lib/i18n";
 import { mainData, skillGroups, tagLabel, timeline, type TimelineItem } from "@/lib/portfolio-data";
 
 const principles = [
-  { index: "01", title: { ko: "말하기 전에 만들어 보기", en: "Build before claiming" }, body: { ko: "직접 구현하고 실패 조건을 관찰한 뒤, 확인한 범위만 주장합니다.", en: "I implement first, observe failure conditions, and limit claims to what the evidence supports." } },
-  { index: "02", title: { ko: "맥락 안에서 측정하기", en: "Measure systems in context" }, body: { ko: "알고리즘의 수치만 보지 않고 실제 자원·통신·조직 환경을 함께 봅니다.", en: "I consider resources, communication, and organizational constraints—not only algorithmic metrics." } },
-  { index: "03", title: { ko: "깊이를 잃지 않고 설명하기", en: "Explain without flattening" }, body: { ko: "전문용어를 없애기보다 이해에 필요한 발판과 순서를 설계합니다.", en: "Rather than erasing technical language, I design the sequence and scaffolding needed to understand it." } },
+  { index: "01", title: { ko: "말하기 전에 만들어 보기", en: "Build before claiming" }, body: { ko: "직접 구현하고 실패 조건을 관찰한 뒤, 타당한 범위만 주장합니다.", en: "I implement first, observe failure conditions, and limit claims to what the evidence supports." } },
+  { index: "02", title: { ko: "맥락 안에서 측정하기", en: "Measure systems in context" }, body: { ko: "수치 뒤에 숨은 실제 자원·통신·조직 환경을 함께 봅니다.", en: "I consider resources, communication, and organizational constraints — beyond the numbers." } },
+  { index: "03", title: { ko: "깊이를 잃지 않고 설명하기", en: "Explain without flattening" }, body: { ko: "전문용어에 집중하기보다 이해에 필요한 발판과 순서를 설계합니다.", en: "Less jargon, more structure. I design the sequence and scaffolding needed to understand it." } },
 ];
 
 export function ProfilePage() {
   const { locale, t } = useLocale();
   const education = timeline.filter((item) => item.kind === "education");
   const career = timeline.filter((item) => item.kind === "career");
-  const copy = locale === "ko" ? { overline: "학력 · 경력 · 기반", title: "무엇을 공부했고,\n어떤 자리에서 일했는가", degree: "학위와 학습의 흐름", career: "역할과 경험의 흐름", skills: "도구보다 문제에 맞는 조합", principles: "연구하고 설명하는 방식", cta: "이 원칙이 적용된 작업 보기", major: "전공", additional: "추가전공", focus: "관심 분야" } : { overline: "Education · Career · Foundation", title: "What I studied,\nand where I contributed", degree: "Education and learning", career: "Roles and experience", skills: "Choosing tools around the problem", principles: "How I research and explain", cta: "See these principles in practice", major: "Major", additional: "Additional major", focus: "Interests" };
+  const copy = locale === "ko" ? { overline: "학력 · 경력 · 기반", title: "무엇을 공부했고,\n어떤 자리에서 일했는가", degree: "학위와 학습의 흐름", career: "역할과 경험의 흐름", skills: "도구보다 문제에 맞는 조합", principles: "연구하고 설명하는 방식", cta: "이 원칙이 적용된 작업 보기", major: "주전공", additional: "부전공", focus: "관심 분야" } : { overline: "Education · Career · Foundation", title: "What I studied,\nand where I contributed", degree: "Education and learning", career: "Roles and experience", skills: "Choosing tools around the problem", principles: "How I research and explain", cta: "See these principles in practice", major: "Major", additional: "Minor", focus: "Interests" };
 
   return <>
     <a className="skip-link" href="#main-content">{copy.skip}</a><SiteHeader current="profile" />
