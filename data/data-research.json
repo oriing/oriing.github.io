@@ -1,0 +1,764 @@
+[
+  {
+    "slug": "pqc-polynomial-multiplication",
+    "sortDate": "2026-06-30",
+    "kind": "research",
+    "status": "completed",
+    "period": "2026",
+    "title": {
+      "ko": "격자 기반 암호의 다항식 곱셈 최적화 기법 비교 분석",
+      "en": "Comparative Analysis of Polynomial Multiplication Optimization Techniques for Lattice-based Cryptography"
+    },
+    "summary": {
+      "ko": "격자 기반 암호에서 사용되는 다항식 곱셈 최적화 기법을 비교한 한국정보보호학회 하계학술대회 논문입니다.",
+      "en": "A KIISC summer conference paper comparing polynomial multiplication optimization techniques used in lattice-based cryptography."
+    },
+    "featured": false,
+    "tags": [
+      "publication",
+      "conference",
+      "cryptography",
+      "pqc",
+      "lattice-crypto",
+      "optimization"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "한국정보보호학회 하계학술대회 논문집 36권 1호, 1254–1256쪽",
+          "en": "Published in the KIISC Summer Conference Proceedings, Vol. 36 No. 1, pp. 1254–1256"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "hybrid-pqc-army-c4i",
+    "sortDate": "2026-06-15",
+    "kind": "research",
+    "status": "completed",
+    "period": "2026",
+    "title": {
+      "ko": "육군 전술 C4I 환경을 위한 하이브리드 양자내성암호 키 교환 설계",
+      "en": "Design of Hybrid Post-quantum Cryptographic Key Exchange for Army Tactical C4I Environments"
+    },
+    "summary": {
+      "ko": "전술 C4I 환경의 제약을 고려한 하이브리드 양자내성암호 키 교환 구조를 제안한 군사과학기술학회 논문입니다.",
+      "en": "A KIMST conference paper proposing a hybrid post-quantum key exchange for constrained tactical C4I environments."
+    },
+    "featured": false,
+    "tags": [
+      "publication",
+      "conference",
+      "pqc",
+      "military-technology",
+      "network",
+      "security"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "2026 한국군사과학기술학회 종합학술대회 논문집, 2015–2016쪽",
+          "en": "Published in the 2026 KIMST Annual Conference Proceedings, pp. 2015–2016"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "satellite-security-analysis-tool",
+    "sortDate": "2025-07-31",
+    "kind": "research",
+    "status": "completed",
+    "period": "2025",
+    "title": {
+      "ko": "위성 통신 보안 분석을 위한 오픈소스 기반 자동화 도구",
+      "en": "An Open-source Tool for Satellite Communication Security Analysis"
+    },
+    "summary": {
+      "ko": "TLE 궤도정보와 주파수·변조 자료를 결합해 관측 지점별 위성 가시성과 잠재적 보안 위협을 분석했습니다.",
+      "en": "Combined TLE orbital data with frequency and modulation data to analyze satellite visibility and potential security threats by observation point."
+    },
+    "featured": true,
+    "tags": [
+      "publication",
+      "conference",
+      "satellite",
+      "satellite-communication",
+      "security",
+      "automation",
+      "python"
+    ],
+    "detail": {
+      "context": {
+        "ko": "위성 통신 보안 분석에는 궤도·가시성·주파수·변조처럼 흩어진 정보가 동시에 필요했습니다.",
+        "en": "Satellite communication security analysis requires orbital, visibility, frequency, and modulation data that are usually scattered across sources."
+      },
+      "role": {
+        "ko": "연구 질문 설정부터 TLE 처리, 가시성 계산, 데이터 수집과 결과 정리까지 분석 파이프라인을 구현했습니다.",
+        "en": "I framed the research question and implemented the pipeline from TLE processing and visibility calculation to data collection and reporting."
+      },
+      "approach": [
+        {
+          "ko": "SGP4와 TLE로 관측점 기준 위성 가시성을 계산",
+          "en": "Calculated observer-specific satellite visibility using SGP4 and TLE data"
+        },
+        {
+          "ko": "공개된 주파수·변조 정보를 위성 식별자와 결합",
+          "en": "Matched public frequency and modulation data to satellite identifiers"
+        },
+        {
+          "ko": "결과를 재검토 가능한 표 형식으로 자동 출력",
+          "en": "Exported results automatically in a reviewable tabular format"
+        }
+      ],
+      "outcomes": [
+        {
+          "ko": "한국정보보호학회 하계학술대회 논문집 35권 1호, 900–902쪽",
+          "en": "Published in the KIISC Summer Conference Proceedings, Vol. 35 No. 1, pp. 900–902"
+        }
+      ],
+      "takeaways": [
+        {
+          "ko": "보안 평가는 암호만이 아니라 물리·통신 환경의 제약을 함께 모델링해야 합니다.",
+          "en": "Security evaluation must model physical and communication constraints, not cryptography alone."
+        }
+      ]
+    }
+  },
+  {
+    "slug": "bob-low-resource-satellite-pqc",
+    "sortDate": "2025-03-28",
+    "kind": "research",
+    "status": "completed",
+    "period": "2024.07 — 2025.03",
+    "title": {
+      "ko": "저성능 MCU 기반 위성 양자내성암호 모듈",
+      "en": "Post-quantum Cryptography Module for Satellites on Low-performance MCUs"
+    },
+    "summary": {
+      "ko": "차세대 보안리더 양성 프로그램에서 저사양 위성 환경을 위한 양자내성암호 모듈을 연구·개발했습니다.",
+      "en": "Researched and developed a post-quantum cryptography module for constrained satellite environments in the Best of the Best program."
+    },
+    "featured": false,
+    "tags": [
+      "security",
+      "pqc",
+      "embedded",
+      "satellite",
+      "cryptography"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "BoB 13기 프로젝트 결과보고서 645–664쪽",
+          "en": "Documented in the BoB 13 project report, pp. 645–664"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "pqc-low-spec-trends",
+    "sortDate": "2024-12-20",
+    "kind": "research",
+    "status": "completed",
+    "period": "2024",
+    "title": {
+      "ko": "저사양 환경의 양자내성암호 적용을 위한 최적화 동향",
+      "en": "Optimization Trends for Applying Post-quantum Cryptography in Constrained Environments"
+    },
+    "summary": {
+      "ko": "제한된 메모리와 연산 성능을 가진 환경에서 양자내성암호를 적용하기 위한 최적화 연구를 정리했습니다.",
+      "en": "Reviewed optimization research for applying post-quantum cryptography in memory- and compute-constrained environments."
+    },
+    "featured": false,
+    "tags": [
+      "publication",
+      "conference",
+      "pqc",
+      "embedded",
+      "optimization"
+    ],
+    "links": [
+      {
+        "label": {
+          "ko": "RISS 논문",
+          "en": "Paper on RISS"
+        },
+        "href": "https://www.riss.kr/link?id=A109533307"
+      }
+    ]
+  },
+  {
+    "slug": "maml-body-head-analysis",
+    "sortDate": "2024-12-19",
+    "kind": "research",
+    "status": "completed",
+    "period": "2024",
+    "title": {
+      "ko": "MAML의 Body·Head 업데이트 성능 분석",
+      "en": "Performance Analysis of Body and Head Updates in MAML"
+    },
+    "summary": {
+      "ko": "메타러닝 MAML에서 모델의 body와 head 업데이트 방식에 따른 성능을 비교했습니다.",
+      "en": "Compared performance under different body and head update strategies in MAML meta-learning."
+    },
+    "featured": false,
+    "tags": [
+      "publication",
+      "conference",
+      "meta-learning",
+      "machine-learning",
+      "ai"
+    ],
+    "links": [
+      {
+        "label": {
+          "ko": "RISS 논문",
+          "en": "Paper on RISS"
+        },
+        "href": "https://www.riss.kr/link?id=A109533134"
+      }
+    ]
+  },
+  {
+    "slug": "smaug-memory-optimization",
+    "sortDate": "2024-11-30",
+    "kind": "research",
+    "status": "completed",
+    "period": "2024",
+    "title": {
+      "ko": "8KB 칩셋에서 SMAUG-T의 메모리 최적화",
+      "en": "Memory Optimization of SMAUG-T on an 8KB Chipset"
+    },
+    "summary": {
+      "ko": "메모리 8KB 수준의 제한된 칩셋에서 격자 기반 양자내성암호 SMAUG-T를 구동하기 위한 최적화를 연구했습니다.",
+      "en": "Studied optimizations for running the lattice-based PQC scheme SMAUG-T on a chipset with roughly 8KB of memory."
+    },
+    "featured": true,
+    "tags": [
+      "publication",
+      "conference",
+      "pqc",
+      "embedded",
+      "optimization",
+      "lattice-crypto"
+    ],
+    "detail": {
+      "context": {
+        "ko": "일반 PC 환경에서 동작하는 암호 구현은 소형 위성·센서 노드의 메모리 제약을 그대로 통과하지 못합니다.",
+        "en": "Cryptographic implementations that work on general-purpose computers do not automatically fit the memory limits of small satellites or sensor nodes."
+      },
+      "role": {
+        "ko": "메모리 사용 구조를 분석하고 제한된 칩셋에서의 구현 가능성을 확인했습니다.",
+        "en": "I analyzed memory use and tested feasibility on a constrained chipset."
+      },
+      "outcomes": [
+        {
+          "ko": "한국정보보호학회 동계학술대회 논문집 34권 2호, 123–126쪽",
+          "en": "Published in the KIISC Winter Conference Proceedings, Vol. 34 No. 2, pp. 123–126"
+        }
+      ],
+      "takeaways": [
+        {
+          "ko": "알고리즘의 안전성뿐 아니라 메모리 배치와 구현 세부가 실제 적용 가능성을 결정합니다.",
+          "en": "Practical viability depends on memory layout and implementation details as well as algorithmic security."
+        }
+      ]
+    }
+  },
+  {
+    "slug": "adaptive-partition-sort",
+    "sortDate": "2023-06-30",
+    "kind": "research",
+    "status": "completed",
+    "period": "2023",
+    "title": {
+      "ko": "적응형 분할 정렬 알고리즘",
+      "en": "Adaptive Partition Sort"
+    },
+    "summary": {
+      "ko": "입력 데이터의 특성에 따라 분할 전략을 조정하는 정렬 알고리즘을 제안하고 성능을 분석했습니다.",
+      "en": "Proposed and evaluated a sorting algorithm that adapts its partition strategy to the input."
+    },
+    "featured": true,
+    "tags": [
+      "publication",
+      "conference",
+      "algorithm",
+      "sorting",
+      "cpp"
+    ],
+    "links": [
+      {
+        "label": {
+          "ko": "RISS 논문",
+          "en": "Paper on RISS"
+        },
+        "href": "http://www.riss.kr/link?id=A108709557"
+      }
+    ],
+    "detail": {
+      "context": {
+        "ko": "정렬 알고리즘의 성능은 입력 분포와 분할 방식에 크게 영향을 받습니다.",
+        "en": "Sorting performance is strongly affected by input distribution and partition strategy."
+      },
+      "role": {
+        "ko": "알고리즘을 설계·구현하고 비교 실험을 수행해 논문으로 정리했습니다.",
+        "en": "I designed and implemented the algorithm, ran comparative experiments, and wrote the paper."
+      },
+      "outcomes": [
+        {
+          "ko": "KCC 2023 논문집 2019–2021쪽",
+          "en": "Published in the KCC 2023 Proceedings, pp. 2019–2021"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "hs-meta-learning-body-head-2022",
+    "sortDate": "2022-12-31",
+    "kind": "research",
+    "status": "completed",
+    "period": "2022",
+    "title": {
+      "ko": "메타러닝 모델의 Body·Head 파라미터 업데이트 성능 분석",
+      "en": "Body and Head Parameter Update Analysis in Meta-learning"
+    },
+    "summary": {
+      "ko": "메타러닝 모델의 body와 head 업데이트 방식에 따른 성능 차이를 분석해 교내 학술지에 정리했습니다.",
+      "en": "Analyzed performance differences among body and head update strategies in a meta-learning model for a school journal."
+    },
+    "featured": false,
+    "tags": [
+      "research",
+      "meta-learning",
+      "machine-learning",
+      "ai",
+      "high-school"
+    ]
+  },
+  {
+    "slug": "improved-binary-selection-sort",
+    "sortDate": "2022-12-15",
+    "kind": "research",
+    "status": "completed",
+    "period": "2022",
+    "title": {
+      "ko": "개선된 이진 선택 정렬 알고리즘",
+      "en": "An Improved Binary Selection Sort Algorithm"
+    },
+    "summary": {
+      "ko": "선택 정렬의 탐색 구조를 이진 방식으로 바꾸어 성능을 비교한 정보과학 연구입니다.",
+      "en": "An informatics study that compared a binary search-style modification of selection sort."
+    },
+    "featured": false,
+    "tags": [
+      "research",
+      "algorithm",
+      "sorting",
+      "cpp",
+      "high-school"
+    ]
+  },
+  {
+    "slug": "derivative-works-legal-report",
+    "sortDate": "2022-12-10",
+    "kind": "research",
+    "status": "completed",
+    "period": "2022",
+    "title": {
+      "ko": "2차적저작물과 저작권 판례 분석",
+      "en": "Legal Analysis of Derivative Works and Copyright"
+    },
+    "summary": {
+      "ko": "대법원 99도863 판결을 중심으로 2차적저작물의 성립과 저작권 쟁점을 분석했습니다.",
+      "en": "Analyzed derivative-work and copyright issues centered on Supreme Court case 99Do863."
+    },
+    "featured": false,
+    "tags": [
+      "research",
+      "copyright",
+      "law",
+      "report",
+      "high-school"
+    ]
+  },
+  {
+    "slug": "pi-area-recurrence",
+    "sortDate": "2022-11-30",
+    "kind": "research",
+    "status": "completed",
+    "period": "2022",
+    "title": {
+      "ko": "넓이 점화식을 이용한 원주율 계산",
+      "en": "Calculating Pi with an Area Recurrence"
+    },
+    "summary": {
+      "ko": "도형의 넓이 관계를 점화식으로 표현해 원주율을 근사하는 방법을 탐구했습니다.",
+      "en": "Explored a method for approximating pi by expressing geometric area relationships as a recurrence."
+    },
+    "featured": false,
+    "tags": [
+      "research",
+      "mathematics",
+      "numerical-method",
+      "high-school"
+    ]
+  },
+  {
+    "slug": "hydropower-turbine-blade-efficiency",
+    "sortDate": "2022-10-30",
+    "kind": "research",
+    "status": "completed",
+    "period": "2022",
+    "title": {
+      "ko": "수력발전 터빈 날개 형태와 효율",
+      "en": "Hydropower Turbine Blade Shape and Efficiency"
+    },
+    "summary": {
+      "ko": "터빈 날개의 형태가 수력발전 효율에 미치는 영향을 실험했습니다.",
+      "en": "Experimented with how turbine-blade shape affects hydropower efficiency."
+    },
+    "featured": false,
+    "tags": [
+      "research",
+      "energy",
+      "physics",
+      "experiment",
+      "high-school"
+    ]
+  },
+  {
+    "slug": "carcinogen-emissions-cancer-correlation",
+    "sortDate": "2022-09-30",
+    "kind": "research",
+    "status": "completed",
+    "period": "2022",
+    "title": {
+      "ko": "발암물질 배출량과 암 발생의 상관관계",
+      "en": "Correlation between Carcinogen Emissions and Cancer Incidence"
+    },
+    "summary": {
+      "ko": "지역별 발암물질 배출 자료와 암 발생 자료의 상관관계를 통계적으로 분석했습니다.",
+      "en": "Statistically analyzed regional carcinogen-emission data against cancer-incidence data."
+    },
+    "featured": false,
+    "tags": [
+      "research",
+      "statistics",
+      "public-health",
+      "environment",
+      "data-science",
+      "high-school"
+    ]
+  },
+  {
+    "slug": "habituation-ai-connectome",
+    "sortDate": "2022-08-31",
+    "kind": "research",
+    "status": "completed",
+    "period": "2022",
+    "title": {
+      "ko": "예쁜꼬마선충 커넥톰 기반 습관화 인공지능",
+      "en": "Habituation AI Based on the C. elegans Connectome"
+    },
+    "summary": {
+      "ko": "예쁜꼬마선충의 신경 연결 구조를 참고해 습관화 행동을 모사하는 인공지능을 탐구했습니다.",
+      "en": "Explored an AI model of habituation inspired by the neural connectivity of C. elegans."
+    },
+    "featured": false,
+    "tags": [
+      "publication",
+      "ai",
+      "machine-learning",
+      "science-communication"
+    ]
+  },
+  {
+    "slug": "speed-skating-science-statistics",
+    "sortDate": "2022-08-30",
+    "kind": "research",
+    "status": "completed",
+    "period": "2022",
+    "title": {
+      "ko": "스피드스케이팅의 수학·과학 원리와 기록 통계",
+      "en": "Mathematics, Science, and Performance Statistics of Speed Skating"
+    },
+    "summary": {
+      "ko": "스피드스케이팅의 곡선 주행 원리와 기록 데이터를 수학·과학·통계 관점에서 탐구했습니다.",
+      "en": "Explored speed-skating turns and performance data through mathematics, science, and statistics."
+    },
+    "featured": false,
+    "tags": [
+      "research",
+      "sports",
+      "physics",
+      "mathematics",
+      "statistics",
+      "high-school"
+    ]
+  },
+  {
+    "slug": "origami-huzita-hatori",
+    "sortDate": "2022-06-30",
+    "kind": "research",
+    "status": "completed",
+    "period": "2021 — 2022",
+    "title": {
+      "ko": "후지타–하토리 공리의 종이접기 증명과 시각화",
+      "en": "Origami Proof and Visualization of the Huzita–Hatori Axioms"
+    },
+    "summary": {
+      "ko": "종이접기 기하의 후지타–하토리 공리를 증명하고 GeoGebra로 시각화했습니다.",
+      "en": "Proved the Huzita–Hatori axioms of origami geometry and visualized them in GeoGebra."
+    },
+    "featured": false,
+    "tags": [
+      "mathematics",
+      "origami",
+      "education"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "2021년 GeoGebra를 이용한 후지타–하토리 공리 시각화",
+          "en": "Visualized the Huzita–Hatori axioms with GeoGebra in 2021"
+        },
+        {
+          "ko": "2022년 후지타–하토리 공리의 종이접기 증명",
+          "en": "Developed an origami proof of the Huzita–Hatori axioms in 2022"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "genetic-algorithm-variables",
+    "sortDate": "2021-12-31",
+    "kind": "research",
+    "status": "completed",
+    "period": "2021",
+    "title": {
+      "ko": "유전 알고리즘의 효율에 영향을 주는 변수 분석",
+      "en": "Analysis of Variables Affecting Genetic Algorithm Efficiency"
+    },
+    "summary": {
+      "ko": "유전 알고리즘의 주요 설정값이 탐색 효율과 결과에 미치는 영향을 실험했습니다.",
+      "en": "Experimented with how key genetic-algorithm parameters affect search efficiency and outcomes."
+    },
+    "featured": false,
+    "tags": [
+      "publication",
+      "conference",
+      "genetic-algorithm",
+      "algorithm",
+      "ai"
+    ],
+    "links": [
+      {
+        "label": {
+          "ko": "RISS 논문",
+          "en": "Paper on RISS"
+        },
+        "href": "http://www.riss.kr/link?id=A108045562"
+      }
+    ]
+  },
+  {
+    "slug": "hans-zimmer-composition-ai",
+    "sortDate": "2021-12-15",
+    "kind": "research",
+    "status": "completed",
+    "period": "2021",
+    "title": {
+      "ko": "한스 짐머의 영화음악을 학습한 작곡 인공지능",
+      "en": "Composition AI Trained on Hans Zimmer's Film Music"
+    },
+    "summary": {
+      "ko": "영화음악의 특징을 분석하고 학습 데이터로 활용해 인공지능 작곡을 탐구했습니다.",
+      "en": "Explored AI composition by analyzing characteristics of film music and using them as training data."
+    },
+    "featured": false,
+    "tags": [
+      "research",
+      "ai",
+      "machine-learning",
+      "music",
+      "high-school"
+    ]
+  },
+  {
+    "slug": "game-theory-expected-empirical",
+    "sortDate": "2021-11-30",
+    "kind": "research",
+    "status": "completed",
+    "period": "2021",
+    "title": {
+      "ko": "게임이론의 이론적 기대값과 실험 결과 비교",
+      "en": "Theoretical and Empirical Expectations in Game Theory"
+    },
+    "summary": {
+      "ko": "게임이론에서 계산한 기대값과 실제 반복 실험의 결과를 비교했습니다.",
+      "en": "Compared calculated expectations in game theory with outcomes from repeated experiments."
+    },
+    "featured": false,
+    "tags": [
+      "research",
+      "mathematics",
+      "game-theory",
+      "statistics",
+      "high-school"
+    ]
+  },
+  {
+    "slug": "starlink-light-pollution",
+    "sortDate": "2021-09-30",
+    "kind": "research",
+    "status": "completed",
+    "period": "2021",
+    "title": {
+      "ko": "Starlink 위성의 광공해와 천문 관측",
+      "en": "Starlink Light Pollution and Astronomical Observation"
+    },
+    "summary": {
+      "ko": "저궤도 위성군이 야간 천문 관측에 미치는 광공해 문제를 조사했습니다.",
+      "en": "Investigated how low-Earth-orbit satellite constellations affect nighttime astronomical observation."
+    },
+    "featured": false,
+    "tags": [
+      "satellite",
+      "astronomy",
+      "environment",
+      "science-communication"
+    ]
+  },
+  {
+    "slug": "kscy16-social-value-research",
+    "sortDate": "2021-07-30",
+    "kind": "research",
+    "status": "completed",
+    "period": "2021",
+    "title": {
+      "ko": "환경·기후 Social Value 연구 인증",
+      "en": "Social Value Research Certification in Environment and Climate"
+    },
+    "summary": {
+      "ko": "Starlink 위성 광공해를 주제로 환경·기후 분야 연구 인증을 받았습니다.",
+      "en": "Received research certification in environment and climate for work on Starlink light pollution."
+    },
+    "featured": false,
+    "tags": [
+      "program",
+      "research",
+      "environment",
+      "climate",
+      "satellite"
+    ]
+  },
+  {
+    "slug": "improved-selection-sort",
+    "sortDate": "2021-06-30",
+    "kind": "research",
+    "status": "completed",
+    "period": "2021",
+    "title": {
+      "ko": "개선된 선택 정렬 알고리즘",
+      "en": "An Improved Selection Sort Algorithm"
+    },
+    "summary": {
+      "ko": "선택 정렬의 비교·교환 구조를 개선하고 기존 방식과 성능을 비교했습니다.",
+      "en": "Modified the comparison and exchange structure of selection sort and compared it with the conventional method."
+    },
+    "featured": false,
+    "tags": [
+      "publication",
+      "conference",
+      "algorithm",
+      "sorting"
+    ],
+    "links": [
+      {
+        "label": {
+          "ko": "RISS 논문",
+          "en": "Paper on RISS"
+        },
+        "href": "http://www.riss.kr/link?id=A107797523"
+      }
+    ]
+  },
+  {
+    "slug": "ott-viral-coefficient",
+    "sortDate": "2020-11-30",
+    "kind": "research",
+    "status": "completed",
+    "period": "2020",
+    "title": {
+      "ko": "바이럴 계수를 이용한 OTT 플랫폼 확산 분석",
+      "en": "OTT Platform Diffusion Analysis with the Viral Coefficient"
+    },
+    "summary": {
+      "ko": "바이럴 계수와 통계 자료를 사용해 OTT 플랫폼의 확산을 분석했습니다.",
+      "en": "Analyzed the diffusion of OTT platforms using the viral coefficient and statistical data."
+    },
+    "featured": false,
+    "tags": [
+      "mathematics",
+      "statistics",
+      "data-science",
+      "media"
+    ]
+  },
+  {
+    "slug": "future-plans-statistics-poster",
+    "sortDate": "2020-10-30",
+    "kind": "research",
+    "status": "completed",
+    "period": "2020",
+    "title": {
+      "ko": "장래 계획과 삶의 중요도에 관한 통계 포스터",
+      "en": "Statistics Poster on Future Plans and Life Priorities"
+    },
+    "summary": {
+      "ko": "장래 계획과 삶에서 중요하게 여기는 요소를 조사해 통계 포스터로 표현했습니다.",
+      "en": "Surveyed future plans and perceived life priorities and presented the results as a statistics poster."
+    },
+    "featured": false,
+    "tags": [
+      "research",
+      "statistics",
+      "survey",
+      "visualization",
+      "high-school"
+    ]
+  },
+  {
+    "slug": "musical-transposition-semitones",
+    "sortDate": "2020-09-30",
+    "kind": "research",
+    "status": "completed",
+    "period": "2020",
+    "title": {
+      "ko": "반음 단위 조옮김의 수학적 원리",
+      "en": "Mathematics of Semitone Transposition"
+    },
+    "summary": {
+      "ko": "음정을 반음 단위로 옮길 때 나타나는 주파수 관계를 수학적으로 탐구했습니다.",
+      "en": "Explored the mathematical frequency relationships involved in semitone transposition."
+    },
+    "featured": false,
+    "tags": [
+      "research",
+      "music",
+      "mathematics",
+      "acoustics",
+      "high-school"
+    ],
+    "links": [
+      {
+        "label": {
+          "ko": "연구 기록",
+          "en": "Research note"
+        },
+        "href": "https://blog.naver.com/oriisme/222888248170"
+      }
+    ]
+  }
+]

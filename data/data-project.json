@@ -1,0 +1,483 @@
+[
+  {
+    "slug": "cat-bond-climate-model",
+    "sortDate": "2025-06-15",
+    "kind": "project",
+    "status": "completed",
+    "period": "2025",
+    "title": {
+      "ko": "기후 리스크 관리를 위한 Cat Bond 상품 설계",
+      "en": "Cat Bond Product Design for Climate Risk Management"
+    },
+    "summary": {
+      "ko": "기후·강수 데이터로 재해 발생 가능성과 손실을 추정해 Cat Bond의 위험 구조를 설계했습니다.",
+      "en": "Used climate and rainfall data to estimate disaster probability and loss for a Cat Bond risk structure."
+    },
+    "featured": false,
+    "tags": [
+      "data-science",
+      "climate",
+      "finance",
+      "machine-learning",
+      "python"
+    ]
+  },
+  {
+    "slug": "naratmalsami-spelling",
+    "sortDate": "2025-05-31",
+    "kind": "project",
+    "status": "completed",
+    "period": "2025",
+    "title": {
+      "ko": "한국어 맞춤법 추천 프로젝트 ‘나랏말싸미’",
+      "en": "Naratmalsami: Korean Spelling Recommendation"
+    },
+    "summary": {
+      "ko": "한국어 맞춤법을 추천하는 머신러닝 토이 프로젝트를 수행했습니다.",
+      "en": "Built a machine-learning toy project for Korean spelling recommendations."
+    },
+    "featured": false,
+    "tags": [
+      "machine-learning",
+      "nlp",
+      "python",
+      "software"
+    ]
+  },
+  {
+    "slug": "avr-satellite-pqc-software",
+    "sortDate": "2025-01-31",
+    "kind": "project",
+    "status": "completed",
+    "period": "2025.01",
+    "title": {
+      "ko": "AVR 8비트 MCU 기반 위성-지상국 양자내성암호 통신 프로그램",
+      "en": "Post-quantum Satellite-to-Ground Communication on an AVR 8-bit MCU"
+    },
+    "summary": {
+      "ko": "SMAUG-T와 LEA를 이용한 위성-지상국 통신 프로그램을 구현하고 프로그램 저작물로 등록했습니다.",
+      "en": "Implemented satellite-to-ground communication using SMAUG-T and LEA and registered the resulting software."
+    },
+    "featured": false,
+    "tags": [
+      "registered-software",
+      "pqc",
+      "embedded",
+      "avr",
+      "satellite-communication",
+      "cryptography"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "2025년 1월 31일 프로그램 저작물 등록",
+          "en": "Software registered on January 31, 2025"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "walking-into-provinces",
+    "sortDate": "2024-11-30",
+    "kind": "project",
+    "status": "completed",
+    "period": "2024",
+    "title": {
+      "ko": "보행 경로 데이터 기반 관광 프로젝트 ‘지방으로 걸어들어가기’",
+      "en": "Walking into the Provinces: Tourism with Walking-route Data"
+    },
+    "summary": {
+      "ko": "보행 경로 데이터를 활용해 지역 관광 경험을 설계한 데이터 프로젝트입니다.",
+      "en": "A data project that designed local tourism experiences using walking-route data."
+    },
+    "featured": false,
+    "tags": [
+      "data-science",
+      "tourism",
+      "planning"
+    ]
+  },
+  {
+    "slug": "club-room-smart-lock",
+    "sortDate": "2023-09-17",
+    "kind": "project",
+    "status": "completed",
+    "period": "2023.05 — 2023.09",
+    "title": {
+      "ko": "동아리방 출입문 잠금장치",
+      "en": "Club Room Door Lock"
+    },
+    "summary": {
+      "ko": "4명이 Raspberry Pi와 IoT 기술을 이용해 동아리방 출입문 잠금장치를 제작했습니다.",
+      "en": "Built a club-room door lock with Raspberry Pi and IoT technology in a four-person team."
+    },
+    "featured": false,
+    "tags": [
+      "project",
+      "raspberry-pi",
+      "iot",
+      "hardware",
+      "team"
+    ]
+  },
+  {
+    "slug": "notion-3d-printer-repair",
+    "sortDate": "2023-09-09",
+    "kind": "project",
+    "status": "completed",
+    "period": "2023.06 — 2023.09",
+    "title": {
+      "ko": "3D 프린터 수리",
+      "en": "3D Printer Repair"
+    },
+    "summary": {
+      "ko": "2명이 함께 3D 프린터의 하드웨어 문제를 점검하고 수리했습니다.",
+      "en": "Diagnosed and repaired 3D-printer hardware in a two-person project."
+    },
+    "featured": false,
+    "tags": [
+      "project",
+      "hardware",
+      "3d-printing",
+      "maker"
+    ]
+  },
+  {
+    "slug": "todays-school-lunch",
+    "sortDate": "2022-09-12",
+    "kind": "project",
+    "status": "completed",
+    "period": "2022.09",
+    "title": {
+      "ko": "오늘의 급식",
+      "en": "Today's School Lunch"
+    },
+    "summary": {
+      "ko": "Python·Flask·HTML로 학교 급식 정보를 제공하는 웹 서비스를 개발했습니다.",
+      "en": "Developed a school-lunch web service with Python, Flask, and HTML."
+    },
+    "featured": false,
+    "tags": [
+      "project",
+      "python",
+      "flask",
+      "html",
+      "web"
+    ]
+  },
+  {
+    "slug": "orbital-diagram-generator",
+    "sortDate": "2022-07-28",
+    "kind": "project",
+    "status": "completed",
+    "period": "2022.07",
+    "title": {
+      "ko": "Orbital Diagram Generator",
+      "en": "Orbital Diagram Generator"
+    },
+    "summary": {
+      "ko": "Python과 Matplotlib로 원자 오비탈 다이어그램을 생성하는 프로그램을 개발했습니다.",
+      "en": "Developed a Python and Matplotlib program that generates atomic orbital diagrams."
+    },
+    "featured": false,
+    "tags": [
+      "project",
+      "python",
+      "matplotlib",
+      "chemistry",
+      "visualization"
+    ]
+  },
+  {
+    "slug": "habituation-neural-network-project",
+    "sortDate": "2021-12-22",
+    "kind": "project",
+    "status": "completed",
+    "period": "2021.10 — 2021.12",
+    "title": {
+      "ko": "인공신경망의 습관화 AI",
+      "en": "Habituation AI with an Artificial Neural Network"
+    },
+    "summary": {
+      "ko": "3명이 Python·생물학·인공지능을 결합해 습관화 행동을 모사하는 프로젝트를 수행했습니다.",
+      "en": "Combined Python, biology, and AI in a three-person project that modeled habituation behavior."
+    },
+    "featured": false,
+    "tags": [
+      "project",
+      "python",
+      "biology",
+      "ai",
+      "team",
+      "high-school"
+    ]
+  },
+  {
+    "slug": "mulriege-mulligi",
+    "sortDate": "2021-12-08",
+    "kind": "project",
+    "status": "completed",
+    "period": "2021.08 — 2021.12",
+    "title": {
+      "ko": "물리에게 물리기",
+      "en": "Mulriege Mulligi"
+    },
+    "summary": {
+      "ko": "3명이 HTML·JavaScript·Android Java를 활용해 물리 학습을 돕는 전산교육시스템을 개발했습니다.",
+      "en": "Developed a physics-learning system with HTML, JavaScript, and Android Java in a three-person team."
+    },
+    "featured": false,
+    "tags": [
+      "project",
+      "education",
+      "physics",
+      "html",
+      "javascript",
+      "android",
+      "team"
+    ]
+  },
+  {
+    "slug": "reusable-multi-bookmark",
+    "sortDate": "2021-12-01",
+    "kind": "project",
+    "status": "completed",
+    "period": "2021",
+    "title": {
+      "ko": "재사용 가능한 다중 책갈피",
+      "en": "Reusable Multi-bookmark"
+    },
+    "summary": {
+      "ko": "여러 페이지를 동시에 표시하면서 반복 사용할 수 있는 책갈피를 설계·제작했습니다.",
+      "en": "Designed and built a reusable bookmark that can mark several pages at once."
+    },
+    "featured": false,
+    "tags": [
+      "project",
+      "maker",
+      "product-design",
+      "high-school"
+    ]
+  },
+  {
+    "slug": "chemical-formula-mass-calculator",
+    "sortDate": "2021-11-01",
+    "kind": "project",
+    "status": "completed",
+    "period": "2021",
+    "title": {
+      "ko": "C언어 화학식 질량 계산기",
+      "en": "Chemical Formula Mass Calculator in C"
+    },
+    "summary": {
+      "ko": "입력한 화학식을 해석해 분자량을 계산하는 C 프로그램을 제작했습니다.",
+      "en": "Built a C program that parses a chemical formula and calculates its molecular mass."
+    },
+    "featured": false,
+    "tags": [
+      "project",
+      "c",
+      "chemistry",
+      "parser",
+      "high-school"
+    ],
+    "links": [
+      {
+        "label": {
+          "ko": "프로젝트 기록",
+          "en": "Project note"
+        },
+        "href": "https://blog.naver.com/oriisme/222916104260"
+      }
+    ]
+  },
+  {
+    "slug": "hearing-substitution-device",
+    "sortDate": "2021-10-31",
+    "kind": "project",
+    "status": "completed",
+    "period": "2021",
+    "title": {
+      "ko": "SVD·Arduino 기반 청각 대체 보조기기",
+      "en": "Hearing-substitution Assistive Device with SVD and Arduino"
+    },
+    "summary": {
+      "ko": "소리를 다른 감각 정보로 전달하기 위한 보조기기를 SVD와 Arduino를 활용해 설계·제작했습니다.",
+      "en": "Designed and built an assistive device using SVD and Arduino to convey sound through alternative sensory information."
+    },
+    "featured": false,
+    "tags": [
+      "assistive-technology",
+      "arduino",
+      "maker",
+      "mathematics"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "특이값 분해(SVD)를 이용한 청각 대체 정보 표현 연구",
+          "en": "Studied sensory-substitution representation using singular value decomposition"
+        },
+        {
+          "ko": "Arduino 기반 청각 대체 보조기기 제작",
+          "en": "Built an Arduino-based hearing-substitution assistive device"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "physics-achievement-assessment",
+    "sortDate": "2021-10-15",
+    "kind": "project",
+    "status": "completed",
+    "period": "2021",
+    "title": {
+      "ko": "오답을 고려한 물리 성취도 평가 프로그램",
+      "en": "Physics Achievement Assessment Considering Wrong Answers"
+    },
+    "summary": {
+      "ko": "정답뿐 아니라 오답의 유형을 반영해 물리 개념 성취도를 평가하는 프로그램을 만들었습니다.",
+      "en": "Built a program that evaluates physics concept mastery using both correct answers and error types."
+    },
+    "featured": false,
+    "tags": [
+      "project",
+      "education",
+      "assessment",
+      "physics",
+      "software",
+      "high-school"
+    ]
+  },
+  {
+    "slug": "kakao-bot-code-generator",
+    "sortDate": "2020-12-31",
+    "kind": "project",
+    "status": "completed",
+    "period": "Before 2021",
+    "title": {
+      "ko": "카카오톡 봇 코드 생성기",
+      "en": "KakaoTalk Bot Code Generator"
+    },
+    "summary": {
+      "ko": "카카오톡 봇 제작에 필요한 코드를 생성하는 도구를 개발했습니다.",
+      "en": "Developed a tool that generates code needed to build KakaoTalk bots."
+    },
+    "featured": false,
+    "tags": [
+      "project",
+      "software",
+      "automation",
+      "chatbot"
+    ]
+  },
+  {
+    "slug": "text-changer",
+    "sortDate": "2020-12-30",
+    "kind": "project",
+    "status": "completed",
+    "period": "Before 2021",
+    "title": {
+      "ko": "Text Changer",
+      "en": "Text Changer"
+    },
+    "summary": {
+      "ko": "문자열을 정해진 규칙에 따라 변환하는 유틸리티를 개발했습니다.",
+      "en": "Developed a utility that transforms text according to configurable rules."
+    },
+    "featured": false,
+    "tags": [
+      "project",
+      "software",
+      "text-processing"
+    ]
+  },
+  {
+    "slug": "the-counter",
+    "sortDate": "2020-12-29",
+    "kind": "project",
+    "status": "completed",
+    "period": "Before 2021",
+    "title": {
+      "ko": "The Counter",
+      "en": "The Counter"
+    },
+    "summary": {
+      "ko": "간단한 수치 집계와 기록을 위한 카운터 도구를 개발했습니다.",
+      "en": "Developed a small counter utility for tallying and recording values."
+    },
+    "featured": false,
+    "tags": [
+      "project",
+      "software",
+      "utility"
+    ]
+  },
+  {
+    "slug": "android-desk-clock",
+    "sortDate": "2020-12-28",
+    "kind": "project",
+    "status": "completed",
+    "period": "Before 2021",
+    "title": {
+      "ko": "탁상시계 Android 앱",
+      "en": "Desk Clock Android App"
+    },
+    "summary": {
+      "ko": "탁상시계로 사용할 수 있는 Android 애플리케이션을 개발했습니다.",
+      "en": "Developed an Android application designed for use as a desk clock."
+    },
+    "featured": false,
+    "tags": [
+      "project",
+      "android",
+      "mobile",
+      "software"
+    ]
+  },
+  {
+    "slug": "god-study-helper",
+    "sortDate": "2020-12-27",
+    "kind": "project",
+    "status": "completed",
+    "period": "Before 2021",
+    "title": {
+      "ko": "God Study Helper 해커톤 프로젝트",
+      "en": "God Study Helper Hackathon Project"
+    },
+    "summary": {
+      "ko": "학습 보조 아이디어를 구현한 해커톤 프로젝트입니다.",
+      "en": "A hackathon project implementing a study-assistance idea."
+    },
+    "featured": false,
+    "tags": [
+      "project",
+      "hackathon",
+      "education",
+      "software"
+    ]
+  },
+  {
+    "slug": "cosine-community",
+    "sortDate": "2020-12-15",
+    "kind": "project",
+    "status": "completed",
+    "period": "2020",
+    "title": {
+      "ko": "COSINE 온라인 커뮤니티",
+      "en": "COSINE Online Community"
+    },
+    "summary": {
+      "ko": "학생 간 정보 공유와 소통을 위한 온라인 커뮤니티를 기획·개발했습니다.",
+      "en": "Planned and developed an online community for student information sharing and communication."
+    },
+    "featured": false,
+    "tags": [
+      "project",
+      "web",
+      "community",
+      "software",
+      "high-school"
+    ]
+  }
+]

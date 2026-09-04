@@ -1,0 +1,634 @@
+[
+  {
+    "slug": "khlug-excellent-club-four-times",
+    "sortDate": "2026-02-28",
+    "kind": "award",
+    "status": "completed",
+    "period": "2023-2 — 2025-2",
+    "title": {
+      "ko": "쿠러그 활동우수동아리 4회 선정",
+      "en": "KHLUG Selected as an Excellent Club Four Times"
+    },
+    "summary": {
+      "ko": "공동대표 재임 중 네 차례 활동우수동아리로 선정되었습니다.",
+      "en": "KHLUG was selected as an excellent club four times during my term as co-representative."
+    },
+    "featured": false,
+    "tags": [
+      "award",
+      "khlug",
+      "leadership",
+      "community",
+      "kyunghee"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "2023-2 3위, 2024-1 선정, 2025-1 2위, 2025-2 4위(2024-2 미선정)",
+          "en": "3rd in Fall 2023, selected in Spring 2024, 2nd in Spring 2025, and 4th in Fall 2025; not selected in Fall 2024"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "khuda-final-project-award-2025",
+    "sortDate": "2025-06-30",
+    "kind": "award",
+    "status": "completed",
+    "period": "2025",
+    "title": {
+      "ko": "KHUDA 심화 세션 최종 프로젝트 컨퍼런스 우수상",
+      "en": "KHUDA Advanced Session Final Project Conference Excellence Award"
+    },
+    "summary": {
+      "ko": "데이터분석·AI동아리 KHUDA 컨퍼런스에서 2위 우수상을 받았습니다.",
+      "en": "Received second-place excellence at the KHUDA data and AI conference."
+    },
+    "featured": false,
+    "tags": [
+      "award",
+      "data-science",
+      "ai",
+      "project",
+      "kyunghee"
+    ]
+  },
+  {
+    "slug": "khuda-ml-toy-project-award-2025",
+    "sortDate": "2025-05-31",
+    "kind": "award",
+    "status": "completed",
+    "period": "2025",
+    "title": {
+      "ko": "KHUDA 머신러닝 세션 토이프로젝트 컨퍼런스 특별상",
+      "en": "KHUDA Machine-learning Toy Project Conference Special Award"
+    },
+    "summary": {
+      "ko": "데이터분석·AI동아리 KHUDA 컨퍼런스에서 3위 특별상을 받았습니다.",
+      "en": "Received third-place special recognition at the KHUDA machine-learning toy project conference."
+    },
+    "featured": false,
+    "tags": [
+      "award",
+      "machine-learning",
+      "ai",
+      "project",
+      "kyunghee"
+    ]
+  },
+  {
+    "slug": "ksc2024-two-paper-awards",
+    "sortDate": "2025-01-31",
+    "kind": "award",
+    "status": "completed",
+    "period": "2025",
+    "title": {
+      "ko": "KSC 2024 학부·주니어논문경진대회 우수상 2건",
+      "en": "Two Excellence Awards, KSC 2024 Undergraduate and Junior Paper Competition"
+    },
+    "summary": {
+      "ko": "양자내성암호 최적화 동향과 MAML 성능 분석 논문으로 한국정보과학회장상을 수상했습니다.",
+      "en": "Received two KIISE President's Excellence Awards for papers on PQC optimization trends and MAML performance."
+    },
+    "featured": false,
+    "tags": [
+      "award",
+      "publication",
+      "conference",
+      "pqc",
+      "meta-learning"
+    ]
+  },
+  {
+    "slug": "department-video-contest",
+    "sortDate": "2025-01-15",
+    "kind": "award",
+    "status": "completed",
+    "period": "2025",
+    "title": {
+      "ko": "‘우리학과 추구미’ 학과 홍보 영상 공모전 우수상",
+      "en": "Excellence Award, Department Promotion Video Contest"
+    },
+    "summary": {
+      "ko": "학과의 특징과 학생 경험을 표현한 홍보 영상으로 교수학습개발원장상을 수상했습니다.",
+      "en": "Received an excellence award for a video presenting the department and student experience."
+    },
+    "featured": false,
+    "tags": [
+      "award",
+      "media",
+      "content",
+      "kyunghee"
+    ]
+  },
+  {
+    "slug": "khu-programming-contest-2024",
+    "sortDate": "2024-11-15",
+    "kind": "award",
+    "status": "completed",
+    "period": "2024",
+    "title": {
+      "ko": "경희대학교 추계 프로그래밍 경시대회 장려상(3위)",
+      "en": "Third Place, Kyung Hee Fall Programming Contest"
+    },
+    "summary": {
+      "ko": "경희대학교 추계 프로그래밍 경시대회에서 장려상(3위)을 수상했습니다.",
+      "en": "Placed third in the Kyung Hee University Fall Programming Contest."
+    },
+    "featured": false,
+    "tags": [
+      "award",
+      "programming-contest",
+      "algorithm",
+      "kyunghee"
+    ]
+  },
+  {
+    "slug": "assistive-platform-idea-award",
+    "sortDate": "2023-12-01",
+    "kind": "award",
+    "status": "completed",
+    "period": "2023",
+    "title": {
+      "ko": "보조기기 열린플랫폼 아이디어 공모전 우수상",
+      "en": "Excellence Award, Assistive Devices Open Platform Idea Contest"
+    },
+    "summary": {
+      "ko": "국립재활원 보조기기 아이디어 부문에서 우수상을 수상했습니다.",
+      "en": "Received an excellence award in the National Rehabilitation Center's assistive-device idea category."
+    },
+    "featured": false,
+    "tags": [
+      "award",
+      "assistive-technology",
+      "planning"
+    ]
+  },
+  {
+    "slug": "high-school-awards-2022",
+    "sortDate": "2023-01-04",
+    "kind": "award",
+    "status": "completed",
+    "period": "2022 — 2023",
+    "title": {
+      "ko": "충남과학고 교내 수상 기록: 2022",
+      "en": "Chungnam Science High School Awards: 2022"
+    },
+    "summary": {
+      "ko": "교과·인성·탐사·통계·토론·독서·창업·수학 분야 10개 교내 수상 기록입니다.",
+      "en": "Ten school awards across coursework, character, field study, statistics, debate, reading, entrepreneurship, and mathematics."
+    },
+    "featured": false,
+    "tags": [
+      "award",
+      "high-school",
+      "mathematics",
+      "statistics",
+      "science",
+      "reading"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "2학기 교과우수상(경제, 2023.01.04), 표창장(바른인성, 2022.07.15)",
+          "en": "Academic Excellence in Economics (Jan 2023); Character Commendation (Jul 2022)"
+        },
+        {
+          "ko": "자연탐사 BLITZ 금상(3인), 통계빅데이터페스티벌 빅데이터통계분석프로그래밍부문 은상(3인)",
+          "en": "Nature Expedition BLITZ Gold (team of 3); Statistics and Big Data Festival Silver (team of 3)"
+        },
+        {
+          "ko": "과학토론챌린지 은상, 창의적산출물한마당 은상(3인), 독서활동우수 은상",
+          "en": "Science Debate Challenge Silver; Creative Output Fair Silver (team of 3); Reading Excellence Silver"
+        },
+        {
+          "ko": "나도이공계CEO프로젝트챌린지 은상, Math챌린지 은상",
+          "en": "STEM CEO Project Challenge Silver; Math Challenge Silver"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "include-journal-column-award-2022",
+    "sortDate": "2022-12-31",
+    "kind": "award",
+    "status": "completed",
+    "period": "2022",
+    "title": {
+      "ko": "#include 교지 쓰기 대회 칼럼부문 우수상",
+      "en": "#include Journal Contest Excellence Award, Column Division"
+    },
+    "summary": {
+      "ko": "퓨샷러닝·메타러닝 칼럼 ‘적은 수의 데이터로도 효과적인 학습을 해보자’로 2위를 받았습니다.",
+      "en": "Placed second with a column on few-shot learning and meta-learning."
+    },
+    "featured": false,
+    "tags": [
+      "award",
+      "technical-writing",
+      "meta-learning",
+      "high-school"
+    ]
+  },
+  {
+    "slug": "include-journal-programming-award-2022",
+    "sortDate": "2022-12-31",
+    "kind": "award",
+    "status": "completed",
+    "period": "2022",
+    "title": {
+      "ko": "#include 교지 쓰기 대회 프로그램부문 최우수상",
+      "en": "#include Journal Contest Grand Prize, Programming Division"
+    },
+    "summary": {
+      "ko": "Orbital Diagram Generator와 오늘의 급식 프로그램으로 1위를 받았습니다.",
+      "en": "Placed first with the Orbital Diagram Generator and Today's School Lunch programs."
+    },
+    "featured": false,
+    "tags": [
+      "award",
+      "programming",
+      "project",
+      "high-school"
+    ]
+  },
+  {
+    "slug": "chungcheong-cyber-defense-2022",
+    "sortDate": "2022-10-31",
+    "kind": "award",
+    "status": "completed",
+    "period": "2022",
+    "title": {
+      "ko": "충청권 청소년 사이버방어 경진대회 우수상",
+      "en": "Excellence Award, Chungcheong Youth Cyber Defense Competition"
+    },
+    "summary": {
+      "ko": "청소년 사이버방어 경진대회에서 K-water 사장상을 수상했습니다.",
+      "en": "Received the K-water President's Excellence Award in a youth cyber defense competition."
+    },
+    "featured": false,
+    "tags": [
+      "award",
+      "security",
+      "information-security",
+      "competition"
+    ]
+  },
+  {
+    "slug": "kookmin-algorithm-2022",
+    "sortDate": "2022-08-31",
+    "kind": "award",
+    "status": "completed",
+    "period": "2022",
+    "title": {
+      "ko": "제7회 국민대학교 알고리즘대회 장려상",
+      "en": "Encouragement Award, 7th Kookmin University Algorithm Contest"
+    },
+    "summary": {
+      "ko": "알고리즘 프로그래밍 부문에서 국민대학교 총장상을 수상했습니다.",
+      "en": "Received the Kookmin University President's Encouragement Award in algorithmic programming."
+    },
+    "featured": false,
+    "tags": [
+      "award",
+      "algorithm",
+      "programming-contest"
+    ]
+  },
+  {
+    "slug": "ict-award-korea-2022",
+    "sortDate": "2022-07-31",
+    "kind": "award",
+    "status": "completed",
+    "period": "2022",
+    "title": {
+      "ko": "제19회 ICT Award Korea 이산수학 부문 장려상",
+      "en": "Encouragement Award, 19th ICT Award Korea in Discrete Mathematics"
+    },
+    "summary": {
+      "ko": "고등부 이산수학 분야에서 장려상을 수상했습니다.",
+      "en": "Received an encouragement award in the high-school discrete mathematics category."
+    },
+    "featured": false,
+    "tags": [
+      "award",
+      "mathematics",
+      "computer-engineering"
+    ]
+  },
+  {
+    "slug": "ai-data-essay-2022",
+    "sortDate": "2022-06-30",
+    "kind": "award",
+    "status": "completed",
+    "period": "2022",
+    "title": {
+      "ko": "인공지능 학습용 데이터 구축사업 전국 수기 공모전 장려상(3위)",
+      "en": "Third Place, National AI Training Data Essay Contest"
+    },
+    "summary": {
+      "ko": "인공지능 학습용 데이터 구축 경험을 다룬 수기로 장려상을 수상했습니다.",
+      "en": "Placed third in a national essay contest about AI training-data construction."
+    },
+    "featured": false,
+    "tags": [
+      "award",
+      "ai",
+      "data-science",
+      "content"
+    ]
+  },
+  {
+    "slug": "koi-2022-first-round",
+    "sortDate": "2022-05-31",
+    "kind": "award",
+    "status": "completed",
+    "period": "2022",
+    "title": {
+      "ko": "제39회 한국정보올림피아드 1차대회 장려상",
+      "en": "Encouragement Award, 39th Korean Olympiad in Informatics First Round"
+    },
+    "summary": {
+      "ko": "고등부 전체 부문에서 한국정보과학회장상을 수상했습니다.",
+      "en": "Received a KIISE President's encouragement award in the high-school division."
+    },
+    "featured": false,
+    "tags": [
+      "award",
+      "programming-contest",
+      "algorithm"
+    ]
+  },
+  {
+    "slug": "ksc2021-junior-paper-award",
+    "sortDate": "2022-02-28",
+    "kind": "award",
+    "status": "completed",
+    "period": "2022",
+    "title": {
+      "ko": "KSC 2021 주니어논문경진대회 우수상",
+      "en": "Excellence Award, KSC 2021 Junior Paper Competition"
+    },
+    "summary": {
+      "ko": "유전 알고리즘 연구 논문으로 한국정보과학회장상을 수상했습니다.",
+      "en": "Received a KIISE President's Excellence Award for research on genetic algorithms."
+    },
+    "featured": false,
+    "tags": [
+      "award",
+      "publication",
+      "genetic-algorithm",
+      "conference"
+    ]
+  },
+  {
+    "slug": "youth-academic-staff-award",
+    "sortDate": "2022-01-30",
+    "kind": "award",
+    "status": "completed",
+    "period": "2022",
+    "title": {
+      "ko": "제17회 대한민국청소년학술대회 우수 운영위원 표창",
+      "en": "Outstanding Staff Commendation, 17th Korea Youth Academic Conference"
+    },
+    "summary": {
+      "ko": "컴퓨터공학 세션 운영과 기술 지원 활동으로 우수 운영위원 표창을 받았습니다.",
+      "en": "Recognized as outstanding staff for computer engineering session operations and technical support."
+    },
+    "featured": false,
+    "tags": [
+      "award",
+      "conference",
+      "leadership",
+      "youth"
+    ]
+  },
+  {
+    "slug": "high-school-awards-2021",
+    "sortDate": "2021-12-20",
+    "kind": "award",
+    "status": "completed",
+    "period": "2021",
+    "title": {
+      "ko": "충남과학고 교내 수상 기록: 2021",
+      "en": "Chungnam Science High School Awards: 2021"
+    },
+    "summary": {
+      "ko": "교과·소프트웨어·한글·수학·인성 분야 8개 교내 수상 기록입니다.",
+      "en": "Eight school awards across coursework, software, Korean language, mathematics, and character."
+    },
+    "featured": false,
+    "tags": [
+      "award",
+      "high-school",
+      "software",
+      "programming",
+      "mathematics",
+      "korean-language"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "2학기 교과우수상(한국사), 소프트웨어교육한마당 지식정보기반글쓰기부문 동상·융합주제프로그래밍부문 금상",
+          "en": "Academic Excellence in Korean History; Software Education Fair bronze in knowledge writing and gold in convergence programming"
+        },
+        {
+          "ko": "한글사랑공모전 코딩부문 동상·표어부문 금상",
+          "en": "Hangul Love Contest bronze in coding and gold in slogan writing"
+        },
+        {
+          "ko": "수학자율과제연구페스티벌 은상(3인), 바른인성 선행상, 창의적산출물발표대회 동상(3인)",
+          "en": "Mathematics Research Festival Silver (team of 3); Character Award; Creative Output Presentation Bronze (team of 3)"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "creative-math-2021",
+    "sortDate": "2021-12-15",
+    "kind": "award",
+    "status": "completed",
+    "period": "2021",
+    "title": {
+      "ko": "충남 창의수학탐구대회 동상",
+      "en": "Bronze Award, Chungnam Creative Mathematics Inquiry"
+    },
+    "summary": {
+      "ko": "청소년 자기주도 연구 고등부 부문에서 동상을 수상했습니다.",
+      "en": "Received a bronze award in the high-school self-directed research category."
+    },
+    "featured": false,
+    "tags": [
+      "award",
+      "mathematics",
+      "research"
+    ]
+  },
+  {
+    "slug": "kcc2021-junior-paper-award",
+    "sortDate": "2021-07-31",
+    "kind": "award",
+    "status": "completed",
+    "period": "2021",
+    "title": {
+      "ko": "KCC 2021 주니어논문경진대회 우수상",
+      "en": "Excellence Award, KCC 2021 Junior Paper Competition"
+    },
+    "summary": {
+      "ko": "개선된 선택 정렬 알고리즘 논문으로 한국정보과학회장상을 수상했습니다.",
+      "en": "Received a KIISE President's Excellence Award for an improved selection sort paper."
+    },
+    "featured": false,
+    "tags": [
+      "award",
+      "publication",
+      "algorithm",
+      "sorting"
+    ]
+  },
+  {
+    "slug": "creative-math-2020",
+    "sortDate": "2020-12-15",
+    "kind": "award",
+    "status": "completed",
+    "period": "2020",
+    "title": {
+      "ko": "충남 창의수학탐구대회 금상",
+      "en": "Gold Award, Chungnam Creative Mathematics Inquiry"
+    },
+    "summary": {
+      "ko": "수학 탐구 결과로 충청남도교육감상을 수상했습니다.",
+      "en": "Received the Chungnam Superintendent's Gold Award for mathematics inquiry."
+    },
+    "featured": false,
+    "tags": [
+      "award",
+      "mathematics",
+      "research"
+    ]
+  },
+  {
+    "slug": "high-school-awards-2020",
+    "sortDate": "2020-12-04",
+    "kind": "award",
+    "status": "completed",
+    "period": "2020",
+    "title": {
+      "ko": "충남과학고 교내 수상 기록: 2020",
+      "en": "Chungnam Science High School Awards: 2020"
+    },
+    "summary": {
+      "ko": "수학·프로그래밍·인성·통계·정보과학 교과 분야 6개 교내 수상 기록입니다.",
+      "en": "Six school awards across mathematics, programming, character, statistics, and informatics coursework."
+    },
+    "featured": false,
+    "tags": [
+      "award",
+      "high-school",
+      "mathematics",
+      "programming",
+      "statistics",
+      "informatics"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "Math챌린지 동상, 프로그래밍챌린지대회 금상",
+          "en": "Math Challenge Bronze; Programming Challenge Gold"
+        },
+        {
+          "ko": "표창장(선행), 수학자율과제연구페스티벌 통계부문 은상(3인)",
+          "en": "Commendation for Good Conduct; Mathematics Research Festival Statistics Silver (team of 3)"
+        },
+        {
+          "ko": "1학기·2학기 정보과학 교과우수상, 컴퓨팅사고력증진대회 동상",
+          "en": "Informatics Academic Excellence in both semesters; Computational Thinking Contest Bronze"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "koi-2019-second-round",
+    "sortDate": "2019-08-31",
+    "kind": "award",
+    "status": "completed",
+    "period": "2019",
+    "title": {
+      "ko": "제36회 한국정보올림피아드 2차대회 장려상",
+      "en": "Encouragement Award, 36th Korean Olympiad in Informatics Second Round"
+    },
+    "summary": {
+      "ko": "중등부 한국정보올림피아드 2차대회에서 장려상을 수상했습니다.",
+      "en": "Received an encouragement award in the middle-school division of the second-round KOI."
+    },
+    "featured": false,
+    "tags": [
+      "award",
+      "programming-contest",
+      "algorithm"
+    ]
+  },
+  {
+    "slug": "chungnam-coding-eduthon-2018",
+    "sortDate": "2018-11-30",
+    "kind": "award",
+    "status": "completed",
+    "period": "2018",
+    "title": {
+      "ko": "제1회 충남 영재 코딩 에듀톤 장영실상",
+      "en": "Jang Yeong-sil Award, 1st Chungnam Young Coding Eduthon"
+    },
+    "summary": {
+      "ko": "코딩 에듀톤에서 공주교육대학교 총장상을 수상했습니다.",
+      "en": "Received the Gongju National University of Education President's Award at a coding eduthon."
+    },
+    "featured": false,
+    "tags": [
+      "award",
+      "programming-contest",
+      "education"
+    ]
+  },
+  {
+    "slug": "chungnam-informatics-2018",
+    "sortDate": "2018-07-31",
+    "kind": "award",
+    "status": "completed",
+    "period": "2018",
+    "title": {
+      "ko": "제20회 충남정보올림피아드 경시 부문 동상",
+      "en": "Bronze Award, 20th Chungnam Informatics Olympiad"
+    },
+    "summary": {
+      "ko": "정보올림피아드 경시 부문에서 충청남도교육감상을 수상했습니다.",
+      "en": "Received the Chungnam Superintendent's Bronze Award in informatics competition."
+    },
+    "featured": false,
+    "tags": [
+      "award",
+      "programming-contest",
+      "algorithm"
+    ]
+  },
+  {
+    "slug": "robot-camp-2016",
+    "sortDate": "2016-08-31",
+    "kind": "award",
+    "status": "completed",
+    "period": "2016",
+    "title": {
+      "ko": "제6회 춘천 로봇캠프 최우수상",
+      "en": "Excellence Award, 6th Chuncheon Robot Camp"
+    },
+    "summary": {
+      "ko": "로봇캠프에서 강원정보문화산업진흥원장 최우수상을 수상했습니다.",
+      "en": "Received an excellence award from the Gangwon IT Promotion Agency at a robot camp."
+    },
+    "featured": false,
+    "tags": [
+      "award",
+      "maker",
+      "software"
+    ]
+  }
+]

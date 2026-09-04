@@ -1,0 +1,280 @@
+[
+  {
+    "slug": "video-information-manager",
+    "sortDate": "2026-06-30",
+    "kind": "certificate",
+    "status": "completed",
+    "period": "2026.06",
+    "title": {
+      "ko": "영상정보관리사",
+      "en": "Video Information Manager"
+    },
+    "summary": {
+      "ko": "영상정보관리 자격을 취득했으며 유효기간은 2031년 6월 29일까지입니다.",
+      "en": "Earned the Video Information Manager qualification, valid through June 29, 2031."
+    },
+    "featured": false,
+    "tags": [
+      "certificate",
+      "media",
+      "technical-support"
+    ]
+  },
+  {
+    "slug": "rfid-gl",
+    "sortDate": "2026-06-26",
+    "kind": "certificate",
+    "status": "completed",
+    "period": "2026.06.26",
+    "title": {
+      "ko": "RFID-GL",
+      "en": "RFID-GL"
+    },
+    "summary": {
+      "ko": "RFID-GL 자격을 취득했습니다.",
+      "en": "Earned the RFID-GL qualification."
+    },
+    "featured": false,
+    "tags": [
+      "certificate",
+      "rfid",
+      "iot"
+    ]
+  },
+  {
+    "slug": "office-digital-certifications",
+    "sortDate": "2026-05-25",
+    "kind": "certificate",
+    "status": "completed",
+    "period": "2015 — 2026",
+    "title": {
+      "ko": "사무·디지털 리터러시 자격군",
+      "en": "Office and Digital Literacy Certifications"
+    },
+    "summary": {
+      "ko": "워드프로세서, 비서 1급, ITQ OA Master, 디지털정보활용능력 고급·공인강사 등 관련 자격을 취득했습니다.",
+      "en": "Earned certifications including Word Processor, Secretary Level 1, ITQ OA Master, and advanced digital literacy and instructor credentials."
+    },
+    "featured": false,
+    "tags": [
+      "certificate",
+      "office-software",
+      "digital-literacy"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "비서 1급, 워드프로세서",
+          "en": "Secretary Level 1 and Word Processor"
+        },
+        {
+          "ko": "GTQ 그래픽기술자격 2급(2017.01.13)",
+          "en": "GTQ Graphic Technology Level 2, Jan 13, 2017"
+        },
+        {
+          "ko": "ITQ 한글 A(2016.07.28), 엑셀 A(2015.12.31), 파워포인트 B(2015.07.02), 인터넷 A(2016.06.02)",
+          "en": "ITQ Hangul A, Excel A, PowerPoint B, and Internet A"
+        },
+        {
+          "ko": "ITQ OA Master(2016.08.08)",
+          "en": "ITQ OA Master, Aug 8, 2016"
+        },
+        {
+          "ko": "DIAT 고급: 인터넷정보검색·스프레드시트·워드프로세서(2026.03.06), 정보통신상식(03.20), 멀티미디어제작·프레젠테이션(05.15)",
+          "en": "DIAT Advanced in Internet Search, Spreadsheets, Word Processing, ICT Knowledge, Multimedia Production, and Presentation"
+        },
+        {
+          "ko": "DIAT 공인강사(2026.05.25)",
+          "en": "DIAT Certified Instructor, May 25, 2026"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "linux-master-level-2",
+    "sortDate": "2026-04-03",
+    "kind": "certificate",
+    "status": "completed",
+    "period": "2026.04",
+    "title": {
+      "ko": "리눅스마스터 2급",
+      "en": "Linux Master Level 2"
+    },
+    "summary": {
+      "ko": "한국정보통신진흥협회 리눅스 활용 자격을 취득했습니다.",
+      "en": "Earned the Linux qualification administered by KAIT."
+    },
+    "featured": false,
+    "tags": [
+      "certificate",
+      "linux",
+      "computer-engineering"
+    ]
+  },
+  {
+    "slug": "korean-history-level-2",
+    "sortDate": "2026-02-20",
+    "kind": "certificate",
+    "status": "completed",
+    "period": "2026.02",
+    "title": {
+      "ko": "한국사능력검정시험 2급",
+      "en": "Korean History Proficiency Test Level 2"
+    },
+    "summary": {
+      "ko": "국사편찬위원회 한국사능력검정시험 2급을 취득했습니다.",
+      "en": "Earned Level 2 of the Korean History Proficiency Test."
+    },
+    "featured": false,
+    "tags": [
+      "certificate",
+      "history"
+    ]
+  },
+  {
+    "slug": "ict-technician-beginner",
+    "sortDate": "2025-11-18",
+    "kind": "certificate",
+    "status": "completed",
+    "period": "2025.11.18",
+    "title": {
+      "ko": "ICT기술자 초급",
+      "en": "ICT Technician, Beginner Level"
+    },
+    "summary": {
+      "ko": "ICT기술자 초급 자격을 취득했습니다.",
+      "en": "Earned the beginner-level ICT Technician qualification."
+    },
+    "featured": false,
+    "tags": [
+      "certificate",
+      "information-technology",
+      "technical-support"
+    ]
+  },
+  {
+    "slug": "information-processing-industrial-engineer",
+    "sortDate": "2025-09-12",
+    "kind": "certificate",
+    "status": "completed",
+    "period": "2025.09",
+    "title": {
+      "ko": "정보처리산업기사",
+      "en": "Industrial Engineer Information Processing"
+    },
+    "summary": {
+      "ko": "한국산업인력공단 국가기술자격을 취득했습니다.",
+      "en": "Earned the national technical qualification administered by HRDKorea."
+    },
+    "featured": false,
+    "tags": [
+      "certificate",
+      "computer-engineering",
+      "software"
+    ]
+  },
+  {
+    "slug": "unmanned-aircraft-pilot-class-4",
+    "sortDate": "2025-09-01",
+    "kind": "certificate",
+    "status": "completed",
+    "period": "2025.09",
+    "title": {
+      "ko": "무인동력비행장치 4종 조종자",
+      "en": "Class 4 Unmanned Aircraft Pilot"
+    },
+    "summary": {
+      "ko": "한국교통안전공단 무인비행장치 조종 자격을 취득했습니다.",
+      "en": "Earned the Class 4 unmanned aircraft pilot qualification from KOTSA."
+    },
+    "featured": false,
+    "tags": [
+      "certificate",
+      "drone",
+      "satellite"
+    ]
+  },
+  {
+    "slug": "drivers-license-class-1",
+    "sortDate": "2023-01-31",
+    "kind": "certificate",
+    "status": "completed",
+    "period": "2023.01.31",
+    "title": {
+      "ko": "자동차운전면허 1종 보통",
+      "en": "Class 1 Ordinary Driver's License"
+    },
+    "summary": {
+      "ko": "자동차운전면허 1종 보통을 취득했습니다.",
+      "en": "Earned a Class 1 ordinary driver's license."
+    },
+    "featured": false,
+    "tags": [
+      "certificate",
+      "driving"
+    ]
+  },
+  {
+    "slug": "information-processing-technician",
+    "sortDate": "2021-10-01",
+    "kind": "certificate",
+    "status": "completed",
+    "period": "2021.10",
+    "title": {
+      "ko": "정보처리기능사",
+      "en": "Craftsman Information Processing"
+    },
+    "summary": {
+      "ko": "한국산업인력공단 국가기술자격을 취득했습니다.",
+      "en": "Earned the national technical qualification administered by HRDKorea."
+    },
+    "featured": false,
+    "tags": [
+      "certificate",
+      "computer-engineering",
+      "software"
+    ]
+  },
+  {
+    "slug": "omok-5-kyu",
+    "sortDate": "2019-11-16",
+    "kind": "certificate",
+    "status": "completed",
+    "period": "2019.11.16",
+    "title": {
+      "ko": "오목 5급",
+      "en": "Omok 5-kyu"
+    },
+    "summary": {
+      "ko": "대한오목협회 오목 5급을 인허받았습니다.",
+      "en": "Received 5-kyu certification from the Korea Omok Association."
+    },
+    "featured": false,
+    "tags": [
+      "certificate",
+      "omok",
+      "mind-sport"
+    ]
+  },
+  {
+    "slug": "kendo-6-kyu",
+    "sortDate": "2017-08-01",
+    "kind": "certificate",
+    "status": "completed",
+    "period": "2017.08.01",
+    "title": {
+      "ko": "검도 6급",
+      "en": "Kendo 6-kyu"
+    },
+    "summary": {
+      "ko": "검도 6급을 취득했습니다.",
+      "en": "Earned kendo 6-kyu."
+    },
+    "featured": false,
+    "tags": [
+      "certificate",
+      "kendo",
+      "sports"
+    ]
+  }
+]

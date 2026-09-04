@@ -1,0 +1,313 @@
+[
+  {
+    "slug": "private-math-tutoring",
+    "sortDate": "2026-09-01",
+    "kind": "teaching",
+    "status": "ongoing",
+    "period": "2022 — 2026",
+    "title": {
+      "ko": "개인 수학 교습",
+      "en": "Private Mathematics Tutoring"
+    },
+    "summary": {
+      "ko": "중3·고1·고2 학생에게 기초 수학, 문제 풀이와 고교 수학 과정을 지도했습니다.",
+      "en": "Tutored middle- and high-school students in foundational mathematics, problem solving, and the secondary curriculum."
+    },
+    "featured": false,
+    "tags": [
+      "teaching",
+      "mentoring",
+      "mathematics",
+      "youth"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "2022년 1학기 중3: 수포자를 위한 중학교 수학 기초",
+          "en": "Spring 2022, grade 9: foundational middle-school mathematics"
+        },
+        {
+          "ko": "2023년 여름 고2: 수학Ⅰ·수학Ⅱ·확률과통계",
+          "en": "Summer 2023, grade 11: Mathematics I, Mathematics II, Probability and Statistics"
+        },
+        {
+          "ko": "2026년 고1: 수학 문제 풀이",
+          "en": "2026, grade 10: mathematics problem solving"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "khlug-tgwing-education",
+    "sortDate": "2025-06-30",
+    "kind": "teaching",
+    "status": "completed",
+    "period": "2023 — 2025",
+    "title": {
+      "ko": "KHLUG·T.G.WinG 전공 교육 프로그램",
+      "en": "KHLUG and T.G.WinG Computing Education Programs"
+    },
+    "summary": {
+      "ko": "정보보호, 알고리즘, Python, Linux 등 전공 주제의 스터디와 교육을 기획·진행했습니다.",
+      "en": "Planned and taught study programs in information security, algorithms, Python, Linux, and related topics."
+    },
+    "featured": false,
+    "tags": [
+      "education",
+      "teaching",
+      "information-security",
+      "algorithm",
+      "python",
+      "linux",
+      "community"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "T.G.WinG [2025-2] 알고리즘 원리 이해하기: 3개 분반·9차시",
+          "en": "T.G.WinG Fall 2025 Understanding Algorithm Principles: three sections, nine sessions"
+        },
+        {
+          "ko": "KHLUG&N.E.T [2025-1] 정보보안 10차시 중 7차시, 리눅스 10차시",
+          "en": "KHLUG & N.E.T Spring 2025: seven of ten security sessions and ten Linux sessions"
+        },
+        {
+          "ko": "T.G.WinG 2025 신입생 파이썬 9차시 중 1차시",
+          "en": "T.G.WinG 2025 freshman Python: one of nine sessions"
+        },
+        {
+          "ko": "KHLUG&T.G.WinG [2024-2] 정보보안 9차시, 알고리즘 9차시",
+          "en": "KHLUG & T.G.WinG Fall 2024: nine security and nine algorithm sessions"
+        },
+        {
+          "ko": "KHLUG [2024-1] 알고리즘 10차시, 파이썬 개발 기초 10차시",
+          "en": "KHLUG Spring 2024: ten algorithm and ten introductory Python sessions"
+        },
+        {
+          "ko": "T.G.WinG 2024 신입생 파이썬 10차시 중 2차시·현장멘토 5회",
+          "en": "T.G.WinG 2024 freshman Python: two of ten sessions and five on-site mentoring sessions"
+        },
+        {
+          "ko": "경희대 컴퓨터공학부 2024 모바일 트랙 Dart/Flutter 9차시 보조강사",
+          "en": "Assistant instructor for a nine-session 2024 Dart/Flutter mobile track"
+        },
+        {
+          "ko": "고품 2024-1 베이스 8명 개별 레슨·6차시",
+          "en": "Six individual bass-lesson sessions for eight GOPOOM members"
+        },
+        {
+          "ko": "KHLUG [2023-2] 파이썬 개발 기초 10차시; 엄사중 UPC Scratch 5차시(2018)",
+          "en": "KHLUG Fall 2023 introductory Python, ten sessions; UPC Scratch at Eomsa Middle, five sessions in 2018"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "admissions-mentoring",
+    "sortDate": "2024-12-31",
+    "kind": "teaching",
+    "status": "completed",
+    "period": "2021 — 2024",
+    "title": {
+      "ko": "고등학교·대학교 입시 멘토링",
+      "en": "High School and University Admissions Mentoring"
+    },
+    "summary": {
+      "ko": "과학고와 대학 입시를 준비하는 학생에게 지원 전략과 학교생활 경험을 안내했습니다.",
+      "en": "Mentored students preparing for science-high-school and university admissions."
+    },
+    "featured": false,
+    "tags": [
+      "education",
+      "mentoring",
+      "admissions",
+      "youth"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "대학 입시: 2024 한국에너지공과대 1명, 2023 POSTECH 1명·아주대 1명 합격 지원",
+          "en": "University admissions: supported one KENTECH admit in 2024 and one POSTECH and one Ajou admit in 2023"
+        },
+        {
+          "ko": "고교 입시: 2024 한국과학영재학교 1차 1명, 2023 강원과학고 1명, 2022·2021 충남과학고 각 1명 합격 지원",
+          "en": "High-school admissions: supported one KSA first-round pass in 2024, one Gangwon Science High admit in 2023, and one Chungnam Science High admit in each of 2022 and 2021"
+        },
+        {
+          "ko": "전형·대학·학과 상담, 자기소개서·면접·특기자료·생활기록부 피드백",
+          "en": "Advised on admission tracks, institutions and majors, essays, interviews, portfolios, and school records"
+        },
+        {
+          "ko": "개인 입시 결과: 경희대·DGIST·아주대 최종, 건국대 1차",
+          "en": "Personal admissions: final admission to KHU, DGIST, and Ajou; first-round pass at Konkuk"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "school-career-mentoring",
+    "sortDate": "2024-11-30",
+    "kind": "teaching",
+    "status": "completed",
+    "period": "2023.07 — 2024.11",
+    "title": {
+      "ko": "중·고등학교 진로·전공 멘토링",
+      "en": "Career and Major Mentoring at Secondary Schools"
+    },
+    "summary": {
+      "ko": "15개교에서 총 34시간 동안 컴퓨터공학, 대학생활과 진로를 주제로 멘토링했습니다.",
+      "en": "Delivered 34 hours of mentoring across 15 schools on computer engineering, university life, and careers."
+    },
+    "featured": false,
+    "tags": [
+      "education",
+      "mentoring",
+      "career-education",
+      "computer-engineering"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "충남과학고(컴퓨터공학·신약개발, 2024.02.07), 대영고(독서토론, 2024.05.25), 경북소프트웨어고(컴퓨터공학 개론, 2024.11.27)",
+          "en": "Chungnam Science High (computer engineering and drug discovery), Daeyoung High (reading discussion), Gyeongbuk Software High (intro to computer engineering)"
+        },
+        {
+          "ko": "평택고(대입·생활기록부), 구성고(생활기록부·모의고사), 단원고(전공 소개·토의), 안화고·고잔고(전공 쟁점 토론)",
+          "en": "Pyeongtaek, Guseong, Danwon, Anhwa, and Gojan High School mentoring on admissions, school records, and major-related discussion"
+        },
+        {
+          "ko": "봉담고(주제탐구보고서), 판교고(전공 탐색·토론), 독산고(입시·생활기록부·주제탐구), 홍천고(생활기록부·자기주도학습)",
+          "en": "Bongdam, Pangyo, Doksan, and Hongcheon High School mentoring on research reports, major exploration, admissions, and self-directed study"
+        },
+        {
+          "ko": "보평중(대입·고교학점제), 송탄고·호원고(진로 연계 독서 토의)",
+          "en": "Bopyeong Middle (admissions and high-school credit system), Songtan and Howon High (career-linked reading discussion)"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "tedi-programming-classes",
+    "sortDate": "2024-07-07",
+    "kind": "teaching",
+    "status": "completed",
+    "period": "2024.02 — 2024.07",
+    "title": {
+      "ko": "C++·SW대회·한국정보올림피아드 대비 수업",
+      "en": "C++, Software Competition, and KOI Preparation Classes"
+    },
+    "summary": {
+      "ko": "중·고등학생 대상 C++와 알고리즘 수업을 운영했고, 수강생 1명이 KOI 2차대회 장려상을 수상했습니다.",
+      "en": "Taught C++ and algorithms to secondary-school students; one student received a second-round KOI award."
+    },
+    "featured": false,
+    "tags": [
+      "teaching",
+      "mentoring",
+      "cpp",
+      "algorithm",
+      "programming-contest"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "SW대회 준비반: 2024.02.04–05.05, 주 1회 2.5시간",
+          "en": "Software competition preparation: Feb–May 2024, 2.5 hours weekly"
+        },
+        {
+          "ko": "C++반: 2024.03.03–05.05, 주 1회 2.5시간",
+          "en": "C++ class: Mar–May 2024, 2.5 hours weekly"
+        },
+        {
+          "ko": "정보올림피아드 본선대비반: 2024.05.19–07.07, 주 1회 2.5시간",
+          "en": "KOI finals preparation: May–Jul 2024, 2.5 hours weekly"
+        },
+        {
+          "ko": "수강생 1명 제41회 KOI 2차대회 중등부 장려상",
+          "en": "One student received a middle-school honorable mention in the 41st KOI Round 2"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "science-coding-booths",
+    "sortDate": "2023-12-31",
+    "kind": "teaching",
+    "status": "completed",
+    "period": "2017 — 2023",
+    "title": {
+      "ko": "과학·수학·코딩 체험부스 운영",
+      "en": "Science, Mathematics, and Coding Experience Booths"
+    },
+    "summary": {
+      "ko": "사이버과학축제, 과학카페, 수학축전 등에서 유전알고리즘·피지컬컴퓨팅·스마트팜 체험을 운영했습니다.",
+      "en": "Ran hands-on activities in genetic algorithms, physical computing, and smart farms at science and mathematics festivals."
+    },
+    "featured": false,
+    "tags": [
+      "education",
+      "science-communication",
+      "maker",
+      "ai",
+      "arduino"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "2023 용인사이버과학축제 12시간 — VR·AR·햅틱스·모션인식",
+          "en": "2023 Yongin Cyber Science Festival, 12h — VR, AR, haptics, motion recognition"
+        },
+        {
+          "ko": "2022·2021 사이언스 카페 각 3시간 — 오조봇 비주얼 코딩",
+          "en": "2022 and 2021 Science Café, 3h each — Ozobot visual coding"
+        },
+        {
+          "ko": "2022 과학기기설명회 4시간 — 유전 알고리즘",
+          "en": "2022 Science Equipment Fair, 4h — genetic algorithms"
+        },
+        {
+          "ko": "2022 과학문화 확산주간 8시간 — 생태환경배움터 온실",
+          "en": "2022 Science Culture Week, 8h — greenhouse ecology learning"
+        },
+        {
+          "ko": "2019 충남과학창의축전 8시간 — 피지컬컴퓨팅 체험",
+          "en": "2019 Chungnam Science Creativity Festival, 8h — physical computing"
+        },
+        {
+          "ko": "2019 엄사수학축제 5시간 — 다빈치 돔",
+          "en": "2019 Eomsa Math Festival, 5h — Da Vinci dome"
+        },
+        {
+          "ko": "2018 엄사수학축제 5시간 — 확률 실험실",
+          "en": "2018 Eomsa Math Festival, 5h — probability laboratory"
+        },
+        {
+          "ko": "2017 엄사수학축제 5시간 — 다빈치 다리",
+          "en": "2017 Eomsa Math Festival, 5h — Da Vinci bridge"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "openskyedu-dreaming-school",
+    "sortDate": "2023-05-24",
+    "kind": "teaching",
+    "status": "ongoing",
+    "period": "2023.05 — Present",
+    "title": {
+      "ko": "오픈스카이에듀 드리밍스쿨 멘토",
+      "en": "Dreaming School Mentor, OpenSkyEdu"
+    },
+    "summary": {
+      "ko": "중·고등학교에서 컴퓨터공학, 전공 탐색, 생활기록부, 독서·토론, 입시 주제의 멘토링을 진행했습니다.",
+      "en": "Mentored middle- and high-school students on computer engineering, major exploration, school records, reading and discussion, and admissions."
+    },
+    "featured": false,
+    "tags": [
+      "teaching",
+      "mentoring",
+      "career-education",
+      "admissions"
+    ]
+  }
+]

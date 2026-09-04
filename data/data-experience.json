@@ -1,0 +1,821 @@
+[
+  {
+    "slug": "omok-official-ranking-67",
+    "sortDate": "2026-05-31",
+    "kind": "experience",
+    "status": "completed",
+    "period": "2026.05",
+    "title": {
+      "ko": "대한오목협회 공식랭킹 67위",
+      "en": "No. 67 in the Korea Omok Association Official Ranking"
+    },
+    "summary": {
+      "ko": "2026년 5월 기준 대한오목협회 공식랭킹 67위를 기록했습니다.",
+      "en": "Ranked 67th in the Korea Omok Association official ranking as of May 2026."
+    },
+    "featured": false,
+    "tags": [
+      "omok",
+      "mind-sport",
+      "ranking"
+    ]
+  },
+  {
+    "slug": "army-cyber-operations-service",
+    "sortDate": "2026-01-01",
+    "kind": "experience",
+    "status": "ongoing",
+    "period": "2025.07 — 2027.01",
+    "title": {
+      "ko": "육군 사이버작전 분야 복무",
+      "en": "Army Service in Cyber Operations"
+    },
+    "summary": {
+      "ko": "사이버·보안 기술 연구와 과업을 수행하고, 관련 정책·대회·자문회의 운영을 지원했습니다.",
+      "en": "Conducting cyber and security research tasks while supporting policy, competition, and advisory-meeting operations."
+    },
+    "featured": false,
+    "tags": [
+      "military",
+      "cybersecurity",
+      "security",
+      "technical-support",
+      "event-operations"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "2025.08.28–2025.12.31 사이버작전센터 기술통제팀",
+          "en": "Cyber Operations Center, Technical Control Team, Aug–Dec 2025"
+        },
+        {
+          "ko": "2026.01.01–2027.01.20 사이버작전여단 202작전대",
+          "en": "202nd Operations Unit, Cyber Operations Brigade, Jan 2026–Jan 2027"
+        },
+        {
+          "ko": "사이버 정책과제 공동 제안, 2025 육군 사이버보안 경진대회 운영, 2025 사이버·전자전 자문회의 지원",
+          "en": "Co-proposed a cyber policy project; operated the 2025 Army Cybersecurity Competition; supported a cyber and electronic-warfare advisory meeting"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "cyber-electronic-warfare-advisory-2025",
+    "sortDate": "2025-11-18",
+    "kind": "experience",
+    "status": "completed",
+    "period": "2025.11.18",
+    "title": {
+      "ko": "2025 사이버·전자전 자문회의 지원",
+      "en": "2025 Cyber and Electronic Warfare Advisory Meeting"
+    },
+    "summary": {
+      "ko": "행사장 구성, 발표와 운영을 지원했습니다.",
+      "en": "Supported venue setup, presentations, and logistics."
+    },
+    "featured": false,
+    "tags": [
+      "military",
+      "cybersecurity",
+      "event-operations",
+      "technical-support"
+    ]
+  },
+  {
+    "slug": "band-affiliations",
+    "sortDate": "2025-10-09",
+    "kind": "experience",
+    "status": "ongoing",
+    "period": "2022 — Present",
+    "title": {
+      "ko": "밴드 소속과 파트",
+      "en": "Band Affiliations and Roles"
+    },
+    "summary": {
+      "ko": "보컬과 베이스 기타로 다섯 밴드에서 활동했습니다.",
+      "en": "Performed as a vocalist and bass guitarist in five bands."
+    },
+    "featured": false,
+    "tags": [
+      "music",
+      "bass",
+      "vocal",
+      "band"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "로이(Roy): 보컬·베이스, 2025.10.09–",
+          "en": "Roy: vocals and bass, since Oct 2025"
+        },
+        {
+          "ko": "고품(GOPOOM): 베이스, 2023.03.03–",
+          "en": "GOPOOM: bass, since Mar 2023"
+        },
+        {
+          "ko": "알띠움(Alttium): 베이스, 2023.09.14–2024.08.31",
+          "en": "Alttium: bass, Sep 2023–Aug 2024"
+        },
+        {
+          "ko": "오프너(OPENER): 베이스, 2023.01.27–2024.01.07",
+          "en": "OPENER: bass, Jan 2023–Jan 2024"
+        },
+        {
+          "ko": "아이노스(AINOS): 보컬·베이스, 2022.01.09–2023.01.08",
+          "en": "AINOS: vocals and bass, Jan 2022–Jan 2023"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "khu-club-memberships",
+    "sortDate": "2025-09-01",
+    "kind": "experience",
+    "status": "ongoing",
+    "period": "2023 — Present",
+    "title": {
+      "ko": "경희대학교 동아리 활동",
+      "en": "Kyung Hee University Club Activities"
+    },
+    "summary": {
+      "ko": "IT·AI·보안·수학·음악·마라톤·보드게임 분야의 교내 동아리에서 활동했습니다.",
+      "en": "Participated in university clubs spanning IT, AI, security, mathematics, music, running, and board games."
+    },
+    "featured": false,
+    "tags": [
+      "community",
+      "khlug",
+      "ai",
+      "security",
+      "mathematics",
+      "music",
+      "sports"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "쿠러그(KHLUG) 2023.02.26–",
+          "en": "KHLUG, since Feb 2023"
+        },
+        {
+          "ko": "셜록 2023.03.08–",
+          "en": "Sherlock board-game club, since Mar 2023"
+        },
+        {
+          "ko": "KHUDA 2025.01.10–2025.07.09",
+          "en": "KHUDA data and AI club, Jan–Jul 2025"
+        },
+        {
+          "ko": "고품(GOPOOM) 2023.03.03–",
+          "en": "GOPOOM band club, since Mar 2023"
+        },
+        {
+          "ko": "쿠마(KHUMA) 2024.08.26–2025.02.28",
+          "en": "KHUMA running club, Aug 2024–Feb 2025"
+        },
+        {
+          "ko": "T.G.WinG 2023.02.17–",
+          "en": "T.G.WinG computing club, since Feb 2023"
+        },
+        {
+          "ko": "알띠움 2023.09.14–2024.08.31",
+          "en": "Alttium band, Sep 2023–Aug 2024"
+        },
+        {
+          "ko": "경희수학사랑 2024.03.11–2025.08.31",
+          "en": "Kyung Hee Mathematics Love, Mar 2024–Aug 2025"
+        },
+        {
+          "ko": "HacKHU 2025.09.01–",
+          "en": "HacKHU security club, since Sep 2025"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "khu-student-programs",
+    "sortDate": "2025-06-23",
+    "kind": "experience",
+    "status": "completed",
+    "period": "2023.06 — 2025.06",
+    "title": {
+      "ko": "경희대학교 교내 참여 프로그램",
+      "en": "Kyung Hee University Participation Programs"
+    },
+    "summary": {
+      "ko": "멘토링, 메이커, 소프트웨어 봉사와 융합 프로그램에 참여했습니다.",
+      "en": "Participated in mentoring, maker, software-volunteering, and interdisciplinary university programs."
+    },
+    "featured": false,
+    "tags": [
+      "experience",
+      "kyunghee",
+      "mentoring",
+      "maker",
+      "volunteer",
+      "software"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "[2025-1] 자유전공학부 멘토 2025.03.01–06.23",
+          "en": "Undeclared-major mentor, Mar–Jun 2025"
+        },
+        {
+          "ko": "[2025-1] SW 멘토: 웹/파이선프로그래밍 2025.03.01–06.23",
+          "en": "Software mentor for web/Python programming, Mar–Jun 2025"
+        },
+        {
+          "ko": "소프트웨어가치탐구 예비대학프로그램 조교 2025.01.06–02.22",
+          "en": "Teaching assistant, Software Value Exploration pre-college program, Jan–Feb 2025"
+        },
+        {
+          "ko": "[2024-2] SW 멘토: 웹/파이선프로그래밍 2024.09.01–12.20",
+          "en": "Software mentor for web/Python programming, Sep–Dec 2024"
+        },
+        {
+          "ko": "[2024-1] 같이&가치 멘토링 2024.03.04–06.21",
+          "en": "Gachi & Value mentoring, Mar–Jun 2024"
+        },
+        {
+          "ko": "KHU Makers 3기 2023.11.01–2024.01.11",
+          "en": "KHU Makers cohort 3, Nov 2023–Jan 2024"
+        },
+        {
+          "ko": "SW나눔봉사단 2023.09.01–2024.02.29",
+          "en": "Software Sharing Volunteer Corps, Sep 2023–Feb 2024"
+        },
+        {
+          "ko": "제2회 예술적인 소프트웨어 2023.06.23–11.09",
+          "en": "2nd Artistic Software program, Jun–Nov 2023"
+        },
+        {
+          "ko": "KHU Makers 2기 2023.09.01–10.31",
+          "en": "KHU Makers cohort 2, Sep–Oct 2023"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "live-performance-record",
+    "sortDate": "2025-05-31",
+    "kind": "experience",
+    "status": "completed",
+    "period": "2022 — 2025",
+    "title": {
+      "ko": "공식 연주·보컬 기록",
+      "en": "Official Live Performance Record"
+    },
+    "summary": {
+      "ko": "교내 정기공연과 동문 행사, 합작 음원에서 베이스·보컬로 참여했습니다.",
+      "en": "Performed bass or vocals at university concerts, an alumni event, and a collaborative release."
+    },
+    "featured": false,
+    "tags": [
+      "music",
+      "bass",
+      "vocal",
+      "performance"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "2025.05.31 고품 정기공연 — 쏜애플 ‘아지랑이’",
+          "en": "May 31, 2025 GOPOOM concert — THORNAPPLE, ‘Haze’"
+        },
+        {
+          "ko": "2024.05.31 알띠움 하계공연 — 신해철 ‘그대에게’, 윤하 ‘26’, 하현상 ‘불꽃놀이’",
+          "en": "May 31, 2024 Alttium concert — ‘To You,’ ‘26,’ and ‘Fireworks’"
+        },
+        {
+          "ko": "2024.03.13 충남과학고 선후배 대면식 — 윤하 ‘비밀번호 486’",
+          "en": "Mar 13, 2024 Chungnam Science High alumni event — Younha, ‘Password 486’"
+        },
+        {
+          "ko": "2024.01.04 알띠움 동계공연 — 터치드 ‘Highlight’, ‘Shut Down’",
+          "en": "Jan 4, 2024 Alttium concert — TOUCHED, ‘Highlight’ and ‘Shut Down’"
+        },
+        {
+          "ko": "2023.06.03 고품 제68회 정기공연 — 윤하 ‘오르트구름’, FT아일랜드 ‘사랑사랑사랑’",
+          "en": "Jun 3, 2023 GOPOOM concert — ‘Oort Cloud’ and ‘Love Love Love’"
+        },
+        {
+          "ko": "2023.05.15 10CM×조매력 합주 — ‘Lost My Phone’, ‘부동의 첫사랑’",
+          "en": "May 15, 2023 10CM × Charming Jo ensemble — ‘Lost My Phone’ and ‘My Ultimate First Love’"
+        },
+        {
+          "ko": "2022.08.15 6FU; 광복절 합작 ‘아름다운 나라’ 코러스",
+          "en": "Aug 15, 2022 6FU; Liberation Day collaboration, chorus on ‘Beautiful Country’"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "khu-major-fair-2025",
+    "sortDate": "2025-05-21",
+    "kind": "experience",
+    "status": "completed",
+    "period": "2025.05.19 — 05.21",
+    "title": {
+      "ko": "2025 경희대학교 전공박람회 운영",
+      "en": "2025 Kyung Hee University Major Fair"
+    },
+    "summary": {
+      "ko": "자유전공학부 전공박람회 부스와 전공탐방 프로그램을 지원했습니다.",
+      "en": "Supported an undeclared-major fair booth and major-exploration program."
+    },
+    "featured": false,
+    "tags": [
+      "event-operations",
+      "mentoring",
+      "kyunghee",
+      "volunteer"
+    ]
+  },
+  {
+    "slug": "khudata-2025",
+    "sortDate": "2025-05-17",
+    "kind": "experience",
+    "status": "completed",
+    "period": "2025.05.17",
+    "title": {
+      "ko": "제2회 KHUDA 데이터톤 KHU'DATA 운영",
+      "en": "2nd KHUDA Datathon KHU'DATA"
+    },
+    "summary": {
+      "ko": "데이터톤 기획·스태프와 타임키퍼를 맡았습니다.",
+      "en": "Supported datathon planning and operations and served as timekeeper."
+    },
+    "featured": false,
+    "tags": [
+      "data-science",
+      "competition",
+      "event-operations",
+      "planning"
+    ]
+  },
+  {
+    "slug": "bob-13-program",
+    "sortDate": "2025-03-28",
+    "kind": "experience",
+    "status": "completed",
+    "period": "2024.07 — 2025.03",
+    "title": {
+      "ko": "차세대 보안리더 양성 프로그램 BoB 13기",
+      "en": "Best of the Best 13, Security Product Development Track"
+    },
+    "summary": {
+      "ko": "보안제품개발 트랙에서 저사양 위성 양자내성암호 모듈 프로젝트를 수행했습니다.",
+      "en": "Completed the security product development track with a constrained-satellite PQC module project."
+    },
+    "featured": false,
+    "tags": [
+      "security",
+      "information-security",
+      "pqc",
+      "education"
+    ]
+  },
+  {
+    "slug": "problem-setting-history",
+    "sortDate": "2024-12-31",
+    "kind": "experience",
+    "status": "completed",
+    "period": "2021 — 2024",
+    "title": {
+      "ko": "프로그래밍 문제 출제 이력",
+      "en": "Programming Problem-setting History"
+    },
+    "summary": {
+      "ko": "대학·고교 경시대회와 온라인 저지에 Bronze–Gold 수준 문제 10개를 출제했습니다.",
+      "en": "Authored ten Bronze-to-Gold programming problems for university and high-school contests and an online judge."
+    },
+    "featured": false,
+    "tags": [
+      "algorithm",
+      "problem-setting",
+      "competitive-programming",
+      "education"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "동의대 소프트웨어공학 2024-2 실기대회: 오리-EASY(Bronze)",
+          "en": "Dong-eui University Software Engineering Fall 2024 practical contest: Ori-EASY (Bronze)"
+        },
+        {
+          "ko": "동의대 IoT응용시스템 2024 대회: 오리-HARD(Silver), 오리-EASY(Bronze)",
+          "en": "Dong-eui University IoT Applied Systems 2024 contest: Ori-HARD (Silver), Ori-EASY (Bronze)"
+        },
+        {
+          "ko": "충남과학고 2023 축제: HQ99+(Bronze), 누가 [수학/물리/정보] 소리를 내었는가(Silver)",
+          "en": "Chungnam Science High 2023 festival: HQ99+ (Bronze), Who Made the [Math/Physics/Informatics] Sound? (Silver)"
+        },
+        {
+          "ko": "충남과학고 2022 축제: Subnet Mask(Gold); 2021 선발전: #include(Silver), Odd and Even(Bronze)",
+          "en": "Chungnam Science High: Subnet Mask (Gold, 2022); #include (Silver) and Odd and Even (Bronze, 2021)"
+        },
+        {
+          "ko": "온라인 저지: 올바르지 않은 괄호 문자열(Gold), 자작 종강(Bronze), Early to Pack(Bronze)",
+          "en": "Online judge: Invalid Parenthesis String (Gold), Self-made End of Semester (Bronze), Early to Pack (Bronze)"
+        },
+        {
+          "ko": "ASCode 문제 1063-2, 1063-8, 1486, 1483, 1482",
+          "en": "ASCode problems 1063-2, 1063-8, 1486, 1483, and 1482"
+        }
+      ]
+    },
+    "links": [
+      {
+        "label": {
+          "ko": "HQ99+ 문제",
+          "en": "HQ99+ problem"
+        },
+        "href": "https://blog.naver.com/oriisme/223202598720"
+      },
+      {
+        "label": {
+          "ko": "HQ99+ 풀이",
+          "en": "HQ99+ solution"
+        },
+        "href": "https://blog.naver.com/oriisme/223202600524"
+      },
+      {
+        "label": {
+          "ko": "누가 소리를 내었는가 문제",
+          "en": "Who Made the Sound? problem"
+        },
+        "href": "https://blog.naver.com/oriisme/223202599002"
+      },
+      {
+        "label": {
+          "ko": "누가 소리를 내었는가 풀이",
+          "en": "Who Made the Sound? solution"
+        },
+        "href": "https://blog.naver.com/oriisme/223202601944"
+      },
+      {
+        "label": {
+          "ko": "Subnet Mask",
+          "en": "Subnet Mask"
+        },
+        "href": "https://blog.naver.com/oriisme/222899546736"
+      },
+      {
+        "label": {
+          "ko": "#include",
+          "en": "#include"
+        },
+        "href": "https://blog.naver.com/oriisme/222899524522"
+      },
+      {
+        "label": {
+          "ko": "Odd and Even",
+          "en": "Odd and Even"
+        },
+        "href": "https://blog.naver.com/oriisme/222899516401"
+      },
+      {
+        "label": {
+          "ko": "오리-EASY",
+          "en": "Ori-EASY"
+        },
+        "href": "http://ascode.org/problem.php?cid=1063&pid=2"
+      },
+      {
+        "label": {
+          "ko": "오리-HARD",
+          "en": "Ori-HARD"
+        },
+        "href": "http://ascode.org/problem.php?cid=1063&pid=8"
+      },
+      {
+        "label": {
+          "ko": "올바르지 않은 괄호 문자열",
+          "en": "Invalid Parenthesis String"
+        },
+        "href": "http://ascode.org/problem.php?id=1486"
+      },
+      {
+        "label": {
+          "ko": "자작 종강",
+          "en": "Self-made End of Semester"
+        },
+        "href": "http://ascode.org/problem.php?id=1483"
+      },
+      {
+        "label": {
+          "ko": "Early to Pack",
+          "en": "Early to Pack"
+        },
+        "href": "http://ascode.org/problem.php?id=1482"
+      }
+    ]
+  },
+  {
+    "slug": "history-institute-sagwan",
+    "sortDate": "2024-12-14",
+    "kind": "experience",
+    "status": "completed",
+    "period": "2024.11 — 2024.12",
+    "title": {
+      "ko": "대학생 서포터즈 ‘사관’",
+      "en": "University Supporter ‘Sagwan’"
+    },
+    "summary": {
+      "ko": "한국역사해설진흥원 서포터즈로 역사 현장을 취재하고 기록·홍보 콘텐츠를 제작했습니다.",
+      "en": "Documented historic sites and created public-history content as a supporter for the Korea History Interpretation Promotion Institute."
+    },
+    "featured": false,
+    "tags": [
+      "experience",
+      "history",
+      "content",
+      "campaign",
+      "volunteer"
+    ]
+  },
+  {
+    "slug": "scienceon-supporters",
+    "sortDate": "2024-11-30",
+    "kind": "experience",
+    "status": "completed",
+    "period": "2023 · 2024",
+    "title": {
+      "ko": "KISTI ScienceON 서포터즈 ‘사이언스오너’",
+      "en": "KISTI ScienceON Supporter, Science Owner"
+    },
+    "summary": {
+      "ko": "ScienceON 활용 사례와 과학기술정보를 카드뉴스와 블로그 콘텐츠로 소개했습니다.",
+      "en": "Introduced ScienceON use cases and science and technology information through card news and blog content."
+    },
+    "featured": false,
+    "tags": [
+      "science-communication",
+      "content",
+      "media"
+    ]
+  },
+  {
+    "slug": "ten-kilometer-marathon",
+    "sortDate": "2024-10-05",
+    "kind": "experience",
+    "status": "completed",
+    "period": "2024.10.05",
+    "title": {
+      "ko": "10km 마라톤 완주",
+      "en": "10 km Marathon Finish"
+    },
+    "summary": {
+      "ko": "10km 마라톤을 1시간 1분 24초에 완주했습니다.",
+      "en": "Completed a 10 km marathon in 1:01:24."
+    },
+    "featured": false,
+    "tags": [
+      "sport",
+      "marathon",
+      "experience"
+    ]
+  },
+  {
+    "slug": "thousand-person-flashmob",
+    "sortDate": "2023-05-14",
+    "kind": "experience",
+    "status": "completed",
+    "period": "2023.05",
+    "title": {
+      "ko": "천인음악회 플래시몹 베이스 연주",
+      "en": "Bass Performance in a 1,000-person Flash Mob"
+    },
+    "summary": {
+      "ko": "천인음악회 플래시몹에서 베이스 연주자로 참여했습니다.",
+      "en": "Performed bass in a thousand-person music flash mob."
+    },
+    "featured": false,
+    "tags": [
+      "music",
+      "community",
+      "experience"
+    ]
+  },
+  {
+    "slug": "high-school-clubs",
+    "sortDate": "2023-02-28",
+    "kind": "experience",
+    "status": "completed",
+    "period": "2020 — 2023",
+    "title": {
+      "ko": "충남과학고 동아리 활동",
+      "en": "Clubs at Chungnam Science High School"
+    },
+    "summary": {
+      "ko": "정보과학, 교지, 웹, 문헌정보, 화학실험, 메이킹, 토론과 독서 동아리에서 활동했습니다.",
+      "en": "Participated in informatics, school-journal, web, library science, chemistry, making, debate, and reading clubs."
+    },
+    "featured": false,
+    "tags": [
+      "community",
+      "high-school",
+      "informatics",
+      "web",
+      "chemistry",
+      "maker",
+      "debate",
+      "reading"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "학술동아리 INFORMATICA",
+          "en": "Academic informatics club INFORMATICA"
+        },
+        {
+          "ko": "자율동아리 #include·내마음·정코동·헤르메스·Enthalpy·무한상상",
+          "en": "Independent clubs #include, Naemaeum, Jeongkodong, Hermes, Enthalpy, and Muhansangsang"
+        },
+        {
+          "ko": "일반동아리 시사톡톡·다독다독",
+          "en": "General clubs Sisa Talk Talk and Dadok Dadok"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "unissued-high-school-merit-award",
+    "sortDate": "2023-02-28",
+    "kind": "experience",
+    "status": "completed",
+    "period": "2023",
+    "title": {
+      "ko": "충남과학고 공로상 발급 누락 기록",
+      "en": "Unissued Chungnam Science High School Merit Award"
+    },
+    "summary": {
+      "ko": "공로상 대상자였으나 발급이 누락되어 실제 상장을 받지 못한 기록입니다.",
+      "en": "Was eligible for a merit award, but it was omitted from issuance and no certificate was received."
+    },
+    "featured": false,
+    "tags": [
+      "high-school",
+      "record",
+      "leadership"
+    ]
+  },
+  {
+    "slug": "ktls-student-activity",
+    "sortDate": "2022-12-31",
+    "kind": "experience",
+    "status": "completed",
+    "period": "2022.09 — 2022.12",
+    "title": {
+      "ko": "KTLS 활동",
+      "en": "KTLS Activity"
+    },
+    "summary": {
+      "ko": "2022년 9월부터 12월까지 KTLS 활동에 참여했습니다.",
+      "en": "Participated in KTLS from September through December 2022."
+    },
+    "featured": false,
+    "tags": [
+      "experience",
+      "community",
+      "youth"
+    ]
+  },
+  {
+    "slug": "lyrics-and-translation",
+    "sortDate": "2022-12-31",
+    "kind": "experience",
+    "status": "ongoing",
+    "period": "2017 — Present",
+    "title": {
+      "ko": "작사·가사 번역과 창작 커뮤니티",
+      "en": "Lyrics, Translation, and Songwriting Community"
+    },
+    "summary": {
+      "ko": "작사와 가사 번역을 이어가며 약 200명 규모의 작사 커뮤니티를 운영했습니다.",
+      "en": "Writes lyrics and translations and has managed a songwriting community of about 200 people."
+    },
+    "featured": false,
+    "tags": [
+      "music",
+      "lyrics",
+      "translation",
+      "community",
+      "leadership"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "작사 커뮤니티 운영 2017.02.26–",
+          "en": "Songwriting community management since Feb 2017"
+        },
+        {
+          "ko": "‘고추참치’ 준공식 번역, ‘Letter’ 비공식 번역",
+          "en": "Semi-official translation of ‘Pepper Tuna’ and unofficial translation of ‘Letter’"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "music-platform-releases",
+    "sortDate": "2022-12-31",
+    "kind": "experience",
+    "status": "completed",
+    "period": "2022",
+    "title": {
+      "ko": "네이버 그라폴리오 음악 ‘Debut’·‘Discovery’ 공개",
+      "en": "Music Releases: Debut and Discovery on Naver Grafolio"
+    },
+    "summary": {
+      "ko": "직접 만든 음악 두 곡을 네이버 그라폴리오에 공개했습니다.",
+      "en": "Released two original music tracks on Naver Grafolio."
+    },
+    "featured": false,
+    "tags": [
+      "music",
+      "content",
+      "media"
+    ]
+  },
+  {
+    "slug": "composition-record",
+    "sortDate": "2022-08-16",
+    "kind": "experience",
+    "status": "completed",
+    "period": "2016 — 2022",
+    "title": {
+      "ko": "작곡 기록",
+      "en": "Composition Record"
+    },
+    "summary": {
+      "ko": "클래식 곡 ‘국가에 대한 맹세’와 ‘인공지능 테마 기반 영화음악 작곡 샘플’을 만들었습니다.",
+      "en": "Composed the classical works ‘Pledge to the Nation’ and ‘AI-themed Film Music Composition Sample.’"
+    },
+    "featured": false,
+    "tags": [
+      "music",
+      "composition",
+      "classical",
+      "ai"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "‘인공지능 테마 기반 영화음악 작곡 샘플’ 네이버 그라폴리오 데뷰 선정(2022.04.26), 발견 선정(2022.08.16)",
+          "en": "‘AI-themed Film Music Composition Sample’ selected for Naver Grafolio Debut and Discovery in 2022"
+        },
+        {
+          "ko": "클래식 곡 ‘국가에 대한 맹세’ 작곡(2016)",
+          "en": "Composed the classical work ‘Pledge to the Nation’ in 2016"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "todays-song-series",
+    "sortDate": "2019-02-19",
+    "kind": "experience",
+    "status": "ongoing",
+    "period": "2019.02 — Present",
+    "title": {
+      "ko": "‘오늘의 노래’ 연재",
+      "en": "‘Today's Song’ Series"
+    },
+    "summary": {
+      "ko": "7개 플랫폼에서 음악을 소개하는 ‘오늘의 노래’를 연재하고 있습니다.",
+      "en": "Publishes the music-curation series ‘Today's Song’ across seven platforms."
+    },
+    "featured": false,
+    "tags": [
+      "music",
+      "content",
+      "curation",
+      "media"
+    ]
+  },
+  {
+    "slug": "naver-knowledge-in-superhuman",
+    "sortDate": "2016-02-16",
+    "kind": "experience",
+    "status": "ongoing",
+    "period": "2016.02 — Present",
+    "title": {
+      "ko": "네이버 지식iN 절대신 등급 답변자",
+      "en": "Naver Knowledge iN ‘Superhuman’ Answerer"
+    },
+    "summary": {
+      "ko": "고교 입시, C/C++, 과학 분야를 중심으로 답변하며 상위 5만위·0.06% 수준의 교육기부 활동을 이어 왔습니다.",
+      "en": "Continues educational contribution through answers on high-school admissions, C/C++, and science, reaching roughly the top 50,000 and 0.06%."
+    },
+    "featured": false,
+    "tags": [
+      "education",
+      "knowledge-sharing",
+      "cpp",
+      "science",
+      "admissions",
+      "volunteer"
+    ]
+  }
+]
