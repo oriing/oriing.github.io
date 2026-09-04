@@ -604,6 +604,10 @@ button { color: inherit; }
 .profile-timeline-org { margin: .4rem 0 1rem !important; color: var(--blue) !important; font-size: .73rem !important; font-weight: 700; }
 .profile-timeline-body > p { max-width: 720px; margin: 0 0 1.25rem; color: var(--muted); font-size: .85rem; line-height: 1.7; }
 
+.profile-hero .page-hero-bottom dl {
+  grid-template-columns: 0.8fr 0.8fr 1.4fr;
+}
+
 .skill-grid { display: grid; grid-template-columns: repeat(4, 1fr); max-width: var(--max-width); margin: 0 auto; border-top: 1px solid var(--ink); border-left: 1px solid var(--ink); }
 .skill-grid article { min-height: 340px; padding: 1.6rem; border-right: 1px solid var(--ink); border-bottom: 1px solid var(--ink); }
 .skill-grid article > span { color: var(--blue); font-size: .62rem; font-weight: 800; }
@@ -830,6 +834,7 @@ button { color: inherit; }
   .contact-topics ul { display: grid; }
   .contact-topics li { min-height: 42px; }
   .footer-identity { align-items: start; flex-direction: column; }
+  .profile-hero .page-hero-bottom dl { grid-template-columns: 1fr; }
 }
 
 @media (max-width: 390px) {
