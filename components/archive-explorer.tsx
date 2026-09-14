@@ -33,10 +33,17 @@ function getTagsByRecency() {
     });
 }
 
-export function ArchiveExplorer({ initialTag = "" }: { initialTag?: string }) {
+export function ArchiveExplorer({
+  initialTag = "",
+  query,
+  onQueryChange,
+}: {
+  initialTag?: string;
+  query: string;
+  onQueryChange: (value: string) => void;
+}) {
   const { locale, t } = useLocale();
   const validInitialTag = works.some((work) => work.tags.includes(initialTag)) ? initialTag : "";
-  const [query, setQuery] = useState("");
   const [kind, setKind] = useState<KindFilter>("all");
   const [status, setStatus] = useState<StatusFilter>("all");
   const [selectedTags, setSelectedTags] = useState<string[]>(validInitialTag ? [validInitialTag] : []);
@@ -65,18 +72,20 @@ export function ArchiveExplorer({ initialTag = "" }: { initialTag?: string }) {
   const visibleWorks = filteredWorks.slice(0, visibleLimit);
   const visibleTags = showAllTags ? tags : tags.slice(0, 18);
   const toggleTag = (tag: string) => setSelectedTags((current) => current.includes(tag) ? current.filter((item) => item !== tag) : [...current, tag]);
-  const resetFilters = () => { setQuery(""); setKind("all"); setStatus("all"); setSelectedTags([]); };
+  const resetFilters = () => {
+    onQueryChange("");
+    setKind("all");
+    setStatus("all");
+    setSelectedTags([]);
+  };
 
   const copy = locale === "ko" ? {
-    label: "아카이브 검색과 필터", search: "전체 기록 검색", searchTitle: "무엇을 찾고 있나요?",
-    searchHint: "활동명·기관·분야·기술·경험·내용을 한 번에 검색합니다.", placeholder: "예: 위성, 보안, 교육, 동아리", clear: "검색어 지우기",
+    label: "아카이브 검색과 필터", 
     kind: "형식", status: "상태", tags: "연결 태그", all: "전체", more: "개 더 보기", fold: "태그 접기",
     result: "검색 결과", reset: "필터 초기화", selected: "선택된 태그", tagsHint: "분야가 다른 기록을 같은 주제로 연결합니다. 여러 개를 선택하면 모든 태그를 포함한 기록만 표시됩니다.",
     empty: "조건에 맞는 기록이 없습니다.", hint: "검색어를 줄이거나 태그를 하나씩 해제해 보세요.", viewAll: "전체 기록 보기", loadMore: "기록 더 보기",
   } : {
-    label: "Archive search and filters", search: "Search all records", searchTitle: "What are you looking for?",
-    searchHint: "Search activities, organizations, fields, tools, and experiences.",
-    placeholder: "Try satellite, security, teaching, or club", clear: "Clear search",
+    label: "Archive search and filters", 
     kind: "Format", status: "Status", tags: "Connecting tags", tagsHint: "Connect records from different fields. Selecting multiple tags shows records containing all of them.",
     all: "All", more: " more", fold: "Show fewer tags",
     result: "Matching records", reset: "Reset filters", selected: "Selected tags", empty: "No records match these filters.", hint: "Try a shorter query or remove one tag at a time.", viewAll: "View all records", loadMore: "Load more records",
@@ -87,39 +96,6 @@ export function ArchiveExplorer({ initialTag = "" }: { initialTag?: string }) {
   return (
     <div className="archive-explorer">
       <section className="archive-controls" aria-label={copy.label}>
-        <div className="archive-search-panel">
-          <div className="archive-search-copy">
-            <p>Search archive</p>
-            <h2>{copy.searchTitle}</h2>
-            <span>{copy.searchHint}</span>
-          </div>
-
-          <div className="archive-search">
-            <Search aria-hidden="true" size={24} strokeWidth={1.8} />
-
-            <label className="sr-only" htmlFor="archive-search-input">
-              {copy.search}
-            </label>
-
-            <input
-              id="archive-search-input"
-              onChange={(event) => setQuery(event.target.value)}
-              placeholder={copy.placeholder}
-              type="search"
-              value={query}
-            />
-
-            {query && (
-              <button
-                aria-label={copy.clear}
-                onClick={() => setQuery("")}
-                type="button"
-              >
-                <X aria-hidden="true" size={18} />
-              </button>
-            )}
-          </div>
-        </div>
         <FilterBlock index="01" label={copy.kind}>
           <div className="filter-pills" role="group" aria-label={copy.kind}>
             <button aria-pressed={kind === "all"} onClick={() => setKind("all")} type="button">{copy.all}</button>
