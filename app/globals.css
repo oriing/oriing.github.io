@@ -641,6 +641,54 @@ button { color: inherit; }
 .archive-search input { min-width: 0; border: 0; outline: 0; background: transparent; color: var(--ink); font-size: .8rem; }
 .archive-search input::placeholder { color: #999da5; }
 .archive-search button { display: grid; place-items: center; padding: .2rem; border: 0; background: transparent; cursor: pointer; }
+.archive-search-panel {
+  padding: 1.4rem;
+  background: var(--blue);
+  color: var(--white);
+}
+
+.archive-search-copy p {
+  margin: 0 0 0.65rem;
+  color: rgba(255, 255, 255, 0.68);
+  font-size: 0.6rem;
+  font-weight: 800;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.archive-search-copy h2 {
+  margin: 0;
+  font-size: 1.35rem;
+  font-weight: 780;
+  line-height: 1.2;
+  letter-spacing: -0.04em;
+}
+
+.archive-search-copy > span {
+  display: block;
+  margin-top: 0.6rem;
+  color: rgba(255, 255, 255, 0.72);
+  font-size: 0.72rem;
+  line-height: 1.55;
+}
+
+.archive-search-panel .archive-search {
+  min-height: 58px;
+  margin-top: 1.2rem;
+  padding: 1rem;
+  border: 2px solid var(--ink);
+  background: var(--white);
+}
+
+.archive-search-panel .archive-search input {
+  font-size: 0.9rem;
+  font-weight: 600;
+}
+
+.archive-search-panel .archive-search:focus-within {
+  outline: 3px solid rgba(255, 255, 255, 0.55);
+  outline-offset: 3px;
+}
 
 .filter-block { padding-top: 1rem; border-top: 1px solid var(--ink); }
 .filter-label { display: flex; align-items: center; gap: .8rem; margin-bottom: 1rem; }
@@ -655,6 +703,36 @@ button { color: inherit; }
   font-size: .62rem;
   font-weight: 660;
   cursor: pointer;
+}
+.filter-block-tags {
+  padding: 1.2rem;
+  border: 1px solid #cbd5ff;
+  background: var(--blue-soft);
+}
+
+.filter-block-tags .filter-label {
+  margin-bottom: 0.5rem;
+}
+
+.filter-help {
+  margin: 0 0 1rem;
+  color: var(--muted);
+  font-size: 0.7rem;
+  line-height: 1.6;
+}
+
+.filter-block-tags .tag-filter button {
+  min-height: 32px;
+  padding: 0.55rem 0.7rem;
+  border-color: #cbd1df;
+  font-size: 0.68rem;
+}
+
+.filter-block-tags .tag-filter button[aria-pressed="true"] {
+  border-color: var(--blue);
+  background: var(--blue);
+  color: var(--white);
+  box-shadow: 0 3px 10px rgba(49, 91, 255, 0.22);
 }
 
 .filter-pills button:hover, .tag-filter button:hover { border-color: var(--blue); color: var(--blue); }
@@ -832,7 +910,7 @@ button { color: inherit; }
   .archive-explorer { padding: 3.5rem 1.25rem; }
   .archive-results-header { align-items: flex-start; flex-direction: column; }
   .filter-pills button, .tag-filter button, .active-filters button { min-height: 40px; padding: .65rem .75rem; }
-  .archive-search { min-height: 48px; }
+  .archive-search { min-height: 56px; }
   .process-section li { grid-template-columns: 45px 1fr; }
   .work-detail-breadcrumb { margin-bottom: 2.5rem; }
   .work-detail-links { display: grid; }
