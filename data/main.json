@@ -8,8 +8,8 @@
     ],
     "headline": { "ko": "연구하고, 만들고, 가르칩니다.", "en": "I research, build, and teach." },
     "introduction": {
-      "ko": "연구자이자 개발자 박정식입니다. 컴퓨터를 중심으로 한 융·복합 학문을 추구합니다. 학문의 경계와 분야를 가리지 않고 공부하며, 아이디어를 떠올리고 해결하는 것을 좋아합니다.",
-      "en": "I am Jeongsik Park, a researcher and developer pursuing interdisciplinary work centered on computing. I enjoy learning across boundaries, forming ideas, and turning them into working answers."
+      "ko": "컴퓨터공학과 응용수학을 공부하는 박정식입니다. 시스템 보안과 알고리즘을 연구하고, 교육과 학생자치 활동도 해 왔습니다. 궁금한 것은 직접 만들고 측정해 확인하는 편입니다.",
+      "en": "I study computer science and applied mathematics. My work includes systems security, algorithms, teaching, and student organizations. When I have a question, I prefer to build and measure something before drawing a conclusion."
     },
     "location": { "ko": "대한민국", "en": "Republic of Korea" },
     "profileImage": {
@@ -55,8 +55,8 @@
       "title": { "ko": "교육과 커뮤니티", "en": "Education & Community" },
       "overline": { "ko": "Education & Community", "en": "Education & Community" },
       "description": {
-        "ko": "강의·멘토링·학생자치·행사 운영을 통해 기술을 설명하고 사람들이 함께 학습하는 구조를 만들었습니다.",
-        "en": "Through teaching, mentoring, student governance, and event operations, I explain technology and build structures for people to learn together."
+        "ko": "강의와 멘토링을 진행했고, 동아리·학생자치 조직과 행사를 운영했습니다.",
+        "en": "I have taught and mentored students and helped run clubs, student organizations, and events."
       },
       "tags": ["education", "mentoring", "leadership", "community"]
     }
@@ -86,10 +86,10 @@
     { "label": { "ko": "블로그", "en": "Blog" }, "href": "https://blog.naver.com/oriisme" }
   ],
   "contact": {
-    "title": { "ko": "함께 이야기할 주제가 있다면", "en": "If there is something worth exploring together" },
+    "title": { "ko": "연락하기", "en": "Contact" },
     "description": {
-      "ko": "연구 협업, 기술 프로젝트, 교육과 컴퓨터공학에 관한 제안과 대화를 기다립니다.",
-      "en": "I welcome conversations about research collaboration, technical projects, education, and computing."
+      "ko": "연구 협업, 기술 프로젝트, 교육과 강연에 관한 제안은 아래 연락처로 보내주세요.",
+      "en": "For research collaboration, technical projects, teaching, or talks, use one of the channels below."
     },
     "topics": [
       { "ko": "연구 협업과 학술 교류", "en": "Research collaboration" },
@@ -97,5 +97,5 @@
       { "ko": "교육과 강연", "en": "Education and talks" }
     ]
   },
-  "updated": "2026.09"
+  "updated": "2026.11"
 }

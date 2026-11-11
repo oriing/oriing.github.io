@@ -10,74 +10,59 @@ export function HomePage() {
   const careerPreview = timeline.filter((item) => item.kind === "career").slice(0, 3);
   const identityPoints = mainData.current.length > 0 ? mainData.current : mainData.identity.roles;
   const copy =
-  locale === "ko"
-    ? {
-        profile: "학력과 경력 보기",
-
-        focusLabel: "관심 분야",
-        focusTitle:
-          "컴퓨터를 중심에 두고, 보안·데이터·교육을 함께 공부합니다.",
-        focusCta: "관심 분야와 관련된 기록 보기",
-
-        workLabel: "대표 기록",
-        workTitle: "연구하고, 만들고, 가르치고, 운영했습니다.",
-        workBody:
-          "지금까지의 기록 중 몇 가지를 골랐습니다. 나머지 연구·프로젝트·교육·대회·활동은 아카이브에서 검색하거나 태그별로 볼 수 있습니다.",
-        workCta: "전체 기록 보기",
-
-        journeyLabel: "학력과 경력",
-        journeyTitle: "무엇을 공부했고, 어디에서 어떤 일을 했는가",
-        journeyBody:
-          "학교에서 공부한 내용과 연구·교육·운영 경험을 시간순으로 정리했습니다.",
-        journeyCta: "전체 이력 보기",
-
-        profileTitle: "프로필",
-        profileBody:
-          "학력과 경력, 기술, 관심 분야와 일하는 방식을 정리했습니다.",
-
-        archiveTitle: "아카이브",
-        archiveBody:
-          "연구부터 작은 활동까지, 지금까지의 기록을 검색하고 태그별로 볼 수 있습니다.",
-
-        contactTitle: "연락",
-        contactBody:
-          "연구·프로젝트·교육과 관련된 제안이나 질문을 보낼 수 있습니다.",
-      }
-    : {
-        profile: "View profile",
-
-        focusLabel: "Current interests",
-        focusTitle:
-          "I study security, data, and education with computing at the center.",
-        focusCta: "See related work",
-
-        workLabel: "Selected records",
-        workTitle: "Things I have researched, built, taught, and organized",
-        workBody:
-          "A few representative records are shown here. The rest of my research, projects, teaching, competitions, and activities are available in the archive.",
-        workCta: "View the full archive",
-
-        journeyLabel: "Education and experience",
-        journeyTitle: "What I studied and what I was responsible for",
-        journeyBody:
-          "My education, research, teaching, and organizational experience are arranged chronologically.",
-        journeyCta: "View the full timeline",
-
-        profileTitle: "Profile",
-        profileBody:
-          "Education, experience, technical background, current interests, and how I work.",
-
-        archiveTitle: "Archive",
-        archiveBody:
-          "Search everything from major research projects to smaller activities, or browse them by tag.",
-
-        contactTitle: "Contact",
-        contactBody:
-          "Get in touch about research, projects, teaching, or other questions.",
-      };
+    locale === "ko"
+      ? {
+          skip: "본문으로 건너뛰기",
+          profile: "프로필 보기",
+          focusLabel: "요즘 관심 있는 것",
+          focusTitle: "시스템 보안, 알고리즘, 교육 문제를 주로 봅니다.",
+          focusCta: "관련 기록 보기",
+          workLabel: "대표 기록",
+          workTitle: "그동안 직접 해 본 것들",
+          workBody:
+            "논문, 프로젝트, 강의, 동아리 운영 중 몇 가지를 골랐습니다. 나머지는 아카이브에서 검색할 수 있습니다.",
+          workCta: "아카이브 열기",
+          journeyLabel: "학력과 경력",
+          journeyTitle: "공부한 것과 맡아 온 일",
+          journeyBody:
+            "학력과 경력, 연구실·동아리·학생자치 경험을 시간순으로 정리했습니다.",
+          journeyCta: "전체 이력 보기",
+          profileTitle: "프로필",
+          profileBody: "전공, 경력, 기술과 관심 분야를 정리해 두었습니다.",
+          archiveTitle: "전체 기록",
+          archiveBody:
+            "연구와 프로젝트부터 교육, 대회, 자격과 작은 활동까지 찾아볼 수 있습니다.",
+          contactTitle: "연락하기",
+          contactBody: "연구, 프로젝트, 교육과 관련된 제안이나 질문을 받습니다.",
+        }
+      : {
+          skip: "Skip to content",
+          profile: "View profile",
+          focusLabel: "Current interests",
+          focusTitle: "I mainly work on systems security, algorithms, and education.",
+          focusCta: "See related records",
+          workLabel: "Selected work",
+          workTitle: "A few things I have worked on",
+          workBody:
+            "Here are selected papers, projects, classes, and organizations I have worked on. The rest are in the archive.",
+          workCta: "Open the archive",
+          journeyLabel: "Education and experience",
+          journeyTitle: "What I studied and the roles I took on",
+          journeyBody:
+            "A chronological record of my education, work, research groups, clubs, and student organizations.",
+          journeyCta: "View the full timeline",
+          profileTitle: "Profile",
+          profileBody: "My studies, experience, skills, and current interests.",
+          archiveTitle: "All records",
+          archiveBody:
+            "Research, projects, teaching, competitions, certificates, and smaller activities.",
+          contactTitle: "Contact",
+          contactBody: "I welcome questions and proposals about research, projects, or teaching.",
+        };
 
   return (
     <>
+      <a className="skip-link" href="#main-content">{copy.skip}</a>
       <SiteHeader current="main" />
       <main className="home-deck" id="main-content">
         <section className="home-slide hero-slide" id="intro">

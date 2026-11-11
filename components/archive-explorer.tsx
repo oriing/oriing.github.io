@@ -92,14 +92,9 @@ export function ArchiveExplorer({
 
   const availableStatuses = useMemo(
     () =>
-      (
-        [
-          "ongoing",
-          "published",
-          "presented",
-          "completed",
-        ] as WorkStatus[]
-      ).filter((item) => works.some((work) => work.status === item)),
+      (["ongoing", "completed"] as WorkStatus[]).filter((item) =>
+        works.some((work) => work.status === item),
+      ),
     [],
   );
 
@@ -179,9 +174,9 @@ export function ArchiveExplorer({
           label: "아카이브 검색과 필터",
           kind: "형식",
           status: "상태",
-          tags: "연결 태그",
+          tags: "태그",
           tagsHint:
-            "분야가 다른 기록을 같은 주제로 연결합니다. 여러 개를 선택하면 모든 태그를 포함한 기록만 표시됩니다.",
+            "여러 개를 선택하면 선택한 태그를 모두 포함한 기록만 남습니다.",
           all: "전체",
           more: "개 더 보기",
           fold: "태그 접기",
@@ -197,9 +192,9 @@ export function ArchiveExplorer({
           label: "Archive search and filters",
           kind: "Format",
           status: "Status",
-          tags: "Connecting tags",
+          tags: "Tags",
           tagsHint:
-            "Connect records from different fields. Selecting multiple tags shows records containing all of them.",
+            "Selecting multiple tags shows only records that contain all of them.",
           all: "All",
           more: " more",
           fold: "Show fewer tags",

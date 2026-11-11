@@ -16,36 +16,37 @@ export function ArchivePage({ initialTag = "" }: { initialTag?: string }) {
   const copy =
     locale === "ko"
       ? {
-          overline: "검색 · 필터 · 연결",
+          skip: "본문으로 건너뛰기",
+          overline: "기록 찾기",
           title: "분야가 달라도,\n태그로 다시 연결됩니다.",
-          body: "연구·프로젝트·교육·수상·대외활동을 같은 기록 구조에 넣었습니다. 한국어와 영어 검색어, 형식, 상태, 태그를 조합해 필요한 맥락만 모아볼 수 있습니다.",
+          body: "연구, 프로젝트, 교육, 수상, 대외활동을 한곳에 모았습니다. 이름이나 기관을 검색하고 형식·상태·태그로 좁혀 볼 수 있습니다.",
           records: "기록",
           formats: "형식",
           tags: "태그",
-          search: "전체 기록 검색",
-          searchTitle: "무엇을 찾고 있나요?",
-          searchHint:
-            "활동명·기관·분야·기술·경험·내용을 한 번에 검색합니다.",
+          search: "검색",
+          searchTitle: "기록 찾기",
+          searchHint: "활동명, 기관, 분야, 기술과 본문 내용을 검색할 수 있습니다.",
           placeholder: "예: 위성, 보안, 교육, 동아리",
           clear: "검색어 지우기",
         }
       : {
-          overline: "Search · Filter · Connect",
+          skip: "Skip to content",
+          overline: "Find a record",
           title: "Different fields,\nconnected again by tags.",
-          body: "Research, projects, teaching, awards, and activities share one record structure. Combine Korean or English search terms, formats, status, and tags to collect the context you need.",
+          body: "Research, projects, teaching, awards, and other activities are collected here. Search by name or organization, then narrow the results by format, status, or tag.",
           records: "Records",
           formats: "Formats",
           tags: "Tags",
-          search: "Search all records",
-          searchTitle: "What are you looking for?",
-          searchHint:
-            "Search activities, organizations, fields, tools, experiences, and details.",
+          search: "Search",
+          searchTitle: "Find a record",
+          searchHint: "Search titles, organizations, fields, tools, and descriptions.",
           placeholder: "Try satellite, security, teaching, or club",
           clear: "Clear search",
         };
 
   return (
     <>
+      <a className="skip-link" href="#main-content">{copy.skip}</a>
       <SiteHeader current="archive" />
 
       <main id="main-content">
