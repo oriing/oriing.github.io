@@ -15,17 +15,15 @@ export function HomePage() {
           skip: "본문으로 건너뛰기",
           profile: "프로필 보기",
           focusLabel: "요즘 관심 있는 것",
-          focusTitle: "시스템 보안, 알고리즘, 교육 문제를 주로 봅니다.",
+          focusTitle: "컴퓨터 중심의 융합 학문을 추구합니다.",
           focusCta: "관련 기록 보기",
           workLabel: "대표 기록",
           workTitle: "그동안 직접 해 본 것들",
           workBody:
-            "논문, 프로젝트, 강의, 동아리 운영 중 몇 가지를 골랐습니다. 나머지는 아카이브에서 검색할 수 있습니다.",
+            "몇 가지만 골랐습니다. 나머지는 아카이브에서 검색할 수 있습니다.",
           workCta: "아카이브 열기",
           journeyLabel: "학력과 경력",
-          journeyTitle: "공부한 것과 맡아 온 일",
-          journeyBody:
-            "학력과 경력, 연구실·동아리·학생자치 경험을 시간순으로 정리했습니다.",
+          journeyTitle: "맡아 온 일",
           journeyCta: "전체 이력 보기",
           profileTitle: "프로필",
           profileBody: "전공, 경력, 기술과 관심 분야를 정리해 두었습니다.",
@@ -39,17 +37,15 @@ export function HomePage() {
           skip: "Skip to content",
           profile: "View profile",
           focusLabel: "Current interests",
-          focusTitle: "I mainly work on systems security, algorithms, and education.",
+          focusTitle: "Pursuing computing-centered convergence studies.",
           focusCta: "See related records",
           workLabel: "Selected work",
           workTitle: "A few things I have worked on",
           workBody:
-            "Here are selected papers, projects, classes, and organizations I have worked on. The rest are in the archive.",
+            "Here are selected activities I have worked on. The rest are in the archive.",
           workCta: "Open the archive",
           journeyLabel: "Education and experience",
-          journeyTitle: "What I studied and the roles I took on",
-          journeyBody:
-            "A chronological record of my education, work, research groups, clubs, and student organizations.",
+          journeyTitle: "What I took on",
           journeyCta: "View the full timeline",
           profileTitle: "Profile",
           profileBody: "My studies, experience, skills, and current interests.",
@@ -110,7 +106,7 @@ export function HomePage() {
 
         <section className="home-slide journey-slide" id="journey">
           <div className="slide-kicker"><span>04</span><p>Experience</p></div>
-          <header className="slide-heading slide-heading-row"><div><p className="slide-label">{copy.journeyLabel}</p><h2>{copy.journeyTitle}</h2></div><p>{copy.journeyBody}</p></header>
+          <header className="slide-heading slide-heading-row"><div><p className="slide-label">{copy.journeyLabel}</p><h2>{copy.journeyTitle}</h2></div></header>
           <div className="timeline-preview">
             {careerPreview.map((item, index) => <article key={item.id}><span className="timeline-dot" aria-hidden="true" /><p className="timeline-preview-index">{String(index + 1).padStart(2, "0")}</p><p className="timeline-preview-period">{item.period}</p><h3>{t(item.title)}</h3><p className="timeline-preview-org">{t(item.organization)}</p><p>{t(item.description)}</p></article>)}
           </div>
