@@ -9,17 +9,72 @@ export function HomePage() {
   const { locale, t } = useLocale();
   const careerPreview = timeline.filter((item) => item.kind === "career").slice(0, 3);
   const identityPoints = mainData.current.length > 0 ? mainData.current : mainData.identity.roles;
-  const copy = locale === "ko" ? {
-    profile: "프로필 자세히 보기", focusLabel: "서로 다른 작업을 잇는 축", focusTitle: "경계를 넘나들며, 질문을 끝까지 파고듭니다.",
-    focusCta: "전체 작업에서 연구축 따라가기", workLabel: "대표 활동", workTitle: "기록으로 남긴 연구와 경험", workBody: "메인에는 대표 작업만 남겼습니다. 전체 연구·프로젝트·교육·활동은 아카이브에서 검색하거나 태그로 모아볼 수 있습니다.", workCta: "전체 아카이브 검색하기",
-    journeyLabel: "배움에서 운영까지", journeyTitle: "학습을 조직하고 경험으로 남긴 시간", journeyBody: "학위, 연구, 교육, 리더 경험은 열거된 목록이 아니라 문제를 보는 관점을 넓혀 온 흐름입니다.", journeyCta: "학위·경력 타임라인 보기",
-    profileTitle: "학위와 경력의 흐름", profileBody: "학력, 경력, 기술 기반과 작업 원칙을 타임라인으로 확인합니다.", archiveTitle: "모든 경험을 태그로 탐색", archiveBody: "분야와 형식이 다른 연구·프로젝트·교육·활동을 검색하고 연결합니다.", contactTitle: "함께 이야기할 주제", contactBody: "연구·프로젝트·교육 제안과 대화를 위한 연락 채널을 확인합니다.",
-  } : {
-    profile: "View full profile", focusLabel: "Axes connecting different kinds of work", focusTitle: "Crossing boundaries, staying with the question.",
-    focusCta: "Follow these axes through the archive", workLabel: "Representative activities", workTitle: "Research and experiences, made tangible", workBody: "Only selected work appears here. Search the archive or combine tags to explore every research, project, teaching, and activity record.", workCta: "Search the full archive",
-    journeyLabel: "From learning to operating", journeyTitle: "Organizing learning and turning it into experience", journeyBody: "Degrees, research, teaching, and leader experience form one path that has expanded how I frame and solve problems.", journeyCta: "View the education and career timeline",
-    profileTitle: "Education and career", profileBody: "Review education, work, technical foundations, and working principles as a timeline.", archiveTitle: "Explore every record by tag", archiveBody: "Search and connect research, projects, teaching, and activities across fields and formats.", contactTitle: "Start a conversation", contactBody: "Find contact channels for research, project, and education proposals.",
-  };
+  const copy =
+  locale === "ko"
+    ? {
+        profile: "학력과 경력 보기",
+
+        focusLabel: "관심 분야",
+        focusTitle:
+          "컴퓨터를 중심에 두고, 보안·데이터·교육을 함께 공부합니다.",
+        focusCta: "관심 분야와 관련된 기록 보기",
+
+        workLabel: "대표 기록",
+        workTitle: "연구하고, 만들고, 가르치고, 운영했습니다.",
+        workBody:
+          "지금까지의 기록 중 몇 가지를 골랐습니다. 나머지 연구·프로젝트·교육·대회·활동은 아카이브에서 검색하거나 태그별로 볼 수 있습니다.",
+        workCta: "전체 기록 보기",
+
+        journeyLabel: "학력과 경력",
+        journeyTitle: "무엇을 공부했고, 어디에서 어떤 일을 했는가",
+        journeyBody:
+          "학교에서 공부한 내용과 연구·교육·운영 경험을 시간순으로 정리했습니다.",
+        journeyCta: "전체 이력 보기",
+
+        profileTitle: "프로필",
+        profileBody:
+          "학력과 경력, 기술, 관심 분야와 일하는 방식을 정리했습니다.",
+
+        archiveTitle: "아카이브",
+        archiveBody:
+          "연구부터 작은 활동까지, 지금까지의 기록을 검색하고 태그별로 볼 수 있습니다.",
+
+        contactTitle: "연락",
+        contactBody:
+          "연구·프로젝트·교육과 관련된 제안이나 질문을 보낼 수 있습니다.",
+      }
+    : {
+        profile: "View profile",
+
+        focusLabel: "Current interests",
+        focusTitle:
+          "I study security, data, and education with computing at the center.",
+        focusCta: "See related work",
+
+        workLabel: "Selected records",
+        workTitle: "Things I have researched, built, taught, and organized",
+        workBody:
+          "A few representative records are shown here. The rest of my research, projects, teaching, competitions, and activities are available in the archive.",
+        workCta: "View the full archive",
+
+        journeyLabel: "Education and experience",
+        journeyTitle: "What I studied and what I was responsible for",
+        journeyBody:
+          "My education, research, teaching, and organizational experience are arranged chronologically.",
+        journeyCta: "View the full timeline",
+
+        profileTitle: "Profile",
+        profileBody:
+          "Education, experience, technical background, current interests, and how I work.",
+
+        archiveTitle: "Archive",
+        archiveBody:
+          "Search everything from major research projects to smaller activities, or browse them by tag.",
+
+        contactTitle: "Contact",
+        contactBody:
+          "Get in touch about research, projects, teaching, or other questions.",
+      };
 
   return (
     <>
@@ -45,7 +100,7 @@ export function HomePage() {
         </section>
 
         <section className="home-slide focus-slide" id="focus">
-          <div className="slide-kicker"><span>02</span><p>Research focus</p></div>
+          <div className="slide-kicker"><span>02</span><p>Interests</p></div>
           <header className="slide-heading"><p className="slide-label">{copy.focusLabel}</p><h2>{copy.focusTitle}</h2></header>
           <div className="axis-grid">
             {mainData.researchAxes.map((axis) => (
@@ -79,7 +134,7 @@ export function HomePage() {
         </section>
 
         <section className="home-slide more-slide" id="more">
-          <div className="slide-kicker"><span>05</span><p>Explore more</p></div>
+          <div className="slide-kicker"><span>05</span><p>More</p></div>
           <blockquote className="closing-quote"><p>{t(mainData.motto.secondary)}</p></blockquote>
           <div className="more-grid">
             <a href="#/profile"><UserRound aria-hidden="true" size={28} strokeWidth={1.4} /><span>01 / Profile</span><h2>{copy.profileTitle}</h2><p>{copy.profileBody}</p><ArrowRight aria-hidden="true" size={24} /></a>

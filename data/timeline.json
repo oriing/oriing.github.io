@@ -7,8 +7,8 @@
     "title": { "ko": "컴퓨터공학·응용수학 학사과정", "en": "B.E. Computer Engineering · B.S. Applied Mathematics" },
     "organization": { "ko": "경희대학교", "en": "Kyung Hee University" },
     "description": {
-      "ko": "컴퓨터공학을 중심으로 응용수학을 함께 공부하고 있습니다. 이 항목은 현재 학적을 나타내며, 진행 중 연구·프로젝트 기록과는 분리했습니다.",
-      "en": "Studying computer engineering alongside applied mathematics. This item represents current enrollment and is separate from in-progress research or project records."
+      "ko": "컴퓨터공학을 중심으로 응용수학을 함께 공부하고 있습니다.",
+      "en": "Studying computer engineering alongside applied mathematics."
     },
     "status": "ongoing",
     "tags": ["computer-engineering", "applied-mathematics", "degree", "kyunghee"]
@@ -49,7 +49,7 @@
     "title": { "ko": "사이버작전 분야 복무", "en": "Service in Cyber Operations" },
     "organization": { "ko": "대한민국 육군", "en": "Republic of Korea Army" },
     "description": {
-      "ko": "사이버작전센터 기술통제팀과 사이버작전여단 202작전대에서 사이버·보안 기술 연구와 관련 과업을 수행합니다.",
+      "ko": "사이버작전여단에서 사이버·보안 기술 연구와 관련 과업을 수행합니다.",
       "en": "Conducting cyber and security research tasks with the Cyber Operations Center and the 202nd Operations Unit of the Cyber Operations Brigade."
     },
     "status": "ongoing",

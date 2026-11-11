@@ -8,7 +8,7 @@
     {
       "title": { "ko": "시스템·보안", "en": "Systems & Security" },
       "description": { "ko": "시스템을 관찰하고 실험하기 위한 기반", "en": "Foundations for observing and testing systems" },
-      "items": ["Linux", "Git", "Network Analysis", "Cryptography", "Raspberry Pi", "Arduino / Physical Computing"]
+      "items": ["Linux", "Git", "Network Analysis", "Cryptography", "Arduino / Physical Computing"]
     },
     {
       "title": { "ko": "연구", "en": "Research" },
