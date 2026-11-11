@@ -5,30 +5,9 @@ import { useLocale } from "@/lib/i18n";
 import { mainData, skillGroups, tagLabel, timeline, type TimelineItem } from "@/lib/portfolio-data";
 
 const principles = [
-  {
-    index: "01",
-    title: { ko: "먼저 만들어 보기", en: "Build it first" },
-    body: {
-      ko: "가능하면 직접 구현해 본 뒤, 확인한 결과와 한계를 적습니다.",
-      en: "Whenever possible, I implement the idea and report both the result and its limits.",
-    },
-  },
-  {
-    index: "02",
-    title: { ko: "숫자만 보지 않기", en: "Look beyond the metric" },
-    body: {
-      ko: "성능 수치뿐 아니라 장비, 통신 환경, 운영 조건도 함께 확인합니다.",
-      en: "I check the hardware, network, and operating conditions behind a performance number.",
-    },
-  },
-  {
-    index: "03",
-    title: { ko: "쉽게 쓰되 생략하지 않기", en: "Explain without omitting the point" },
-    body: {
-      ko: "어려운 내용을 설명할 때 핵심을 지우기보다 이해할 순서를 정합니다.",
-      en: "When explaining a difficult topic, I change the order, not the substance.",
-    },
-  },
+  { index: "01", title: { ko: "말하기 전에 만들어 보기", en: "Build before claiming" }, body: { ko: "직접 구현하고 실패 조건을 관찰한 뒤, 타당한 범위만 주장합니다.", en: "I implement first, observe failure conditions, and limit claims to what the evidence supports." } },
+  { index: "02", title: { ko: "맥락 안에서 측정하기", en: "Measure systems in context" }, body: { ko: "수치 뒤에 숨은 실제 자원·통신·조직 환경을 함께 봅니다.", en: "I consider resources, communication, and organizational constraints — beyond the numbers." } },
+  { index: "03", title: { ko: "깊이를 잃지 않고 설명하기", en: "Explain without flattening" }, body: { ko: "전문용어에 집중하기보다 이해에 필요한 발판과 순서를 설계합니다.", en: "Less jargon, more structure. I design the sequence and scaffolding needed to understand it." } },
 ];
 
 export function ProfilePage() {

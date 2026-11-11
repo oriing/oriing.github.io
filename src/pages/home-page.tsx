@@ -12,7 +12,6 @@ export function HomePage() {
   const copy =
     locale === "ko"
       ? {
-          skip: "본문으로 건너뛰기",
           profile: "프로필 보기",
           focusLabel: "요즘 관심 있는 것",
           focusTitle: "컴퓨터 중심의 융합 학문을 추구합니다.",
@@ -34,7 +33,6 @@ export function HomePage() {
           contactBody: "연구, 프로젝트, 교육과 관련된 제안이나 질문을 받습니다.",
         }
       : {
-          skip: "Skip to content",
           profile: "View profile",
           focusLabel: "Current interests",
           focusTitle: "Pursuing computing-centered convergence studies.",
@@ -58,7 +56,6 @@ export function HomePage() {
 
   return (
     <>
-      <a className="skip-link" href="#main-content">{copy.skip}</a>
       <SiteHeader current="main" />
       <main className="home-deck" id="main-content">
         <section className="home-slide hero-slide" id="intro">

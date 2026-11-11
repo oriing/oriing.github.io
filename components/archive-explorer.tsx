@@ -176,7 +176,7 @@ export function ArchiveExplorer({
           status: "상태",
           tags: "태그",
           tagsHint:
-            "여러 개를 선택하면 선택한 태그를 모두 포함한 기록만 남습니다.",
+            "분야가 다른 기록을 같은 주제로 연결합니다. 여러 개를 선택하면 선택한 태그를 모두 포함한 기록만 표시됩니다.",
           all: "전체",
           more: "개 더 보기",
           fold: "태그 접기",
@@ -194,7 +194,7 @@ export function ArchiveExplorer({
           status: "Status",
           tags: "Tags",
           tagsHint:
-            "Selecting multiple tags shows only records that contain all of them.",
+            "Connect records from different fields. Selecting multiple tags shows records containing all of them.",
           all: "All",
           more: " more",
           fold: "Show fewer tags",
