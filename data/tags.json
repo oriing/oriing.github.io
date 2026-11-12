@@ -1,193 +1,1146 @@
 {
-  "3d-printing": {"ko":"3D 프린팅","en":"3D Printing"},
-  "acoustics": {"ko":"음향학","en":"Acoustics"},
-  "admissions": {"ko":"입시","en":"Admissions"},
-  "ai": {"ko":"인공지능","en":"Artificial Intelligence"},
-  "algorithm": {"ko":"알고리즘","en":"Algorithm"},
-  "android": {"ko":"Android","en":"Android"},
-  "applied-mathematics": {"ko":"응용수학","en":"Applied Mathematics"},
-  "ar": {"ko":"AR","en":"AR"},
-  "arduino": {"ko":"Arduino","en":"Arduino"},
-  "assessment": {"ko":"평가","en":"Assessment"},
-  "assistive-technology": {"ko":"보조공학","en":"Assistive Technology"},
-  "astronomy": {"ko":"천문","en":"Astronomy"},
-  "automation": {"ko":"자동화","en":"Automation"},
-  "avr": {"ko":"AVR","en":"AVR"},
-  "award": {"ko":"수상","en":"Award"},
-  "band": {"ko":"밴드","en":"Band"},
-  "bass": {"ko":"베이스","en":"Bass"},
-  "biology": {"ko":"생물학","en":"Biology"},
-  "c": {"ko":"C언어","en":"C"},
-  "campaign": {"ko":"캠페인","en":"Campaign"},
-  "career": {"ko":"진로","en":"Career"},
-  "career-education": {"ko":"진로교육","en":"Career Education"},
-  "certificate": {"ko":"자격증","en":"Certification"},
-  "chatbot": {"ko":"챗봇","en":"Chatbot"},
-  "chemistry": {"ko":"화학","en":"Chemistry"},
-  "c-language": {"ko":"C언어","en":"C"},
-  "classical": {"ko":"클래식","en":"Classical"},
-  "climate": {"ko":"기후","en":"Climate"},
-  "cloud": {"ko":"클라우드","en":"Cloud"},
-  "club": {"ko":"동아리","en":"Club"},
-  "collaboration": {"ko":"협업","en":"Collaboration"},
-  "communication": {"ko":"커뮤니케이션","en":"Communication"},
-  "community": {"ko":"커뮤니티","en":"Community"},
-  "competition": {"ko":"대회","en":"Competition"},
-  "competitive-programming": {"ko":"경쟁프로그래밍","en":"Competitive Programming"},
-  "composition": {"ko":"작곡","en":"Composition"},
-  "computer-engineering": {"ko":"컴퓨터공학","en":"Computer Science"},
-  "conference": {"ko":"학술대회","en":"Conference"},
-  "content": {"ko":"콘텐츠","en":"Content"},
-  "copyright": {"ko":"저작권","en":"Copyright"},
-  "course": {"ko":"단기강좌","en":"Short Course"},
-  "coursework": {"ko":"이수교과","en":"Coursework"},
-  "cpp": {"ko":"C++","en":"C++"},
-  "critical-thinking": {"ko":"비판적사고","en":"Critical Thinking"},
-  "crowdfunding": {"ko":"크라우드펀딩","en":"Crowdfunding"},
-  "cryptography": {"ko":"암호","en":"Cryptography"},
-  "ctf": {"ko":"CTF","en":"CTF"},
-  "curation": {"ko":"큐레이션","en":"Curation"},
-  "curriculum": {"ko":"교육과정","en":"Curriculum"},
-  "cybersecurity": {"ko":"사이버보안","en":"Cybersecurity"},
-  "database": {"ko":"데이터베이스","en":"Database"},
-  "data-science": {"ko":"데이터과학","en":"Data Science"},
-  "debate": {"ko":"토론","en":"Debate"},
-  "degree": {"ko":"학위","en":"Degree"},
-  "design-thinking": {"ko":"디자인싱킹","en":"Design Thinking"},
-  "development": {"ko":"개발","en":"Development"},
-  "dgist": {"ko":"DGIST","en":"DGIST"},
-  "digital-fabrication": {"ko":"디지털제작","en":"Digital Fabrication"},
-  "digital-literacy": {"ko":"디지털리터러시","en":"Digital Literacy"},
-  "digital-transformation": {"ko":"디지털전환","en":"Digital Transformation"},
-  "driving": {"ko":"운전","en":"Driving"},
-  "drone": {"ko":"드론","en":"Drone"},
-  "economics": {"ko":"경제","en":"Economics"},
-  "education": {"ko":"교육","en":"Education"},
-  "embedded": {"ko":"임베디드","en":"Embedded Systems"},
-  "emcee": {"ko":"사회진행","en":"Emceeing"},
-  "energy": {"ko":"에너지","en":"Energy"},
-  "entrepreneurship": {"ko":"창업","en":"Entrepreneurship"},
-  "environment": {"ko":"환경","en":"Environment"},
-  "event-operations": {"ko":"행사운영","en":"Event Operations"},
-  "experience": {"ko":"경험","en":"Experience"},
-  "experiment": {"ko":"실험","en":"Experiment"},
-  "fieldwork": {"ko":"현장연구","en":"Fieldwork"},
-  "finance": {"ko":"금융","en":"Finance"},
-  "flask": {"ko":"Flask","en":"Flask"},
-  "game-development": {"ko":"게임개발","en":"Game Development"},
-  "game-theory": {"ko":"게임이론","en":"Game Theory"},
-  "genetic-algorithm": {"ko":"유전알고리즘","en":"Genetic Algorithm"},
-  "gifted-education": {"ko":"영재교육","en":"Gifted Education"},
-  "hackathon": {"ko":"해커톤","en":"Hackathon"},
-  "hardware": {"ko":"하드웨어","en":"Hardware"},
-  "high-school": {"ko":"고등학교","en":"High School"},
-  "history": {"ko":"한국사","en":"Korean History"},
-  "html": {"ko":"HTML","en":"HTML"},
-  "informatics": {"ko":"정보과학","en":"Informatics"},
-  "information-security": {"ko":"정보보호","en":"Information Security"},
-  "information-technology": {"ko":"정보기술","en":"Information Technology"},
-  "infrastructure": {"ko":"인프라","en":"Infrastructure"},
-  "international-event": {"ko":"국제행사","en":"International Event"},
-  "interview": {"ko":"인터뷰","en":"Interview"},
-  "invention": {"ko":"발명","en":"Invention"},
-  "iot": {"ko":"IoT","en":"IoT"},
-  "javascript": {"ko":"JavaScript","en":"JavaScript"},
-  "kendo": {"ko":"검도","en":"Kendo"},
-  "khlug": {"ko":"쿠러그","en":"KHLUG"},
-  "knowledge-sharing": {"ko":"지식공유","en":"Knowledge Sharing"},
-  "kocw": {"ko":"KOCW","en":"KOCW"},
-  "koi": {"ko":"정보올림피아드","en":"KOI"},
-  "korean-language": {"ko":"한국어","en":"Korean Language"},
-  "kyunghee": {"ko":"경희대학교","en":"Kyung Hee University"},
-  "lattice-crypto": {"ko":"격자암호","en":"Lattice Cryptography"},
-  "law": {"ko":"법","en":"Law"},
-  "leadership": {"ko":"리더십","en":"Leadership"},
-  "legal-research": {"ko":"법학","en":"Legal Research"},
-  "library": {"ko":"도서관","en":"Library"},
-  "linux": {"ko":"Linux","en":"Linux"},
-  "lyrics": {"ko":"작사","en":"Lyrics"},
-  "machine-learning": {"ko":"머신러닝","en":"Machine Learning"},
-  "maker": {"ko":"메이커","en":"Maker"},
-  "marathon": {"ko":"마라톤","en":"Marathon"},
-  "mathematics": {"ko":"수학","en":"Mathematics"},
-  "matplotlib": {"ko":"Matplotlib","en":"Matplotlib"},
-  "media": {"ko":"미디어","en":"Media"},
-  "mentoring": {"ko":"멘토링","en":"Mentoring"},
-  "meta-learning": {"ko":"메타러닝","en":"Meta-learning"},
-  "military": {"ko":"군","en":"Military"},
-  "military-technology": {"ko":"군사기술","en":"Military Technology"},
-  "mind-sport": {"ko":"두뇌스포츠","en":"Mind Sport"},
-  "mobile": {"ko":"모바일","en":"Mobile"},
-  "multimedia": {"ko":"멀티미디어","en":"Multimedia"},
-  "music": {"ko":"음악","en":"Music"},
-  "network": {"ko":"네트워크","en":"Network"},
-  "nlp": {"ko":"자연어처리","en":"Natural Language Processing"},
-  "numerical-method": {"ko":"수치해석","en":"Numerical Method"},
-  "office-software": {"ko":"사무자동화","en":"Office Software"},
-  "omok": {"ko":"오목","en":"Omok"},
-  "openstack": {"ko":"OpenStack","en":"OpenStack"},
-  "operations": {"ko":"운영","en":"Operations"},
-  "optimization": {"ko":"최적화","en":"Optimization"},
-  "origami": {"ko":"종이접기","en":"Origami"},
-  "parser": {"ko":"파서","en":"Parser"},
-  "performance": {"ko":"공연","en":"Performance"},
-  "physics": {"ko":"물리","en":"Physics"},
-  "planning": {"ko":"기획","en":"Planning"},
-  "platform": {"ko":"플랫폼","en":"Platform"},
-  "policy": {"ko":"정책","en":"Policy"},
-  "pqc": {"ko":"양자내성암호","en":"Post-quantum Cryptography"},
-  "presentation": {"ko":"프레젠테이션","en":"Presentation"},
-  "problem-setting": {"ko":"문제출제","en":"Problem Setting"},
-  "problem-solving": {"ko":"문제해결","en":"Problem Solving"},
-  "product-design": {"ko":"제품설계","en":"Product Design"},
-  "program": {"ko":"프로그램이수","en":"Program"},
-  "programming": {"ko":"프로그래밍","en":"Programming"},
-  "programming-contest": {"ko":"프로그래밍대회","en":"Programming Contest"},
-  "project": {"ko":"프로젝트","en":"Project"},
-  "psychology": {"ko":"심리","en":"Psychology"},
-  "publication": {"ko":"논문","en":"Publication"},
-  "public-health": {"ko":"보건","en":"Public Health"},
-  "pwn": {"ko":"포너블","en":"Pwn"},
-  "python": {"ko":"Python","en":"Python"},
-  "quantum-computing": {"ko":"양자컴퓨팅","en":"Quantum Computing"},
-  "raspberry-pi": {"ko":"Raspberry Pi","en":"Raspberry Pi"},
-  "rating": {"ko":"레이팅","en":"Rating"},
-  "reading": {"ko":"독서","en":"Reading"},
-  "report": {"ko":"보고서","en":"Report"},
-  "research": {"ko":"연구","en":"Research"},
-  "reversing": {"ko":"리버싱","en":"Reversing"},
-  "rfid": {"ko":"RFID","en":"RFID"},
-  "satellite": {"ko":"위성","en":"Satellite"},
-  "satellite-communication": {"ko":"위성통신","en":"Satellite Communication"},
-  "science": {"ko":"과학","en":"Science"},
-  "science-communication": {"ko":"과학소통","en":"Science Communication"},
-  "security": {"ko":"보안","en":"Security"},
-  "server": {"ko":"서버","en":"Server"},
-  "signal": {"ko":"신호","en":"Signal"},
-  "social-value": {"ko":"사회적가치","en":"Social Value"},
-  "software": {"ko":"소프트웨어","en":"Software"},
-  "sorting": {"ko":"정렬","en":"Sorting"},
-  "sports": {"ko":"스포츠","en":"Sports"},
-  "statistics": {"ko":"통계","en":"Statistics"},
-  "student-governance": {"ko":"학생자치","en":"Student Governance"},
-  "survey": {"ko":"설문","en":"Survey"},
-  "teaching": {"ko":"강의","en":"Teaching"},
-  "teaching-method": {"ko":"교수법","en":"Teaching Method"},
-  "technical-support": {"ko":"기술지원","en":"Technical Support"},
-  "technical-writing": {"ko":"기술글쓰기","en":"Technical Writing"},
-  "technology": {"ko":"기술","en":"Technology"},
-  "tensorflow": {"ko":"TensorFlow","en":"TensorFlow"},
-  "text-processing": {"ko":"텍스트처리","en":"Text Processing"},
-  "tourism": {"ko":"관광","en":"Tourism"},
-  "translation": {"ko":"번역","en":"Translation"},
-  "utility": {"ko":"유틸리티","en":"Utility"},
-  "visualization": {"ko":"시각화","en":"Visualization"},
-  "vocal": {"ko":"보컬","en":"Vocals"},
-  "volunteer": {"ko":"봉사","en":"Volunteer"},
-  "vr": {"ko":"VR","en":"VR"},
-  "web": {"ko":"웹","en":"Web"},
-  "web-crawling": {"ko":"웹크롤링","en":"Web Crawling"},
-  "wellbeing": {"ko":"정서건강","en":"Well-being"},
-  "writing": {"ko":"글쓰기","en":"Writing"},
-  "youth": {"ko":"청소년","en":"Youth"}
+  "3d-modeling": {
+    "ko": "3D 모델링",
+    "en": "3D modeling"
+  },
+  "3d-printing": {
+    "ko": "3D 프린팅",
+    "en": "3D Printing"
+  },
+  "abstract-algebra": {
+    "ko": "현대대수학",
+    "en": "Abstract algebra"
+  },
+  "academic-credit": {
+    "ko": "학점 이수·인정",
+    "en": "Academic credit"
+  },
+  "acoustics": {
+    "ko": "음향학",
+    "en": "Acoustics"
+  },
+  "admissions": {
+    "ko": "입시",
+    "en": "Admissions"
+  },
+  "agriculture": {
+    "ko": "농업",
+    "en": "Agriculture"
+  },
+  "ai": {
+    "ko": "인공지능",
+    "en": "Artificial Intelligence"
+  },
+  "algorithm": {
+    "ko": "알고리즘",
+    "en": "Algorithms"
+  },
+  "alttium": {
+    "ko": "알띠움",
+    "en": "알띠움"
+  },
+  "android": {
+    "ko": "Android",
+    "en": "Android"
+  },
+  "arduino": {
+    "ko": "Arduino",
+    "en": "Arduino"
+  },
+  "art": {
+    "ko": "미술",
+    "en": "Art"
+  },
+  "assessment": {
+    "ko": "교육평가",
+    "en": "Educational Assessment"
+  },
+  "assistive-technology": {
+    "ko": "보조공학",
+    "en": "Assistive Technology"
+  },
+  "astronomy": {
+    "ko": "천문학",
+    "en": "Astronomy"
+  },
+  "autoencoder": {
+    "ko": "오토인코더",
+    "en": "Autoencoder"
+  },
+  "automation": {
+    "ko": "자동화",
+    "en": "Automation"
+  },
+  "bass-guitar": {
+    "ko": "베이스 기타",
+    "en": "Bass Guitar"
+  },
+  "binary-exploitation": {
+    "ko": "바이너리 익스플로잇",
+    "en": "Binary exploitation"
+  },
+  "biology": {
+    "ko": "생물학",
+    "en": "Biology"
+  },
+  "bluetooth": {
+    "ko": "블루투스",
+    "en": "Bluetooth"
+  },
+  "board-game": {
+    "ko": "보드게임",
+    "en": "Board Games"
+  },
+  "bob": {
+    "ko": "BoB",
+    "en": "BoB"
+  },
+  "body-head-updates": {
+    "ko": "Body·Head 업데이트",
+    "en": "Body and Head Updates"
+  },
+  "c": {
+    "ko": "C",
+    "en": "C"
+  },
+  "c4i": {
+    "ko": "C4I",
+    "en": "C4I"
+  },
+  "calculus": {
+    "ko": "미적분학",
+    "en": "Calculus"
+  },
+  "calligraphy": {
+    "ko": "서예",
+    "en": "Calligraphy"
+  },
+  "campaign": {
+    "ko": "캠페인",
+    "en": "Campaigns"
+  },
+  "career-education": {
+    "ko": "진로교육",
+    "en": "Career Education"
+  },
+  "case-analysis": {
+    "ko": "판례 분석",
+    "en": "Case Analysis"
+  },
+  "catastrophe-bond": {
+    "ko": "대재해채권",
+    "en": "Catastrophe Bonds"
+  },
+  "cce": {
+    "ko": "사이버공격방어대회(CCE)",
+    "en": "Cyber Conflict Exercise (CCE)"
+  },
+  "chatbot": {
+    "ko": "챗봇",
+    "en": "Chatbots"
+  },
+  "chemistry": {
+    "ko": "화학",
+    "en": "Chemistry"
+  },
+  "china": {
+    "ko": "중국",
+    "en": "China"
+  },
+  "chocolate-cup": {
+    "ko": "초콜릿컵",
+    "en": "초콜릿컵"
+  },
+  "chungcheong-ctf": {
+    "ko": "충청권 청소년 해킹방어대회",
+    "en": "충청권 청소년 해킹방어대회"
+  },
+  "clay-modeling": {
+    "ko": "찰흙 조형",
+    "en": "Clay Modeling"
+  },
+  "climate": {
+    "ko": "기후",
+    "en": "Climate"
+  },
+  "cloud": {
+    "ko": "클라우드",
+    "en": "Cloud Computing"
+  },
+  "cloud-security": {
+    "ko": "클라우드 보안",
+    "en": "Cloud security"
+  },
+  "cnn": {
+    "ko": "합성곱 신경망(CNN)",
+    "en": "Convolutional neural networks"
+  },
+  "code-generation": {
+    "ko": "코드 생성",
+    "en": "Code Generation"
+  },
+  "communication": {
+    "ko": "의사소통",
+    "en": "Communication"
+  },
+  "community-care": {
+    "ko": "지역 돌봄",
+    "en": "Community care"
+  },
+  "competitive-programming": {
+    "ko": "프로그래밍 대회",
+    "en": "Competitive Programming"
+  },
+  "composition": {
+    "ko": "작곡",
+    "en": "Composition"
+  },
+  "computer-architecture": {
+    "ko": "컴퓨터구조",
+    "en": "Computer architecture"
+  },
+  "computer-science": {
+    "ko": "컴퓨터과학",
+    "en": "Computer Science"
+  },
+  "computer-systems": {
+    "ko": "컴퓨터 시스템",
+    "en": "Computer Systems"
+  },
+  "connectome": {
+    "ko": "커넥톰",
+    "en": "Connectomes"
+  },
+  "copyright": {
+    "ko": "저작권",
+    "en": "Copyright"
+  },
+  "correlation-analysis": {
+    "ko": "상관분석",
+    "en": "Correlation analysis"
+  },
+  "coursework": {
+    "ko": "교과목",
+    "en": "Coursework"
+  },
+  "cpp": {
+    "ko": "C++",
+    "en": "C++"
+  },
+  "crowdfunding": {
+    "ko": "크라우드펀딩",
+    "en": "Crowdfunding"
+  },
+  "cryptography": {
+    "ko": "암호학",
+    "en": "Cryptography"
+  },
+  "cshs": {
+    "ko": "충남과학고",
+    "en": "Chung-Nam Science High School"
+  },
+  "ctf": {
+    "ko": "CTF",
+    "en": "CTF"
+  },
+  "dart": {
+    "ko": "Dart",
+    "en": "Dart"
+  },
+  "data-science": {
+    "ko": "데이터 과학",
+    "en": "Data Science"
+  },
+  "data-structures": {
+    "ko": "자료구조",
+    "en": "Data structures"
+  },
+  "database": {
+    "ko": "데이터베이스",
+    "en": "Databases"
+  },
+  "debate": {
+    "ko": "토론",
+    "en": "Debate"
+  },
+  "design-thinking": {
+    "ko": "디자인 싱킹",
+    "en": "Design Thinking"
+  },
+  "devsecops": {
+    "ko": "DevSecOps",
+    "en": "DevSecOps"
+  },
+  "diat": {
+    "ko": "DIAT",
+    "en": "DIAT"
+  },
+  "differential-equations": {
+    "ko": "미분방정식",
+    "en": "Differential equations"
+  },
+  "digital-divide": {
+    "ko": "디지털 격차",
+    "en": "Digital divide"
+  },
+  "digital-fabrication": {
+    "ko": "디지털 제작",
+    "en": "Digital Fabrication"
+  },
+  "digital-forensics": {
+    "ko": "디지털 포렌식",
+    "en": "Digital Forensics"
+  },
+  "digital-literacy": {
+    "ko": "디지털 정보 활용",
+    "en": "Digital Literacy"
+  },
+  "digital-logic": {
+    "ko": "디지털 논리회로",
+    "en": "Digital Logic"
+  },
+  "discrete-mathematics": {
+    "ko": "이산수학",
+    "en": "Discrete mathematics"
+  },
+  "driving": {
+    "ko": "운전",
+    "en": "Driving"
+  },
+  "drone": {
+    "ko": "드론",
+    "en": "Drones"
+  },
+  "dynamic-programming": {
+    "ko": "동적 계획법",
+    "en": "Dynamic programming"
+  },
+  "earth-science": {
+    "ko": "지구과학",
+    "en": "Earth Science"
+  },
+  "ebpf-xdp": {
+    "ko": "eBPF/XDP",
+    "en": "eBPF/XDP"
+  },
+  "ecology": {
+    "ko": "생태학",
+    "en": "Ecology"
+  },
+  "economics": {
+    "ko": "경제학",
+    "en": "Economics"
+  },
+  "editing": {
+    "ko": "편집",
+    "en": "Editing"
+  },
+  "education": {
+    "ko": "교육",
+    "en": "Education"
+  },
+  "electron-configuration": {
+    "ko": "전자 배치",
+    "en": "Electron Configurations"
+  },
+  "embedded": {
+    "ko": "임베디드 시스템",
+    "en": "Embedded Systems"
+  },
+  "emcee": {
+    "ko": "행사 진행",
+    "en": "Event Hosting"
+  },
+  "energy": {
+    "ko": "에너지",
+    "en": "Energy"
+  },
+  "engineering": {
+    "ko": "공학",
+    "en": "Engineering"
+  },
+  "english-language": {
+    "ko": "영어",
+    "en": "English language"
+  },
+  "entrepreneurship": {
+    "ko": "창업",
+    "en": "Entrepreneurship"
+  },
+  "entry": {
+    "ko": "엔트리",
+    "en": "Entry"
+  },
+  "environment": {
+    "ko": "환경",
+    "en": "Environment"
+  },
+  "event-operations": {
+    "ko": "행사 운영",
+    "en": "Event Operations"
+  },
+  "excel": {
+    "ko": "Excel",
+    "en": "Excel"
+  },
+  "extended-reality": {
+    "ko": "XR",
+    "en": "Extended Reality"
+  },
+  "field-research": {
+    "ko": "현장조사",
+    "en": "Field research"
+  },
+  "finance": {
+    "ko": "금융",
+    "en": "Finance"
+  },
+  "flask": {
+    "ko": "Flask",
+    "en": "Flask"
+  },
+  "flutter": {
+    "ko": "Flutter",
+    "en": "Flutter"
+  },
+  "game-development": {
+    "ko": "게임 개발",
+    "en": "Game Development"
+  },
+  "game-theory": {
+    "ko": "게임이론",
+    "en": "Game Theory"
+  },
+  "gangwon-2024": {
+    "ko": "강원 2024",
+    "en": "Gangwon 2024"
+  },
+  "genetic-algorithm": {
+    "ko": "유전 알고리즘",
+    "en": "Genetic Algorithms"
+  },
+  "geogebra": {
+    "ko": "GeoGebra",
+    "en": "GeoGebra"
+  },
+  "geometry": {
+    "ko": "기하학",
+    "en": "Geometry"
+  },
+  "glide": {
+    "ko": "Glide",
+    "en": "Glide"
+  },
+  "gopoom": {
+    "ko": "고품(GOPOOM)",
+    "en": "GOPOOM"
+  },
+  "graph-algorithms": {
+    "ko": "그래프 알고리즘",
+    "en": "Graph algorithms"
+  },
+  "graphic-design": {
+    "ko": "그래픽 디자인",
+    "en": "Graphic Design"
+  },
+  "gtq": {
+    "ko": "GTQ",
+    "en": "GTQ"
+  },
+  "habituation": {
+    "ko": "습관화",
+    "en": "Habituation"
+  },
+  "hackathon": {
+    "ko": "해커톤",
+    "en": "Hackathons"
+  },
+  "hacktheon": {
+    "ko": "핵테온 세종",
+    "en": "HackTheon Sejong"
+  },
+  "hangul": {
+    "ko": "한글 문서 편집기",
+    "en": "Hangul Word Processor"
+  },
+  "history": {
+    "ko": "역사",
+    "en": "History"
+  },
+  "html": {
+    "ko": "HTML",
+    "en": "HTML"
+  },
+  "humanities": {
+    "ko": "인문학",
+    "en": "Humanities"
+  },
+  "huzita-hatori": {
+    "ko": "Huzita–Hatori 공리",
+    "en": "Huzita–Hatori Axioms"
+  },
+  "hydropower": {
+    "ko": "수력 발전",
+    "en": "Hydropower"
+  },
+  "icpc": {
+    "ko": "ICPC",
+    "en": "ICPC"
+  },
+  "include": {
+    "ko": "정보동아리 #include",
+    "en": "#include"
+  },
+  "instructional-design": {
+    "ko": "교수설계",
+    "en": "Instructional design"
+  },
+  "instructor": {
+    "ko": "강사·교습",
+    "en": "Instruction"
+  },
+  "internet-search": {
+    "ko": "인터넷 정보검색",
+    "en": "Internet Information Search"
+  },
+  "iot": {
+    "ko": "IoT",
+    "en": "Internet of Things"
+  },
+  "it-industry": {
+    "ko": "IT 산업",
+    "en": "IT industry"
+  },
+  "itq": {
+    "ko": "ITQ",
+    "en": "ITQ"
+  },
+  "java": {
+    "ko": "Java",
+    "en": "Java"
+  },
+  "javascript": {
+    "ko": "JavaScript",
+    "en": "JavaScript"
+  },
+  "journalism": {
+    "ko": "언론",
+    "en": "Journalism"
+  },
+  "kait": {
+    "ko": "한국정보통신진흥협회",
+    "en": "KAIT"
+  },
+  "kakaotalk": {
+    "ko": "카카오톡",
+    "en": "KakaoTalk"
+  },
+  "kcc": {
+    "ko": "한국컴퓨터종합학술대회",
+    "en": "KCC"
+  },
+  "kendo": {
+    "ko": "검도",
+    "en": "Kendo"
+  },
+  "key-exchange": {
+    "ko": "키 교환",
+    "en": "Key Exchange"
+  },
+  "khlug": {
+    "ko": "쿠러그(KHLUG)",
+    "en": "KHLUG"
+  },
+  "khu": {
+    "ko": "경희대학교",
+    "en": "Kyung Hee University"
+  },
+  "khuda": {
+    "ko": "KHUDA",
+    "en": "KHUDA"
+  },
+  "khuthon": {
+    "ko": "khuthon",
+    "en": "khuthon"
+  },
+  "kiisc": {
+    "ko": "한국정보보호학회",
+    "en": "KIISC"
+  },
+  "kiise": {
+    "ko": "한국정보과학회",
+    "en": "KIISE"
+  },
+  "kimst": {
+    "ko": "한국군사과학기술학회",
+    "en": "KIMST"
+  },
+  "kisti": {
+    "ko": "한국과학기술정보연구원(KISTI)",
+    "en": "KISTI"
+  },
+  "kmu-cau-open-contest": {
+    "ko": "국민대·중앙대 프로그래밍 대회",
+    "en": "국민대·중앙대 프로그래밍 대회"
+  },
+  "koi": {
+    "ko": "한국정보올림피아드",
+    "en": "Korea Olympiad in Informatics"
+  },
+  "kookmin-algorithm-contest": {
+    "ko": "국민대학교 알고리즘 대회",
+    "en": "국민대학교 알고리즘 대회"
+  },
+  "kookmin-university": {
+    "ko": "국민대학교",
+    "en": "Kookmin University"
+  },
+  "korea-omok-association": {
+    "ko": "대한오목협회",
+    "en": "Korea Omok Association"
+  },
+  "korean-language": {
+    "ko": "한국어",
+    "en": "Korean Language"
+  },
+  "korean-medicine": {
+    "ko": "한의학",
+    "en": "Korean medicine"
+  },
+  "kpc": {
+    "ko": "한국생산성본부",
+    "en": "Korea Productivity Center"
+  },
+  "ksc": {
+    "ko": "한국소프트웨어종합학술대회",
+    "en": "KSC"
+  },
+  "kscy": {
+    "ko": "KSCY",
+    "en": "KSCY"
+  },
+  "ktls": {
+    "ko": "KTLS",
+    "en": "KTLS"
+  },
+  "lattice-crypto": {
+    "ko": "격자 기반 암호",
+    "en": "Lattice-based Cryptography"
+  },
+  "law": {
+    "ko": "법학",
+    "en": "Law"
+  },
+  "lea": {
+    "ko": "LEA",
+    "en": "LEA"
+  },
+  "leadership-development": {
+    "ko": "리더십 교육",
+    "en": "Leadership Development"
+  },
+  "library": {
+    "ko": "도서관",
+    "en": "Libraries"
+  },
+  "light-pollution": {
+    "ko": "빛 공해",
+    "en": "Light Pollution"
+  },
+  "linear-algebra": {
+    "ko": "선형대수",
+    "en": "Linear algebra"
+  },
+  "linguistics": {
+    "ko": "언어학",
+    "en": "Linguistics"
+  },
+  "linux": {
+    "ko": "Linux",
+    "en": "Linux"
+  },
+  "machine-learning": {
+    "ko": "머신러닝",
+    "en": "Machine Learning"
+  },
+  "maker": {
+    "ko": "메이킹",
+    "en": "Making"
+  },
+  "maml": {
+    "ko": "MAML",
+    "en": "MAML"
+  },
+  "mathematical-analysis": {
+    "ko": "해석학",
+    "en": "Mathematical analysis"
+  },
+  "mathematics": {
+    "ko": "수학",
+    "en": "Mathematics"
+  },
+  "matplotlib": {
+    "ko": "Matplotlib",
+    "en": "Matplotlib"
+  },
+  "mcu": {
+    "ko": "마이크로컨트롤러",
+    "en": "Microcontrollers"
+  },
+  "media-production": {
+    "ko": "미디어 제작",
+    "en": "Media Production"
+  },
+  "mentoring": {
+    "ko": "멘토링",
+    "en": "Mentoring"
+  },
+  "merge-sort": {
+    "ko": "병합 정렬",
+    "en": "Merge Sort"
+  },
+  "meta-learning": {
+    "ko": "메타러닝",
+    "en": "Meta-learning"
+  },
+  "metaverse": {
+    "ko": "메타버스",
+    "en": "Metaverse"
+  },
+  "military": {
+    "ko": "군",
+    "en": "Military"
+  },
+  "muhan-sangsang": {
+    "ko": "무한상상",
+    "en": "무한상상"
+  },
+  "multimedia": {
+    "ko": "멀티미디어",
+    "en": "Multimedia"
+  },
+  "music": {
+    "ko": "음악",
+    "en": "Music"
+  },
+  "natural-science": {
+    "ko": "자연과학",
+    "en": "Natural science"
+  },
+  "network": {
+    "ko": "네트워크",
+    "en": "Networks"
+  },
+  "neural-networks": {
+    "ko": "신경망",
+    "en": "Neural networks"
+  },
+  "news-production": {
+    "ko": "뉴스 제작",
+    "en": "News production"
+  },
+  "nlp": {
+    "ko": "자연어 처리",
+    "en": "Natural Language Processing"
+  },
+  "no-code": {
+    "ko": "노코드",
+    "en": "No-code"
+  },
+  "numerical-analysis": {
+    "ko": "수치해석",
+    "en": "Numerical Analysis"
+  },
+  "numpy": {
+    "ko": "NumPy",
+    "en": "NumPy"
+  },
+  "nypc": {
+    "ko": "NYPC",
+    "en": "NYPC"
+  },
+  "object-oriented-programming": {
+    "ko": "객체지향 프로그래밍",
+    "en": "Object-oriented programming"
+  },
+  "office-administration": {
+    "ko": "사무 행정",
+    "en": "Office Administration"
+  },
+  "office-software": {
+    "ko": "사무 소프트웨어",
+    "en": "Office Software"
+  },
+  "omok": {
+    "ko": "오목",
+    "en": "Omok"
+  },
+  "open-source": {
+    "ko": "오픈소스",
+    "en": "Open source"
+  },
+  "openskyedu": {
+    "ko": "오픈스카이에듀",
+    "en": "오픈스카이에듀"
+  },
+  "openstack": {
+    "ko": "OpenStack",
+    "en": "OpenStack"
+  },
+  "operating-systems": {
+    "ko": "운영체제",
+    "en": "Operating systems"
+  },
+  "optimization": {
+    "ko": "최적화",
+    "en": "Optimization"
+  },
+  "organization-operations": {
+    "ko": "조직 운영",
+    "en": "Organizational Operations"
+  },
+  "origami": {
+    "ko": "종이접기",
+    "en": "Origami"
+  },
+  "osint": {
+    "ko": "공개출처정보(OSINT)",
+    "en": "Open-Source Intelligence (OSINT)"
+  },
+  "ott": {
+    "ko": "OTT",
+    "en": "OTT"
+  },
+  "pandas": {
+    "ko": "pandas",
+    "en": "pandas"
+  },
+  "performance": {
+    "ko": "공연",
+    "en": "Performing Arts"
+  },
+  "physical-computing": {
+    "ko": "피지컬 컴퓨팅",
+    "en": "Physical Computing"
+  },
+  "physics": {
+    "ko": "물리학",
+    "en": "Physics"
+  },
+  "pi": {
+    "ko": "원주율",
+    "en": "Pi"
+  },
+  "planning": {
+    "ko": "기획",
+    "en": "Planning"
+  },
+  "platform-economy": {
+    "ko": "플랫폼 경제",
+    "en": "Platform economy"
+  },
+  "policy": {
+    "ko": "정책",
+    "en": "Policy"
+  },
+  "polynomial-multiplication": {
+    "ko": "다항식 곱셈",
+    "en": "Polynomial Multiplication"
+  },
+  "postech": {
+    "ko": "포항공과대학교(POSTECH)",
+    "en": "POSTECH"
+  },
+  "powerpoint": {
+    "ko": "PowerPoint",
+    "en": "PowerPoint"
+  },
+  "pqc": {
+    "ko": "양자내성암호",
+    "en": "Post-quantum Cryptography"
+  },
+  "presentation": {
+    "ko": "발표",
+    "en": "Presentations"
+  },
+  "privacy": {
+    "ko": "개인정보 보호",
+    "en": "Privacy"
+  },
+  "probability": {
+    "ko": "확률",
+    "en": "Probability"
+  },
+  "problem-setting": {
+    "ko": "문제 출제",
+    "en": "Problem Setting"
+  },
+  "programming": {
+    "ko": "프로그래밍",
+    "en": "Programming"
+  },
+  "psychology": {
+    "ko": "심리학",
+    "en": "Psychology"
+  },
+  "public-health": {
+    "ko": "보건",
+    "en": "Public Health"
+  },
+  "pyorbital": {
+    "ko": "pyorbital",
+    "en": "pyorbital"
+  },
+  "python": {
+    "ko": "Python",
+    "en": "Python"
+  },
+  "qiskit": {
+    "ko": "Qiskit",
+    "en": "Qiskit"
+  },
+  "quantum-computing": {
+    "ko": "양자컴퓨팅",
+    "en": "Quantum Computing"
+  },
+  "quick-sort": {
+    "ko": "퀵 정렬",
+    "en": "Quick Sort"
+  },
+  "raspberry-pi": {
+    "ko": "Raspberry Pi",
+    "en": "Raspberry Pi"
+  },
+  "reading": {
+    "ko": "독서",
+    "en": "Reading"
+  },
+  "recurrence": {
+    "ko": "점화식",
+    "en": "Recurrences"
+  },
+  "research-method": {
+    "ko": "연구방법",
+    "en": "Research Methods"
+  },
+  "reverse-engineering": {
+    "ko": "리버스 엔지니어링",
+    "en": "Reverse engineering"
+  },
+  "rfid": {
+    "ko": "RFID",
+    "en": "RFID"
+  },
+  "risk-management": {
+    "ko": "리스크 관리",
+    "en": "Risk Management"
+  },
+  "robotics": {
+    "ko": "로봇",
+    "en": "Robotics"
+  },
+  "running": {
+    "ko": "러닝",
+    "en": "Running"
+  },
+  "satellite": {
+    "ko": "위성",
+    "en": "Satellites"
+  },
+  "satellite-communication": {
+    "ko": "위성통신",
+    "en": "Satellite Communications"
+  },
+  "satnogs": {
+    "ko": "SatNOGS",
+    "en": "SatNOGS"
+  },
+  "science-communication": {
+    "ko": "과학 소통",
+    "en": "Science Communication"
+  },
+  "scienceon": {
+    "ko": "ScienceON",
+    "en": "ScienceON"
+  },
+  "scratch": {
+    "ko": "Scratch",
+    "en": "Scratch"
+  },
+  "security": {
+    "ko": "정보보안",
+    "en": "Information Security"
+  },
+  "selection-sort": {
+    "ko": "선택 정렬",
+    "en": "Selection Sort"
+  },
+  "selenium": {
+    "ko": "Selenium",
+    "en": "Selenium"
+  },
+  "self-directed-learning": {
+    "ko": "자기주도학습",
+    "en": "Self-directed Learning"
+  },
+  "shake": {
+    "ko": "shake!",
+    "en": "shake!"
+  },
+  "smaug-t": {
+    "ko": "SMAUG-T",
+    "en": "SMAUG-T"
+  },
+  "social-welfare": {
+    "ko": "사회복지",
+    "en": "Social Welfare"
+  },
+  "sorting": {
+    "ko": "정렬",
+    "en": "Sorting"
+  },
+  "speed-skating": {
+    "ko": "스피드스케이팅",
+    "en": "Speed Skating"
+  },
+  "spelling": {
+    "ko": "맞춤법",
+    "en": "Spelling"
+  },
+  "sports": {
+    "ko": "스포츠",
+    "en": "Sports"
+  },
+  "spreadsheets": {
+    "ko": "스프레드시트",
+    "en": "Spreadsheets"
+  },
+  "statistics": {
+    "ko": "통계학",
+    "en": "Statistics"
+  },
+  "steganography": {
+    "ko": "스테가노그래피",
+    "en": "Steganography"
+  },
+  "student-governance": {
+    "ko": "학생자치",
+    "en": "Student Governance"
+  },
+  "susc": {
+    "ko": "SUSC",
+    "en": "SUSC"
+  },
+  "sustainability": {
+    "ko": "지속가능성",
+    "en": "Sustainability"
+  },
+  "svd": {
+    "ko": "특이값 분해",
+    "en": "Singular Value Decomposition"
+  },
+  "sw-sharing": {
+    "ko": "SW나눔봉사단",
+    "en": "SW나눔봉사단"
+  },
+  "t3n4ci0us": {
+    "ko": "T3N4CI0US",
+    "en": "T3N4CI0US"
+  },
+  "teaching-assistant": {
+    "ko": "보조강사·조교",
+    "en": "Teaching Assistance"
+  },
+  "technical-support": {
+    "ko": "기술지원",
+    "en": "Technical Support"
+  },
+  "tedi": {
+    "ko": "TEdI",
+    "en": "TEdI"
+  },
+  "tensorflow": {
+    "ko": "TensorFlow",
+    "en": "TensorFlow"
+  },
+  "text-processing": {
+    "ko": "텍스트 처리",
+    "en": "Text Processing"
+  },
+  "tgwing": {
+    "ko": "T.G.WinG",
+    "en": "T.G.WinG"
+  },
+  "threat-analysis": {
+    "ko": "위협 분석",
+    "en": "Threat Analysis"
+  },
+  "tourism": {
+    "ko": "관광",
+    "en": "Tourism"
+  },
+  "translation": {
+    "ko": "번역",
+    "en": "Translation"
+  },
+  "ucpc": {
+    "ko": "UCPC",
+    "en": "UCPC"
+  },
+  "ui-ux": {
+    "ko": "UI/UX",
+    "en": "UI/UX"
+  },
+  "unity": {
+    "ko": "Unity",
+    "en": "Unity"
+  },
+  "unreal-engine": {
+    "ko": "Unreal Engine",
+    "en": "Unreal Engine"
+  },
+  "viral-coefficient": {
+    "ko": "바이럴 계수",
+    "en": "Viral Coefficient"
+  },
+  "visualization": {
+    "ko": "시각화",
+    "en": "Visualization"
+  },
+  "vocals": {
+    "ko": "보컬",
+    "en": "Vocals"
+  },
+  "volunteering": {
+    "ko": "봉사",
+    "en": "Volunteering"
+  },
+  "web": {
+    "ko": "웹",
+    "en": "Web"
+  },
+  "web-crawling": {
+    "ko": "웹 크롤링",
+    "en": "Web Crawling"
+  },
+  "whitehat": {
+    "ko": "화이트햇",
+    "en": "WHITEHAT"
+  },
+  "windows-server": {
+    "ko": "Windows Server",
+    "en": "Windows Server"
+  },
+  "word-processing": {
+    "ko": "문서 작성",
+    "en": "Word Processing"
+  },
+  "writing": {
+    "ko": "글쓰기",
+    "en": "Writing"
+  },
+  "yangsa-soft": {
+    "ko": "양사 소프트",
+    "en": "양사 소프트"
+  }
 }

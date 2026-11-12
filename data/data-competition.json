@@ -6,23 +6,56 @@
     "status": "completed",
     "period": "2026.08.22",
     "title": {
-      "ko": "CCE 2026 예선",
-      "en": "CCE 2026 Preliminary"
+      "ko": "2026 사이버공격방어대회 (CCE) 예선",
+      "en": "Cyber Conflict Exercise 2026 — Preliminary"
     },
     "summary": {
-      "ko": "일반부 AI·리버싱·포너블·웹 분야에서 Cyber GOP 4인 팀으로 77팀 중 19위, 5,014점을 기록해 본선에 진출했습니다.",
-      "en": "Placed 19th of 77 with 5,014 points in AI, reversing, pwn, and web as the four-person team Cyber GOP, advancing to the finals."
+      "ko": "트랙: 공공트랙 · 순위: 19위 /77 · 점수: 5014점 / 16문제 · 팀명: 사이버GOP (4인) · 결과: 본선 진출",
+      "en": "Public-sector track · Rank: 19/77 · Score: 5,014 points · Problems: 16 · Team: 사이버GOP (4 members) · Advanced to the final"
     },
     "featured": false,
     "tags": [
-      "competition",
+      "security",
       "ctf",
-      "cybersecurity",
+      "cce",
       "ai",
-      "reversing",
-      "pwn",
+      "reverse-engineering",
+      "binary-exploitation",
       "web"
-    ]
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "주최: 국가정보원, 국가보안기술연구소",
+          "en": "Hosts: National Intelligence Service and National Security Research Institute"
+        },
+        {
+          "ko": "트랙: 공공트랙",
+          "en": "Track: 공공트랙"
+        },
+        {
+          "ko": "분야: AI, Reversing, Pwnable, Web",
+          "en": "Contest categories: AI, Reversing, Pwnable, Web"
+        },
+        {
+          "ko": "순위: 19위 /77",
+          "en": "Rank: 19위 /77"
+        },
+        {
+          "ko": "점수: 5014점 / 16문제",
+          "en": "Score: 5014점 / 16문제"
+        },
+        {
+          "ko": "팀명: 사이버GOP (4인)",
+          "en": "Team: 사이버GOP (4인)"
+        },
+        {
+          "ko": "결과: 본선 진출",
+          "en": "Result: 본선 진출"
+        }
+      ]
+    },
+    "links": []
   },
   {
     "slug": "whitehat-2025-preliminary",
@@ -31,20 +64,52 @@
     "status": "completed",
     "period": "2025.10.18",
     "title": {
-      "ko": "화이트햇 콘테스트 2025 예선",
-      "en": "WhiteHat Contest 2025 Preliminary"
+      "ko": "화이트햇 2025 예선",
+      "en": "WHITEHAT 2025 — Preliminary"
     },
     "summary": {
-      "ko": "군인부문 3인 팀 ‘2027은 온다’로 40팀 중 20위, 256점을 기록했습니다.",
-      "en": "Placed 20th of 40 with 256 points in the military division as the three-person team ‘2027 Will Come.’"
+      "ko": "부문: 용사부문 · 순위: 20위 /40 · 점수: 256점 · 팀명: 2027년은 온다 (3인)",
+      "en": "Division: enlisted-soldier division · Rank: 20/40 · Score: 256 points · Team: 2027년은 온다 (3 members)"
     },
     "featured": false,
     "tags": [
-      "competition",
+      "security",
       "ctf",
-      "cybersecurity",
-      "military"
-    ]
+      "whitehat",
+      "ai",
+      "digital-forensics",
+      "reverse-engineering",
+      "binary-exploitation"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "주최: 대한민국국방부, 사이버작전사령부",
+          "en": "Host: 대한민국국방부, 사이버작전사령부"
+        },
+        {
+          "ko": "부문: 용사부문",
+          "en": "Division: 용사부문"
+        },
+        {
+          "ko": "분야: AI, Forensic, Reversing, Pwnable, Scenario",
+          "en": "Contest categories: AI, Forensic, Reversing, Pwnable, Scenario"
+        },
+        {
+          "ko": "순위: 20위 /40",
+          "en": "Rank: 20위 /40"
+        },
+        {
+          "ko": "점수: 256점",
+          "en": "Score: 256점"
+        },
+        {
+          "ko": "팀명: 2027년은 온다 (3인)",
+          "en": "Team: 2027년은 온다 (3인)"
+        }
+      ]
+    },
+    "links": []
   },
   {
     "slug": "shake-selection-2024",
@@ -53,19 +118,46 @@
     "status": "completed",
     "period": "2024.11.09",
     "title": {
-      "ko": "shake! 2024 선발전",
-      "en": "shake! 2024 Selection Round"
+      "ko": "2024 shake! 경희대학교 선발전",
+      "en": "shake! 2024 — Kyung Hee University Selection Round"
     },
     "summary": {
-      "ko": "전체 26명 중 5위, 교내 9명 중 5위로 본선에 진출했습니다.",
-      "en": "Placed 5th of 26 overall and 5th of 9 on campus, advancing to the finals."
+      "ko": "순위: 5위 /26 · 점수: 5 Solve /9 · 결과: 본선 진출",
+      "en": "Rank: 5/26 · Score: 5/9 problems solved · Result: advanced to the final"
     },
     "featured": false,
     "tags": [
-      "competition",
       "algorithm",
-      "competitive-programming"
-    ]
+      "competitive-programming",
+      "programming",
+      "shake",
+      "khu"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "주최: 경희대학교 컴퓨터공학부",
+          "en": "Host: 경희대학교 컴퓨터공학부"
+        },
+        {
+          "ko": "장소: 경희대학교 전자정보대학관 B09",
+          "en": "Venue: 경희대학교 전자정보대학관 B09"
+        },
+        {
+          "ko": "순위: 5위 /26",
+          "en": "Rank: 5위 /26"
+        },
+        {
+          "ko": "점수: 5 Solve /9",
+          "en": "Score: 5 Solve /9"
+        },
+        {
+          "ko": "결과: 본선 진출",
+          "en": "Result: 본선 진출"
+        }
+      ]
+    },
+    "links": []
   },
   {
     "slug": "icpc-seoul-preliminary-2024",
@@ -74,20 +166,54 @@
     "status": "completed",
     "period": "2024.10.26",
     "title": {
-      "ko": "ICPC Seoul Regional 예선·경희대 추계 경시대회",
-      "en": "ICPC Seoul Regional Preliminary and KHU Fall Contest"
+      "ko": "2024 ICPC Seoul Regional 예선 · 제22회 KHU 가을 프로그래밍 경시대회",
+      "en": "2024 ICPC Seoul Regional Preliminary · 22nd KHU Fall Programming Contest"
     },
     "summary": {
-      "ko": "전국 460팀 중 93위, 교내 25팀 중 4위·11팀 중 3위를 기록하고 교내 장려상을 받았습니다.",
-      "en": "Placed 93rd of 460 nationally and 4th of 25 / 3rd of 11 on campus, receiving a campus award."
+      "ko": "팀원: 3인 · 전국순위: 93위 /460 · 교내순위: 4위 /25 · 점수: 3 Solve /11 · 결과: 제22회 KHU 가을 프로그래밍 경시대회 장려상",
+      "en": "Team size: 3 members · National rank: 93/460 · University rank: 4/25 · Solved: 3/11 problems · Encouragement Award in the 22nd KHU Fall Programming Contest"
     },
     "featured": false,
     "tags": [
-      "competition",
       "algorithm",
       "competitive-programming",
-      "award"
-    ]
+      "icpc",
+      "programming",
+      "khu"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "주최: 과학기술정보통신부 (ICPC Seoul Regional)\n경희대학교SW중심대학 (KHU 가을 프로그래밍 경시대회)",
+          "en": "Host: 과학기술정보통신부 (ICPC Seoul Regional)\n경희대학교SW중심대학 (KHU 가을 프로그래밍 경시대회)"
+        },
+        {
+          "ko": "장소: 경희대학교 전자정보대학관",
+          "en": "Venue: 경희대학교 전자정보대학관"
+        },
+        {
+          "ko": "팀원: 3인",
+          "en": "Team size: 3인"
+        },
+        {
+          "ko": "전국순위: 93위 /460",
+          "en": "National rank: 93위 /460"
+        },
+        {
+          "ko": "교내순위: 4위 /25",
+          "en": "University rank: 4위 /25"
+        },
+        {
+          "ko": "점수: 3 Solve /11",
+          "en": "Score: 3 Solve /11"
+        },
+        {
+          "ko": "결과: 제22회 KHU 가을 프로그래밍 경시대회 장려상",
+          "en": "Result: 제22회 KHU 가을 프로그래밍 경시대회 장려상"
+        }
+      ]
+    },
+    "links": []
   },
   {
     "slug": "ucpc-2023-preliminary-notion-2024",
@@ -96,19 +222,41 @@
     "status": "completed",
     "period": "2024.07.13",
     "title": {
-      "ko": "UCPC 2023 예선(노션 표기)",
-      "en": "UCPC 2023 Preliminary (as listed in Notion)"
+      "ko": "UCPC 2024 예선",
+      "en": "UCPC 2024 — Preliminary"
     },
     "summary": {
-      "ko": "전체 205팀 중 124위, 교내 11팀 중 2위를 기록했습니다.",
-      "en": "Placed 124th of 205 overall and 2nd of 11 on campus."
+      "ko": "팀원: 3인 · 순위: 124위 /205 · 점수: 2 Solve /11",
+      "en": "Team size: 3 members · Rank: 124/205 · Score: 2/11 problems solved"
     },
     "featured": false,
     "tags": [
-      "competition",
       "algorithm",
-      "competitive-programming"
-    ]
+      "competitive-programming",
+      "programming",
+      "ucpc"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "주최: 전국 대학생 프로그래밍 대회 동아리 연합",
+          "en": "Host: 전국 대학생 프로그래밍 대회 동아리 연합"
+        },
+        {
+          "ko": "팀원: 3인",
+          "en": "Team size: 3인"
+        },
+        {
+          "ko": "순위: 124위 /205",
+          "en": "Rank: 124위 /205"
+        },
+        {
+          "ko": "점수: 2 Solve /11",
+          "en": "Score: 2 Solve /11"
+        }
+      ]
+    },
+    "links": []
   },
   {
     "slug": "hacktheon-sejong-2024",
@@ -117,19 +265,44 @@
     "status": "completed",
     "period": "2024.04.27",
     "title": {
-      "ko": "HackTheon Sejong 2024 예선",
-      "en": "HackTheon Sejong 2024 Preliminary"
+      "ko": "2024 핵테온 세종 예선",
+      "en": "HackTheon Sejong 2024 — Preliminary"
     },
     "summary": {
-      "ko": "초급부 4인 팀으로 335팀 중 128위, 2,284점을 기록했습니다.",
-      "en": "Placed 128th of 335 with 2,284 points in the beginner division as a four-person team."
+      "ko": "부문: 초급 · 순위: 128위 /335 · 점수: 2284점 · 팀명: 라수진박정식전정빈김형석렛츠고 (4인)",
+      "en": "Division: beginner · Rank: 128/335 · Score: 2284 points · Team: 라수진박정식전정빈김형석렛츠고 (4 members)"
     },
     "featured": false,
     "tags": [
-      "competition",
+      "security",
       "ctf",
-      "cybersecurity"
-    ]
+      "hacktheon"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "주최: 세종특별자치시",
+          "en": "Host: 세종특별자치시"
+        },
+        {
+          "ko": "부문: 초급",
+          "en": "Division: 초급"
+        },
+        {
+          "ko": "순위: 128위 /335",
+          "en": "Rank: 128위 /335"
+        },
+        {
+          "ko": "점수: 2284점",
+          "en": "Score: 2284점"
+        },
+        {
+          "ko": "팀명: 라수진박정식전정빈김형석렛츠고 (4인)",
+          "en": "Team: 라수진박정식전정빈김형석렛츠고 (4인)"
+        }
+      ]
+    },
+    "links": []
   },
   {
     "slug": "chocolate-cup-3",
@@ -138,19 +311,37 @@
     "status": "completed",
     "period": "2024.03.01",
     "title": {
-      "ko": "제3회 초콜릿컵",
-      "en": "3rd Chocolate Cup"
+      "ko": "[Solved Arena] 제3회 초콜릿컵",
+      "en": "Third Chocolate Cup (초콜릿컵) — Solved Arena"
     },
     "summary": {
-      "ko": "전체 354명 중 61위, 교내 14명 중 5위를 기록했습니다.",
-      "en": "Placed 61st of 354 overall and 5th of 14 on campus."
+      "ko": "순위: 61위 /354 · 점수: 5 Solve /14",
+      "en": "Rank: 61/354 · Score: 5/14 problems solved"
     },
     "featured": false,
     "tags": [
-      "competition",
       "algorithm",
-      "competitive-programming"
-    ]
+      "competitive-programming",
+      "programming",
+      "chocolate-cup"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "주최: 유저대회: bubbler",
+          "en": "Host: 유저대회: bubbler"
+        },
+        {
+          "ko": "순위: 61위 /354",
+          "en": "Rank: 61위 /354"
+        },
+        {
+          "ko": "점수: 5 Solve /14",
+          "en": "Score: 5 Solve /14"
+        }
+      ]
+    },
+    "links": []
   },
   {
     "slug": "gyeongin-six-university-contest-9",
@@ -160,39 +351,44 @@
     "period": "2024.01.13",
     "title": {
       "ko": "제9회 경인지역 6개 대학 연합 프로그래밍 경시대회",
-      "en": "9th Gyeongin Six-University Programming Contest"
+      "en": "Ninth Gyeongin Six-University Programming Contest"
     },
     "summary": {
-      "ko": "전체 56팀 중 30위, 교내 10팀 중 3위를 기록했습니다.",
-      "en": "Placed 30th of 56 overall and 3rd of 10 on campus."
+      "ko": "순위: 30위 /56 · 점수: 3 Solve /10",
+      "en": "Rank: 30/56 · Score: 3/10 problems solved"
     },
     "featured": false,
     "tags": [
-      "competition",
       "algorithm",
-      "competitive-programming"
-    ]
-  },
-  {
-    "slug": "omok-promotion-tournament-2023",
-    "sortDate": "2023-12-31",
-    "kind": "competition",
-    "status": "completed",
-    "period": "2023",
-    "title": {
-      "ko": "2023 대한오목협회 승단승급대회",
-      "en": "2023 Korea Omok Association Promotion Tournament"
+      "competitive-programming",
+      "programming",
+      "shake"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "주최: 아주대학교 LINC 3.0 사업단\n아주대학교 SW중심대학사업",
+          "en": "Host: 아주대학교 LINC 3.0 사업단\n아주대학교 SW중심대학사업"
+        },
+        {
+          "ko": "주관: 경인지역 6개 대학 연합",
+          "en": "Organizer: 경인지역 6개 대학 연합"
+        },
+        {
+          "ko": "장소: 아주대학교 연암관 로비",
+          "en": "Venue: 아주대학교 연암관 로비"
+        },
+        {
+          "ko": "순위: 30위 /56",
+          "en": "Rank: 30위 /56"
+        },
+        {
+          "ko": "점수: 3 Solve /10",
+          "en": "Score: 3 Solve /10"
+        }
+      ]
     },
-    "summary": {
-      "ko": "Soosyrv-8 규칙 병·정조에서 2승 3패를 기록하고 5급을 유지했습니다.",
-      "en": "Recorded 2 wins and 3 losses in the Byeong/Jeong group under Soosyrv-8 rules, retaining 5-kyu."
-    },
-    "featured": false,
-    "tags": [
-      "omok",
-      "competition",
-      "mind-sport"
-    ]
+    "links": []
   },
   {
     "slug": "shake-selection-2023",
@@ -201,19 +397,46 @@
     "status": "completed",
     "period": "2023.09.22",
     "title": {
-      "ko": "shake! 2023 선발전",
-      "en": "shake! 2023 Selection Round"
+      "ko": "2023 shake! 경희대학교 선발전",
+      "en": "shake! 2023 — Kyung Hee University Selection Round"
     },
     "summary": {
-      "ko": "전체 43명 중 8위, 교내 12명 중 3위로 본선에 진출했습니다.",
-      "en": "Placed 8th of 43 overall and 3rd of 12 on campus, advancing to the finals."
+      "ko": "순위: 8위 /43 · 점수: 3 Solve /12 · 결과: 본선 진출",
+      "en": "Rank: 8/43 · Score: 3/12 problems solved · Result: advanced to the final"
     },
     "featured": false,
     "tags": [
-      "competition",
       "algorithm",
-      "competitive-programming"
-    ]
+      "competitive-programming",
+      "programming",
+      "shake",
+      "khu"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "주최: 경희대학교 컴퓨터공학부",
+          "en": "Host: 경희대학교 컴퓨터공학부"
+        },
+        {
+          "ko": "장소: 경희대학교 전자정보대학 B09",
+          "en": "Venue: 경희대학교 전자정보대학 B09"
+        },
+        {
+          "ko": "순위: 8위 /43",
+          "en": "Rank: 8위 /43"
+        },
+        {
+          "ko": "점수: 3 Solve /12",
+          "en": "Score: 3 Solve /12"
+        },
+        {
+          "ko": "결과: 본선 진출",
+          "en": "Result: 본선 진출"
+        }
+      ]
+    },
+    "links": []
   },
   {
     "slug": "kmu-cau-open-2023",
@@ -222,20 +445,41 @@
     "status": "completed",
     "period": "2023.09.16",
     "title": {
-      "ko": "2023 국민대·중앙대 연합 오픈 콘테스트",
-      "en": "2023 KMU–CAU Joint Open Contest"
+      "ko": "[Solved Arena] 2023 국민대학교 & 중앙대학교 프로그래밍 경진대회 Open Contest",
+      "en": "2023 Kookmin University & Chung-Ang University Programming Open Contest — Solved Arena"
     },
     "summary": {
-      "ko": "전체 351명 중 62위, 교내 15명 중 4위, 퍼포먼스 1782(S)를 기록했습니다.",
-      "en": "Placed 62nd of 351 overall and 4th of 15 on campus, with a performance rating of 1782 (S)."
+      "ko": "순위: 62위 /351 · 점수: 4 Solve /15 · 퍼포먼스: 1782 (S)",
+      "en": "Rank: 62/351 · Score: 4/15 problems solved · Performance rating: 1782 (S)"
     },
     "featured": false,
     "tags": [
-      "competition",
       "algorithm",
       "competitive-programming",
-      "rating"
-    ]
+      "programming",
+      "kmu-cau-open-contest"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "주최: 국민대학교 동아리 KPSC\n중앙대학교 동아리 ChAOS",
+          "en": "Host: 국민대학교 동아리 KPSC\n중앙대학교 동아리 ChAOS"
+        },
+        {
+          "ko": "순위: 62위 /351",
+          "en": "Rank: 62위 /351"
+        },
+        {
+          "ko": "점수: 4 Solve /15",
+          "en": "Score: 4 Solve /15"
+        },
+        {
+          "ko": "퍼포먼스: 1782 (S)",
+          "en": "Performance rating: 1782 (S)"
+        }
+      ]
+    },
+    "links": []
   },
   {
     "slug": "ucpc-2023-preliminary",
@@ -244,57 +488,79 @@
     "status": "completed",
     "period": "2023.07.01",
     "title": {
-      "ko": "UCPC 2023 예선",
-      "en": "UCPC 2023 Preliminary"
+      "ko": "UCPC 2023 (예선대회)",
+      "en": "UCPC 2023 — Preliminary"
     },
     "summary": {
-      "ko": "교내 11팀 중 2위를 기록했습니다.",
-      "en": "Placed 2nd among 11 campus teams."
+      "ko": "팀원: 3인 · 점수: 2 Solve /11",
+      "en": "Team size: 3 members · Score: 2/11 problems solved"
     },
     "featured": false,
     "tags": [
-      "competition",
       "algorithm",
-      "competitive-programming"
-    ]
+      "competitive-programming",
+      "programming",
+      "ucpc"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "주최: 전국 대학생 프로그래밍 대회 동아리 연합",
+          "en": "Host: 전국 대학생 프로그래밍 대회 동아리 연합"
+        },
+        {
+          "ko": "팀원: 3인",
+          "en": "Team size: 3인"
+        },
+        {
+          "ko": "점수: 2 Solve /11",
+          "en": "Score: 2 Solve /11"
+        }
+      ]
+    },
+    "links": []
   },
   {
-    "slug": "chungcheong-youth-ctf-2022",
-    "sortDate": "2022-10-31",
+    "slug": "omok-promotion-tournament-2023",
+    "sortDate": "2023-01-01",
     "kind": "competition",
     "status": "completed",
-    "period": "2022",
+    "period": "2023",
     "title": {
-      "ko": "충청권 청소년 사이버방어 경진대회",
-      "en": "Chungcheong Youth Cyber Defense Competition"
+      "ko": "2023 승단승급대회",
+      "en": "2023 Rank Promotion Tournament — Korea Omok Association"
     },
     "summary": {
-      "ko": "개인으로 54명 중 2위, 2,629점을 기록해 우수상을 받았습니다.",
-      "en": "Placed 2nd of 54 with 2,629 points as an individual and received an excellence award."
+      "ko": "규칙: Soosyrv-8 · 부문: 병/정조 (승급) · 전적: 2승 3패 · 인허 급단: 5급 (유지)",
+      "en": "Rule: Soosyrv-8 · Promotion groups: Byeong/Jeong · Record: 2 wins, 3 losses · Grade: 5-kyu (retained)"
     },
     "featured": false,
     "tags": [
-      "competition",
-      "ctf",
-      "cybersecurity",
-      "award"
+      "omok",
+      "board-game",
+      "korea-omok-association"
     ],
-    "links": [
-      {
-        "label": {
-          "ko": "관련 기사",
-          "en": "News article"
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "규칙: Soosyrv-8",
+          "en": "Rule: Soosyrv-8"
         },
-        "href": "https://www.veritas-a.com/news/articleView.html?idxno=428654"
-      },
-      {
-        "label": {
-          "ko": "풀이 기록",
-          "en": "Write-up"
+        {
+          "ko": "부문: 병/정조 (승급)",
+          "en": "Division: 병/정조 (승급)"
         },
-        "href": "https://blog.naver.com/oriisme/222887461185"
-      }
-    ]
+        {
+          "ko": "전적: 2승 3패",
+          "en": "Record: 2승 3패"
+        },
+        {
+          "ko": "인허 급단: 5급 (유지)",
+          "en": "Grade: 5급 (유지)"
+        }
+      ]
+    },
+    "links": []
   },
   {
     "slug": "nypc-2022-round2-b",
@@ -303,19 +569,92 @@
     "status": "completed",
     "period": "2022.09.03",
     "title": {
-      "ko": "NYPC 2022 Round 2-B",
-      "en": "NYPC 2022 Round 2-B"
+      "ko": "NYPC 2022 (Round 2-B)",
+      "en": "NYPC 2022 — Round 2-B"
     },
     "summary": {
-      "ko": "400명 중 39위로 Top 500에 들었습니다.",
-      "en": "Placed 39th of 400, within the overall Top 500."
+      "ko": "점수: 39점 /400 · 결과: Top 500인 특별상",
+      "en": "Score: 39/400 points · Top 500 Special Award"
     },
     "featured": false,
     "tags": [
-      "competition",
       "algorithm",
-      "competitive-programming"
-    ]
+      "competitive-programming",
+      "nypc",
+      "programming"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "주최: NEXON, 넥슨재단",
+          "en": "Host: NEXON, 넥슨재단"
+        },
+        {
+          "ko": "점수: 39점 /400",
+          "en": "Score: 39점 /400"
+        },
+        {
+          "ko": "결과: Top 500인 특별상",
+          "en": "Result: Top 500인 특별상"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "chungcheong-youth-ctf-2022",
+    "sortDate": "2022-09-03",
+    "kind": "competition",
+    "status": "completed",
+    "period": "2022.09.03",
+    "title": {
+      "ko": "제2회 충청권 청소년 해킹방어대회 (CTF Jr.)",
+      "en": "Second Chungcheong Youth Cyber Defense Competition (CTF Jr.)"
+    },
+    "summary": {
+      "ko": "순위: 2위 /54 · 점수: 2629점 · 팀명: 오리 (1인) · 수상: 우수상 (한국수자원공사장상)",
+      "en": "Rank: 2/54 · Score: 2,629 points · Team: 오리 (1 member) · Excellence Award from the President of K-water"
+    },
+    "featured": false,
+    "tags": [
+      "security",
+      "ctf",
+      "chungcheong-ctf",
+      "binary-exploitation",
+      "reverse-engineering",
+      "web",
+      "digital-forensics",
+      "steganography"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "주최: 국가정보원 지부, 대전광역시, K-Water, 한국서부발전, 건양대학교",
+          "en": "Host: 국가정보원 지부, 대전광역시, K-Water, 한국서부발전, 건양대학교"
+        },
+        {
+          "ko": "순위: 2위 /54",
+          "en": "Rank: 2위 /54"
+        },
+        {
+          "ko": "점수: 2629점",
+          "en": "Score: 2629점"
+        },
+        {
+          "ko": "분야: Pwnable, Reversing, Web, Forensic & Steganography, Misc",
+          "en": "Contest categories: Pwnable, Reversing, Web, Forensic & Steganography, Misc"
+        },
+        {
+          "ko": "팀명: 오리 (1인)",
+          "en": "Team: 오리 (1인)"
+        },
+        {
+          "ko": "수상: 우수상 (한국수자원공사장상)",
+          "en": "Award: 우수상 (한국수자원공사장상)"
+        }
+      ]
+    },
+    "links": []
   },
   {
     "slug": "nypc-2022-round2-a",
@@ -324,91 +663,259 @@
     "status": "completed",
     "period": "2022.08.28",
     "title": {
-      "ko": "NYPC 2022 Round 2-A",
-      "en": "NYPC 2022 Round 2-A"
+      "ko": "NYPC 2022 (Round 2-A)",
+      "en": "NYPC 2022 — Round 2-A"
     },
     "summary": {
-      "ko": "400명 중 138위로 Top 500에 들었습니다.",
-      "en": "Placed 138th of 400, within the overall Top 500."
+      "ko": "점수: 138점 /400 · 결과: Top 500인 특별상",
+      "en": "Score: 138/400 points · Top 500 Special Award"
     },
     "featured": false,
     "tags": [
-      "competition",
       "algorithm",
-      "competitive-programming"
-    ]
+      "competitive-programming",
+      "nypc",
+      "programming"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "주최: NEXON, 넥슨재단",
+          "en": "Host: NEXON, 넥슨재단"
+        },
+        {
+          "ko": "점수: 138점 /400",
+          "en": "Score: 138점 /400"
+        },
+        {
+          "ko": "결과: Top 500인 특별상",
+          "en": "Result: Top 500인 특별상"
+        }
+      ]
+    },
+    "links": []
   },
   {
     "slug": "nypc-2022-round1",
-    "sortDate": "2022-08-22",
+    "sortDate": "2022-08-18",
     "kind": "competition",
     "status": "completed",
-    "period": "2022.08.18 — 08.22",
+    "period": "2022.08.18. ~ 08.22",
     "title": {
-      "ko": "NYPC 2022 Round 1",
-      "en": "NYPC 2022 Round 1"
+      "ko": "NYPC 2022 (Round 1)",
+      "en": "NYPC 2022 — Round 1"
     },
     "summary": {
-      "ko": "349.4/1000점을 기록해 Round 2에 진출했습니다.",
-      "en": "Scored 349.4 of 1000 and advanced to Round 2."
+      "ko": "점수: 349.4점 /1000 · 결과: Round 2 진출",
+      "en": "Score: 349.4/1000 points · Result: advanced to Round 2"
     },
     "featured": false,
     "tags": [
-      "competition",
       "algorithm",
-      "competitive-programming"
-    ]
+      "competitive-programming",
+      "nypc",
+      "programming"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "주최: NEXON, 넥슨재단",
+          "en": "Host: NEXON, 넥슨재단"
+        },
+        {
+          "ko": "점수: 349.4점 /1000",
+          "en": "Score: 349.4점 /1000"
+        },
+        {
+          "ko": "결과: Round 2 진출",
+          "en": "Result: Round 2 진출"
+        }
+      ]
+    },
+    "links": []
   },
   {
     "slug": "escape-ctf-2022",
     "sortDate": "2022-08-12",
     "kind": "competition",
     "status": "completed",
-    "period": "2022.08.10 — 08.12",
+    "period": "2022.08.10~2022.08.12",
     "title": {
-      "ko": "Escape CTF 2022",
-      "en": "Escape CTF 2022"
+      "ko": "Escape CTF",
+      "en": "Escape CTF"
     },
     "summary": {
-      "ko": "2인 팀 ORISTEW로 984팀 중 163위, 개인 기준 1,434명 중 159위, 1,050점을 기록했습니다.",
-      "en": "Placed 163rd of 984 teams and 159th of 1,434 individuals with 1,050 points as the two-person team ORISTEW."
+      "ko": "순위: 163위 /984  (개인순위: 159위 /1434) · 점수: 1050점 · 팀명: ORISTEW (2인)",
+      "en": "Team rank: 163/984 · Individual rank: 159/1,434 · Score: 1,050 points · Team: ORISTEW (2 members)"
     },
     "featured": false,
     "tags": [
-      "competition",
+      "security",
       "ctf",
-      "cybersecurity"
-    ]
+      "t3n4ci0us",
+      "binary-exploitation",
+      "osint",
+      "cryptography",
+      "reverse-engineering",
+      "digital-forensics",
+      "web"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "주최: T3N4CI0US",
+          "en": "Host: T3N4CI0US"
+        },
+        {
+          "ko": "순위: 163위 /984  (개인순위: 159위 /1434)",
+          "en": "Rank: 163위 /984  (개인순위: 159위 /1434)"
+        },
+        {
+          "ko": "점수: 1050점",
+          "en": "Score: 1050점"
+        },
+        {
+          "ko": "분야: Pwnable, OSINT, MISC, Crypto, Reversing, Forensic, Web",
+          "en": "Contest categories: Pwnable, OSINT, MISC, Crypto, Reversing, Forensic, Web"
+        },
+        {
+          "ko": "팀명: ORISTEW (2인)",
+          "en": "Team: ORISTEW (2인)"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "kookmin-algorithm-contest-2022",
+    "sortDate": "2022-08-05",
+    "kind": "competition",
+    "status": "completed",
+    "period": "2022.08.05",
+    "title": {
+      "ko": "제7회 국민대학교 알고리즘 대회",
+      "en": "Seventh Kookmin University Algorithm Competition"
+    },
+    "summary": {
+      "ko": "점수: 300점 /300 · 결과: 장려상 (국민대학교총장)",
+      "en": "Score: 300/300 points · Encouragement Award from the President of Kookmin University"
+    },
+    "featured": false,
+    "tags": [
+      "algorithm",
+      "competitive-programming",
+      "programming",
+      "kookmin-algorithm-contest"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "주최: 국민대학교 소프트웨어융합대학\n국민대학교 SW중심대학사업단",
+          "en": "Host: 국민대학교 소프트웨어융합대학\n국민대학교 SW중심대학사업단"
+        },
+        {
+          "ko": "장소: 국민대학교",
+          "en": "Venue: 국민대학교"
+        },
+        {
+          "ko": "점수: 300점 /300",
+          "en": "Score: 300점 /300"
+        },
+        {
+          "ko": "결과: 장려상 (국민대학교총장)",
+          "en": "Result: 장려상 (국민대학교총장)"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "koi-2022-first-round-participation",
+    "sortDate": "2022-05-15",
+    "kind": "competition",
+    "status": "completed",
+    "period": "2022.05.15",
+    "title": {
+      "ko": "제39회 한국정보올림피아드 (1차대회)",
+      "en": "39th Korea Olympiad in Informatics — Round 1"
+    },
+    "summary": {
+      "ko": "결과: 고등부 전체응시자부문 장려상 (한국정보과학회장)",
+      "en": "Encouragement Award in the high-school all-participants division, awarded by the President of the Korean Institute of Information Scientists and Engineers"
+    },
+    "featured": false,
+    "tags": [
+      "algorithm",
+      "competitive-programming",
+      "kiise",
+      "koi",
+      "programming"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "주최: 한국정보과학회",
+          "en": "Host: 한국정보과학회"
+        },
+        {
+          "ko": "결과: 고등부 전체응시자부문 장려상 (한국정보과학회장)",
+          "en": "Result: 고등부 전체응시자부문 장려상 (한국정보과학회장)"
+        }
+      ]
+    },
+    "links": []
   },
   {
     "slug": "basic-ctf-2022",
     "sortDate": "2022-03-25",
     "kind": "competition",
     "status": "completed",
-    "period": "2022.03.23 — 03.25",
+    "period": "2022.03.23~2022.03.25",
     "title": {
-      "ko": "Basic CTF 2022",
-      "en": "Basic CTF 2022"
+      "ko": "Basic CTF",
+      "en": "Basic CTF"
     },
     "summary": {
-      "ko": "2인 팀 ORISTEW로 618팀 중 9위, 10,990점을 기록했습니다.",
-      "en": "Placed 9th of 618 with 10,990 points as the two-person team ORISTEW."
+      "ko": "순위: 9위 /618 · 점수: 10990점 · 팀명: ORISTEW (2인)",
+      "en": "Rank: 9/618 · Score: 10990 points · Team: ORISTEW (2 members)"
     },
     "featured": false,
     "tags": [
-      "competition",
+      "security",
       "ctf",
-      "cybersecurity"
+      "t3n4ci0us",
+      "binary-exploitation",
+      "reverse-engineering",
+      "web",
+      "osint",
+      "cryptography",
+      "digital-forensics"
     ],
-    "links": [
-      {
-        "label": {
-          "ko": "풀이 기록",
-          "en": "Write-up"
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "주최: T3N4CI0US, Latent Gremlins",
+          "en": "Host: T3N4CI0US, Latent Gremlins"
         },
-        "href": "https://blog.naver.com/oriisme/222887451665"
-      }
-    ]
+        {
+          "ko": "순위: 9위 /618",
+          "en": "Rank: 9위 /618"
+        },
+        {
+          "ko": "점수: 10990점",
+          "en": "Score: 10990점"
+        },
+        {
+          "ko": "분야: Pwnable, Reversing, Web, Misc, Osint, Crypto, Forensic",
+          "en": "Contest categories: Pwnable, Reversing, Web, Misc, Osint, Crypto, Forensic"
+        },
+        {
+          "ko": "팀명: ORISTEW (2인)",
+          "en": "Team: ORISTEW (2인)"
+        }
+      ]
+    },
+    "links": []
   },
   {
     "slug": "lunar-new-year-ctf-2022",
@@ -417,70 +924,81 @@
     "status": "completed",
     "period": "2022.02.01",
     "title": {
-      "ko": "설날맞이 CTF 2022",
-      "en": "Lunar New Year CTF 2022"
+      "ko": "설 CTF",
+      "en": "설 CTF — Lunar New Year"
     },
     "summary": {
-      "ko": "142명 중 6위, 965점을 기록했습니다.",
-      "en": "Placed 6th of 142 with 965 points."
+      "ko": "순위: 6위 /142 · 점수: 965점",
+      "en": "Rank: 6/142 · Score: 965 points"
     },
     "featured": false,
     "tags": [
-      "competition",
+      "security",
       "ctf",
-      "cybersecurity"
+      "t3n4ci0us",
+      "web",
+      "osint",
+      "binary-exploitation",
+      "cryptography",
+      "digital-forensics",
+      "reverse-engineering"
     ],
-    "links": [
-      {
-        "label": {
-          "ko": "풀이 기록",
-          "en": "Write-up"
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "주최: Normaltic, T3N4CI0US",
+          "en": "Host: Normaltic, T3N4CI0US"
         },
-        "href": "https://blog.naver.com/oriisme/222887431379"
-      }
-    ]
-  },
-  {
-    "slug": "omok-amateur-championship-2021",
-    "sortDate": "2021-12-31",
-    "kind": "competition",
-    "status": "completed",
-    "period": "2021",
-    "title": {
-      "ko": "제11회 오목 아마최강전",
-      "en": "11th Amateur Omok Championship"
+        {
+          "ko": "순위: 6위 /142",
+          "en": "Rank: 6위 /142"
+        },
+        {
+          "ko": "점수: 965점",
+          "en": "Score: 965점"
+        },
+        {
+          "ko": "분야: Web, OSINT, Pwnable, Crypto, Forensic, MISC, Reversing",
+          "en": "Contest categories: Web, OSINT, Pwnable, Crypto, Forensic, MISC, Reversing"
+        }
+      ]
     },
-    "summary": {
-      "ko": "Soosyrv-8 규칙에서 2승 3패, 11위를 기록하고 5급을 유지했습니다.",
-      "en": "Finished 11th with 2 wins and 3 losses under Soosyrv-8 rules, retaining 5-kyu."
-    },
-    "featured": false,
-    "tags": [
-      "omok",
-      "competition",
-      "mind-sport"
-    ]
+    "links": []
   },
   {
     "slug": "nypc-2021-preliminary",
-    "sortDate": "2021-08-26",
+    "sortDate": "2021-08-19",
     "kind": "competition",
     "status": "completed",
-    "period": "2021.08.19 — 08.26",
+    "period": "2021.08.19. ~ 08.26",
     "title": {
-      "ko": "NYPC 2021 예선",
-      "en": "NYPC 2021 Preliminary"
+      "ko": "NYPC 2021 (예선대회)",
+      "en": "NYPC 2021 — Preliminary"
     },
     "summary": {
-      "ko": "Top 500에 진입했습니다.",
-      "en": "Finished within the Top 500."
+      "ko": "결과: Top 500인 특별상",
+      "en": "Received the Top 500 Special Award."
     },
     "featured": false,
     "tags": [
-      "competition",
       "algorithm",
-      "competitive-programming"
-    ]
+      "competitive-programming",
+      "nypc",
+      "programming"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "주최: NEXON, 넥슨재단",
+          "en": "Host: NEXON, 넥슨재단"
+        },
+        {
+          "ko": "결과: Top 500인 특별상",
+          "en": "Result: Top 500인 특별상"
+        }
+      ]
+    },
+    "links": []
   },
   {
     "slug": "koi-2021-first-round",
@@ -489,63 +1007,127 @@
     "status": "completed",
     "period": "2021.05.15",
     "title": {
-      "ko": "제38회 한국정보올림피아드 1차대회",
-      "en": "38th Korean Olympiad in Informatics, Round 1"
+      "ko": "제38회 한국정보올림피아드 (1차대회)",
+      "en": "38th Korea Olympiad in Informatics — Round 1"
     },
     "summary": {
-      "ko": "상위 35.207%를 기록했습니다. 수상 기준은 상위 35%였습니다.",
-      "en": "Finished in the top 35.207%; the award cutoff was the top 35%."
+      "ko": "순위: 상위 35.207% (35%까지 수상)",
+      "en": "Rank: top 35.207% (award cutoff: 35%)"
     },
     "featured": false,
     "tags": [
-      "competition",
       "algorithm",
       "competitive-programming",
-      "koi"
-    ]
+      "kiise",
+      "koi",
+      "programming"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "주최: 한국정보과학회",
+          "en": "Host: 한국정보과학회"
+        },
+        {
+          "ko": "순위: 상위 35.207% (35%까지 수상)",
+          "en": "Rank: 상위 35.207% (35%까지 수상)"
+        }
+      ]
+    },
+    "links": []
   },
   {
     "slug": "postech-security-camp",
     "sortDate": "2021-01-22",
     "kind": "competition",
     "status": "completed",
-    "period": "2021.01",
+    "period": "2021.01.22",
     "title": {
-      "ko": "POSTECH 온라인 해킹·보안 캠프 CTF 팀 3위",
-      "en": "Third Place Team, POSTECH Online Hacking and Security Camp CTF"
+      "ko": "Postech ON-LINE Hacking Camp CTF",
+      "en": "POSTECH Online Hacking Camp CTF"
     },
     "summary": {
-      "ko": "POSTECH 온라인 해킹·보안 캠프에 참가해 팀 CTF 3위를 기록했습니다.",
-      "en": "Participated in POSTECH's online hacking and security camp and placed third in the team CTF."
+      "ko": "순위: 3위 /5 · 점수: 15479점 · 팀명: HYPL (5인)",
+      "en": "Rank: 3/5 · Score: 15479 points · Team: HYPL (5 members)"
     },
     "featured": false,
     "tags": [
       "security",
-      "competition",
-      "education",
-      "information-security"
-    ]
+      "ctf",
+      "postech",
+      "web",
+      "reverse-engineering",
+      "binary-exploitation",
+      "cryptography",
+      "linux"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "주최: Postech, Postech PLUS",
+          "en": "Host: Postech, Postech PLUS"
+        },
+        {
+          "ko": "순위: 3위 /5",
+          "en": "Rank: 3위 /5"
+        },
+        {
+          "ko": "점수: 15479점",
+          "en": "Score: 15479점"
+        },
+        {
+          "ko": "분야: Web, Reversing, PWN, Crypto, Linux, Misc",
+          "en": "Contest categories: Web, Reversing, PWN, Crypto, Linux, Misc"
+        },
+        {
+          "ko": "팀명: HYPL (5인)",
+          "en": "Team: HYPL (5인)"
+        }
+      ]
+    },
+    "links": []
   },
   {
-    "slug": "nypc-2020-preliminary",
-    "sortDate": "2020-09-06",
+    "slug": "omok-amateur-championship-2021",
+    "sortDate": "2021-01-01",
     "kind": "competition",
     "status": "completed",
-    "period": "2020.08.28 — 09.06",
+    "period": "2021",
     "title": {
-      "ko": "NYPC 2020 예선",
-      "en": "NYPC 2020 Preliminary"
+      "ko": "2021 제11회 오목 아마최강전",
+      "en": "11th Amateur Omok Championship (2021)"
     },
     "summary": {
-      "ko": "NYPC 2020 온라인 예선에 참가했습니다.",
-      "en": "Participated in the NYPC 2020 online preliminary."
+      "ko": "규칙: Soosyrv-8 · 순위: 11위 · 전적: 2승 3패 · 인허 급단: 5급 (유지)",
+      "en": "Rule: Soosyrv-8 · Rank: 11 · Record: 2 wins, 3 losses · Grade: 5-kyu (retained)"
     },
     "featured": false,
     "tags": [
-      "competition",
-      "algorithm",
-      "competitive-programming"
-    ]
+      "omok",
+      "board-game",
+      "korea-omok-association"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "규칙: Soosyrv-8",
+          "en": "Rule: Soosyrv-8"
+        },
+        {
+          "ko": "순위: 11위",
+          "en": "Rank: 11위"
+        },
+        {
+          "ko": "전적: 2승 3패",
+          "en": "Record: 2승 3패"
+        },
+        {
+          "ko": "인허 급단: 5급 (유지)",
+          "en": "Grade: 5급 (유지)"
+        }
+      ]
+    },
+    "links": []
   },
   {
     "slug": "koi-2020-first-round",
@@ -554,62 +1136,136 @@
     "status": "completed",
     "period": "2020.08.30",
     "title": {
-      "ko": "제37회 한국정보올림피아드 1차대회",
-      "en": "37th Korean Olympiad in Informatics, Round 1"
+      "ko": "제37회 한국정보올림피아드 (1차대회)",
+      "en": "37th Korea Olympiad in Informatics — Round 1"
     },
     "summary": {
-      "ko": "상위 20.795%를 기록했습니다. 수상 기준은 상위 20%였습니다.",
-      "en": "Finished in the top 20.795%; the award cutoff was the top 20%."
+      "ko": "순위: 상위 20.795% (20%까지 수상)",
+      "en": "Rank: top 20.795% (award cutoff: 20%)"
     },
     "featured": false,
     "tags": [
-      "competition",
       "algorithm",
       "competitive-programming",
-      "koi"
-    ]
+      "kiise",
+      "koi",
+      "programming"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "주최: 한국정보과학회",
+          "en": "Host: 한국정보과학회"
+        },
+        {
+          "ko": "순위: 상위 20.795% (20%까지 수상)",
+          "en": "Rank: 상위 20.795% (20%까지 수상)"
+        }
+      ]
+    },
+    "links": []
   },
   {
-    "slug": "omok-amateur-championship-2019",
-    "sortDate": "2019-12-31",
+    "slug": "nypc-2020-preliminary",
+    "sortDate": "2020-08-28",
     "kind": "competition",
     "status": "completed",
-    "period": "2019",
+    "period": "2020.08.28. ~ 09.06",
     "title": {
-      "ko": "제10회 오목 아마최강전",
-      "en": "10th Amateur Omok Championship"
+      "ko": "NYPC 2020 (예선대회)",
+      "en": "NYPC 2020 — Preliminary"
     },
     "summary": {
-      "ko": "Soosyrv-8 규칙에서 2승 4패, 14위를 기록해 5급을 인허받았습니다.",
-      "en": "Finished 14th with 2 wins and 4 losses under Soosyrv-8 rules and received 5-kyu."
+      "ko": "대회에 참가했습니다.",
+      "en": "Participated in the contest."
     },
     "featured": false,
     "tags": [
-      "omok",
-      "competition",
-      "mind-sport"
-    ]
+      "algorithm",
+      "competitive-programming",
+      "nypc",
+      "programming"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "주최: NEXON, 넥슨재단",
+          "en": "Host: NEXON, 넥슨재단"
+        }
+      ]
+    },
+    "links": []
   },
   {
     "slug": "nypc-2019-preliminary",
-    "sortDate": "2019-08-16",
+    "sortDate": "2019-08-07",
     "kind": "competition",
     "status": "completed",
-    "period": "2019.08.07 — 08.16",
+    "period": "2019.08.07. ~ 08.16",
     "title": {
-      "ko": "NYPC 2019 예선",
-      "en": "NYPC 2019 Preliminary"
+      "ko": "NYPC 2019 (예선대회)",
+      "en": "NYPC 2019 — Preliminary"
     },
     "summary": {
-      "ko": "NYPC 2019 온라인 예선에 참가했습니다.",
-      "en": "Participated in the NYPC 2019 online preliminary."
+      "ko": "대회에 참가했습니다.",
+      "en": "Participated in the contest."
     },
     "featured": false,
     "tags": [
-      "competition",
       "algorithm",
-      "competitive-programming"
-    ]
+      "competitive-programming",
+      "nypc",
+      "programming"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "주최: NEXON, 넥슨재단",
+          "en": "Host: NEXON, 넥슨재단"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "koi-2019-second-round-participation",
+    "sortDate": "2019-07-20",
+    "kind": "competition",
+    "status": "completed",
+    "period": "2019.07.20",
+    "title": {
+      "ko": "제36회 한국정보올림피아드 (2차대회)",
+      "en": "36th Korea Olympiad in Informatics — Round 2"
+    },
+    "summary": {
+      "ko": "결과: 중등부 장려상 (한국정보과학회장)",
+      "en": "Encouragement Award in the middle-school division, awarded by the President of the Korean Institute of Information Scientists and Engineers"
+    },
+    "featured": false,
+    "tags": [
+      "algorithm",
+      "competitive-programming",
+      "kiise",
+      "koi",
+      "programming"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "주최: 한국정보과학회",
+          "en": "Host: 한국정보과학회"
+        },
+        {
+          "ko": "장소: 전국 고사장",
+          "en": "Venue: 전국 고사장"
+        },
+        {
+          "ko": "결과: 중등부 장려상 (한국정보과학회장)",
+          "en": "Result: 중등부 장려상 (한국정보과학회장)"
+        }
+      ]
+    },
+    "links": []
   },
   {
     "slug": "koi-2019-first-round",
@@ -618,20 +1274,118 @@
     "status": "completed",
     "period": "2019.05.04",
     "title": {
-      "ko": "제36회 한국정보올림피아드 1차대회",
-      "en": "36th Korean Olympiad in Informatics, Round 1"
+      "ko": "제36회 한국정보올림피아드 (1차대회)",
+      "en": "36th Korea Olympiad in Informatics — Round 1"
     },
     "summary": {
-      "ko": "전국·지역 동상을 받고 2차대회에 진출했습니다.",
-      "en": "Received national and regional bronze awards and advanced to Round 2."
+      "ko": "결과: 중등부 전국부문 동상 (한국정보과학회장) / 중등부 지역부문 동상 (한국정보과학회장) / 본선 진출 대상자",
+      "en": "Bronze Awards in the national and regional middle-school divisions; qualified for the second round"
     },
     "featured": false,
     "tags": [
-      "competition",
+      "algorithm",
+      "competitive-programming",
+      "kiise",
+      "koi",
+      "programming"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "주최: 한국정보과학회",
+          "en": "Host: 한국정보과학회"
+        },
+        {
+          "ko": "장소: 전국 고사장",
+          "en": "Venue: 전국 고사장"
+        },
+        {
+          "ko": "결과: 중등부 전국부문 동상 (한국정보과학회장)\n중등부 지역부문 동상 (한국정보과학회장)\n본선 진출 대상자",
+          "en": "Result: 중등부 전국부문 동상 (한국정보과학회장)\n중등부 지역부문 동상 (한국정보과학회장)\n본선 진출 대상자"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "omok-amateur-championship-2019",
+    "sortDate": "2019-01-01",
+    "kind": "competition",
+    "status": "completed",
+    "period": "2019",
+    "title": {
+      "ko": "2019 제10회 오목 아마최강전",
+      "en": "10th Amateur Omok Championship (2019)"
+    },
+    "summary": {
+      "ko": "규칙: Soosyrv-8 · 순위: 14위 · 전적: 2승 4패 · 인허 급단: 5급",
+      "en": "Rule: Soosyrv-8 · Rank: 14 · Record: 2 wins, 4 losses · Grade: 5-kyu"
+    },
+    "featured": false,
+    "tags": [
+      "omok",
+      "board-game",
+      "korea-omok-association"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "규칙: Soosyrv-8",
+          "en": "Rule: Soosyrv-8"
+        },
+        {
+          "ko": "순위: 14위",
+          "en": "Rank: 14위"
+        },
+        {
+          "ko": "전적: 2승 4패",
+          "en": "Record: 2승 4패"
+        },
+        {
+          "ko": "인허 급단: 5급",
+          "en": "Grade: 5급"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "chungnam-informatics-contest-2018",
+    "sortDate": "2018-04-14",
+    "kind": "competition",
+    "status": "completed",
+    "period": "2018.04.14",
+    "title": {
+      "ko": "제20회 충남정보올림피아드 경시대회",
+      "en": "20th Chungnam Informatics Olympiad Competition"
+    },
+    "summary": {
+      "ko": "결과: 동상 (충청남도교육감)",
+      "en": "Bronze Award from the Superintendent of the Chungcheongnam-do Office of Education"
+    },
+    "featured": false,
+    "tags": [
       "algorithm",
       "competitive-programming",
       "koi",
-      "award"
-    ]
+      "programming"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "주최: 과학기술정보통신부\n충청남도교육청\n한국정보화진흥원",
+          "en": "Host: 과학기술정보통신부\n충청남도교육청\n한국정보화진흥원"
+        },
+        {
+          "ko": "장소: 각 시도 고사장",
+          "en": "Venue: 각 시도 고사장"
+        },
+        {
+          "ko": "결과: 동상 (충청남도교육감)",
+          "en": "Result: 동상 (충청남도교육감)"
+        }
+      ]
+    },
+    "links": []
   }
 ]

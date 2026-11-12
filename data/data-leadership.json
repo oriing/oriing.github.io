@@ -4,71 +4,136 @@
     "sortDate": "2026-05-09",
     "kind": "leadership",
     "status": "completed",
-    "period": "2026.05.08 — 05.09",
+    "period": "2026.05.08 — 2026.05.09",
     "title": {
-      "ko": "khuthon 2026 기획·운영",
-      "en": "Planning and Operations for khuthon 2026"
+      "ko": "경희대학교 AI·SW 해커톤 「khuthon 2026」",
+      "en": "Kyung Hee University AI·SW Hackathon ‘khuthon 2026’"
     },
     "summary": {
-      "ko": "해커톤 기획·지원, 사회, 정책·수상규정 작성과 프롬프트 작성을 담당했습니다.",
-      "en": "Handled hackathon planning and support, emceeing, policy and award rules, and prompt writing."
+      "ko": "사회를 맡고, 대회 정책과 수상 규정을 정리했으며 발제문을 작성했습니다.",
+      "en": "Hosted the event, worked on contest policy and award rules, and wrote the discussion prompt."
     },
     "featured": false,
     "tags": [
       "hackathon",
       "event-operations",
-      "planning",
       "emcee",
-      "policy"
-    ]
+      "khlug",
+      "khuthon",
+      "policy",
+      "writing",
+      "khu"
+    ],
+    "links": []
   },
   {
-    "slug": "khlug-officer-roles",
-    "sortDate": "2025-09-22",
+    "slug": "khlug-security-track-lead",
+    "sortDate": "2026-02-28",
     "kind": "leadership",
-    "status": "ongoing",
-    "period": "2023.03 — Present",
+    "status": "completed",
+    "period": "2025.09.01 — 2026.02.28",
     "title": {
-      "ko": "쿠러그(KHLUG) 운영 역할",
-      "en": "KHLUG Officer Roles"
+      "ko": "쿠러그 보안/해킹 트랙장",
+      "en": "KHLUG security/hacking track lead"
     },
     "summary": {
-      "ko": "지원·인사, 서버실, 내정, 보안·해킹 트랙, 기획을 차례로 담당했습니다.",
-      "en": "Held successive responsibilities for support and HR, the server room, internal administration, the security and hacking track, and planning."
+      "ko": "쿠러그에서 보안·해킹 트랙장을 맡았습니다.",
+      "en": "Served as KHLUG security/hacking track lead."
     },
     "featured": false,
     "tags": [
-      "leadership",
-      "khlug",
-      "linux",
       "security",
-      "server",
-      "planning"
+      "khlug",
+      "organization-operations"
     ],
     "detail": {
       "outcomes": [
         {
-          "ko": "지원·인사 담당 2023.03.31–2023.12.31",
-          "en": "Support and HR, Mar–Dec 2023"
+          "ko": "HacKHU와 소통하며 초기 교류의 기틀을 마련했습니다.",
+          "en": "Communicated with HacKHU and helped establish initial collaboration."
         },
         {
-          "ko": "서버실 관리자 2023.05.26–2025.07.21",
-          "en": "Server-room administrator, May 2023–Jul 2025"
-        },
-        {
-          "ko": "내정 담당 2024.01.01–2025.07.21",
-          "en": "Internal administration, Jan 2024–Jul 2025"
-        },
-        {
-          "ko": "보안·해킹 트랙장 2025.09.01–2026.02.28",
-          "en": "Security and hacking track lead, Sep 2025–Feb 2026"
-        },
-        {
-          "ko": "기획 담당 2025.09.22–",
-          "en": "Planning officer since Sep 2025"
+          "ko": "쿠러그와 HacKHU가 공동으로 진행하는 정보보안 스터디를 공동 관리했습니다.",
+          "en": "Co-managed the joint KHLUG–HacKHU information-security study group."
         }
       ]
-    }
+    },
+    "links": []
+  },
+  {
+    "slug": "code-election-policy-advisor",
+    "sortDate": "2026-01-01",
+    "kind": "leadership",
+    "status": "ongoing",
+    "period": "2026 <<내용필요: 코드 정책참모 활동 시작·종료월>>",
+    "title": {
+      "ko": "2026 국제캠 총학생회 선거운동본부 ‘코드’ 정책참모",
+      "en": "Policy Advisor, ‘코드’ Student Election Campaign — Kyung Hee University Global Campus, 2026"
+    },
+    "summary": {
+      "ko": "2026 국제캠 총학생회 선거운동본부 ‘코드’ 정책참모로 활동하고 있습니다.",
+      "en": "Serving as a policy advisor to the 코드 student election campaign at Kyung Hee University Global Campus."
+    },
+    "featured": false,
+    "tags": [
+      "student-governance",
+      "policy",
+      "khu"
+    ],
+    "links": []
+  },
+  {
+    "slug": "khlug-planning",
+    "sortDate": "2025-09-22",
+    "kind": "leadership",
+    "status": "ongoing",
+    "period": "2025.09.22 — 현재",
+    "title": {
+      "ko": "쿠러그 기획 담당자",
+      "en": "KHLUG planning officer"
+    },
+    "summary": {
+      "ko": "쿠러그 기획 담당자로 활동하고 있습니다.",
+      "en": "Serving as KHLUG planning officer."
+    },
+    "featured": false,
+    "tags": [
+      "organization-operations",
+      "planning",
+      "khlug"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "기획과 운영 방향을 자문하고 트랙을 관리했습니다.",
+          "en": "Advised on overall planning and direction and managed the tracks."
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "koa-secretariat-member",
+    "sortDate": "2025-09-19",
+    "kind": "leadership",
+    "status": "completed",
+    "period": "2022.11.28 — 2025.09.19",
+    "title": {
+      "ko": "대한오목협회 사무국 운영위원",
+      "en": "Korea Omok Association — secretariat committee member"
+    },
+    "summary": {
+      "ko": "오목 대회·행사 기획과 미디어홍보팀 활동으로 협회 및 대회 진행을 보조했습니다.",
+      "en": "Helped plan Omok tournaments and events and supported association operations in the media publicity team."
+    },
+    "featured": false,
+    "tags": [
+      "omok",
+      "event-operations",
+      "planning",
+      "organization-operations"
+    ],
+    "links": []
   },
   {
     "slug": "army-cybersecurity-competition-2025",
@@ -77,99 +142,159 @@
     "status": "completed",
     "period": "2025.09.18",
     "title": {
-      "ko": "2025 육군 사이버보안 경진대회 운영",
-      "en": "2025 Army Cybersecurity Competition Operations"
+      "ko": "2025 육군 사이버보안 경진대회",
+      "en": "2025 Republic of Korea Army Cybersecurity Competition"
     },
     "summary": {
-      "ko": "대회 환경 구성, 기술지원과 스코어보드 운영을 담당했습니다.",
-      "en": "Handled competition setup, technical support, and scoreboard operations."
+      "ko": "대회장 설치와 철수, 현장 기술 지원 및 스코어보드 관리를 맡았습니다.",
+      "en": "Supported venue setup and teardown, on-site technical assistance, and scoreboard management."
     },
     "featured": false,
     "tags": [
       "military",
-      "cybersecurity",
-      "competition",
+      "security",
       "event-operations",
       "technical-support"
-    ]
+    ],
+    "links": []
+  },
+  {
+    "slug": "khlug-internal-affairs",
+    "sortDate": "2025-07-21",
+    "kind": "leadership",
+    "status": "completed",
+    "period": "2024.01.01 — 2025.07.21",
+    "title": {
+      "ko": "쿠러그 내정 담당자",
+      "en": "KHLUG internal-affairs officer"
+    },
+    "summary": {
+      "ko": "쿠러그 내정 담당자로 활동했습니다.",
+      "en": "Served as KHLUG internal-affairs officer."
+    },
+    "featured": false,
+    "tags": [
+      "organization-operations",
+      "khlug"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "동아리 전반적인 업무를 총괄했습니다.",
+          "en": "Oversaw the club's general administration."
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "khlug-server-administrator",
+    "sortDate": "2025-07-21",
+    "kind": "leadership",
+    "status": "completed",
+    "period": "2023.05.26 — 2025.07.21",
+    "title": {
+      "ko": "쿠러그 서버실 관리자",
+      "en": "KHLUG server-room administrator"
+    },
+    "summary": {
+      "ko": "쿠러그 서버실 관리자로 활동했습니다.",
+      "en": "Served as KHLUG server-room administrator."
+    },
+    "featured": false,
+    "tags": [
+      "organization-operations",
+      "technical-support",
+      "khlug",
+      "web"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "중앙동아리연합회 홈페이지의 직·간접적인 유지 보수에 참여했습니다.",
+          "en": "Participated directly and indirectly in maintaining the central club union website."
+        },
+        {
+          "ko": "총학생회 홈페이지 개설을 돕고 유지보수에 참여했습니다.",
+          "en": "Helped launch the general student council website and participated in maintenance."
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "academic-division-chair-reelected",
+    "sortDate": "2025-07-21",
+    "kind": "leadership",
+    "status": "completed",
+    "period": "2024.03.25 — 2025.07.21",
+    "title": {
+      "ko": "중앙동아리연합회 학술분과위원장 재선",
+      "en": "Academic Division Chair, 중앙동아리연합회 — Re-elected Term"
+    },
+    "summary": {
+      "ko": "중앙동아리연합회 학술분과위원장에 재선되어 연임했습니다.",
+      "en": "Served as Academic division chair, re-elected term."
+    },
+    "featured": false,
+    "tags": [
+      "student-governance",
+      "policy",
+      "writing",
+      "organization-operations"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "중앙동아리연합회 회칙 전문개정을 주관했습니다. 회장단과 분과위원장 및 동아리 대표자 등의 의견을 다수 수렴하여 새 회칙을 직접 작성했습니다.",
+          "en": "Led a full revision of the central club union rules, collected views from executives, division chairs, and club representatives, and drafted the new rules."
+        },
+        {
+          "ko": "중앙동아리연합회의 동아리 간 내부 분쟁을 중간에서 조정하고 사건을 정리하여 운영위원회에서 활용할 수 있게 제공했습니다.",
+          "en": "Mediated disputes between clubs and prepared case summaries for the operating committee."
+        },
+        {
+          "ko": "학술분과장으로서의 실적을 인정받아 재선을 통해 연임에 성공했습니다.",
+          "en": "Was re-elected as academic division chair."
+        },
+        {
+          "ko": "활동 보고서 심사 결과에 대한 이의제기를 지원했습니다. 각 동아리의 설명과 최근 2년간의 활동을 검토해 반론을 준비했고, 징계 수준을 등록 취소에서 경고로 낮추는 데 기여했습니다.",
+          "en": "Helped clubs appeal activity-report decisions by reviewing two years of activity and preparing responses; the sanction was reduced from registration revocation to a warning."
+        },
+        {
+          "ko": "학술분과 동아리와 중앙동아리연합회 사이에서 의견을 수렴하고 정보를 공유했습니다.",
+          "en": "Collected views and shared information between academic clubs and the central club union."
+        }
+      ]
+    },
+    "links": []
   },
   {
     "slug": "khuthon-2025",
     "sortDate": "2025-05-10",
     "kind": "leadership",
     "status": "completed",
-    "period": "2025.05.09 — 05.10",
+    "period": "2025.05.09 — 2025.05.10",
     "title": {
-      "ko": "khuthon 2025 대회 총괄",
-      "en": "Lead Organizer of khuthon 2025"
+      "ko": "경희대학교 AI·SW 해커톤 「khuthon 2025」",
+      "en": "Kyung Hee University AI·SW Hackathon ‘khuthon 2025’"
     },
     "summary": {
-      "ko": "대회 책임자로 전체 기획, 정책 설계와 사회를 맡았습니다.",
-      "en": "Led the hackathon's overall planning, policy design, and emceeing."
+      "ko": "대회 책임자로서 기획 전반과 대회 정책을 총괄하고 사회를 맡았습니다.",
+      "en": "Led the event, overall planning, contest policy, and hosting."
     },
     "featured": false,
     "tags": [
       "hackathon",
-      "leadership",
       "event-operations",
+      "emcee",
+      "khlug",
+      "khuthon",
       "planning",
-      "emcee"
-    ]
-  },
-  {
-    "slug": "khuthon-operations",
-    "sortDate": "2025-05-10",
-    "kind": "leadership",
-    "status": "completed",
-    "period": "2023 — 2025",
-    "title": {
-      "ko": "KHUTHON 해커톤 기획·운영·진행",
-      "en": "KHUTHON Hackathon Planning and Operations"
-    },
-    "summary": {
-      "ko": "2023년부터 2025년까지 교내 해커톤을 기획하고 행사 진행과 운영을 맡았습니다.",
-      "en": "Planned and hosted university hackathons from 2023 through 2025."
-    },
-    "featured": true,
-    "tags": [
-      "hackathon",
-      "leadership",
-      "planning",
-      "community",
-      "kyunghee"
+      "policy",
+      "khu"
     ],
-    "links": [
-      {
-        "label": {
-          "ko": "2025 행사 기사",
-          "en": "2025 event article"
-        },
-        "href": "https://hello.khlug.org/109940"
-      },
-      {
-        "label": {
-          "ko": "2024 행사 기사",
-          "en": "2024 event article"
-        },
-        "href": "https://hello.khlug.org/105312"
-      }
-    ],
-    "detail": {
-      "context": {
-        "ko": "학생들이 짧은 시간 안에 문제를 정의하고 협업 결과물을 완성할 수 있는 장이 필요했습니다.",
-        "en": "Students needed a setting where they could frame problems and finish collaborative work within a short time."
-      },
-      "role": {
-        "ko": "행사 기획, 운영 준비, 현장 진행과 참가자 커뮤니케이션을 맡았습니다.",
-        "en": "I handled event planning, operations preparation, live hosting, and participant communication."
-      },
-      "outcomes": [
-        {
-          "ko": "3개 연도 해커톤 운영 경험과 공개 기사 기록",
-          "en": "Three years of hackathon operations documented in public articles"
-        }
-      ]
-    }
+    "links": []
   },
   {
     "slug": "khuitcon-2025-spring",
@@ -178,222 +303,295 @@
     "status": "completed",
     "period": "2025.03.28",
     "title": {
-      "ko": "KHUITCON 2025 Spring 운영",
-      "en": "KHUITCON 2025 Spring Operations"
+      "ko": "KHUITCON 2025 Spring",
+      "en": "KHUITCON 2025 Spring — event operations"
     },
     "summary": {
-      "ko": "행사 기획, 연사 섭외, 홍보와 현장 운영을 담당했습니다.",
-      "en": "Handled event planning, speaker coordination, promotion, and on-site operations."
+      "ko": "행사를 기획하고 연사를 모집·섭외했으며, 홍보와 현장 운영을 지원했습니다.",
+      "en": "Planned the event, recruited speakers, assisted publicity, and managed the venue."
     },
     "featured": false,
     "tags": [
-      "conference",
       "event-operations",
-      "planning",
-      "content"
-    ]
+      "khlug",
+      "planning"
+    ],
+    "links": []
   },
   {
     "slug": "caas-academic-festival-2024",
     "sortDate": "2024-11-21",
     "kind": "leadership",
     "status": "completed",
-    "period": "2024.11.19 — 11.21",
+    "period": "2024.11.19 — 2024.11.21",
     "title": {
-      "ko": "2024 중앙동아리연합회 학술분과 동아리제",
-      "en": "2024 CAAS Academic Division Club Festival"
+      "ko": "2024 CAAS 동아리학술제",
+      "en": "2024 Club Association Academic Seminar (CAAS)"
     },
     "summary": {
-      "ko": "학술분과 동아리제의 초기 아이디어를 제안했습니다.",
-      "en": "Proposed the initial concept for the academic-division club festival."
+      "ko": "행사 초안을 기획했습니다.",
+      "en": "Contributed to the initial event plan."
     },
     "featured": false,
     "tags": [
-      "student-governance",
       "event-operations",
-      "planning",
-      "kyunghee"
-    ]
+      "planning"
+    ],
+    "links": []
   },
   {
     "slug": "khuthon-2024",
     "sortDate": "2024-05-11",
     "kind": "leadership",
     "status": "completed",
-    "period": "2024.05.10 — 05.11",
+    "period": "2024.05.10 — 2024.05.11",
     "title": {
-      "ko": "khuthon 2024 대회 총괄",
-      "en": "Lead Organizer of khuthon 2024"
+      "ko": "경희대학교 AI·SW 해커톤 「khuthon 2024」",
+      "en": "Kyung Hee University AI·SW Hackathon ‘khuthon 2024’"
     },
     "summary": {
-      "ko": "대회 책임자로 전체 운영과 사회를 맡았습니다.",
-      "en": "Led overall hackathon operations and emceeing."
+      "ko": "대회 책임자로서 기획 전반을 총괄하고 사회를 맡았습니다.",
+      "en": "Led the event, overall planning, and hosting."
     },
     "featured": false,
     "tags": [
       "hackathon",
-      "leadership",
       "event-operations",
-      "emcee"
-    ]
+      "emcee",
+      "khlug",
+      "khuthon",
+      "planning",
+      "khu"
+    ],
+    "links": []
+  },
+  {
+    "slug": "academic-division-chair-first",
+    "sortDate": "2024-03-25",
+    "kind": "leadership",
+    "status": "completed",
+    "period": "2023.12.27 — 2024.03.25",
+    "title": {
+      "ko": "중앙동아리연합회 학술분과위원장 초선",
+      "en": "Academic Division Chair, 중앙동아리연합회 — First Elected Term"
+    },
+    "summary": {
+      "ko": "중앙동아리연합회 학술분과위원장으로 처음 선출되어 활동했습니다.",
+      "en": "Served as Academic division chair, first term."
+    },
+    "featured": false,
+    "tags": [
+      "student-governance",
+      "policy",
+      "planning",
+      "organization-operations"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "1차 확대운영위원회에서 자치 회비 비율과 관련한 질의를 하였으며, 각 자치기구의 예산안을 심의·의결하는 과정에 참여했습니다.",
+          "en": "Asked about student-fee allocation at the first expanded operating committee and participated in deliberating and approving student bodies' budgets."
+        },
+        {
+          "ko": "2차 확대운영위원회에서 동아리 관련한 부분에 관해 선거시행세칙상의 오류를 찾아 수정안을 요청했으며, 적극 어필한 결과 의견이 반영되어 재심의할 수 있었습니다.",
+          "en": "Identified errors relating to clubs in the election bylaws, requested amendments, and secured reconsideration at the second expanded operating committee."
+        },
+        {
+          "ko": "중앙동아리연합회 회칙 개정에서 적극적인 의견을 제시했습니다. 운영위원회에서 양·질적으로 가장 많은 의견을 냈습니다. 특히 설·국 회칙과의 상호성을 존중할 수 있는 방향성을 어필하며, 동아리들의 불이익 사례를 어필함으로써, 조금 더 나은 회칙이 되도록 했습니다.",
+          "en": "Submitted detailed comments on club union rule amendments, emphasizing compatibility between campus rules and cases where clubs would be disadvantaged."
+        },
+        {
+          "ko": "중앙동아리연합회 공약이었던 ‘중앙동아리 활동의 다각화’와 연계하여 학술분과 학술제 개최 초안을 이끌어냈습니다.",
+          "en": "Helped produce an initial plan for an academic division festival under the club union's pledge to diversify club activities."
+        },
+        {
+          "ko": "폐부 예정이던 학술분과 동아리 ‘뉴스위크’의 기본지원금 회수에 반대하는 의견을 제시하고 다른 운영위원을 설득했습니다.",
+          "en": "Opposed reclaiming the basic subsidy from the academic division club Newsweek, which was due to close, and persuaded other committee members."
+        },
+        {
+          "ko": "중앙동아리연합회 홈페이지 관련 문의에 응대했습니다.",
+          "en": "Responded to inquiries about the central club union website."
+        }
+      ]
+    },
+    "links": []
   },
   {
     "slug": "susc-programs",
     "sortDate": "2024-03-24",
     "kind": "leadership",
     "status": "completed",
-    "period": "2023.04 — 2024.03",
+    "period": "2023.04.18 — 2024.03.24",
     "title": {
-      "ko": "SUSC 대학 연합 IT 교류 프로그램 운영",
-      "en": "SUSC Inter-university IT Programs"
+      "ko": "SUSC 운영진",
+      "en": "SUSC staff"
     },
     "summary": {
-      "ko": "운영진과 콘텐츠기획팀장으로 여름·겨울 교육 프로그램과 대학 간 IT 교류를 운영했습니다.",
-      "en": "Led content planning and operations for summer and winter programs and inter-university IT exchange."
+      "ko": "쿠러그 대표로 대학 간 교류를 맡고, 2023 Summer 콘텐츠팀과 2023 Winter 기획팀의 리더로 활동했습니다.",
+      "en": "Represented KHLUG in inter-university exchange and led the 2023 Summer content team and 2023 Winter planning team."
     },
     "featured": false,
     "tags": [
-      "leadership",
+      "organization-operations",
       "planning",
-      "community",
-      "education",
-      "content"
-    ]
+      "khlug",
+      "susc"
+    ],
+    "links": []
   },
   {
     "slug": "susc-winter-2023",
     "sortDate": "2024-02-24",
     "kind": "leadership",
     "status": "completed",
-    "period": "2024.01.20 — 02.24",
+    "period": "2024.01.20 — 2024.02.24",
     "title": {
-      "ko": "SUSC 2023 Winter 프로그램 운영",
-      "en": "SUSC 2023 Winter Program Operations"
+      "ko": "SUSC 2023 Winter",
+      "en": "SUSC 2023 Winter — program planning"
     },
     "summary": {
-      "ko": "대학 연합 IT 겨울 프로그램을 기획·운영했습니다.",
-      "en": "Planned and operated an inter-university winter IT program."
+      "ko": "운영진으로서 행사 전반의 기획에 참여했습니다.",
+      "en": "Participated in overall program planning as a staff member."
     },
     "featured": false,
     "tags": [
-      "community",
       "event-operations",
+      "susc",
       "planning"
-    ]
+    ],
+    "links": []
+  },
+  {
+    "slug": "khlug-support-hr",
+    "sortDate": "2023-12-31",
+    "kind": "leadership",
+    "status": "completed",
+    "period": "2023 — 2023.12.31 <<내용필요: 쿠러그 지원·인사 담당 시작일(2023.03.31/2023.04.08 중 확정)>>",
+    "title": {
+      "ko": "쿠러그 지원·인사 담당자",
+      "en": "KHLUG support and HR officer"
+    },
+    "summary": {
+      "ko": "쿠러그 지원·인사 담당자로 활동했습니다.",
+      "en": "Served as KHLUG support and HR officer."
+    },
+    "featured": false,
+    "tags": [
+      "organization-operations",
+      "khlug"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "회원들의 활동 지원과 초심자 회원 관리를 관장했습니다.",
+          "en": "Managed member support and beginner-member services."
+        }
+      ]
+    },
+    "links": []
   },
   {
     "slug": "khuthon-2023",
     "sortDate": "2023-11-11",
     "kind": "leadership",
     "status": "completed",
-    "period": "2023.11.10 — 11.11",
+    "period": "2023.11.10 — 2023.11.11",
     "title": {
-      "ko": "khuthon 2023 기획·진행",
-      "en": "Planning and Emceeing for khuthon 2023"
+      "ko": "경희대학교 해커톤 khuthon 2023",
+      "en": "Kyung Hee University Hackathon ‘khuthon 2023’"
     },
     "summary": {
-      "ko": "행사 기획과 사회, 진행 절차와 수상 운영을 담당했습니다.",
-      "en": "Handled planning, emceeing, event flow, and award operations."
+      "ko": "사회를 맡고, 진행 절차와 시상 기준을 마련했으며 행사 마무리 작업을 담당했습니다.",
+      "en": "Hosted the event, planned procedures, set award criteria, and handled wrap-up."
     },
     "featured": false,
     "tags": [
       "hackathon",
       "event-operations",
-      "planning",
-      "emcee"
-    ]
+      "emcee",
+      "khlug",
+      "khuthon",
+      "policy",
+      "khu"
+    ],
+    "links": []
   },
   {
     "slug": "susc-summer-2023",
     "sortDate": "2023-08-20",
     "kind": "leadership",
     "status": "completed",
-    "period": "2023.07.15 — 08.20",
+    "period": "2023.07.15 — 2023.08.20",
     "title": {
-      "ko": "SUSC 2023 Summer 프로그램 운영",
-      "en": "SUSC 2023 Summer Program Operations"
+      "ko": "SUSC 2023 Summer",
+      "en": "SUSC 2023 Summer — program planning"
     },
     "summary": {
-      "ko": "대학 연합 IT 여름 프로그램을 기획·운영했습니다.",
-      "en": "Planned and operated an inter-university summer IT program."
+      "ko": "운영진으로서 행사 전반의 기획에 참여했습니다.",
+      "en": "Participated in overall program planning as a staff member."
     },
     "featured": false,
     "tags": [
-      "community",
       "event-operations",
+      "susc",
       "planning"
-    ]
+    ],
+    "links": []
   },
   {
-    "slug": "high-school-governance",
+    "slug": "school-class-vice-president-2022",
     "sortDate": "2023-02-28",
     "kind": "leadership",
     "status": "completed",
-    "period": "2020.03 — 2023.02",
+    "period": "2022.08.23 — 2023.02.28",
     "title": {
-      "ko": "충남과학고 학생자치 활동",
-      "en": "Student Governance at Chungnam Science High School"
+      "ko": "충남과학고 3학년 2학기 학급부반장",
+      "en": "Class Vice President, Third Year, Second Semester — Chung-Nam Science High School"
     },
     "summary": {
-      "ko": "학급 반장·부반장, 학생생활규정 위원, 인문예술차장, 선거관리위원으로 활동했습니다.",
-      "en": "Served as class president and vice president, student-rule committee member, humanities and arts deputy, and election committee member."
+      "ko": "충남과학고 3학년 2학기에 학급 부반장을 맡았습니다.",
+      "en": "Served as Class vice president, fall 2022."
     },
     "featured": false,
     "tags": [
-      "leadership",
       "student-governance",
-      "high-school"
+      "cshs"
     ],
     "detail": {
       "outcomes": [
         {
-          "ko": "1학년 1학기 학급반장 2020.03.01–08.31",
-          "en": "Class president, spring 2020"
+          "ko": "선거(후보 2인)를 통해 선출되었습니다.",
+          "en": "Elected in a two-candidate election."
         },
         {
-          "ko": "인문예술차장 2020.09.01–2021.08.31",
-          "en": "Humanities and arts deputy, Sep 2020–Aug 2021"
-        },
-        {
-          "ko": "2020년 학생회장 선거 선거관리위원",
-          "en": "Election committee member for the 2020 student-president election"
-        },
-        {
-          "ko": "2학년 1학기 학급반장 2021.03.01–08.31",
-          "en": "Class president, spring 2021"
-        },
-        {
-          "ko": "학교생활규정 재·개정위원 2021.03.01–2022.02.28",
-          "en": "Student rule revision committee, Mar 2021–Feb 2022"
-        },
-        {
-          "ko": "3학년 2학기 학급부반장 2022.08.23–2023.02.28",
-          "en": "Class vice president, fall 2022"
+          "ko": "학급 내 출석 인원 통제 및 각종 업무를 담당했으며, 반장의 권한을 일부 위임받아 여러 역할 및 업무를 대리했습니다.",
+          "en": "Managed attendance and class tasks and deputized for the class president under delegated authority."
         }
       ]
-    }
+    },
+    "links": []
   },
   {
     "slug": "three-up-morning",
     "sortDate": "2022-07-15",
     "kind": "leadership",
     "status": "completed",
-    "period": "2022.03 — 2022.07",
+    "period": "2022.03.02 — 2022.07.15",
     "title": {
-      "ko": "충남과학고 3UP Morning Project 기획",
-      "en": "Chungnam Science High School 3UP Morning Project"
+      "ko": "충남과학고등학교 3Up Morning",
+      "en": "3Up Morning — Chung-Nam Science High School"
     },
     "summary": {
-      "ko": "아침 활동 프로젝트의 초기 계획을 제안했습니다.",
-      "en": "Proposed the initial plan for a morning activity program."
+      "ko": "활동 기획의 초안을 작성했습니다.",
+      "en": "Drafted the activity plan."
     },
     "featured": false,
     "tags": [
-      "high-school",
-      "education",
+      "event-operations",
       "planning",
-      "event-operations"
-    ]
+      "cshs"
+    ],
+    "links": []
   },
   {
     "slug": "chungnam-festival-2022",
@@ -402,146 +600,378 @@
     "status": "completed",
     "period": "2022.07.14",
     "title": {
-      "ko": "충남과학고 2022 어울림부스한마당 기획",
-      "en": "2022 Chungnam Science High School Festival Planning"
+      "ko": "충남과학고등학교 2022년 어울림 한마당",
+      "en": "어울림 한마당 2022 School Festival — Chung-Nam Science High School"
     },
     "summary": {
-      "ko": "학교 축제의 활동 아이디어를 제안했습니다.",
-      "en": "Proposed an activity concept for the school festival."
+      "ko": "행사 활동 아이디어를 제안했습니다.",
+      "en": "Suggested activity ideas."
     },
     "featured": false,
     "tags": [
-      "high-school",
       "event-operations",
-      "planning"
-    ]
+      "planning",
+      "cshs"
+    ],
+    "links": []
+  },
+  {
+    "slug": "school-rules-committee-2021",
+    "sortDate": "2022-02-28",
+    "kind": "leadership",
+    "status": "completed",
+    "period": "2021.03.01 — 2022.02.28",
+    "title": {
+      "ko": "충남과학고 학교생활규정 재·개정위원",
+      "en": "School Rules Revision Committee Member — Chung-Nam Science High School"
+    },
+    "summary": {
+      "ko": "충남과학고 학교생활규정 재·개정위원으로 활동했습니다.",
+      "en": "Served as Student rules revision committee member."
+    },
+    "featured": false,
+    "tags": [
+      "student-governance",
+      "policy",
+      "editing",
+      "cshs"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "학생안전부장 선생님의 추천으로 선발되었습니다.",
+          "en": "Selected on the recommendation of the teacher heading student safety."
+        },
+        {
+          "ko": "1차개정: 충남학생인권조례와 충돌되는 조문 개정을 발의했습니다.",
+          "en": "First revision: proposed amending provisions that conflicted with the Chungcheongnam-do Student Human Rights Ordinance."
+        },
+        {
+          "ko": "2차개정: 학업우수상 수상의 동점자규정 중 생년월일 등 기존 규정 중 시대와 맞지 않는 조문의 개정을 추진했으며, 충남학생인권조례와 충돌하는 조문에 대해 개정을 추진했습니다. 기존 규정에서 문맥 등의 오류를 발견해 개정을 추진했습니다.",
+          "en": "Second revision: pursued changes to outdated academic-award tie-break rules, including birth-date criteria, provisions conflicting with the Student Human Rights Ordinance, and wording errors."
+        }
+      ]
+    },
+    "links": []
   },
   {
     "slug": "youth-academic-conference-17-operations",
     "sortDate": "2022-01-30",
     "kind": "leadership",
     "status": "completed",
-    "period": "2022.01.17 — 01.30",
+    "period": "2022.01.17 — 2022.01.30",
     "title": {
-      "ko": "제17회 대한민국청소년학술대회 운영",
-      "en": "17th Korea Youth Academic Conference Operations"
+      "ko": "제17회 한국청소년학술대회",
+      "en": "KSCY 17 — session support"
     },
     "summary": {
-      "ko": "컴퓨터공학 세션의 연구 피드백, 질의응답, 홍보와 시스템 취약점 제보를 담당했습니다.",
-      "en": "Supported research feedback, Q&A, publicity, and vulnerability reporting for the computer-engineering session."
+      "ko": "컴퓨터공학 세션을 담당하고 참가자 교류와 튜토리얼 진행을 지원했습니다.",
+      "en": "Supported the computer-science session, participant exchange, and tutorials."
     },
     "featured": false,
     "tags": [
-      "conference",
-      "youth",
       "event-operations",
-      "security"
-    ]
+      "mentoring",
+      "kscy",
+      "computer-science",
+      "education"
+    ],
+    "links": []
+  },
+  {
+    "slug": "school-class-president-2021",
+    "sortDate": "2021-08-31",
+    "kind": "leadership",
+    "status": "completed",
+    "period": "2021.03.01 — 2021.08.31",
+    "title": {
+      "ko": "충남과학고 2학년 1학기 학급반장",
+      "en": "Class President, Second Year, First Semester — Chung-Nam Science High School"
+    },
+    "summary": {
+      "ko": "충남과학고 2학년 1학기에 학급 반장을 맡았습니다.",
+      "en": "Served as Class president, spring 2021."
+    },
+    "featured": false,
+    "tags": [
+      "student-governance",
+      "education",
+      "planning",
+      "policy",
+      "cshs"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "선거(후보 3인)를 통해 선출되었습니다.",
+          "en": "Elected in a three-candidate election."
+        },
+        {
+          "ko": "학급반장: 학급 공동 학습자료실을 구축하여 학습 자료를 제공하거나 학습을 도왔습니다. 전학년 최초로 단합행사를 추진하였으나 학교 행사와 엇갈려 아쉽게도 취소되었습니다.",
+          "en": "Built a shared class learning-resource repository. Proposed a class gathering, but it was canceled because it conflicted with school events."
+        },
+        {
+          "ko": "학생회 대의원: 학교 규칙 개정 회의와 관련하여 각종 자료 조사를 지원했습니다.",
+          "en": "As a student council delegate, assisted research for school-rule revision meetings."
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "school-humanities-arts-deputy",
+    "sortDate": "2021-08-31",
+    "kind": "leadership",
+    "status": "completed",
+    "period": "2020.09.01 — 2021.08.31",
+    "title": {
+      "ko": "충남과학고 인문예술차장",
+      "en": "Deputy for Humanities and Arts — Chung-Nam Science High School"
+    },
+    "summary": {
+      "ko": "충남과학고 인문예술차장으로 활동했습니다.",
+      "en": "Served as Humanities and arts deputy."
+    },
+    "featured": false,
+    "tags": [
+      "student-governance",
+      "planning",
+      "cshs"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "자기소개서를 통해 선발되었습니다.",
+          "en": "Selected through a personal statement."
+        },
+        {
+          "ko": "인문예술차장: 하계 생활복 디자인 선정 방식을 제안하고 그 과정을 보조했습니다. 학교 행사 진행 업무는 코로나19로 행사가 모두 취소되어 수행하지 못했습니다.",
+          "en": "Proposed and assisted the selection process for the summer casual-uniform design. Most planned school-event duties were canceled due to COVID-19."
+        },
+        {
+          "ko": "학생회 대의원: 회장단의 사실상의 비서 역할을 담당했습니다. e스포츠 대회 개최 준비에 관여했으며, 준비 회의에 1학년 대표로 참가했습니다. 신입생들의 단체 채팅방 개설 과정을 도왔습니다.",
+          "en": "As a student council delegate, assisted the presidency, helped prepare an esports event, represented first-year students in planning meetings, and helped establish new students' group chats."
+        }
+      ]
+    },
+    "links": []
   },
   {
     "slug": "tensorflow-ai-camp-2021",
     "sortDate": "2021-07-23",
     "kind": "leadership",
     "status": "completed",
-    "period": "2021.07.19 — 07.23",
+    "period": "2021.07.19 — 2021.07.23",
     "title": {
-      "ko": "TensorFlow 인공지능 캠프 기획",
-      "en": "TensorFlow AI Camp Planning"
+      "ko": "텐서플로우로 구현하는 인공지능 캠프",
+      "en": "AI Implementation with TensorFlow Camp"
     },
     "summary": {
-      "ko": "캠프 기획·운영과 진행, 연사 조정을 담당했습니다.",
-      "en": "Handled camp planning, operations, hosting, and speaker coordination."
+      "ko": "캠프를 기획·주최하고 외부 강사를 초청했습니다.",
+      "en": "Planned and hosted the camp and invited an external instructor."
     },
     "featured": false,
     "tags": [
-      "ai",
-      "tensorflow",
       "education",
+      "machine-learning",
+      "ai",
       "event-operations",
+      "include",
       "planning"
-    ]
+    ],
+    "links": []
   },
   {
     "slug": "intro-algorithm-camp-2021",
     "sortDate": "2021-05-14",
     "kind": "leadership",
     "status": "completed",
-    "period": "2021.05.12 — 05.14",
+    "period": "2021.05.12 — 2021.05.14",
     "title": {
-      "ko": "알고리즘 입문 캠프 기획",
-      "en": "Introductory Algorithm Camp Planning"
+      "ko": "간단히 배우는 알고리즘 캠프",
+      "en": "Introductory Algorithms Camp"
     },
     "summary": {
-      "ko": "알고리즘 입문 교육 캠프를 기획했습니다.",
-      "en": "Planned an introductory algorithm learning camp."
+      "ko": "캠프를 기획하고 운영에 필요한 여건을 마련했습니다.",
+      "en": "Planned the camp and arranged the conditions needed to run it."
     },
     "featured": false,
     "tags": [
-      "algorithm",
       "education",
+      "algorithm",
       "event-operations",
+      "include",
       "planning"
-    ]
+    ],
+    "links": []
   },
   {
     "slug": "digncore-staff",
     "sortDate": "2021-04-15",
     "kind": "leadership",
     "status": "completed",
-    "period": "2020.05 — 2021.04",
+    "period": "2020.05.01 — 2021.04.15",
     "title": {
-      "ko": "Digncore 운영진",
+      "ko": "Digncore Staff",
       "en": "Digncore Staff"
     },
     "summary": {
-      "ko": "Digncore 운영진으로 커뮤니티 활동을 지원했습니다.",
-      "en": "Supported community activities as a Digncore staff member."
+      "ko": "개발팀에서 개발·테스트, 팀원 관리와 인사 업무를 맡았습니다.",
+      "en": "Worked on development, testing, team management, and HR in the development team."
     },
     "featured": false,
     "tags": [
-      "leadership",
-      "community",
-      "operations"
-    ]
+      "organization-operations",
+      "programming"
+    ],
+    "links": []
   },
   {
-    "slug": "c3-programming-community",
+    "slug": "c3-external-services-lead",
     "sortDate": "2020-11-04",
     "kind": "leadership",
     "status": "ongoing",
-    "period": "2019.04 — Present",
+    "period": "2020.11.04 — 현재",
     "title": {
-      "ko": "C-3 프로그래밍 커뮤니티 운영",
-      "en": "C-3 Programming Community Operations"
+      "ko": "C-3 외부서비스관리팀장",
+      "en": "C-3 — External Services Management Team Lead"
     },
     "summary": {
-      "ko": "약 5,000명 규모의 프로그래밍 커뮤니티에서 부회장·대외서비스팀장·카페팀장으로 활동했습니다.",
-      "en": "Served as vice chair, external-services lead, and café-team lead in a programming community of about 5,000 members."
+      "ko": "프로그래밍·정보기술 교류·교육 커뮤니티 C-3에서 외부서비스관리팀장을 맡았습니다.",
+      "en": "Held the role in C-3, a programming community and IT exchange and education organization."
     },
     "featured": false,
     "tags": [
-      "leadership",
-      "community",
+      "organization-operations",
       "programming",
-      "chatbot",
-      "database"
+      "education"
+    ],
+    "links": []
+  },
+  {
+    "slug": "c3-cafe-management-lead",
+    "sortDate": "2020-11-03",
+    "kind": "leadership",
+    "status": "completed",
+    "period": "2019.06.09 — 2020.11.03",
+    "title": {
+      "ko": "C-3 카페관리팀장",
+      "en": "C-3 — Online Café Management Team Lead"
+    },
+    "summary": {
+      "ko": "프로그래밍·정보기술 교류·교육 커뮤니티 C-3에서 카페관리팀장을 맡았습니다.",
+      "en": "Held the role in C-3, a programming community and IT exchange and education organization."
+    },
+    "featured": false,
+    "tags": [
+      "organization-operations",
+      "programming",
+      "education"
+    ],
+    "links": []
+  },
+  {
+    "slug": "school-class-president-2020",
+    "sortDate": "2020-08-31",
+    "kind": "leadership",
+    "status": "completed",
+    "period": "2020.03.01 — 2020.08.31",
+    "title": {
+      "ko": "충남과학고 1학년 1학기 학급반장",
+      "en": "Class President, First Year, First Semester — Chung-Nam Science High School"
+    },
+    "summary": {
+      "ko": "충남과학고 1학년 1학기에 학급 반장을 맡았습니다.",
+      "en": "Served as Class president, spring 2020."
+    },
+    "featured": false,
+    "tags": [
+      "student-governance",
+      "policy",
+      "cshs"
     ],
     "detail": {
       "outcomes": [
         {
-          "ko": "회원 2019.04.07–, 부회장 2020.05.10–, 대외서비스팀장 2020.11.04–",
-          "en": "Member since Apr 2019, vice chair since May 2020, external-services lead since Nov 2020"
+          "ko": "선거(후보 4인)를 통해 선출되었습니다.",
+          "en": "Elected in a four-candidate election."
         },
         {
-          "ko": "카페팀장 2019.06.09–2020.11.03",
-          "en": "Café-team lead, Jun 2019–Nov 2020"
+          "ko": "학급반장: 학급회의를 주최했으며, 학급회의 최다 개최 학급이 되었을 정도로 의견 수렴에 힘썼습니다. 실험복 공동구매를 추진했으며, 큰 금액을 할인받을 수 있었습니다.",
+          "en": "Convened frequent class meetings to collect views and arranged a discounted group purchase of lab coats."
         },
         {
-          "ko": "광고 자동 탐지 카카오 버전 ‘코코봇’과 초기 데이터베이스·업데이트 담당",
-          "en": "Worked on the Kakao version of the automatic ad-detection bot Cocobot and its initial database and updates"
+          "ko": "학생회 대의원: 악습 중 하나였던 여자 화장실 학년 구분 관습에 대한 폐지를 2차례 발의하여 회의를 통해 폐지를 이끌어냈습니다. 이외에도 학급 의견을 바탕으로 각종 요구를 진행하여 개선을 이끌어냈습니다.",
+          "en": "As a student council delegate, twice proposed abolishing grade-based restrictions on the girls' toilets and secured their removal through meetings. Raised other requests based on classmates' views."
+        },
+        {
+          "ko": "인수인계: 차학기 반장의 요청으로 일부 업무를 위임받아 대리 및 보조했습니다.",
+          "en": "Assisted and deputized for the next semester's class president at their request."
         }
       ]
-    }
+    },
+    "links": []
+  },
+  {
+    "slug": "c3-vice-chair",
+    "sortDate": "2020-05-10",
+    "kind": "leadership",
+    "status": "ongoing",
+    "period": "2020.05.10 — 현재",
+    "title": {
+      "ko": "C-3 부위원장",
+      "en": "C-3 — Vice Chair"
+    },
+    "summary": {
+      "ko": "프로그래밍·정보기술 교류·교육 커뮤니티 C-3에서 부위원장을 맡았습니다.",
+      "en": "Held the role in C-3, a programming community and IT exchange and education organization."
+    },
+    "featured": false,
+    "tags": [
+      "organization-operations",
+      "programming",
+      "education"
+    ],
+    "links": []
+  },
+  {
+    "slug": "school-election-committee-2020",
+    "sortDate": "2020-01-01",
+    "kind": "leadership",
+    "status": "completed",
+    "period": "2020 학생회장 선거기간",
+    "title": {
+      "ko": "충남과학고 선거관리위원",
+      "en": "Student Election Committee Member — Chung-Nam Science High School"
+    },
+    "summary": {
+      "ko": "충남과학고 선거관리위원으로 활동했습니다.",
+      "en": "Served as Student election committee member."
+    },
+    "featured": false,
+    "tags": [
+      "student-governance",
+      "planning",
+      "event-operations",
+      "cshs"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "학생회 대의원 중 희망자를 추첨하여 선발되었습니다.",
+          "en": "Selected by lot from volunteering student council delegates."
+        },
+        {
+          "ko": "선거준비: 선거인단 목록을 작성했으며, 온라인 선거를 반대하고 코로나19를 고려한 오프라인 선거를 건의해 추진했습니다.",
+          "en": "Prepared the voter list and advocated an in-person election with COVID-19 precautions instead of an online election."
+        },
+        {
+          "ko": "선거일: 투표장 질서유지를 담당했습니다.",
+          "en": "Maintained order at the polling place on election day."
+        }
+      ]
+    },
+    "links": []
   },
   {
     "slug": "eomsa-omok-tournament-2019",
@@ -550,41 +980,64 @@
     "status": "completed",
     "period": "2019.12.27",
     "title": {
-      "ko": "2019 엄사중학교 오목대회 총괄",
-      "en": "2019 Eomsa Middle School Omok Tournament"
+      "ko": "2019 엄사중학교 ㅇㅁㅇ 오목대회",
+      "en": "2019 ㅇㅁㅇ Omok Tournament — Eomsa Middle School"
     },
     "summary": {
-      "ko": "대한오목협회 지원을 받아 교내 오목대회를 전체 기획했습니다.",
-      "en": "Planned a school omok tournament with support from the Korea Omok Association."
+      "ko": "대회를 기획·운영하고, 한국오목협회의 후원을 요청했습니다.",
+      "en": "Managed the tournament, planned the event, and arranged association support."
     },
     "featured": false,
     "tags": [
       "omok",
-      "competition",
       "event-operations",
       "planning"
-    ]
+    ],
+    "links": []
+  },
+  {
+    "slug": "c3-programming-community",
+    "sortDate": "2019-04-07",
+    "kind": "leadership",
+    "status": "ongoing",
+    "period": "2019.04.07 — 현재",
+    "title": {
+      "ko": "C-3 위원",
+      "en": "C-3 — Committee Member"
+    },
+    "summary": {
+      "ko": "프로그래밍·정보기술 교류·교육 커뮤니티 C-3에서 위원으로 활동했습니다.",
+      "en": "Held the role in C-3, a programming community and IT exchange and education organization."
+    },
+    "featured": false,
+    "tags": [
+      "organization-operations",
+      "programming",
+      "education"
+    ],
+    "links": []
   },
   {
     "slug": "yangsa-soft",
     "sortDate": "2018-07-20",
     "kind": "leadership",
     "status": "ongoing",
-    "period": "2018.07 — Present",
+    "period": "2018.07.20 — 현재",
     "title": {
       "ko": "양사 소프트 대표",
-      "en": "Founder and Representative, Yangsa Soft"
+      "en": "Head of 양사 소프트"
     },
     "summary": {
-      "ko": "개인·소규모 소프트웨어 프로젝트를 기획하고 개발해 온 프로젝트 브랜드입니다.",
-      "en": "A personal project label under which I have planned and developed small software projects."
+      "ko": "프로그램 제작과 정보과학 연구·교육을 하는 단체인 양사 소프트에서 프로젝트, 대외 교류, 인사·포상 등 운영과 의사결정을 맡고 있습니다.",
+      "en": "Leading 양사 소프트, a software, informatics research, and education group; responsible for projects, external relations, personnel, and organizational decisions."
     },
     "featured": false,
     "tags": [
-      "leadership",
-      "software",
-      "planning",
-      "development"
-    ]
+      "organization-operations",
+      "programming",
+      "education",
+      "computer-science"
+    ],
+    "links": []
   }
 ]

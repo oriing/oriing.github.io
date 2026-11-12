@@ -1,58 +1,79 @@
 [
   {
     "slug": "cat-bond-climate-model",
-    "sortDate": "2025-06-15",
+    "sortDate": "2025-01-01",
     "kind": "project",
     "status": "completed",
     "period": "2025",
     "title": {
-      "ko": "기후 리스크 관리를 위한 Cat Bond 상품 설계",
-      "en": "Cat Bond Product Design for Climate Risk Management"
+      "ko": "기후 리스크 관리를 위한 대재해채권 상품 설계",
+      "en": "Catastrophe bond design for climate risk management"
     },
     "summary": {
-      "ko": "기후·강수 데이터로 재해 발생 가능성과 손실을 추정해 Cat Bond의 위험 구조를 설계했습니다.",
-      "en": "Used climate and rainfall data to estimate disaster probability and loss for a Cat Bond risk structure."
+      "ko": "KHUDA 7기 심화 세션 최종 프로젝트 컨퍼런스에서 발표한 공동 프로젝트입니다.",
+      "en": "A joint project presented at the final project conference for cohort 7 of KHUDA’s advanced session."
     },
     "featured": false,
     "tags": [
-      "data-science",
       "climate",
       "finance",
-      "machine-learning",
-      "python"
-    ]
+      "data-science",
+      "khuda",
+      "catastrophe-bond",
+      "risk-management"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "임주현, 박윤찬, 박정식, 어승윤, 지가은, (2025), “기후 리스크 관리를 위한 대재해채권 상품 설계”, KHUDA 7기 심화 세션 최종 프로젝트 컨퍼런스",
+          "en": "임주현, 박윤찬, 박정식, 어승윤, 지가은, (2025), “기후 리스크 관리를 위한 대재해채권 상품 설계”, KHUDA 7기 심화 세션 최종 프로젝트 컨퍼런스"
+        }
+      ]
+    },
+    "links": []
   },
   {
     "slug": "naratmalsami-spelling",
-    "sortDate": "2025-05-31",
+    "sortDate": "2025-01-01",
     "kind": "project",
     "status": "completed",
     "period": "2025",
     "title": {
-      "ko": "한국어 맞춤법 추천 프로젝트 ‘나랏말싸미’",
-      "en": "Naratmalsami: Korean Spelling Recommendation"
+      "ko": "한국어 맞춤법 추천시스템 ‘나랏말싸미’",
+      "en": "‘나랏말싸미’: A Korean spelling recommendation system"
     },
     "summary": {
-      "ko": "한국어 맞춤법을 추천하는 머신러닝 토이 프로젝트를 수행했습니다.",
-      "en": "Built a machine-learning toy project for Korean spelling recommendations."
+      "ko": "KHUDA 7기 ML 세션 토이프로젝트 컨퍼런스에서 발표한 공동 프로젝트입니다.",
+      "en": "A joint project presented at the toy-project conference for cohort 7 of KHUDA’s machine-learning session."
     },
     "featured": false,
     "tags": [
       "machine-learning",
+      "ai",
       "nlp",
-      "python",
-      "software"
-    ]
+      "korean-language",
+      "khuda",
+      "spelling"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "정유진, 박정식, 박지연, 오종현, 오찬세, 지민석, 최예지, 한지훈, (2025), “한국어 맞춤법 추천시스템 ‘나랏말싸미’”, KHUDA 7기 ML 세션 토이프로젝트 컨퍼런스",
+          "en": "정유진, 박정식, 박지연, 오종현, 오찬세, 지민석, 최예지, 한지훈, (2025), “한국어 맞춤법 추천시스템 ‘나랏말싸미’”, KHUDA 7기 ML 세션 토이프로젝트 컨퍼런스"
+        }
+      ]
+    },
+    "links": []
   },
   {
     "slug": "avr-satellite-pqc-software",
     "sortDate": "2025-01-31",
     "kind": "project",
     "status": "completed",
-    "period": "2025.01",
+    "period": "2025.01.31",
     "title": {
-      "ko": "AVR 8비트 MCU 기반 위성-지상국 양자내성암호 통신 프로그램",
-      "en": "Post-quantum Satellite-to-Ground Communication on an AVR 8-bit MCU"
+      "ko": "AVR 8비트 마이크로컨트롤러(MCU) 기반 인공위성과 지상국의 스마우그-티(Smaug-T)와 엘이에이(LEA)를 이용한 양자 내성 암호화 통신 프로그램(Program)",
+      "en": "Post-quantum encrypted satellite–ground communication using SMAUG-T and LEA on an AVR 8-bit MCU"
     },
     "summary": {
       "ko": "SMAUG-T와 LEA를 이용한 위성-지상국 통신 프로그램을 구현하고 프로그램 저작물로 등록했습니다.",
@@ -60,52 +81,68 @@
     },
     "featured": false,
     "tags": [
-      "invention",
       "pqc",
+      "cryptography",
+      "security",
       "embedded",
-      "avr",
       "satellite-communication",
-      "cryptography"
+      "satellite",
+      "bob",
+      "network",
+      "smaug-t",
+      "lea"
     ],
     "detail": {
       "outcomes": [
         {
-          "ko": "2025년 1월 31일 프로그램 저작물 등록",
-          "en": "Software registered on January 31, 2025"
+          "ko": "AVR 8비트 마이크로컨트롤러(MCU) 기반 인공위성과 지상국의 스마우그-티(Smaug-T)와 엘이에이(LEA)를 이용한 양자 내성 암호화 통신 프로그램(Program)\n: 컴퓨터프로그램저작물>시스템프로그램>데이타통신 / 2025년 01월 31일 등록",
+          "en": "AVR 8비트 마이크로컨트롤러(MCU) 기반 인공위성과 지상국의 스마우그-티(Smaug-T)와 엘이에이(LEA)를 이용한 양자 내성 암호화 통신 프로그램(Program)\n: 컴퓨터프로그램저작물>시스템프로그램>데이타통신 / 2025년 01월 31일 등록"
         }
       ]
-    }
+    },
+    "links": []
   },
   {
     "slug": "walking-into-provinces",
-    "sortDate": "2024-11-30",
+    "sortDate": "2024-01-01",
     "kind": "project",
     "status": "completed",
     "period": "2024",
     "title": {
-      "ko": "보행 경로 데이터 기반 관광 프로젝트 ‘지방으로 걸어들어가기’",
-      "en": "Walking into the Provinces: Tourism with Walking-route Data"
+      "ko": "걸어서 지방 속으로: 산책로 데이터를 기반으로 한 지방 관광 활성화",
+      "en": "‘걸어서 지방 속으로’: Promoting regional tourism with walking-trail data"
     },
     "summary": {
-      "ko": "보행 경로 데이터를 활용해 지역 관광 경험을 설계한 데이터 프로젝트입니다.",
-      "en": "A data project that designed local tourism experiences using walking-route data."
+      "ko": "정혜인·박정식·유가연·최연욱·한철현이 2024 중앙동아리연합회 학술제에 발표한 프로젝트입니다.",
+      "en": "A project by 정혜인, 박정식, 유가연, 최연욱, and 한철현, presented at the 2024 중앙동아리연합회 학술제."
     },
     "featured": false,
     "tags": [
       "data-science",
       "tourism",
-      "planning"
-    ]
+      "planning",
+      "khu",
+      "presentation"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "정혜인, 박정식, 유가연, 최연욱, 한철현, (2024), “걸어서 지방 속으로: 산책로 데이터를 기반으로 한 지방 관광 활성화”, 2024 중앙동아리연합회 학술제",
+          "en": "정혜인, 박정식, 유가연, 최연욱, 한철현, (2024), “걸어서 지방 속으로: 산책로 데이터를 기반으로 한 지방 관광 활성화”, 2024 중앙동아리연합회 학술제"
+        }
+      ]
+    },
+    "links": []
   },
   {
     "slug": "club-room-smart-lock",
     "sortDate": "2023-09-17",
     "kind": "project",
     "status": "completed",
-    "period": "2023.05 — 2023.09",
+    "period": "2023.05.17 — 2023.09.17",
     "title": {
-      "ko": "동아리방 출입문 잠금장치",
-      "en": "Club Room Door Lock"
+      "ko": "동아리방 출입문 잠금장치 제작",
+      "en": "Building a club-room door lock"
     },
     "summary": {
       "ko": "4명이 Raspberry Pi와 IoT 기술을 이용해 동아리방 출입문 잠금장치를 제작했습니다.",
@@ -113,21 +150,23 @@
     },
     "featured": false,
     "tags": [
-      "project",
       "raspberry-pi",
       "iot",
-      "hardware"
-    ]
+      "physical-computing",
+      "embedded",
+      "maker"
+    ],
+    "links": []
   },
   {
     "slug": "notion-3d-printer-repair",
     "sortDate": "2023-09-09",
     "kind": "project",
     "status": "completed",
-    "period": "2023.06 — 2023.09",
+    "period": "2023.06.22 — 2023.09.09",
     "title": {
       "ko": "3D 프린터 수리",
-      "en": "3D Printer Repair"
+      "en": "3D printer repair"
     },
     "summary": {
       "ko": "2명이 함께 3D 프린터의 하드웨어 문제를 점검하고 수리했습니다.",
@@ -135,21 +174,22 @@
     },
     "featured": false,
     "tags": [
-      "project",
-      "hardware",
       "3d-printing",
-      "maker"
-    ]
+      "maker",
+      "technical-support",
+      "engineering"
+    ],
+    "links": []
   },
   {
     "slug": "todays-school-lunch",
     "sortDate": "2022-09-12",
     "kind": "project",
     "status": "completed",
-    "period": "2022.09",
+    "period": "2022.09.08 — 2022.09.12",
     "title": {
       "ko": "오늘의 급식",
-      "en": "Today's School Lunch"
+      "en": "Today's school lunch"
     },
     "summary": {
       "ko": "Python·Flask·HTML로 학교 급식 정보를 제공하는 웹 서비스를 개발했습니다.",
@@ -157,45 +197,48 @@
     },
     "featured": false,
     "tags": [
-      "project",
       "python",
-      "flask",
+      "web",
       "html",
-      "web"
-    ]
+      "programming",
+      "flask"
+    ],
+    "links": []
   },
   {
     "slug": "orbital-diagram-generator",
     "sortDate": "2022-07-28",
     "kind": "project",
     "status": "completed",
-    "period": "2022.07",
+    "period": "2022.07.28",
     "title": {
       "ko": "Orbital Diagram Generator",
       "en": "Orbital Diagram Generator"
     },
     "summary": {
-      "ko": "Python과 Matplotlib로 원자 오비탈 다이어그램을 생성하는 프로그램을 개발했습니다.",
-      "en": "Developed a Python and Matplotlib program that generates atomic orbital diagrams."
+      "ko": "Python과 Matplotlib로 원자의 전자 배치를 구하고 Orbital Diagram을 그리는 프로그램을 제작했습니다.",
+      "en": "Built a Python and Matplotlib program to determine electron configurations and draw orbital diagrams."
     },
     "featured": false,
     "tags": [
-      "project",
       "python",
-      "matplotlib",
+      "visualization",
       "chemistry",
-      "visualization"
-    ]
+      "programming",
+      "matplotlib",
+      "electron-configuration"
+    ],
+    "links": []
   },
   {
     "slug": "habituation-neural-network-project",
     "sortDate": "2021-12-22",
     "kind": "project",
     "status": "completed",
-    "period": "2021.10 — 2021.12",
+    "period": "2021.10.14 — 2021.12.22",
     "title": {
-      "ko": "인공신경망의 습관화 AI",
-      "en": "Habituation AI with an Artificial Neural Network"
+      "ko": "인공신경망의 습관화 AI 제작",
+      "en": "Developing habituation AI with an artificial neural network"
     },
     "summary": {
       "ko": "3명이 Python·생물학·인공지능을 결합해 습관화 행동을 모사하는 프로젝트를 수행했습니다.",
@@ -203,22 +246,25 @@
     },
     "featured": false,
     "tags": [
-      "project",
       "python",
       "biology",
       "ai",
-      "high-school"
-    ]
+      "programming",
+      "neural-networks",
+      "habituation",
+      "machine-learning"
+    ],
+    "links": []
   },
   {
     "slug": "mulriege-mulligi",
     "sortDate": "2021-12-08",
     "kind": "project",
     "status": "completed",
-    "period": "2021.08 — 2021.12",
+    "period": "2021.08.23 — 2021.12.08",
     "title": {
       "ko": "물리에게 물리기",
-      "en": "Mulriege Mulligi"
+      "en": "‘물리에게 물리기’: A physics-learning system"
     },
     "summary": {
       "ko": "3명이 HTML·JavaScript·Android Java를 활용해 물리 학습을 돕는 전산교육시스템을 개발했습니다.",
@@ -226,135 +272,157 @@
     },
     "featured": false,
     "tags": [
-      "project",
       "education",
       "physics",
       "html",
       "javascript",
-      "android"
-    ]
+      "android",
+      "programming"
+    ],
+    "links": []
   },
   {
     "slug": "reusable-multi-bookmark",
-    "sortDate": "2021-12-01",
+    "sortDate": "2021-01-01",
     "kind": "project",
     "status": "completed",
     "period": "2021",
     "title": {
-      "ko": "재사용 가능한 다중 책갈피",
-      "en": "Reusable Multi-bookmark"
+      "ko": "다회용 멀티 책갈피",
+      "en": "Reusable multi-bookmark"
     },
     "summary": {
-      "ko": "여러 페이지를 동시에 표시하면서 반복 사용할 수 있는 책갈피를 설계·제작했습니다.",
-      "en": "Designed and built a reusable bookmark that can mark several pages at once."
+      "ko": "충남과학고등학교 2021 나도 이공계 CEO 프로젝트 챌린지에서 발표한 책갈피 아이디어입니다.",
+      "en": "A bookmark idea presented at the school’s 2021 나도 이공계 CEO 프로젝트 챌린지."
     },
     "featured": false,
     "tags": [
-      "project",
       "maker",
-      "product-design",
-      "high-school"
-    ]
+      "entrepreneurship",
+      "cshs"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "박정식, (2021), “다회용 멀티 책갈피”, 충남과학고등학교 2021 나도 이공계 CEO 프로젝트 챌린지.",
+          "en": "박정식, (2021), “다회용 멀티 책갈피”, 충남과학고등학교 2021 나도 이공계 CEO 프로젝트 챌린지."
+        }
+      ]
+    },
+    "links": []
   },
   {
     "slug": "chemical-formula-mass-calculator",
-    "sortDate": "2021-11-01",
+    "sortDate": "2021-01-01",
     "kind": "project",
     "status": "completed",
     "period": "2021",
     "title": {
-      "ko": "C언어 화학식 질량 계산기",
-      "en": "Chemical Formula Mass Calculator in C"
+      "ko": "C언어를 활용한 화학식량 계산기 제작",
+      "en": "A formula-mass calculator in C"
     },
     "summary": {
-      "ko": "입력한 화학식을 해석해 분자량을 계산하는 C 프로그램을 제작했습니다.",
-      "en": "Built a C program that parses a chemical formula and calculates its molecular mass."
+      "ko": "화학식을 입력받아 화학식량을 구하는 C 프로그램을 제작했습니다.",
+      "en": "Built a C program that takes a chemical formula and calculates its formula mass."
     },
     "featured": false,
     "tags": [
-      "project",
       "c",
       "chemistry",
-      "parser",
-      "high-school"
+      "text-processing",
+      "programming",
+      "cshs"
     ],
-    "links": [
-      {
-        "label": {
-          "ko": "프로젝트 기록",
-          "en": "Project note"
-        },
-        "href": "https://blog.naver.com/oriisme/222916104260"
-      }
-    ]
+    "links": [],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "박정식, (2021), \"C언어를 활용한 화학식량 계산기 제작\", 충남과학고등학교 화학 자율주제연구활동.",
+          "en": "박정식, (2021), \"C언어를 활용한 화학식량 계산기 제작\", 충남과학고등학교 화학 자율주제연구활동."
+        }
+      ]
+    }
   },
   {
     "slug": "hearing-substitution-device",
-    "sortDate": "2021-10-31",
+    "sortDate": "2021-01-01",
     "kind": "project",
     "status": "completed",
     "period": "2021",
     "title": {
-      "ko": "SVD·Arduino 기반 청각 대체 보조기기",
-      "en": "Hearing-substitution Assistive Device with SVD and Arduino"
+      "ko": "SVD 알고리즘을 활용한 청각 대체 보조기구 개발",
+      "en": "A hearing-substitution assistive device using SVD"
     },
     "summary": {
-      "ko": "소리를 다른 감각 정보로 전달하기 위한 보조기기를 SVD와 Arduino를 활용해 설계·제작했습니다.",
-      "en": "Designed and built an assistive device using SVD and Arduino to convey sound through alternative sensory information."
+      "ko": "아두이노 사운드 센서와 SVD로 소리의 발생 여부와 위치를 알려주는 보조기구를 연구했습니다.",
+      "en": "Studied an assistive device using Arduino sound sensors and SVD to indicate sound occurrence and location."
     },
     "featured": false,
     "tags": [
       "assistive-technology",
       "arduino",
       "maker",
-      "mathematics"
+      "mathematics",
+      "physical-computing",
+      "svd",
+      "linear-algebra",
+      "acoustics"
     ],
     "detail": {
       "outcomes": [
         {
-          "ko": "특이값 분해(SVD)를 이용한 청각 대체 정보 표현 연구",
-          "en": "Studied sensory-substitution representation using singular value decomposition"
-        },
-        {
-          "ko": "Arduino 기반 청각 대체 보조기기 제작",
-          "en": "Built an Arduino-based hearing-substitution assistive device"
+          "ko": "박정식, 신원준, 한지훈, (2021), \"SVD 알고리즘을 활용한 청각 대체 보조기구 개발\", 영재교육진흥원 2020 과학영재창의연구(R&E) 성과자료집, 357.",
+          "en": "박정식, 신원준, 한지훈, (2021), \"SVD 알고리즘을 활용한 청각 대체 보조기구 개발\", 영재교육진흥원 2020 과학영재창의연구(R&E) 성과자료집, 357."
         }
       ]
-    }
+    },
+    "links": []
   },
   {
     "slug": "physics-achievement-assessment",
-    "sortDate": "2021-10-15",
+    "sortDate": "2021-01-01",
     "kind": "project",
     "status": "completed",
     "period": "2021",
     "title": {
-      "ko": "오답을 고려한 물리 성취도 평가 프로그램",
-      "en": "Physics Achievement Assessment Considering Wrong Answers"
+      "ko": "오답 문제를 고려한 물리학 성취도 평가 프로그램 제작",
+      "en": "A physics assessment program that accounts for incorrect answers"
     },
     "summary": {
-      "ko": "정답뿐 아니라 오답의 유형을 반영해 물리 개념 성취도를 평가하는 프로그램을 만들었습니다.",
-      "en": "Built a program that evaluates physics concept mastery using both correct answers and error types."
+      "ko": "선생님의 요청으로 교수연구에 참여해 소프트웨어 제작을 맡았습니다.",
+      "en": "Participated in a teacher's research project and was responsible for developing the software."
     },
     "featured": false,
     "tags": [
-      "project",
       "education",
       "assessment",
       "physics",
-      "software",
-      "high-school"
-    ]
+      "programming",
+      "cshs"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "박정식, 강유찬, 지원구, (2021), “오답 문제를 고려한 물리학 성취도 평가 프로그램 제작”, 충남과학고등학교.",
+          "en": "박정식, 강유찬, 지원구, (2021), “오답 문제를 고려한 물리학 성취도 평가 프로그램 제작”, 충남과학고등학교."
+        }
+      ],
+      "role": {
+        "ko": "선생님의 요청으로 교수연구에 참여해 소프트웨어 제작을 맡았습니다.",
+        "en": "Participated in a teacher's research project and was responsible for developing the software."
+      }
+    },
+    "links": []
   },
   {
     "slug": "kakao-bot-code-generator",
-    "sortDate": "2020-12-31",
+    "sortDate": "",
     "kind": "project",
     "status": "completed",
-    "period": "Before 2021",
+    "period": "<<내용필요: 제작 시기>>",
     "title": {
-      "ko": "카카오톡 봇 코드 생성기",
-      "en": "KakaoTalk Bot Code Generator"
+      "ko": "카카오톡 봇 소스코드 생성기",
+      "en": "KakaoTalk bot source-code generator"
     },
     "summary": {
       "ko": "카카오톡 봇 제작에 필요한 코드를 생성하는 도구를 개발했습니다.",
@@ -362,63 +430,66 @@
     },
     "featured": false,
     "tags": [
-      "project",
-      "software",
       "automation",
-      "chatbot"
-    ]
+      "chatbot",
+      "kakaotalk",
+      "code-generation",
+      "yangsa-soft"
+    ],
+    "links": []
   },
   {
     "slug": "text-changer",
-    "sortDate": "2020-12-30",
+    "sortDate": "",
     "kind": "project",
     "status": "completed",
-    "period": "Before 2021",
+    "period": "<<내용필요: 제작 시기>>",
     "title": {
       "ko": "Text Changer",
       "en": "Text Changer"
     },
     "summary": {
-      "ko": "문자열을 정해진 규칙에 따라 변환하는 유틸리티를 개발했습니다.",
-      "en": "Developed a utility that transforms text according to configurable rules."
+      "ko": "양사 소프트에서 제작한 Text Changer입니다.",
+      "en": "Text Changer, developed at 양사 소프트."
     },
     "featured": false,
     "tags": [
-      "project",
-      "software",
-      "text-processing"
-    ]
+      "text-processing",
+      "programming",
+      "yangsa-soft"
+    ],
+    "links": []
   },
   {
     "slug": "the-counter",
-    "sortDate": "2020-12-29",
+    "sortDate": "",
     "kind": "project",
     "status": "completed",
-    "period": "Before 2021",
+    "period": "<<내용필요: 제작 시기>>",
     "title": {
       "ko": "The Counter",
       "en": "The Counter"
     },
     "summary": {
-      "ko": "간단한 수치 집계와 기록을 위한 카운터 도구를 개발했습니다.",
-      "en": "Developed a small counter utility for tallying and recording values."
+      "ko": "양사 소프트에서 제작한 The Counter입니다.",
+      "en": "The Counter, developed at 양사 소프트."
     },
     "featured": false,
     "tags": [
-      "project",
-      "software",
-      "utility"
-    ]
+      "programming",
+      "yangsa-soft"
+    ],
+    "links": []
   },
   {
     "slug": "android-desk-clock",
-    "sortDate": "2020-12-28",
+    "sortDate": "",
     "kind": "project",
     "status": "completed",
-    "period": "Before 2021",
+    "period": "<<내용필요: 제작 시기>>",
     "title": {
       "ko": "탁상시계 Android 앱",
-      "en": "Desk Clock Android App"
+      "en": "Android desk-clock app"
     },
     "summary": {
       "ko": "탁상시계로 사용할 수 있는 Android 애플리케이션을 개발했습니다.",
@@ -426,55 +497,244 @@
     },
     "featured": false,
     "tags": [
-      "project",
       "android",
-      "mobile",
-      "software"
-    ]
+      "programming",
+      "yangsa-soft"
+    ],
+    "links": []
   },
   {
     "slug": "god-study-helper",
-    "sortDate": "2020-12-27",
+    "sortDate": "2018-10-29",
     "kind": "project",
     "status": "completed",
-    "period": "Before 2021",
+    "period": "2018.10.29",
     "title": {
-      "ko": "God Study Helper 해커톤 프로젝트",
-      "en": "God Study Helper Hackathon Project"
+      "ko": "God Study Helper",
+      "en": "God Study Helper"
     },
     "summary": {
-      "ko": "학습 보조 아이디어를 구현한 해커톤 프로젝트입니다.",
-      "en": "A hackathon project implementing a study-assistance idea."
+      "ko": "제1회 충남꿈나무코딩에듀톤에서 제작한 Android 앱으로 우수 작품제작 부문 장영실상을 받았습니다.",
+      "en": "An Android app developed at 제1회 충남꿈나무코딩에듀톤, receiving 장영실상 in the 우수 작품제작 category."
     },
     "featured": false,
     "tags": [
-      "project",
-      "hackathon",
+      "android",
       "education",
-      "software"
-    ]
+      "hackathon",
+      "programming",
+      "yangsa-soft"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "안드로이드 앱 'God Study Helper' 제작. 현장에서 프로그램을 제작하는 경진대회. 기획서로 선발된 예선 통과자를 대상으로 우수 아이디어 부문과 우수 작품제작 부문으로 나누어 시상했으며, 이 중 우수 작품제작 부문의 상을 수상했습니다.",
+          "en": "안드로이드 앱 'God Study Helper' 제작. 현장에서 프로그램을 제작하는 경진대회. 기획서로 선발된 예선 통과자를 대상으로 우수 아이디어 부문과 우수 작품제작 부문으로 나누어 시상했으며, 이 중 우수 작품제작 부문의 상을 수상했습니다."
+        }
+      ]
+    },
+    "links": []
   },
   {
     "slug": "cosine-community",
-    "sortDate": "2020-12-15",
+    "sortDate": "2020-01-01",
     "kind": "project",
     "status": "completed",
     "period": "2020",
     "title": {
-      "ko": "COSINE 온라인 커뮤니티",
-      "en": "COSINE Online Community"
+      "ko": "COSINE 커뮤니티",
+      "en": "COSINE community"
     },
     "summary": {
-      "ko": "학생 간 정보 공유와 소통을 위한 온라인 커뮤니티를 기획·개발했습니다.",
-      "en": "Planned and developed an online community for student information sharing and communication."
+      "ko": "충남과학고등학교 2020 기술창업대회에 발표한 커뮤니티 프로젝트입니다.",
+      "en": "A community project presented at a technology-startup competition at Chung-Nam Science High School in 2020."
     },
     "featured": false,
     "tags": [
-      "project",
       "web",
-      "community",
-      "software",
-      "high-school"
-    ]
+      "entrepreneurship",
+      "cshs"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "박정식, (2020), \"COSINE 커뮤니티\", 충남과학고등학교 2020 기술창업대회.",
+          "en": "박정식, (2020), \"COSINE 커뮤니티\", 충남과학고등학교 2020 기술창업대회."
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "hearing-substitution-arduino",
+    "sortDate": "2021-01-01",
+    "kind": "project",
+    "status": "completed",
+    "period": "2021",
+    "title": {
+      "ko": "아두이노를 활용한 청각 대체 보조기구 개발",
+      "en": "A hearing-substitution assistive device using Arduino"
+    },
+    "summary": {
+      "ko": "아두이노와 사운드 센서를 이용해 청각적 자극을 촉각으로 바꾸어 알려주는 보조기구를 연구했습니다.",
+      "en": "Studied an assistive device using Arduino and sound sensors to convey auditory stimuli through touch."
+    },
+    "featured": false,
+    "tags": [
+      "assistive-technology",
+      "arduino",
+      "maker",
+      "physical-computing",
+      "acoustics",
+      "cshs"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "[R&E] 박정식, 신원준, 한지훈, 박정호, (2021), \"아두이노를 활용한 청각 대체 보조기구 개발\", 충남과학고등학교 창벽, 21, 1, 119-126.",
+          "en": "[R&E] 박정식, 신원준, 한지훈, 박정호, (2021), \"아두이노를 활용한 청각 대체 보조기구 개발\", 충남과학고등학교 창벽, 21, 1, 119-126."
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "quadratic-equation-calculator",
+    "sortDate": "2021-01-01",
+    "kind": "project",
+    "status": "completed",
+    "period": "2021",
+    "title": {
+      "ko": "2차방정식 계산기",
+      "en": "Quadratic equation calculator"
+    },
+    "summary": {
+      "ko": "2021년 #include 교지작성 활동에서 제작한 프로그램입니다.",
+      "en": "A program developed for the #include club's 2021 journal activities."
+    },
+    "featured": false,
+    "tags": [
+      "mathematics",
+      "programming",
+      "include",
+      "cshs"
+    ],
+    "links": []
+  },
+  {
+    "slug": "web-search-helper-hackathon-2021",
+    "sortDate": "2021-11-26",
+    "kind": "project",
+    "status": "completed",
+    "period": "2021.11.26",
+    "title": {
+      "ko": "웹 검색 도우미 (소프트웨어교육한마당)",
+      "en": "Web search helper (소프트웨어교육한마당)"
+    },
+    "summary": {
+      "ko": "구글·네이버·다음 검색 결과를 모아 유용한 정보를 골라 보여주는 프로그램을 해커톤에서 제작했습니다.",
+      "en": "Built a program at a hackathon to collect search results from Google, NAVER, and 다음 and select useful information."
+    },
+    "featured": false,
+    "tags": [
+      "web",
+      "programming",
+      "web-crawling",
+      "hackathon"
+    ],
+    "links": []
+  },
+  {
+    "slug": "search-helper-python-camp",
+    "sortDate": "2022-01-02",
+    "kind": "project",
+    "status": "completed",
+    "period": "2021.12.12 — 2022.01.02",
+    "title": {
+      "ko": "검색 도우미 (파이썬 신병 교육대 1기)",
+      "en": "Search helper (파이썬 신병 교육대 1기)"
+    },
+    "summary": {
+      "ko": "파이썬 활용 프로그램을 개발·발표하고 ‘검색 도우미’ 제작으로 웹크롤링 특기를 이수했습니다.",
+      "en": "Developed and presented a Python program and completed the web-crawling specialization by building ‘검색 도우미’."
+    },
+    "featured": false,
+    "tags": [
+      "python",
+      "web-crawling",
+      "web",
+      "programming"
+    ],
+    "links": []
+  },
+  {
+    "slug": "transistor-logic-circuit",
+    "sortDate": "",
+    "kind": "project",
+    "status": "completed",
+    "period": "<<내용필요: 제작 시기>>",
+    "title": {
+      "ko": "트렌지스터를 활용한 논리회로 제작",
+      "en": "Building logic circuits with transistors"
+    },
+    "summary": {
+      "ko": "무한상상 메이킹동아리에서 논리회로 제작 프로젝트에 참여했습니다.",
+      "en": "Participated in a logic-circuit project in the school making club 무한상상."
+    },
+    "featured": false,
+    "tags": [
+      "physics",
+      "digital-logic",
+      "maker",
+      "physical-computing",
+      "muhan-sangsang"
+    ],
+    "links": []
+  },
+  {
+    "slug": "unit-recognition-ai",
+    "sortDate": "",
+    "kind": "project",
+    "status": "completed",
+    "period": "<<내용필요: 제작 시기>>",
+    "title": {
+      "ko": "단위 인식 인공지능",
+      "en": "Unit-recognition AI"
+    },
+    "summary": {
+      "ko": "‘텐서플로우로 구현하는 인공지능 캠프’를 이수한 뒤 추가 프로젝트로 제작했습니다.",
+      "en": "Built an additional project after completing the camp 텐서플로우로 구현하는 인공지능 캠프."
+    },
+    "featured": false,
+    "tags": [
+      "ai",
+      "machine-learning",
+      "tensorflow"
+    ],
+    "links": []
+  },
+  {
+    "slug": "cocobot-kakao-version",
+    "sortDate": "",
+    "kind": "project",
+    "status": "completed",
+    "period": "<<내용필요: 제작 시기>>",
+    "title": {
+      "ko": "광고 자동 감지 ‘코코봇’ 카카오톡 버전 개발",
+      "en": "‘코코봇’: A KakaoTalk bot for automatic ad detection"
+    },
+    "summary": {
+      "ko": "초기 버전 제작, 초기 데이터베이스 제작과 지속적인 데이터베이스 업데이트에 참여했습니다.",
+      "en": "Participated in the initial version, initial database, and continuing database updates of the KakaoTalk ad-detection bot."
+    },
+    "featured": false,
+    "tags": [
+      "programming",
+      "automation",
+      "kakaotalk",
+      "database",
+      "chatbot"
+    ],
+    "links": []
   }
 ]

@@ -1,24 +1,63 @@
 {
   "groups": [
     {
-      "title": { "ko": "프로그래밍", "en": "Programming" },
-      "description": { "ko": "연구 구현과 자동화에 활용한 언어", "en": "Languages used for research implementation and automation" },
-      "items": ["Python", "C / C++", "TypeScript / JavaScript", "HTML / CSS", "Kotlin / Android Java", "MATLAB", "SQL"]
+      "title": {
+        "ko": "프로그래밍 언어",
+        "en": "Programming Languages"
+      },
+      "description": {
+        "ko": "C·C++·MATLAB",
+        "en": "C, C++, and MATLAB"
+      },
+      "items": [
+        "C",
+        "C++",
+        "MATLAB"
+      ]
     },
     {
-      "title": { "ko": "시스템·보안", "en": "Systems & Security" },
-      "description": { "ko": "시스템을 관찰하고 실험하기 위한 기반", "en": "Foundations for observing and testing systems" },
-      "items": ["Linux", "Git", "Network Analysis", "Cryptography", "Arduino / Physical Computing"]
+      "title": {
+        "ko": "웹·데이터 분석",
+        "en": "Web and Data Analysis"
+      },
+      "description": {
+        "ko": "웹 개발과 AI·데이터 분석에 사용하는 언어 및 도구",
+        "en": "Languages and tools for web development, AI, and data analysis"
+      },
+      "items": [
+        "HTML",
+        "JavaScript",
+        "Python (Flask, AI, Data Analysis)"
+      ]
     },
     {
-      "title": { "ko": "연구", "en": "Research" },
-      "description": { "ko": "재현 가능한 분석과 설명을 위한 방법", "en": "Methods for reproducible analysis and communication" },
-      "items": ["Benchmarking", "Statistical Modeling", "Experiment Design", "Technical Writing"]
+      "title": {
+        "ko": "모바일·피지컬 컴퓨팅",
+        "en": "Mobile and Physical Computing"
+      },
+      "description": {
+        "ko": "안드로이드와 피지컬 컴퓨팅 관련 기술",
+        "en": "Android and physical computing technologies"
+      },
+      "items": [
+        "Kotlin (Android)",
+        "Arduino",
+        "Physical Computing"
+      ]
     },
     {
-      "title": { "ko": "교육·운영", "en": "Education & Operations" },
-      "description": { "ko": "사람과 조직이 함께 학습하도록 만드는 도구", "en": "Tools for helping people and organizations learn together" },
-      "items": ["Curriculum Design", "Mentoring", "Event Operations", "Content Planning", "Bass Guitar", "Composition / Sound Design"]
+      "title": {
+        "ko": "음악·사운드",
+        "en": "Music and Sound"
+      },
+      "description": {
+        "ko": "음악과 사운드 디자인",
+        "en": "Music and sound design"
+      },
+      "items": [
+        "Music",
+        "Sound Design"
+      ]
     }
   ]
 }

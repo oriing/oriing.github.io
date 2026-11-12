@@ -1,0 +1,2717 @@
+[
+  {
+    "slug": "khu-course-05fa7059f7764355ad1fddcab56bbcc2",
+    "sortDate": "2026-01-01",
+    "kind": "completion",
+    "status": "completed",
+    "period": "2026-여름",
+    "title": {
+      "ko": "미분방정식",
+      "en": "미분방정식"
+    },
+    "summary": {
+      "ko": "경희대학교 2026-여름 교과목. 3학점, 전공기초.",
+      "en": "Kyung Hee University coursework, Summer 2026. Credits: 3; foundational major course."
+    },
+    "featured": false,
+    "tags": [
+      "mathematics",
+      "coursework",
+      "academic-credit",
+      "differential-equations",
+      "khu"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "학점: 3",
+          "en": "Credits: 3"
+        },
+        {
+          "ko": "교강사명: 박지연",
+          "en": "Instructor: 박지연"
+        },
+        {
+          "ko": "이수구분: 전공기초",
+          "en": "Course category: 전공기초"
+        },
+        {
+          "ko": "비고: 응용수학과, 계절학기",
+          "en": "Note: 응용수학과, 계절학기"
+        },
+        {
+          "ko": "학기: 5학기: 2026-여름",
+          "en": "Semester: 5학기: 2026-여름"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "khu-course-37971116847480768aa1ce421b62ddd0",
+    "sortDate": "2026-01-01",
+    "kind": "completion",
+    "status": "completed",
+    "period": "2026-여름",
+    "title": {
+      "ko": "승마",
+      "en": "승마"
+    },
+    "summary": {
+      "ko": "경희대학교 2026-여름 교과목. 1학점, 자유이수.",
+      "en": "Kyung Hee University coursework, Summer 2026. Credits: 1; free elective."
+    },
+    "featured": false,
+    "tags": [
+      "sports",
+      "coursework",
+      "academic-credit",
+      "khu"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "학점: 1",
+          "en": "Credits: 1"
+        },
+        {
+          "ko": "교강사명: 강창균·고인태",
+          "en": "Instructor: 강창균·고인태"
+        },
+        {
+          "ko": "이수구분: 자유이수",
+          "en": "Course category: 자유이수"
+        },
+        {
+          "ko": "비고: 계절학기",
+          "en": "Note: 계절학기"
+        },
+        {
+          "ko": "학기: 5학기: 2026-여름",
+          "en": "Semester: 5학기: 2026-여름"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "khu-course-379711168474805dac18c13706fb506e",
+    "sortDate": "2026-01-01",
+    "kind": "completion",
+    "status": "completed",
+    "period": "2026-여름",
+    "title": {
+      "ko": "끌리는사람들의대화의기술(학점교류)",
+      "en": "끌리는사람들의대화의기술(학점교류)"
+    },
+    "summary": {
+      "ko": "경희대학교 2026-여름 교과목. 3학점, 일반선택.",
+      "en": "Kyung Hee University coursework, Summer 2026. Credits: 3; general elective."
+    },
+    "featured": false,
+    "tags": [
+      "coursework",
+      "academic-credit",
+      "communication",
+      "khu"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "학점: 3",
+          "en": "Credits: 3"
+        },
+        {
+          "ko": "교강사명: 양내윤",
+          "en": "Instructor: 양내윤"
+        },
+        {
+          "ko": "이수구분: 일반선택",
+          "en": "Course category: 일반선택"
+        },
+        {
+          "ko": "비고: 군e러닝(한국열린사이버대학교)",
+          "en": "Note: 군e러닝(한국열린사이버대학교)"
+        },
+        {
+          "ko": "학기: 5학기: 2026-여름",
+          "en": "Semester: 5학기: 2026-여름"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "credit-bank-3357111684748021a022f3a6d3ad7639",
+    "sortDate": "2026-01-01",
+    "kind": "completion",
+    "status": "completed",
+    "period": "2026-1",
+    "title": {
+      "ko": "학점은행제: 데이터베이스",
+      "en": "학점은행제: 데이터베이스"
+    },
+    "summary": {
+      "ko": "평가학습인정으로 3학점을 인정받았습니다. 인정기관: 한국기술교육대학교 부설 원격평생교육원.",
+      "en": "Received 3 credits through accredited learning. Recognizing institution: 한국기술교육대학교 부설 원격평생교육원."
+    },
+    "featured": false,
+    "tags": [
+      "database",
+      "coursework",
+      "academic-credit"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "분류: 전공필수",
+          "en": "Category: 전공필수"
+        },
+        {
+          "ko": "인정기관: 한국기술교육대학교 부설 원격평생교육원",
+          "en": "Recognizing institution: 한국기술교육대학교 부설 원격평생교육원"
+        },
+        {
+          "ko": "인정유형: 평가학습인정",
+          "en": "Credit-recognition method: 평가학습인정"
+        },
+        {
+          "ko": "학점: 3",
+          "en": "Credits: 3"
+        },
+        {
+          "ko": "과목명: 데이터베이스",
+          "en": "Course: 데이터베이스"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "credit-bank-2d171116847480b7807ce360f53b8755",
+    "sortDate": "2026-01-01",
+    "kind": "completion",
+    "status": "completed",
+    "period": "2026-1",
+    "title": {
+      "ko": "학점은행제: 멀티미디어개론",
+      "en": "학점은행제: 멀티미디어개론"
+    },
+    "summary": {
+      "ko": "평가학습인정으로 3학점을 인정받았습니다. 인정기관: 배움사이버평생교육원.",
+      "en": "Received 3 credits through accredited learning. Recognizing institution: 배움사이버평생교육원."
+    },
+    "featured": false,
+    "tags": [
+      "multimedia",
+      "coursework",
+      "academic-credit"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "분류: 전공필수",
+          "en": "Category: 전공필수"
+        },
+        {
+          "ko": "인정기관: 배움사이버평생교육원",
+          "en": "Recognizing institution: 배움사이버평생교육원"
+        },
+        {
+          "ko": "인정유형: 평가학습인정",
+          "en": "Credit-recognition method: 평가학습인정"
+        },
+        {
+          "ko": "학점: 3",
+          "en": "Credits: 3"
+        },
+        {
+          "ko": "과목명: 멀티미디어개론",
+          "en": "Course: 멀티미디어개론"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "credit-bank-3357111684748031a5a5ec92cf5c5a29",
+    "sortDate": "2026-01-01",
+    "kind": "completion",
+    "status": "completed",
+    "period": "2026-1",
+    "title": {
+      "ko": "학점은행제: 컴퓨터의이해",
+      "en": "학점은행제: 컴퓨터의이해"
+    },
+    "summary": {
+      "ko": "독학학위제으로 4학점을 인정받았습니다. 인정기관: 국가평생교육진흥원.",
+      "en": "Received 4 credits through self-study degree examinations. Recognizing institution: 국가평생교육진흥원."
+    },
+    "featured": false,
+    "tags": [
+      "computer-science",
+      "coursework",
+      "academic-credit"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "분류: 전공필수",
+          "en": "Category: 전공필수"
+        },
+        {
+          "ko": "인정기관: 국가평생교육진흥원",
+          "en": "Recognizing institution: 국가평생교육진흥원"
+        },
+        {
+          "ko": "인정유형: 독학학위제",
+          "en": "Credit-recognition method: 독학학위제"
+        },
+        {
+          "ko": "학점: 4",
+          "en": "Credits: 4"
+        },
+        {
+          "ko": "과목명: 컴퓨터의이해",
+          "en": "Course: 컴퓨터의이해"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "credit-bank-3c47111684748022b7e2d65b2c3d3c19",
+    "sortDate": "2026-01-01",
+    "kind": "completion",
+    "status": "completed",
+    "period": "2026-1",
+    "title": {
+      "ko": "학점은행제: C프로그래밍",
+      "en": "학점은행제: C프로그래밍"
+    },
+    "summary": {
+      "ko": "독학학위제으로 5학점을 인정받았습니다. 인정기관: 국가평생교육진흥원.",
+      "en": "Received 5 credits through self-study degree examinations. Recognizing institution: 국가평생교육진흥원."
+    },
+    "featured": false,
+    "tags": [
+      "c",
+      "programming",
+      "coursework",
+      "academic-credit"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "분류: 전공필수",
+          "en": "Category: 전공필수"
+        },
+        {
+          "ko": "인정기관: 국가평생교육진흥원",
+          "en": "Recognizing institution: 국가평생교육진흥원"
+        },
+        {
+          "ko": "인정유형: 독학학위제",
+          "en": "Credit-recognition method: 독학학위제"
+        },
+        {
+          "ko": "학점: 5",
+          "en": "Credits: 5"
+        },
+        {
+          "ko": "과목명: C프로그래밍",
+          "en": "Course: C프로그래밍"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "credit-bank-3357111684748002bb8eed5b208f7f76",
+    "sortDate": "2026-01-01",
+    "kind": "completion",
+    "status": "completed",
+    "period": "2026-1",
+    "title": {
+      "ko": "학점은행제: 인터넷프로그래밍",
+      "en": "학점은행제: 인터넷프로그래밍"
+    },
+    "summary": {
+      "ko": "평가학습인정으로 3학점을 인정받았습니다. 인정기관: 한국기술교육대학교 부설 원격평생교육원.",
+      "en": "Received 3 credits through accredited learning. Recognizing institution: 한국기술교육대학교 부설 원격평생교육원."
+    },
+    "featured": false,
+    "tags": [
+      "web",
+      "programming",
+      "coursework",
+      "academic-credit"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "분류: 전공선택",
+          "en": "Category: 전공선택"
+        },
+        {
+          "ko": "인정기관: 한국기술교육대학교 부설 원격평생교육원",
+          "en": "Recognizing institution: 한국기술교육대학교 부설 원격평생교육원"
+        },
+        {
+          "ko": "인정유형: 평가학습인정",
+          "en": "Credit-recognition method: 평가학습인정"
+        },
+        {
+          "ko": "학점: 3",
+          "en": "Credits: 3"
+        },
+        {
+          "ko": "과목명: 인터넷프로그래밍",
+          "en": "Course: 인터넷프로그래밍"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "credit-bank-2d171116847480c2b31dc2ec6590cb37",
+    "sortDate": "2026-01-01",
+    "kind": "completion",
+    "status": "completed",
+    "period": "2026-1",
+    "title": {
+      "ko": "학점은행제: 경제학개론",
+      "en": "학점은행제: 경제학개론"
+    },
+    "summary": {
+      "ko": "평가학습인정으로 3학점을 인정받았습니다. 인정기관: 배움사이버평생교육원.",
+      "en": "Received 3 credits through accredited learning. Recognizing institution: 배움사이버평생교육원."
+    },
+    "featured": false,
+    "tags": [
+      "economics",
+      "coursework",
+      "academic-credit"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "분류: 교양",
+          "en": "Category: 교양"
+        },
+        {
+          "ko": "인정기관: 배움사이버평생교육원",
+          "en": "Recognizing institution: 배움사이버평생교육원"
+        },
+        {
+          "ko": "인정유형: 평가학습인정",
+          "en": "Credit-recognition method: 평가학습인정"
+        },
+        {
+          "ko": "학점: 3",
+          "en": "Credits: 3"
+        },
+        {
+          "ko": "과목명: 경제학개론",
+          "en": "Course: 경제학개론"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "credit-bank-2d171116847480eab398d573bacbaeca",
+    "sortDate": "2026-01-01",
+    "kind": "completion",
+    "status": "completed",
+    "period": "2026-1",
+    "title": {
+      "ko": "학점은행제: 컴퓨터개론",
+      "en": "학점은행제: 컴퓨터개론"
+    },
+    "summary": {
+      "ko": "평가학습인정으로 3학점을 인정받았습니다. 인정기관: 배움사이버평생교육원.",
+      "en": "Received 3 credits through accredited learning. Recognizing institution: 배움사이버평생교육원."
+    },
+    "featured": false,
+    "tags": [
+      "computer-science",
+      "coursework",
+      "academic-credit"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "분류: 교양",
+          "en": "Category: 교양"
+        },
+        {
+          "ko": "인정기관: 배움사이버평생교육원",
+          "en": "Recognizing institution: 배움사이버평생교육원"
+        },
+        {
+          "ko": "인정유형: 평가학습인정",
+          "en": "Credit-recognition method: 평가학습인정"
+        },
+        {
+          "ko": "학점: 3",
+          "en": "Credits: 3"
+        },
+        {
+          "ko": "과목명: 컴퓨터개론",
+          "en": "Course: 컴퓨터개론"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "credit-bank-335711168474808ba431d3909d429752",
+    "sortDate": "2026-01-01",
+    "kind": "completion",
+    "status": "completed",
+    "period": "2026-1",
+    "title": {
+      "ko": "학점은행제: 국사",
+      "en": "학점은행제: 국사"
+    },
+    "summary": {
+      "ko": "독학학위제으로 4학점을 인정받았습니다. 인정기관: 국가평생교육진흥원.",
+      "en": "Received 4 credits through self-study degree examinations. Recognizing institution: 국가평생교육진흥원."
+    },
+    "featured": false,
+    "tags": [
+      "history",
+      "coursework",
+      "academic-credit"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "분류: 교양",
+          "en": "Category: 교양"
+        },
+        {
+          "ko": "인정기관: 국가평생교육진흥원",
+          "en": "Recognizing institution: 국가평생교육진흥원"
+        },
+        {
+          "ko": "인정유형: 독학학위제",
+          "en": "Credit-recognition method: 독학학위제"
+        },
+        {
+          "ko": "학점: 4",
+          "en": "Credits: 4"
+        },
+        {
+          "ko": "과목명: 국사",
+          "en": "Course: 국사"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "credit-bank-3357111684748089a4a7f9a01ebab9b1",
+    "sortDate": "2026-01-01",
+    "kind": "completion",
+    "status": "completed",
+    "period": "2026-1",
+    "title": {
+      "ko": "학점은행제: 국어",
+      "en": "학점은행제: 국어"
+    },
+    "summary": {
+      "ko": "독학학위제으로 4학점을 인정받았습니다. 인정기관: 국가평생교육진흥원.",
+      "en": "Received 4 credits through self-study degree examinations. Recognizing institution: 국가평생교육진흥원."
+    },
+    "featured": false,
+    "tags": [
+      "korean-language",
+      "coursework",
+      "academic-credit"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "분류: 교양",
+          "en": "Category: 교양"
+        },
+        {
+          "ko": "인정기관: 국가평생교육진흥원",
+          "en": "Recognizing institution: 국가평생교육진흥원"
+        },
+        {
+          "ko": "인정유형: 독학학위제",
+          "en": "Credit-recognition method: 독학학위제"
+        },
+        {
+          "ko": "학점: 4",
+          "en": "Credits: 4"
+        },
+        {
+          "ko": "과목명: 국어",
+          "en": "Course: 국어"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "credit-bank-335711168474809f91cfeb6391b634b7",
+    "sortDate": "2026-01-01",
+    "kind": "completion",
+    "status": "completed",
+    "period": "2026-1",
+    "title": {
+      "ko": "학점은행제: 영어",
+      "en": "학점은행제: 영어"
+    },
+    "summary": {
+      "ko": "독학학위제으로 4학점을 인정받았습니다. 인정기관: 국가평생교육진흥원.",
+      "en": "Received 4 credits through self-study degree examinations. Recognizing institution: 국가평생교육진흥원."
+    },
+    "featured": false,
+    "tags": [
+      "coursework",
+      "academic-credit",
+      "english-language"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "분류: 교양",
+          "en": "Category: 교양"
+        },
+        {
+          "ko": "인정기관: 국가평생교육진흥원",
+          "en": "Recognizing institution: 국가평생교육진흥원"
+        },
+        {
+          "ko": "인정유형: 독학학위제",
+          "en": "Credit-recognition method: 독학학위제"
+        },
+        {
+          "ko": "학점: 4",
+          "en": "Credits: 4"
+        },
+        {
+          "ko": "과목명: 영어",
+          "en": "Course: 영어"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "credit-bank-335711168474802c95efe89bfe87bcda",
+    "sortDate": "2026-01-01",
+    "kind": "completion",
+    "status": "completed",
+    "period": "2026-1",
+    "title": {
+      "ko": "학점은행제: 자연과학의이해",
+      "en": "학점은행제: 자연과학의이해"
+    },
+    "summary": {
+      "ko": "독학학위제으로 4학점을 인정받았습니다. 인정기관: 국가평생교육진흥원.",
+      "en": "Received 4 credits through self-study degree examinations. Recognizing institution: 국가평생교육진흥원."
+    },
+    "featured": false,
+    "tags": [
+      "coursework",
+      "academic-credit",
+      "natural-science"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "분류: 교양",
+          "en": "Category: 교양"
+        },
+        {
+          "ko": "인정기관: 국가평생교육진흥원",
+          "en": "Recognizing institution: 국가평생교육진흥원"
+        },
+        {
+          "ko": "인정유형: 독학학위제",
+          "en": "Credit-recognition method: 독학학위제"
+        },
+        {
+          "ko": "학점: 4",
+          "en": "Credits: 4"
+        },
+        {
+          "ko": "과목명: 자연과학의이해",
+          "en": "Course: 자연과학의이해"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "credit-bank-3357111684748022a354dcaa63c12de5",
+    "sortDate": "2026-01-01",
+    "kind": "completion",
+    "status": "completed",
+    "period": "2026-1",
+    "title": {
+      "ko": "학점은행제: 한의학개론",
+      "en": "학점은행제: 한의학개론"
+    },
+    "summary": {
+      "ko": "평가학습인정으로 3학점을 인정받았습니다. 인정기관: 대구한의대학교(K-MOOC).",
+      "en": "Received 3 credits through accredited learning. Recognizing institution: 대구한의대학교(K-MOOC)."
+    },
+    "featured": false,
+    "tags": [
+      "coursework",
+      "academic-credit",
+      "korean-medicine"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "분류: 일반선택",
+          "en": "Category: 일반선택"
+        },
+        {
+          "ko": "인정기관: 대구한의대학교(K-MOOC)",
+          "en": "Recognizing institution: 대구한의대학교(K-MOOC)"
+        },
+        {
+          "ko": "인정유형: 평가학습인정",
+          "en": "Credit-recognition method: 평가학습인정"
+        },
+        {
+          "ko": "학점: 3",
+          "en": "Credits: 3"
+        },
+        {
+          "ko": "과목명: 한의학개론",
+          "en": "Course: 한의학개론"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "khu-course-19771116847480ab8012edaca256b621",
+    "sortDate": "2025-01-01",
+    "kind": "completion",
+    "status": "completed",
+    "period": "2025-1",
+    "title": {
+      "ko": "알고리즘",
+      "en": "알고리즘"
+    },
+    "summary": {
+      "ko": "경희대학교 2025-1 교과목. 3학점, 전공필수.",
+      "en": "Kyung Hee University coursework, 2025-1. Credits: 3; required major course."
+    },
+    "featured": false,
+    "tags": [
+      "algorithm",
+      "coursework",
+      "academic-credit",
+      "khu"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "학점: 3",
+          "en": "Credits: 3"
+        },
+        {
+          "ko": "교강사명: 박철준",
+          "en": "Instructor: 박철준"
+        },
+        {
+          "ko": "이수구분: 전공필수",
+          "en": "Course category: 전공필수"
+        },
+        {
+          "ko": "학기: 5학기: 2025-1",
+          "en": "Semester: 5학기: 2025-1"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "khu-course-197711168474807280d5ded22c051805",
+    "sortDate": "2025-01-01",
+    "kind": "completion",
+    "status": "completed",
+    "period": "2025-1",
+    "title": {
+      "ko": "운영체제",
+      "en": "운영체제"
+    },
+    "summary": {
+      "ko": "경희대학교 2025-1 교과목. 3학점, 전공필수.",
+      "en": "Kyung Hee University coursework, 2025-1. Credits: 3; required major course."
+    },
+    "featured": false,
+    "tags": [
+      "computer-systems",
+      "coursework",
+      "academic-credit",
+      "operating-systems",
+      "khu"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "학점: 3",
+          "en": "Credits: 3"
+        },
+        {
+          "ko": "교강사명: 김범석",
+          "en": "Instructor: 김범석"
+        },
+        {
+          "ko": "이수구분: 전공필수",
+          "en": "Course category: 전공필수"
+        },
+        {
+          "ko": "학기: 5학기: 2025-1",
+          "en": "Semester: 5학기: 2025-1"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "khu-course-19771116847480cb8bfcd6aaea154e17",
+    "sortDate": "2025-01-01",
+    "kind": "completion",
+    "status": "completed",
+    "period": "2025-1",
+    "title": {
+      "ko": "현대대수학Ⅰ",
+      "en": "현대대수학Ⅰ"
+    },
+    "summary": {
+      "ko": "경희대학교 2025-1 교과목. 3학점, 전공필수.",
+      "en": "Kyung Hee University coursework, 2025-1. Credits: 3; required major course."
+    },
+    "featured": false,
+    "tags": [
+      "mathematics",
+      "coursework",
+      "academic-credit",
+      "abstract-algebra",
+      "khu"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "학점: 3",
+          "en": "Credits: 3"
+        },
+        {
+          "ko": "교강사명: 김정산",
+          "en": "Instructor: 김정산"
+        },
+        {
+          "ko": "이수구분: 전공필수",
+          "en": "Course category: 전공필수"
+        },
+        {
+          "ko": "학기: 5학기: 2025-1",
+          "en": "Semester: 5학기: 2025-1"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "khu-course-19771116847480cf8654dd15ad5d0b42",
+    "sortDate": "2025-01-01",
+    "kind": "completion",
+    "status": "completed",
+    "period": "2025-1",
+    "title": {
+      "ko": "이산수학",
+      "en": "이산수학"
+    },
+    "summary": {
+      "ko": "경희대학교 2025-1 교과목. 3학점, 전공선택.",
+      "en": "Kyung Hee University coursework, 2025-1. Credits: 3; major elective."
+    },
+    "featured": false,
+    "tags": [
+      "mathematics",
+      "coursework",
+      "academic-credit",
+      "discrete-mathematics",
+      "khu"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "학점: 3",
+          "en": "Credits: 3"
+        },
+        {
+          "ko": "교강사명: 김경수",
+          "en": "Instructor: 김경수"
+        },
+        {
+          "ko": "이수구분: 전공선택",
+          "en": "Course category: 전공선택"
+        },
+        {
+          "ko": "학기: 5학기: 2025-1",
+          "en": "Semester: 5학기: 2025-1"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "khu-course-1977111684748095ab44efd4d9b20601",
+    "sortDate": "2025-01-01",
+    "kind": "completion",
+    "status": "completed",
+    "period": "2025-1",
+    "title": {
+      "ko": "한국어학개론",
+      "en": "한국어학개론"
+    },
+    "summary": {
+      "ko": "경희대학교 2025-1 교과목. 3학점, 전공선택.",
+      "en": "Kyung Hee University coursework, 2025-1. Credits: 3; major elective."
+    },
+    "featured": false,
+    "tags": [
+      "korean-language",
+      "linguistics",
+      "coursework",
+      "academic-credit",
+      "khu"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "학점: 3",
+          "en": "Credits: 3"
+        },
+        {
+          "ko": "교강사명: 박정아",
+          "en": "Instructor: 박정아"
+        },
+        {
+          "ko": "이수구분: 전공선택",
+          "en": "Course category: 전공선택"
+        },
+        {
+          "ko": "교원분류: 한국어학",
+          "en": "Teaching-certificate category: 한국어학"
+        },
+        {
+          "ko": "학기: 5학기: 2025-1",
+          "en": "Semester: 5학기: 2025-1"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "khu-course-19771116847480438006c6eeb03bc578",
+    "sortDate": "2025-01-01",
+    "kind": "completion",
+    "status": "completed",
+    "period": "2025-1",
+    "title": {
+      "ko": "언어의이해",
+      "en": "언어의이해"
+    },
+    "summary": {
+      "ko": "경희대학교 2025-1 교과목. 3학점, 전공기초.",
+      "en": "Kyung Hee University coursework, 2025-1. Credits: 3; foundational major course."
+    },
+    "featured": false,
+    "tags": [
+      "linguistics",
+      "coursework",
+      "academic-credit",
+      "khu"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "학점: 3",
+          "en": "Credits: 3"
+        },
+        {
+          "ko": "교강사명: 임우열",
+          "en": "Instructor: 임우열"
+        },
+        {
+          "ko": "이수구분: 전공기초",
+          "en": "Course category: 전공기초"
+        },
+        {
+          "ko": "교원분류: 언어학",
+          "en": "Teaching-certificate category: 언어학"
+        },
+        {
+          "ko": "학기: 5학기: 2025-1",
+          "en": "Semester: 5학기: 2025-1"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "khu-course-19771116847480cea1d5d8988d46e3ea",
+    "sortDate": "2025-01-01",
+    "kind": "completion",
+    "status": "completed",
+    "period": "2025-1",
+    "title": {
+      "ko": "설탕과소금:사소한것들의역사",
+      "en": "설탕과소금:사소한것들의역사"
+    },
+    "summary": {
+      "ko": "경희대학교 2025-1 교과목. 3학점, 배분이수.",
+      "en": "Kyung Hee University coursework, 2025-1. Credits: 3; distribution requirement."
+    },
+    "featured": false,
+    "tags": [
+      "history",
+      "coursework",
+      "academic-credit",
+      "khu"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "학점: 3",
+          "en": "Credits: 3"
+        },
+        {
+          "ko": "교강사명: 홍영미",
+          "en": "Instructor: 홍영미"
+        },
+        {
+          "ko": "이수구분: 배분이수",
+          "en": "Course category: 배분이수"
+        },
+        {
+          "ko": "비고: [사회와평화]",
+          "en": "Note: [사회와평화]"
+        },
+        {
+          "ko": "학기: 5학기: 2025-1",
+          "en": "Semester: 5학기: 2025-1"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "khu-course-21d7111684748077a39be40c93f96092",
+    "sortDate": "2025-01-01",
+    "kind": "completion",
+    "status": "completed",
+    "period": "2025-여름",
+    "title": {
+      "ko": "지역현장실천프로젝트",
+      "en": "지역현장실천프로젝트"
+    },
+    "summary": {
+      "ko": "경희대학교 2025-여름 교과목. 3학점, 배분이수.",
+      "en": "Kyung Hee University coursework, Summer 2025. Credits: 3; distribution requirement."
+    },
+    "featured": false,
+    "tags": [
+      "coursework",
+      "academic-credit",
+      "social-welfare",
+      "field-research",
+      "community-care",
+      "khu"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "학점: 3",
+          "en": "Credits: 3"
+        },
+        {
+          "ko": "교강사명: 강내영",
+          "en": "Instructor: 강내영"
+        },
+        {
+          "ko": "이수구분: 배분이수",
+          "en": "Course category: 배분이수"
+        },
+        {
+          "ko": "비고: [사회와평화] 계절학기",
+          "en": "Note: [사회와평화] 계절학기"
+        },
+        {
+          "ko": "학기: 5학기: 2025-여름",
+          "en": "Semester: 5학기: 2025-여름"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "khu-course-197711168474808f95a1f1a3efc13fd4",
+    "sortDate": "2025-01-01",
+    "kind": "completion",
+    "status": "completed",
+    "period": "2025-1",
+    "title": {
+      "ko": "사회봉사Ⅱ",
+      "en": "사회봉사Ⅱ"
+    },
+    "summary": {
+      "ko": "경희대학교 2025-1 교과목. 1학점, 일반선택.",
+      "en": "Kyung Hee University coursework, 2025-1. Credits: 1; general elective."
+    },
+    "featured": false,
+    "tags": [
+      "coursework",
+      "academic-credit",
+      "khu"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "학점: 1",
+          "en": "Credits: 1"
+        },
+        {
+          "ko": "교강사명: 김원수",
+          "en": "Instructor: 김원수"
+        },
+        {
+          "ko": "이수구분: 일반선택",
+          "en": "Course category: 일반선택"
+        },
+        {
+          "ko": "학기: 5학기: 2025-1",
+          "en": "Semester: 5학기: 2025-1"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "khu-course-af9bc3f67c7c43a8a515a1adec852cdd",
+    "sortDate": "2024-01-01",
+    "kind": "completion",
+    "status": "completed",
+    "period": "2024-1",
+    "title": {
+      "ko": "UI/UX프로그래밍",
+      "en": "UI/UX프로그래밍"
+    },
+    "summary": {
+      "ko": "경희대학교 2024-1 교과목. 3학점, 전공선택.",
+      "en": "Kyung Hee University coursework, 2024-1. Credits: 3; major elective."
+    },
+    "featured": false,
+    "tags": [
+      "programming",
+      "coursework",
+      "academic-credit",
+      "ui-ux",
+      "khu"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "학점: 3",
+          "en": "Credits: 3"
+        },
+        {
+          "ko": "교강사명: 전석희",
+          "en": "Instructor: 전석희"
+        },
+        {
+          "ko": "이수구분: 전공선택",
+          "en": "Course category: 전공선택"
+        },
+        {
+          "ko": "학기: 3학기: 2024-1",
+          "en": "Semester: 3학기: 2024-1"
+        },
+        {
+          "ko": "실감미디어기술 마이크로디그리 구성 과목",
+          "en": "Part of the 실감미디어기술 microdegree curriculum."
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "khu-course-4533d82231264960bfb05572f0debfd9",
+    "sortDate": "2024-01-01",
+    "kind": "completion",
+    "status": "completed",
+    "period": "2024-1",
+    "title": {
+      "ko": "이산구조",
+      "en": "이산구조"
+    },
+    "summary": {
+      "ko": "경희대학교 2024-1 교과목. 3학점, 전공기초.",
+      "en": "Kyung Hee University coursework, 2024-1. Credits: 3; foundational major course."
+    },
+    "featured": false,
+    "tags": [
+      "mathematics",
+      "coursework",
+      "academic-credit",
+      "discrete-mathematics",
+      "khu"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "학점: 3",
+          "en": "Credits: 3"
+        },
+        {
+          "ko": "교강사명: 정태충",
+          "en": "Instructor: 정태충"
+        },
+        {
+          "ko": "이수구분: 전공기초",
+          "en": "Course category: 전공기초"
+        },
+        {
+          "ko": "학기: 3학기: 2024-1",
+          "en": "Semester: 3학기: 2024-1"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "khu-course-53d0f370ce6c48ecbfded97d54f46e21",
+    "sortDate": "2024-01-01",
+    "kind": "completion",
+    "status": "completed",
+    "period": "2024-1",
+    "title": {
+      "ko": "확률및랜덤변수",
+      "en": "확률및랜덤변수"
+    },
+    "summary": {
+      "ko": "경희대학교 2024-1 교과목. 3학점, 전공기초.",
+      "en": "Kyung Hee University coursework, 2024-1. Credits: 3; foundational major course."
+    },
+    "featured": false,
+    "tags": [
+      "mathematics",
+      "coursework",
+      "academic-credit",
+      "probability",
+      "statistics",
+      "khu"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "학점: 3",
+          "en": "Credits: 3"
+        },
+        {
+          "ko": "교강사명: 이계산",
+          "en": "Instructor: 이계산"
+        },
+        {
+          "ko": "이수구분: 전공기초",
+          "en": "Course category: 전공기초"
+        },
+        {
+          "ko": "비고: 전자공학과",
+          "en": "Note: 전자공학과"
+        },
+        {
+          "ko": "학기: 3학기: 2024-1",
+          "en": "Semester: 3학기: 2024-1"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "khu-course-330a799608524f388afece02828b5d46",
+    "sortDate": "2024-01-01",
+    "kind": "completion",
+    "status": "completed",
+    "period": "2024-2",
+    "title": {
+      "ko": "기계학습",
+      "en": "기계학습"
+    },
+    "summary": {
+      "ko": "경희대학교 2024-2 교과목. 3학점, 전공선택.",
+      "en": "Kyung Hee University coursework, 2024-2. Credits: 3; major elective."
+    },
+    "featured": false,
+    "tags": [
+      "machine-learning",
+      "ai",
+      "coursework",
+      "academic-credit",
+      "khu"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "학점: 3",
+          "en": "Credits: 3"
+        },
+        {
+          "ko": "교강사명: 김휘용",
+          "en": "Instructor: 김휘용"
+        },
+        {
+          "ko": "이수구분: 전공선택",
+          "en": "Course category: 전공선택"
+        },
+        {
+          "ko": "비고: 소프트웨어융합학과",
+          "en": "Note: 소프트웨어융합학과"
+        },
+        {
+          "ko": "학기: 4학기: 2024-2",
+          "en": "Semester: 4학기: 2024-2"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "khu-course-ed5449cd594045b8a956396445e74341",
+    "sortDate": "2024-01-01",
+    "kind": "completion",
+    "status": "completed",
+    "period": "2024-2",
+    "title": {
+      "ko": "논리회로",
+      "en": "논리회로"
+    },
+    "summary": {
+      "ko": "경희대학교 2024-2 교과목. 3학점, 전공선택.",
+      "en": "Kyung Hee University coursework, 2024-2. Credits: 3; major elective."
+    },
+    "featured": false,
+    "tags": [
+      "digital-logic",
+      "coursework",
+      "academic-credit",
+      "khu"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "학점: 3",
+          "en": "Credits: 3"
+        },
+        {
+          "ko": "교강사명: 유재수",
+          "en": "Instructor: 유재수"
+        },
+        {
+          "ko": "이수구분: 전공선택",
+          "en": "Course category: 전공선택"
+        },
+        {
+          "ko": "학기: 4학기: 2024-2",
+          "en": "Semester: 4학기: 2024-2"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "khu-course-165711168474805cb550edb9edfac313",
+    "sortDate": "2024-01-01",
+    "kind": "completion",
+    "status": "completed",
+    "period": "2024-겨울",
+    "title": {
+      "ko": "리눅스시스템",
+      "en": "리눅스시스템"
+    },
+    "summary": {
+      "ko": "경희대학교 2024-겨울 교과목. 3학점, 전공선택.",
+      "en": "Kyung Hee University coursework, Winter 2024. Credits: 3; major elective."
+    },
+    "featured": false,
+    "tags": [
+      "linux",
+      "coursework",
+      "academic-credit",
+      "khu"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "학점: 3",
+          "en": "Credits: 3"
+        },
+        {
+          "ko": "교강사명: 이현자",
+          "en": "Instructor: 이현자"
+        },
+        {
+          "ko": "이수구분: 전공선택",
+          "en": "Course category: 전공선택"
+        },
+        {
+          "ko": "비고: 계절학기, 학점교류(숙명여자대학교)",
+          "en": "Note: 계절학기, 학점교류(숙명여자대학교)"
+        },
+        {
+          "ko": "학기: 4학기: 2024-겨울",
+          "en": "Semester: 4학기: 2024-겨울"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "khu-course-4e4ff412bb804e398e30c89affbbd5c3",
+    "sortDate": "2024-01-01",
+    "kind": "completion",
+    "status": "completed",
+    "period": "2024-2",
+    "title": {
+      "ko": "자료구조",
+      "en": "자료구조"
+    },
+    "summary": {
+      "ko": "경희대학교 2024-2 교과목. 3학점, 전공필수.",
+      "en": "Kyung Hee University coursework, 2024-2. Credits: 3; required major course."
+    },
+    "featured": false,
+    "tags": [
+      "algorithm",
+      "coursework",
+      "academic-credit",
+      "data-structures",
+      "khu"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "학점: 3",
+          "en": "Credits: 3"
+        },
+        {
+          "ko": "교강사명: 박성배",
+          "en": "Instructor: 박성배"
+        },
+        {
+          "ko": "이수구분: 전공필수",
+          "en": "Course category: 전공필수"
+        },
+        {
+          "ko": "비고: 전자공학과",
+          "en": "Note: 전자공학과"
+        },
+        {
+          "ko": "학기: 4학기: 2024-2",
+          "en": "Semester: 4학기: 2024-2"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "khu-course-165891e787ba4ddfb2e4bdff291b2f8b",
+    "sortDate": "2024-01-01",
+    "kind": "completion",
+    "status": "completed",
+    "period": "2024-2",
+    "title": {
+      "ko": "컴퓨터구조",
+      "en": "컴퓨터구조"
+    },
+    "summary": {
+      "ko": "경희대학교 2024-2 교과목. 3학점, 전공필수.",
+      "en": "Kyung Hee University coursework, 2024-2. Credits: 3; required major course."
+    },
+    "featured": false,
+    "tags": [
+      "computer-systems",
+      "coursework",
+      "academic-credit",
+      "computer-architecture",
+      "khu"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "학점: 3",
+          "en": "Credits: 3"
+        },
+        {
+          "ko": "교강사명: 박경문",
+          "en": "Instructor: 박경문"
+        },
+        {
+          "ko": "이수구분: 전공필수",
+          "en": "Course category: 전공필수"
+        },
+        {
+          "ko": "학기: 4학기: 2024-2",
+          "en": "Semester: 4학기: 2024-2"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "khu-course-1e76f7ce3794439ba719e75f538b0b4d",
+    "sortDate": "2024-01-01",
+    "kind": "completion",
+    "status": "completed",
+    "period": "2024-2",
+    "title": {
+      "ko": "컴퓨터네트워크",
+      "en": "컴퓨터네트워크"
+    },
+    "summary": {
+      "ko": "경희대학교 2024-2 교과목. 3학점, 전공필수.",
+      "en": "Kyung Hee University coursework, 2024-2. Credits: 3; required major course."
+    },
+    "featured": false,
+    "tags": [
+      "network",
+      "coursework",
+      "academic-credit",
+      "khu"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "학점: 3",
+          "en": "Credits: 3"
+        },
+        {
+          "ko": "교강사명: 허의남",
+          "en": "Instructor: 허의남"
+        },
+        {
+          "ko": "이수구분: 전공필수",
+          "en": "Course category: 전공필수"
+        },
+        {
+          "ko": "학기: 4학기: 2024-2",
+          "en": "Semester: 4학기: 2024-2"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "khu-course-96e7b38b76a540499f82d4a6b541e6ca",
+    "sortDate": "2024-01-01",
+    "kind": "completion",
+    "status": "completed",
+    "period": "2024-1",
+    "title": {
+      "ko": "화학및실험Ⅰ",
+      "en": "화학및실험Ⅰ"
+    },
+    "summary": {
+      "ko": "경희대학교 2024-1 교과목. 3학점, 전공기초.",
+      "en": "Kyung Hee University coursework, 2024-1. Credits: 3; foundational major course."
+    },
+    "featured": false,
+    "tags": [
+      "chemistry",
+      "coursework",
+      "academic-credit",
+      "khu"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "학점: 3",
+          "en": "Credits: 3"
+        },
+        {
+          "ko": "교강사명: 안광현",
+          "en": "Instructor: 안광현"
+        },
+        {
+          "ko": "이수구분: 전공기초",
+          "en": "Course category: 전공기초"
+        },
+        {
+          "ko": "비고: 응용화학과",
+          "en": "Note: 응용화학과"
+        },
+        {
+          "ko": "학기: 3학기: 2024-1",
+          "en": "Semester: 3학기: 2024-1"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "khu-course-2a109cc091c84763a2b26db8a281e31c",
+    "sortDate": "2024-01-01",
+    "kind": "completion",
+    "status": "completed",
+    "period": "2024-1",
+    "title": {
+      "ko": "수리프로그래밍",
+      "en": "수리프로그래밍"
+    },
+    "summary": {
+      "ko": "경희대학교 2024-1 교과목. 3학점, 전공선택.",
+      "en": "Kyung Hee University coursework, 2024-1. Credits: 3; major elective."
+    },
+    "featured": false,
+    "tags": [
+      "mathematics",
+      "programming",
+      "coursework",
+      "academic-credit",
+      "khu"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "학점: 3",
+          "en": "Credits: 3"
+        },
+        {
+          "ko": "교강사명: 김경수",
+          "en": "Instructor: 김경수"
+        },
+        {
+          "ko": "이수구분: 전공선택",
+          "en": "Course category: 전공선택"
+        },
+        {
+          "ko": "학기: 3학기: 2024-1",
+          "en": "Semester: 3학기: 2024-1"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "khu-course-5f2f1457ab11432799edba9dd2d74ac6",
+    "sortDate": "2024-01-01",
+    "kind": "completion",
+    "status": "completed",
+    "period": "2024-1",
+    "title": {
+      "ko": "해석학Ⅰ",
+      "en": "해석학Ⅰ"
+    },
+    "summary": {
+      "ko": "경희대학교 2024-1 교과목. 3학점, 전공필수.",
+      "en": "Kyung Hee University coursework, 2024-1. Credits: 3; required major course."
+    },
+    "featured": false,
+    "tags": [
+      "mathematics",
+      "coursework",
+      "academic-credit",
+      "mathematical-analysis",
+      "khu"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "학점: 3",
+          "en": "Credits: 3"
+        },
+        {
+          "ko": "교강사명: 박준표",
+          "en": "Instructor: 박준표"
+        },
+        {
+          "ko": "이수구분: 전공필수",
+          "en": "Course category: 전공필수"
+        },
+        {
+          "ko": "학기: 3학기: 2024-1",
+          "en": "Semester: 3학기: 2024-1"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "khu-course-40aade8132684d968c9a7a019a56b340",
+    "sortDate": "2024-01-01",
+    "kind": "completion",
+    "status": "completed",
+    "period": "2024-2",
+    "title": {
+      "ko": "수치해석및연습",
+      "en": "수치해석및연습"
+    },
+    "summary": {
+      "ko": "경희대학교 2024-2 교과목. 3학점, 전공필수.",
+      "en": "Kyung Hee University coursework, 2024-2. Credits: 3; required major course."
+    },
+    "featured": false,
+    "tags": [
+      "numerical-analysis",
+      "mathematics",
+      "coursework",
+      "academic-credit",
+      "khu"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "학점: 3",
+          "en": "Credits: 3"
+        },
+        {
+          "ko": "교강사명: 김경수",
+          "en": "Instructor: 김경수"
+        },
+        {
+          "ko": "이수구분: 전공필수",
+          "en": "Course category: 전공필수"
+        },
+        {
+          "ko": "학기: 4학기: 2024-2",
+          "en": "Semester: 4학기: 2024-2"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "khu-course-afadd9350b694db495e1833a345a4479",
+    "sortDate": "2024-01-01",
+    "kind": "completion",
+    "status": "completed",
+    "period": "2024-2",
+    "title": {
+      "ko": "해석학Ⅱ",
+      "en": "해석학Ⅱ"
+    },
+    "summary": {
+      "ko": "경희대학교 2024-2 교과목. 3학점, 전공선택.",
+      "en": "Kyung Hee University coursework, 2024-2. Credits: 3; major elective."
+    },
+    "featured": false,
+    "tags": [
+      "mathematics",
+      "coursework",
+      "academic-credit",
+      "mathematical-analysis",
+      "khu"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "학점: 3",
+          "en": "Credits: 3"
+        },
+        {
+          "ko": "교강사명: 박준표",
+          "en": "Instructor: 박준표"
+        },
+        {
+          "ko": "이수구분: 전공선택",
+          "en": "Course category: 전공선택"
+        },
+        {
+          "ko": "학기: 4학기: 2024-2",
+          "en": "Semester: 4학기: 2024-2"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "khu-course-51e0ffcde4884f5da374dd8ef7bf0017",
+    "sortDate": "2024-01-01",
+    "kind": "completion",
+    "status": "completed",
+    "period": "2024-1",
+    "title": {
+      "ko": "취·창업스쿨(자아탐색을통한진로설정)",
+      "en": "취·창업스쿨(자아탐색을통한진로설정)"
+    },
+    "summary": {
+      "ko": "경희대학교 2024-1 교과목. 2학점, 일반선택.",
+      "en": "Kyung Hee University coursework, 2024-1. Credits: 2; general elective."
+    },
+    "featured": false,
+    "tags": [
+      "coursework",
+      "academic-credit",
+      "career-education",
+      "khu"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "학점: 2",
+          "en": "Credits: 2"
+        },
+        {
+          "ko": "교강사명: 김연희",
+          "en": "Instructor: 김연희"
+        },
+        {
+          "ko": "이수구분: 일반선택",
+          "en": "Course category: 일반선택"
+        },
+        {
+          "ko": "학기: 3학기: 2024-1",
+          "en": "Semester: 3학기: 2024-1"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "khu-course-635d8d8c08ca41bc89d71b317fd03d24",
+    "sortDate": "2024-01-01",
+    "kind": "completion",
+    "status": "completed",
+    "period": "2024-1",
+    "title": {
+      "ko": "사회봉사Ⅰ",
+      "en": "사회봉사Ⅰ"
+    },
+    "summary": {
+      "ko": "경희대학교 2024-1 교과목. 1학점, 일반선택.",
+      "en": "Kyung Hee University coursework, 2024-1. Credits: 1; general elective."
+    },
+    "featured": false,
+    "tags": [
+      "coursework",
+      "academic-credit",
+      "khu"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "학점: 1",
+          "en": "Credits: 1"
+        },
+        {
+          "ko": "교강사명: 김원수",
+          "en": "Instructor: 김원수"
+        },
+        {
+          "ko": "이수구분: 일반선택",
+          "en": "Course category: 일반선택"
+        },
+        {
+          "ko": "학기: 3학기: 2024-1",
+          "en": "Semester: 3학기: 2024-1"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "khu-course-ca1242da75004923bff083c0f6c6c2fc",
+    "sortDate": "2023-01-01",
+    "kind": "completion",
+    "status": "completed",
+    "period": "2023-1",
+    "title": {
+      "ko": "웹/파이선프로그래밍",
+      "en": "웹/파이선프로그래밍"
+    },
+    "summary": {
+      "ko": "경희대학교 2023-1 교과목. 3학점, 전공선택.",
+      "en": "Kyung Hee University coursework, 2023-1. Credits: 3; major elective."
+    },
+    "featured": false,
+    "tags": [
+      "web",
+      "python",
+      "programming",
+      "coursework",
+      "academic-credit",
+      "khu"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "학점: 3",
+          "en": "Credits: 3"
+        },
+        {
+          "ko": "교강사명: 박상근",
+          "en": "Instructor: 박상근"
+        },
+        {
+          "ko": "이수구분: 전공선택",
+          "en": "Course category: 전공선택"
+        },
+        {
+          "ko": "비고: 소프트웨어융합학과",
+          "en": "Note: 소프트웨어융합학과"
+        },
+        {
+          "ko": "학기: 1학기: 2023-1",
+          "en": "Semester: 1학기: 2023-1"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "khu-course-4659b7a9d629496a96e7ed47e8a32c0d",
+    "sortDate": "2023-01-01",
+    "kind": "completion",
+    "status": "completed",
+    "period": "2023-1",
+    "title": {
+      "ko": "물리학및실험Ⅰ",
+      "en": "물리학및실험Ⅰ"
+    },
+    "summary": {
+      "ko": "경희대학교 2023-1 교과목. 3학점, 전공기초.",
+      "en": "Kyung Hee University coursework, 2023-1. Credits: 3; foundational major course."
+    },
+    "featured": false,
+    "tags": [
+      "physics",
+      "coursework",
+      "academic-credit",
+      "khu"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "학점: 3",
+          "en": "Credits: 3"
+        },
+        {
+          "ko": "교강사명: 임대영",
+          "en": "Instructor: 임대영"
+        },
+        {
+          "ko": "이수구분: 전공기초",
+          "en": "Course category: 전공기초"
+        },
+        {
+          "ko": "비고: 응용물리학과",
+          "en": "Note: 응용물리학과"
+        },
+        {
+          "ko": "학기: 1학기: 2023-1",
+          "en": "Semester: 1학기: 2023-1"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "khu-course-d7027bb252ae47c38adabc29848e9ba0",
+    "sortDate": "2023-01-01",
+    "kind": "completion",
+    "status": "completed",
+    "period": "2023-1",
+    "title": {
+      "ko": "미분적분학",
+      "en": "미분적분학"
+    },
+    "summary": {
+      "ko": "경희대학교 2023-1 교과목. 3학점, 전공기초.",
+      "en": "Kyung Hee University coursework, 2023-1. Credits: 3; foundational major course."
+    },
+    "featured": false,
+    "tags": [
+      "mathematics",
+      "coursework",
+      "academic-credit",
+      "calculus",
+      "khu"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "학점: 3",
+          "en": "Credits: 3"
+        },
+        {
+          "ko": "교강사명: 남궁윤미",
+          "en": "Instructor: 남궁윤미"
+        },
+        {
+          "ko": "이수구분: 전공기초",
+          "en": "Course category: 전공기초"
+        },
+        {
+          "ko": "비고: 응용수학과",
+          "en": "Note: 응용수학과"
+        },
+        {
+          "ko": "학기: 1학기: 2023-1",
+          "en": "Semester: 1학기: 2023-1"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "khu-course-85b63940b9c04e139ea8e279674991d2",
+    "sortDate": "2023-01-01",
+    "kind": "completion",
+    "status": "completed",
+    "period": "2023-1",
+    "title": {
+      "ko": "선형대수",
+      "en": "선형대수"
+    },
+    "summary": {
+      "ko": "경희대학교 2023-1 교과목. 3학점, 전공기초.",
+      "en": "Kyung Hee University coursework, 2023-1. Credits: 3; foundational major course."
+    },
+    "featured": false,
+    "tags": [
+      "mathematics",
+      "coursework",
+      "academic-credit",
+      "linear-algebra",
+      "khu"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "학점: 3",
+          "en": "Credits: 3"
+        },
+        {
+          "ko": "교강사명: 김현수",
+          "en": "Instructor: 김현수"
+        },
+        {
+          "ko": "이수구분: 전공기초",
+          "en": "Course category: 전공기초"
+        },
+        {
+          "ko": "비고: 응용수학과",
+          "en": "Note: 응용수학과"
+        },
+        {
+          "ko": "학기: 1학기: 2023-1",
+          "en": "Semester: 1학기: 2023-1"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "khu-course-5a8a9717b6494c22a5f8b8af067c6292",
+    "sortDate": "2023-01-01",
+    "kind": "completion",
+    "status": "completed",
+    "period": "2023-2",
+    "title": {
+      "ko": "객체지향프로그래밍",
+      "en": "객체지향프로그래밍"
+    },
+    "summary": {
+      "ko": "경희대학교 2023-2 교과목. 3학점, 전공필수.",
+      "en": "Kyung Hee University coursework, 2023-2. Credits: 3; required major course."
+    },
+    "featured": false,
+    "tags": [
+      "programming",
+      "coursework",
+      "academic-credit",
+      "object-oriented-programming",
+      "khu"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "학점: 3",
+          "en": "Credits: 3"
+        },
+        {
+          "ko": "교강사명: 이대호",
+          "en": "Instructor: 이대호"
+        },
+        {
+          "ko": "이수구분: 전공필수",
+          "en": "Course category: 전공필수"
+        },
+        {
+          "ko": "학기: 2학기: 2023-2",
+          "en": "Semester: 2학기: 2023-2"
+        },
+        {
+          "ko": "실감미디어기술 마이크로디그리 구성 과목",
+          "en": "Part of the 실감미디어기술 microdegree curriculum."
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "khu-course-4fa7ee26a5f14a0ea501bfb4b884461f",
+    "sortDate": "2023-01-01",
+    "kind": "completion",
+    "status": "completed",
+    "period": "2023-2",
+    "title": {
+      "ko": "디자인적사고",
+      "en": "디자인적사고"
+    },
+    "summary": {
+      "ko": "경희대학교 2023-2 교과목. 3학점, 전공선택.",
+      "en": "Kyung Hee University coursework, 2023-2. Credits: 3; major elective."
+    },
+    "featured": false,
+    "tags": [
+      "design-thinking",
+      "coursework",
+      "academic-credit",
+      "khu"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "학점: 3",
+          "en": "Credits: 3"
+        },
+        {
+          "ko": "교강사명: 이승규",
+          "en": "Instructor: 이승규"
+        },
+        {
+          "ko": "이수구분: 전공선택",
+          "en": "Course category: 전공선택"
+        },
+        {
+          "ko": "비고: 소프트웨어융합학과",
+          "en": "Note: 소프트웨어융합학과"
+        },
+        {
+          "ko": "학기: 2학기: 2023-2",
+          "en": "Semester: 2학기: 2023-2"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "khu-course-88b61c78dc354bed9d13eb3340f9a333",
+    "sortDate": "2023-01-01",
+    "kind": "completion",
+    "status": "completed",
+    "period": "2023-2",
+    "title": {
+      "ko": "오픈소스SW개발방법및도구",
+      "en": "오픈소스SW개발방법및도구"
+    },
+    "summary": {
+      "ko": "경희대학교 2023-2 교과목. 3학점, 전공선택.",
+      "en": "Kyung Hee University coursework, 2023-2. Credits: 3; major elective."
+    },
+    "featured": false,
+    "tags": [
+      "coursework",
+      "academic-credit",
+      "open-source",
+      "programming",
+      "khu"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "학점: 3",
+          "en": "Credits: 3"
+        },
+        {
+          "ko": "교강사명: 이성원",
+          "en": "Instructor: 이성원"
+        },
+        {
+          "ko": "이수구분: 전공선택",
+          "en": "Course category: 전공선택"
+        },
+        {
+          "ko": "비고: 소프트웨어융합학과, 청강: 2025-1학기",
+          "en": "Note: 소프트웨어융합학과, 청강: 2025-1학기"
+        },
+        {
+          "ko": "학기: 2학기: 2023-2",
+          "en": "Semester: 2학기: 2023-2"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "khu-course-f062daea61e74d03a2402ddb6bd0f0ab",
+    "sortDate": "2023-01-01",
+    "kind": "completion",
+    "status": "completed",
+    "period": "2023-2",
+    "title": {
+      "ko": "고급미분적분학",
+      "en": "고급미분적분학"
+    },
+    "summary": {
+      "ko": "경희대학교 2023-2 교과목. 3학점, 전공기초.",
+      "en": "Kyung Hee University coursework, 2023-2. Credits: 3; foundational major course."
+    },
+    "featured": false,
+    "tags": [
+      "mathematics",
+      "coursework",
+      "academic-credit",
+      "calculus",
+      "khu"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "학점: 3",
+          "en": "Credits: 3"
+        },
+        {
+          "ko": "교강사명: 김원주",
+          "en": "Instructor: 김원주"
+        },
+        {
+          "ko": "이수구분: 전공기초",
+          "en": "Course category: 전공기초"
+        },
+        {
+          "ko": "학기: 2학기: 2023-2",
+          "en": "Semester: 2학기: 2023-2"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "khu-course-55ba5783d8f74ea7a5443af432fb51e5",
+    "sortDate": "2023-01-01",
+    "kind": "completion",
+    "status": "completed",
+    "period": "2023-1",
+    "title": {
+      "ko": "소프트웨어가치탐구",
+      "en": "소프트웨어가치탐구"
+    },
+    "summary": {
+      "ko": "경희대학교 2023-1 교과목. 1학점, 일반선택.",
+      "en": "Kyung Hee University coursework, 2023-1. Credits: 1; general elective."
+    },
+    "featured": false,
+    "tags": [
+      "programming",
+      "coursework",
+      "academic-credit",
+      "khu"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "학점: 1",
+          "en": "Credits: 1"
+        },
+        {
+          "ko": "교강사명: 한치근",
+          "en": "Instructor: 한치근"
+        },
+        {
+          "ko": "이수구분: 일반선택",
+          "en": "Course category: 일반선택"
+        },
+        {
+          "ko": "비고: 예비대학프로그램",
+          "en": "Note: 예비대학프로그램"
+        },
+        {
+          "ko": "학기: 1학기: 2023-1",
+          "en": "Semester: 1학기: 2023-1"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "khu-course-220a9ffe267b406a9d03fac2681051dc",
+    "sortDate": "2023-01-01",
+    "kind": "completion",
+    "status": "completed",
+    "period": "2023-1",
+    "title": {
+      "ko": "성찰과표현",
+      "en": "성찰과표현"
+    },
+    "summary": {
+      "ko": "경희대학교 2023-1 교과목. 3학점, 교양필수.",
+      "en": "Kyung Hee University coursework, 2023-1. Credits: 3; required general-education course."
+    },
+    "featured": false,
+    "tags": [
+      "coursework",
+      "academic-credit",
+      "humanities",
+      "khu"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "학점: 3",
+          "en": "Credits: 3"
+        },
+        {
+          "ko": "교강사명: 조명숙",
+          "en": "Instructor: 조명숙"
+        },
+        {
+          "ko": "이수구분: 교양필수",
+          "en": "Course category: 교양필수"
+        },
+        {
+          "ko": "학기: 1학기: 2023-1",
+          "en": "Semester: 1학기: 2023-1"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "khu-course-f9c2b808546c42be8840b8b66b6ee5a1",
+    "sortDate": "2023-01-01",
+    "kind": "completion",
+    "status": "completed",
+    "period": "2023-1",
+    "title": {
+      "ko": "작곡의밑그림:화성학",
+      "en": "작곡의밑그림:화성학"
+    },
+    "summary": {
+      "ko": "경희대학교 2023-1 교과목. 3학점, 배분이수.",
+      "en": "Kyung Hee University coursework, 2023-1. Credits: 3; distribution requirement."
+    },
+    "featured": false,
+    "tags": [
+      "composition",
+      "music",
+      "coursework",
+      "academic-credit",
+      "khu"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "학점: 3",
+          "en": "Credits: 3"
+        },
+        {
+          "ko": "교강사명: 전은진",
+          "en": "Instructor: 전은진"
+        },
+        {
+          "ko": "이수구분: 배분이수",
+          "en": "Course category: 배분이수"
+        },
+        {
+          "ko": "비고: [상징과문화] 부분대면",
+          "en": "Note: [상징과문화] 부분대면"
+        },
+        {
+          "ko": "학기: 1학기: 2023-1",
+          "en": "Semester: 1학기: 2023-1"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "khu-course-15d9436105ed4bfcbe4e043c97ebae6e",
+    "sortDate": "2023-01-01",
+    "kind": "completion",
+    "status": "completed",
+    "period": "2023-여름",
+    "title": {
+      "ko": "인간의가치탐색",
+      "en": "인간의가치탐색"
+    },
+    "summary": {
+      "ko": "경희대학교 2023-여름 교과목. 3학점, 교양필수.",
+      "en": "Kyung Hee University coursework, Summer 2023. Credits: 3; required general-education course."
+    },
+    "featured": false,
+    "tags": [
+      "coursework",
+      "academic-credit",
+      "humanities",
+      "khu"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "학점: 3",
+          "en": "Credits: 3"
+        },
+        {
+          "ko": "교강사명: 김태경",
+          "en": "Instructor: 김태경"
+        },
+        {
+          "ko": "이수구분: 교양필수",
+          "en": "Course category: 교양필수"
+        },
+        {
+          "ko": "비고: 계절학기",
+          "en": "Note: 계절학기"
+        },
+        {
+          "ko": "학기: 1학기: 2023-여름",
+          "en": "Semester: 1학기: 2023-여름"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "khu-course-feed7bd76c574e93a1c5ce596765b6e2",
+    "sortDate": "2023-01-01",
+    "kind": "completion",
+    "status": "completed",
+    "period": "2023-2",
+    "title": {
+      "ko": "모두를위한물리학",
+      "en": "모두를위한물리학"
+    },
+    "summary": {
+      "ko": "경희대학교 2023-2 교과목. 3학점, 배분이수.",
+      "en": "Kyung Hee University coursework, 2023-2. Credits: 3; distribution requirement."
+    },
+    "featured": false,
+    "tags": [
+      "physics",
+      "coursework",
+      "academic-credit",
+      "khu"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "학점: 3",
+          "en": "Credits: 3"
+        },
+        {
+          "ko": "교강사명: 김상욱",
+          "en": "Instructor: 김상욱"
+        },
+        {
+          "ko": "이수구분: 배분이수",
+          "en": "Course category: 배분이수"
+        },
+        {
+          "ko": "비고: [자연기술토대] 비대면",
+          "en": "Note: [자연기술토대] 비대면"
+        },
+        {
+          "ko": "학기: 2학기: 2023-2",
+          "en": "Semester: 2학기: 2023-2"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "khu-course-8ee255e35f9e4837ba0883ebcbdc4dfd",
+    "sortDate": "2023-01-01",
+    "kind": "completion",
+    "status": "completed",
+    "period": "2023-2",
+    "title": {
+      "ko": "전공탐색및기업가정신세미나",
+      "en": "전공탐색및기업가정신세미나"
+    },
+    "summary": {
+      "ko": "경희대학교 2023-2 교과목. 1학점, 자유이수.",
+      "en": "Kyung Hee University coursework, 2023-2. Credits: 1; free elective."
+    },
+    "featured": false,
+    "tags": [
+      "coursework",
+      "academic-credit",
+      "entrepreneurship",
+      "career-education",
+      "khu"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "학점: 1",
+          "en": "Credits: 1"
+        },
+        {
+          "ko": "교강사명: 김정욱",
+          "en": "Instructor: 김정욱"
+        },
+        {
+          "ko": "이수구분: 자유이수",
+          "en": "Course category: 자유이수"
+        },
+        {
+          "ko": "학기: 2학기: 2023-2",
+          "en": "Semester: 2학기: 2023-2"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "credit-bank-3c4711168474801ab422ffa5d83165e4",
+    "sortDate": "",
+    "kind": "completion",
+    "status": "completed",
+    "period": "<<내용필요: 이수 시기>>",
+    "title": {
+      "ko": "학점은행제: 논리회로",
+      "en": "학점은행제: 논리회로"
+    },
+    "summary": {
+      "ko": "독학학위제으로 5학점을 인정받았습니다. 인정기관: 국가평생교육진흥원.",
+      "en": "Received 5 credits through self-study degree examinations. Recognizing institution: 국가평생교육진흥원."
+    },
+    "featured": false,
+    "tags": [
+      "digital-logic",
+      "coursework",
+      "academic-credit"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "분류: 전공선택",
+          "en": "Category: 전공선택"
+        },
+        {
+          "ko": "인정기관: 국가평생교육진흥원",
+          "en": "Recognizing institution: 국가평생교육진흥원"
+        },
+        {
+          "ko": "인정유형: 독학학위제",
+          "en": "Credit-recognition method: 독학학위제"
+        },
+        {
+          "ko": "학점: 5",
+          "en": "Credits: 5"
+        },
+        {
+          "ko": "과목명: 논리회로",
+          "en": "Course: 논리회로"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "credit-bank-3c47111684748044a4a9ef526225cf07",
+    "sortDate": "",
+    "kind": "completion",
+    "status": "completed",
+    "period": "<<내용필요: 이수 시기>>",
+    "title": {
+      "ko": "학점은행제: 운영체제",
+      "en": "학점은행제: 운영체제"
+    },
+    "summary": {
+      "ko": "독학학위제으로 5학점을 인정받았습니다. 인정기관: 국가평생교육진흥원.",
+      "en": "Received 5 credits through self-study degree examinations. Recognizing institution: 국가평생교육진흥원."
+    },
+    "featured": false,
+    "tags": [
+      "computer-systems",
+      "coursework",
+      "academic-credit",
+      "operating-systems"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "분류: 전공선택",
+          "en": "Category: 전공선택"
+        },
+        {
+          "ko": "인정기관: 국가평생교육진흥원",
+          "en": "Recognizing institution: 국가평생교육진흥원"
+        },
+        {
+          "ko": "인정유형: 독학학위제",
+          "en": "Credit-recognition method: 독학학위제"
+        },
+        {
+          "ko": "학점: 5",
+          "en": "Credits: 5"
+        },
+        {
+          "ko": "과목명: 운영체제",
+          "en": "Course: 운영체제"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "credit-bank-3c471116847480c09722d308d225f53b",
+    "sortDate": "",
+    "kind": "completion",
+    "status": "completed",
+    "period": "<<내용필요: 이수 시기>>",
+    "title": {
+      "ko": "학점은행제: 이산구조",
+      "en": "학점은행제: 이산구조"
+    },
+    "summary": {
+      "ko": "독학학위제으로 5학점을 인정받았습니다. 인정기관: 국가평생교육진흥원.",
+      "en": "Received 5 credits through self-study degree examinations. Recognizing institution: 국가평생교육진흥원."
+    },
+    "featured": false,
+    "tags": [
+      "mathematics",
+      "coursework",
+      "academic-credit",
+      "discrete-mathematics"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "분류: 전공선택",
+          "en": "Category: 전공선택"
+        },
+        {
+          "ko": "인정기관: 국가평생교육진흥원",
+          "en": "Recognizing institution: 국가평생교육진흥원"
+        },
+        {
+          "ko": "인정유형: 독학학위제",
+          "en": "Credit-recognition method: 독학학위제"
+        },
+        {
+          "ko": "학점: 5",
+          "en": "Credits: 5"
+        },
+        {
+          "ko": "과목명: 이산구조",
+          "en": "Course: 이산구조"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "credit-bank-3c4711168474803a995de14e3f3a637a",
+    "sortDate": "",
+    "kind": "completion",
+    "status": "completed",
+    "period": "<<내용필요: 이수 시기>>",
+    "title": {
+      "ko": "학점은행제: 자료구조",
+      "en": "학점은행제: 자료구조"
+    },
+    "summary": {
+      "ko": "독학학위제으로 5학점을 인정받았습니다. 인정기관: 국가평생교육진흥원.",
+      "en": "Received 5 credits through self-study degree examinations. Recognizing institution: 국가평생교육진흥원."
+    },
+    "featured": false,
+    "tags": [
+      "algorithm",
+      "coursework",
+      "academic-credit",
+      "data-structures"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "분류: 전공선택",
+          "en": "Category: 전공선택"
+        },
+        {
+          "ko": "인정기관: 국가평생교육진흥원",
+          "en": "Recognizing institution: 국가평생교육진흥원"
+        },
+        {
+          "ko": "인정유형: 독학학위제",
+          "en": "Credit-recognition method: 독학학위제"
+        },
+        {
+          "ko": "학점: 5",
+          "en": "Credits: 5"
+        },
+        {
+          "ko": "과목명: 자료구조",
+          "en": "Course: 자료구조"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "credit-bank-3c471116847480f681ded5210c12e1de",
+    "sortDate": "",
+    "kind": "completion",
+    "status": "completed",
+    "period": "<<내용필요: 이수 시기>>",
+    "title": {
+      "ko": "학점은행제: 컴퓨터구조",
+      "en": "학점은행제: 컴퓨터구조"
+    },
+    "summary": {
+      "ko": "독학학위제으로 5학점을 인정받았습니다. 인정기관: 국가평생교육진흥원.",
+      "en": "Received 5 credits through self-study degree examinations. Recognizing institution: 국가평생교육진흥원."
+    },
+    "featured": false,
+    "tags": [
+      "computer-systems",
+      "coursework",
+      "academic-credit",
+      "computer-architecture"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "분류: 전공선택",
+          "en": "Category: 전공선택"
+        },
+        {
+          "ko": "인정기관: 국가평생교육진흥원",
+          "en": "Recognizing institution: 국가평생교육진흥원"
+        },
+        {
+          "ko": "인정유형: 독학학위제",
+          "en": "Credit-recognition method: 독학학위제"
+        },
+        {
+          "ko": "학점: 5",
+          "en": "Credits: 5"
+        },
+        {
+          "ko": "과목명: 컴퓨터구조",
+          "en": "Course: 컴퓨터구조"
+        }
+      ]
+    },
+    "links": []
+  }
+]

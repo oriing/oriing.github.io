@@ -4,21 +4,37 @@
     "sortDate": "2026-06-30",
     "kind": "certificate",
     "status": "completed",
-    "period": "2026.06",
+    "period": "2026.06.30",
     "title": {
       "ko": "영상정보관리사",
-      "en": "Video Information Manager"
+      "en": "Video Information Advisor"
     },
     "summary": {
-      "ko": "영상정보관리 자격을 취득했으며 유효기간은 2031년 6월 29일까지입니다.",
-      "en": "Earned the Video Information Manager qualification, valid through June 29, 2031."
+      "ko": "한국정보통신자격협회에서 발급한 영상정보관리사 자격을 취득했습니다.",
+      "en": "Earned Video Information Advisor, issued by 한국정보통신자격협회."
     },
     "featured": false,
     "tags": [
-      "certificate",
-      "media",
-      "technical-support"
-    ]
+      "privacy",
+      "security"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "발급 기관: 한국정보통신자격협회",
+          "en": "Issuer: 한국정보통신자격협회"
+        },
+        {
+          "ko": "자격 구분: 공인민간",
+          "en": "Credential category: 공인민간"
+        },
+        {
+          "ko": "유효기간: 2031.06.29",
+          "en": "Valid through 2031-06-29"
+        }
+      ]
+    },
+    "links": []
   },
   {
     "slug": "rfid-gl",
@@ -27,109 +43,410 @@
     "status": "completed",
     "period": "2026.06.26",
     "title": {
-      "ko": "RFID-GL",
-      "en": "RFID-GL"
+      "ko": "RFID기술자격검정 RFID-GL",
+      "en": "RFID기술자격검정 RFID-GL"
     },
     "summary": {
-      "ko": "RFID-GL 자격을 취득했습니다.",
-      "en": "Earned the RFID-GL qualification."
+      "ko": "한국AI사물인터넷협회에서 발급한 RFID기술자격검정 RFID-GL 자격을 취득했습니다.",
+      "en": "Earned RFID기술자격검정 RFID-GL, issued by Korea AI IoT Association."
     },
     "featured": false,
     "tags": [
-      "certificate",
       "rfid",
       "iot"
-    ]
-  },
-  {
-    "slug": "office-digital-certifications",
-    "sortDate": "2026-05-25",
-    "kind": "certificate",
-    "status": "completed",
-    "period": "2015 — 2026",
-    "title": {
-      "ko": "사무·디지털 리터러시 자격군",
-      "en": "Office and Digital Literacy Certifications"
-    },
-    "summary": {
-      "ko": "워드프로세서, 비서 1급, ITQ OA Master, 디지털정보활용능력 고급·공인강사 등 관련 자격을 취득했습니다.",
-      "en": "Earned certifications including Word Processor, Secretary Level 1, ITQ OA Master, and advanced digital literacy and instructor credentials."
-    },
-    "featured": false,
-    "tags": [
-      "certificate",
-      "office-software",
-      "digital-literacy"
     ],
     "detail": {
       "outcomes": [
         {
-          "ko": "비서 1급, 워드프로세서",
-          "en": "Secretary Level 1 and Word Processor"
+          "ko": "발급 기관: 한국AI사물인터넷협회",
+          "en": "Issuer: Korea AI IoT Association"
         },
         {
-          "ko": "GTQ 그래픽기술자격 2급(2017.01.13)",
-          "en": "GTQ Graphic Technology Level 2, Jan 13, 2017"
-        },
-        {
-          "ko": "ITQ 한글 A(2016.07.28), 엑셀 A(2015.12.31), 파워포인트 B(2015.07.02), 인터넷 A(2016.06.02)",
-          "en": "ITQ Hangul A, Excel A, PowerPoint B, and Internet A"
-        },
-        {
-          "ko": "ITQ OA Master(2016.08.08)",
-          "en": "ITQ OA Master, Aug 8, 2016"
-        },
-        {
-          "ko": "DIAT 고급: 인터넷정보검색·스프레드시트·워드프로세서(2026.03.06), 정보통신상식(03.20), 멀티미디어제작·프레젠테이션(05.15)",
-          "en": "DIAT Advanced in Internet Search, Spreadsheets, Word Processing, ICT Knowledge, Multimedia Production, and Presentation"
-        },
-        {
-          "ko": "DIAT 공인강사(2026.05.25)",
-          "en": "DIAT Certified Instructor, May 25, 2026"
+          "ko": "자격 구분: 공인민간",
+          "en": "Credential category: 공인민간"
         }
       ]
-    }
+    },
+    "links": []
+  },
+  {
+    "slug": "diat-certified-instructor",
+    "sortDate": "2026-05-25",
+    "kind": "certificate",
+    "status": "completed",
+    "period": "2026.05.25",
+    "title": {
+      "ko": "디지털정보활용능력 공인강사",
+      "en": "디지털정보활용능력 공인강사"
+    },
+    "summary": {
+      "ko": "한국정보통신진흥협회에서 발급한 디지털정보활용능력 공인강사 자격을 취득했습니다.",
+      "en": "Earned 디지털정보활용능력 공인강사, issued by Korea Association for ICT Promotion."
+    },
+    "featured": false,
+    "tags": [
+      "digital-literacy",
+      "education",
+      "kait",
+      "diat"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "발급 기관: 한국정보통신진흥협회",
+          "en": "Issuer: Korea Association for ICT Promotion"
+        },
+        {
+          "ko": "자격 구분: 민간인증",
+          "en": "Credential category: 민간인증"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "diat-presentations-advanced",
+    "sortDate": "2026-05-15",
+    "kind": "certificate",
+    "status": "completed",
+    "period": "2026.05.15",
+    "title": {
+      "ko": "디지털정보활용능력 프리젠테이션 고급",
+      "en": "Digital Information Ability Test (DIAT) — Presentation, Advanced"
+    },
+    "summary": {
+      "ko": "한국정보통신진흥협회에서 발급한 디지털정보활용능력 프리젠테이션 고급 자격을 취득했습니다.",
+      "en": "Earned 디지털정보활용능력 프리젠테이션 고급, issued by Korea Association for ICT Promotion."
+    },
+    "featured": false,
+    "tags": [
+      "office-software",
+      "kait",
+      "diat",
+      "digital-literacy",
+      "presentation"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "발급 기관: 한국정보통신진흥협회",
+          "en": "Issuer: Korea Association for ICT Promotion"
+        },
+        {
+          "ko": "자격 구분: 공인민간",
+          "en": "Credential category: 공인민간"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "diat-multimedia-production-advanced",
+    "sortDate": "2026-05-15",
+    "kind": "certificate",
+    "status": "completed",
+    "period": "2026.05.15",
+    "title": {
+      "ko": "디지털정보활용능력 멀티미디어제작 고급",
+      "en": "Digital Information Ability Test (DIAT) — Multimedia Production, Advanced"
+    },
+    "summary": {
+      "ko": "한국정보통신진흥협회에서 발급한 디지털정보활용능력 멀티미디어제작 고급 자격을 취득했습니다.",
+      "en": "Earned 디지털정보활용능력 멀티미디어제작 고급, issued by Korea Association for ICT Promotion."
+    },
+    "featured": false,
+    "tags": [
+      "multimedia",
+      "kait",
+      "diat",
+      "digital-literacy",
+      "media-production"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "발급 기관: 한국정보통신진흥협회",
+          "en": "Issuer: Korea Association for ICT Promotion"
+        },
+        {
+          "ko": "자격 구분: 공인민간",
+          "en": "Credential category: 공인민간"
+        }
+      ]
+    },
+    "links": []
   },
   {
     "slug": "linux-master-level-2",
     "sortDate": "2026-04-03",
     "kind": "certificate",
     "status": "completed",
-    "period": "2026.04",
+    "period": "2026.04.03",
     "title": {
       "ko": "리눅스마스터 2급",
-      "en": "Linux Master Level 2"
+      "en": "Linux Master — Level 2"
     },
     "summary": {
-      "ko": "한국정보통신진흥협회 리눅스 활용 자격을 취득했습니다.",
-      "en": "Earned the Linux qualification administered by KAIT."
+      "ko": "한국정보통신진흥협회에서 발급한 리눅스마스터 2급 자격을 취득했습니다.",
+      "en": "Earned 리눅스마스터 2급, issued by Korea Association for ICT Promotion."
     },
     "featured": false,
     "tags": [
-      "certificate",
       "linux",
-      "computer-engineering"
-    ]
+      "kait",
+      "computer-systems"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "발급 기관: 한국정보통신진흥협회",
+          "en": "Issuer: Korea Association for ICT Promotion"
+        },
+        {
+          "ko": "자격 구분: 공인민간",
+          "en": "Credential category: 공인민간"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "diat-ict-knowledge-advanced",
+    "sortDate": "2026-03-20",
+    "kind": "certificate",
+    "status": "completed",
+    "period": "2026.03.20",
+    "title": {
+      "ko": "디지털정보활용능력 정보통신상식 고급",
+      "en": "Digital Information Ability Test (DIAT) — ICT Knowledge, Advanced"
+    },
+    "summary": {
+      "ko": "한국정보통신진흥협회에서 발급한 디지털정보활용능력 정보통신상식 고급 자격을 취득했습니다.",
+      "en": "Earned 디지털정보활용능력 정보통신상식 고급, issued by Korea Association for ICT Promotion."
+    },
+    "featured": false,
+    "tags": [
+      "digital-literacy",
+      "kait",
+      "diat"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "발급 기관: 한국정보통신진흥협회",
+          "en": "Issuer: Korea Association for ICT Promotion"
+        },
+        {
+          "ko": "자격 구분: 공인민간",
+          "en": "Credential category: 공인민간"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "diat-word-processing-advanced",
+    "sortDate": "2026-03-06",
+    "kind": "certificate",
+    "status": "completed",
+    "period": "2026.03.06",
+    "title": {
+      "ko": "디지털정보활용능력 워드프로세서 고급",
+      "en": "Digital Information Ability Test (DIAT) — Word Processing, Advanced"
+    },
+    "summary": {
+      "ko": "한국정보통신진흥협회에서 발급한 디지털정보활용능력 워드프로세서 고급 자격을 취득했습니다.",
+      "en": "Earned 디지털정보활용능력 워드프로세서 고급, issued by Korea Association for ICT Promotion."
+    },
+    "featured": false,
+    "tags": [
+      "office-software",
+      "kait",
+      "diat",
+      "digital-literacy",
+      "word-processing"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "발급 기관: 한국정보통신진흥협회",
+          "en": "Issuer: Korea Association for ICT Promotion"
+        },
+        {
+          "ko": "자격 구분: 공인민간",
+          "en": "Credential category: 공인민간"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "diat-spreadsheets-advanced",
+    "sortDate": "2026-03-06",
+    "kind": "certificate",
+    "status": "completed",
+    "period": "2026.03.06",
+    "title": {
+      "ko": "디지털정보활용능력 스프레드시트 고급",
+      "en": "Digital Information Ability Test (DIAT) — Spreadsheets, Advanced"
+    },
+    "summary": {
+      "ko": "한국정보통신진흥협회에서 발급한 디지털정보활용능력 스프레드시트 고급 자격을 취득했습니다.",
+      "en": "Earned 디지털정보활용능력 스프레드시트 고급, issued by Korea Association for ICT Promotion."
+    },
+    "featured": false,
+    "tags": [
+      "office-software",
+      "kait",
+      "diat",
+      "digital-literacy",
+      "spreadsheets"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "발급 기관: 한국정보통신진흥협회",
+          "en": "Issuer: Korea Association for ICT Promotion"
+        },
+        {
+          "ko": "자격 구분: 공인민간",
+          "en": "Credential category: 공인민간"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "diat-internet-search-advanced",
+    "sortDate": "2026-03-06",
+    "kind": "certificate",
+    "status": "completed",
+    "period": "2026.03.06",
+    "title": {
+      "ko": "디지털정보활용능력 인터넷정보검색 고급",
+      "en": "Digital Information Ability Test (DIAT) — Internet Information Search, Advanced"
+    },
+    "summary": {
+      "ko": "한국정보통신진흥협회에서 발급한 디지털정보활용능력 인터넷정보검색 고급 자격을 취득했습니다.",
+      "en": "Earned 디지털정보활용능력 인터넷정보검색 고급, issued by Korea Association for ICT Promotion."
+    },
+    "featured": false,
+    "tags": [
+      "digital-literacy",
+      "kait",
+      "diat",
+      "internet-search"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "발급 기관: 한국정보통신진흥협회",
+          "en": "Issuer: Korea Association for ICT Promotion"
+        },
+        {
+          "ko": "자격 구분: 공인민간",
+          "en": "Credential category: 공인민간"
+        }
+      ]
+    },
+    "links": []
   },
   {
     "slug": "korean-history-level-2",
     "sortDate": "2026-02-20",
     "kind": "certificate",
     "status": "completed",
-    "period": "2026.02",
+    "period": "2026.02.20",
     "title": {
       "ko": "한국사능력검정시험 2급",
-      "en": "Korean History Proficiency Test Level 2"
+      "en": "Korean History Proficiency Test — Level 2"
     },
     "summary": {
-      "ko": "국사편찬위원회 한국사능력검정시험 2급을 취득했습니다.",
-      "en": "Earned Level 2 of the Korean History Proficiency Test."
+      "ko": "국사편찬위원회에서 발급한 한국사능력검정시험 2급 자격을 취득했습니다.",
+      "en": "Earned 한국사능력검정시험 2급, issued by National Institute of Korean History."
     },
     "featured": false,
     "tags": [
-      "certificate",
       "history"
-    ]
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "발급 기관: 국사편찬위원회",
+          "en": "Issuer: National Institute of Korean History"
+        },
+        {
+          "ko": "자격 구분: 국가인증",
+          "en": "Credential category: 국가인증"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "word-processor",
+    "sortDate": "2026-02-10",
+    "kind": "certificate",
+    "status": "completed",
+    "period": "2026.02.10",
+    "title": {
+      "ko": "워드프로세서",
+      "en": "Word Processor Specialist"
+    },
+    "summary": {
+      "ko": "대한상공회의소에서 발급한 워드프로세서 자격을 취득했습니다.",
+      "en": "Earned Word Processor Specialist, issued by the Korea Chamber of Commerce & Industry."
+    },
+    "featured": false,
+    "tags": [
+      "office-software",
+      "word-processing"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "발급 기관: 대한상공회의소",
+          "en": "Issuer: the Korea Chamber of Commerce & Industry"
+        },
+        {
+          "ko": "자격 구분: 국가기술(서비스)",
+          "en": "Credential category: 국가기술(서비스)"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "secretary-level-1",
+    "sortDate": "2026-02-10",
+    "kind": "certificate",
+    "status": "completed",
+    "period": "2026.02.10",
+    "title": {
+      "ko": "비서 1급",
+      "en": "Secretarial Administrator — Level 1"
+    },
+    "summary": {
+      "ko": "대한상공회의소에서 발급한 비서 1급 자격을 취득했습니다.",
+      "en": "Earned 비서 1급, issued by the Korea Chamber of Commerce & Industry."
+    },
+    "featured": false,
+    "tags": [
+      "office-administration"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "발급 기관: 대한상공회의소",
+          "en": "Issuer: the Korea Chamber of Commerce & Industry"
+        },
+        {
+          "ko": "자격 구분: 국가기술(서비스)",
+          "en": "Credential category: 국가기술(서비스)"
+        }
+      ]
+    },
+    "links": []
   },
   {
     "slug": "ict-technician-beginner",
@@ -138,61 +455,190 @@
     "status": "completed",
     "period": "2025.11.18",
     "title": {
-      "ko": "ICT기술자 초급",
-      "en": "ICT Technician, Beginner Level"
+      "ko": "기술계 정보통신기술자 초급기술자",
+      "en": "기술계 정보통신기술자 초급기술자"
     },
     "summary": {
-      "ko": "ICT기술자 초급 자격을 취득했습니다.",
-      "en": "Earned the beginner-level ICT Technician qualification."
+      "ko": "한국정보통신공사협회에서 발급한 기술계 정보통신기술자 초급기술자 자격을 취득했습니다.",
+      "en": "Earned 기술계 정보통신기술자 초급기술자, issued by 한국정보통신공사협회."
     },
     "featured": false,
     "tags": [
-      "certificate",
-      "information-technology",
-      "technical-support"
-    ]
+      "network"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "발급 기관: 한국정보통신공사협회",
+          "en": "Issuer: 한국정보통신공사협회"
+        },
+        {
+          "ko": "자격 구분: 국가인증",
+          "en": "Credential category: 국가인증"
+        }
+      ]
+    },
+    "links": []
   },
   {
     "slug": "information-processing-industrial-engineer",
     "sortDate": "2025-09-12",
     "kind": "certificate",
     "status": "completed",
-    "period": "2025.09",
+    "period": "2025.09.12",
     "title": {
       "ko": "정보처리산업기사",
       "en": "Industrial Engineer Information Processing"
     },
     "summary": {
-      "ko": "한국산업인력공단 국가기술자격을 취득했습니다.",
-      "en": "Earned the national technical qualification administered by HRDKorea."
+      "ko": "한국산업인력공단에서 발급한 정보처리산업기사 자격을 취득했습니다.",
+      "en": "Earned Industrial Engineer Information Processing, issued by Human Resources Development Service of Korea."
     },
     "featured": false,
     "tags": [
-      "certificate",
-      "computer-engineering",
-      "software"
-    ]
+      "programming"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "발급 기관: 한국산업인력공단",
+          "en": "Issuer: Human Resources Development Service of Korea"
+        },
+        {
+          "ko": "자격 구분: 국가기술(산업기사)",
+          "en": "Credential category: 국가기술(산업기사)"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "unmanned-vtol-pilot-class-4",
+    "sortDate": "2025-09-01",
+    "kind": "certificate",
+    "status": "completed",
+    "period": "2025.09.01",
+    "title": {
+      "ko": "초경량비행장치조종자(무인수직이착륙기) 4종",
+      "en": "초경량비행장치조종자(무인수직이착륙기) 4종"
+    },
+    "summary": {
+      "ko": "한국교통안전공단에서 발급한 초경량비행장치조종자(무인수직이착륙기) 4종 자격을 취득했습니다.",
+      "en": "Earned 초경량비행장치조종자(무인수직이착륙기) 4종, issued by Korea Transportation Safety Authority."
+    },
+    "featured": false,
+    "tags": [
+      "drone"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "발급 기관: 한국교통안전공단",
+          "en": "Issuer: Korea Transportation Safety Authority"
+        },
+        {
+          "ko": "자격 구분: 면허",
+          "en": "Credential category: 면허"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "unmanned-multicopter-pilot-class-4",
+    "sortDate": "2025-09-01",
+    "kind": "certificate",
+    "status": "completed",
+    "period": "2025.09.01",
+    "title": {
+      "ko": "초경량비행장치조종자(무인멀티콥터) 4종",
+      "en": "초경량비행장치조종자(무인멀티콥터) 4종"
+    },
+    "summary": {
+      "ko": "한국교통안전공단에서 발급한 초경량비행장치조종자(무인멀티콥터) 4종 자격을 취득했습니다.",
+      "en": "Earned 초경량비행장치조종자(무인멀티콥터) 4종, issued by Korea Transportation Safety Authority."
+    },
+    "featured": false,
+    "tags": [
+      "drone"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "발급 기관: 한국교통안전공단",
+          "en": "Issuer: Korea Transportation Safety Authority"
+        },
+        {
+          "ko": "자격 구분: 면허",
+          "en": "Credential category: 면허"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "unmanned-helicopter-pilot-class-4",
+    "sortDate": "2025-09-01",
+    "kind": "certificate",
+    "status": "completed",
+    "period": "2025.09.01",
+    "title": {
+      "ko": "초경량비행장치조종자(무인헬리콥터) 4종",
+      "en": "초경량비행장치조종자(무인헬리콥터) 4종"
+    },
+    "summary": {
+      "ko": "한국교통안전공단에서 발급한 초경량비행장치조종자(무인헬리콥터) 4종 자격을 취득했습니다.",
+      "en": "Earned 초경량비행장치조종자(무인헬리콥터) 4종, issued by Korea Transportation Safety Authority."
+    },
+    "featured": false,
+    "tags": [
+      "drone"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "발급 기관: 한국교통안전공단",
+          "en": "Issuer: Korea Transportation Safety Authority"
+        },
+        {
+          "ko": "자격 구분: 면허",
+          "en": "Credential category: 면허"
+        }
+      ]
+    },
+    "links": []
   },
   {
     "slug": "unmanned-aircraft-pilot-class-4",
     "sortDate": "2025-09-01",
     "kind": "certificate",
     "status": "completed",
-    "period": "2025.09",
+    "period": "2025.09.01",
     "title": {
-      "ko": "무인동력비행장치 4종 조종자",
-      "en": "Class 4 Unmanned Aircraft Pilot"
+      "ko": "초경량비행장치조종자(무인비행기) 4종",
+      "en": "초경량비행장치조종자(무인비행기) 4종"
     },
     "summary": {
-      "ko": "한국교통안전공단 무인비행장치 조종 자격을 취득했습니다.",
-      "en": "Earned the Class 4 unmanned aircraft pilot qualification from KOTSA."
+      "ko": "한국교통안전공단에서 발급한 초경량비행장치조종자(무인비행기) 4종 자격을 취득했습니다.",
+      "en": "Earned 초경량비행장치조종자(무인비행기) 4종, issued by Korea Transportation Safety Authority."
     },
     "featured": false,
     "tags": [
-      "certificate",
-      "drone",
-      "satellite"
-    ]
+      "drone"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "발급 기관: 한국교통안전공단",
+          "en": "Issuer: Korea Transportation Safety Authority"
+        },
+        {
+          "ko": "자격 구분: 면허",
+          "en": "Credential category: 면허"
+        }
+      ]
+    },
+    "links": []
   },
   {
     "slug": "drivers-license-class-1",
@@ -201,39 +647,62 @@
     "status": "completed",
     "period": "2023.01.31",
     "title": {
-      "ko": "자동차운전면허 1종 보통",
-      "en": "Class 1 Ordinary Driver's License"
+      "ko": "자동차운전면허증 1종보통",
+      "en": "자동차운전면허증 1종보통"
     },
     "summary": {
-      "ko": "자동차운전면허 1종 보통을 취득했습니다.",
-      "en": "Earned a Class 1 ordinary driver's license."
+      "ko": "대전지방경찰청에서 발급한 자동차운전면허증 1종보통 자격을 취득했습니다.",
+      "en": "Earned 자동차운전면허증 1종보통, issued by 대전지방경찰청."
     },
     "featured": false,
     "tags": [
-      "certificate",
       "driving"
-    ]
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "발급 기관: 대전지방경찰청",
+          "en": "Issuer: 대전지방경찰청"
+        },
+        {
+          "ko": "자격 구분: 면허",
+          "en": "Credential category: 면허"
+        }
+      ]
+    },
+    "links": []
   },
   {
     "slug": "information-processing-technician",
     "sortDate": "2021-10-01",
     "kind": "certificate",
     "status": "completed",
-    "period": "2021.10",
+    "period": "2021.10.01",
     "title": {
-      "ko": "정보처리기능사",
-      "en": "Craftsman Information Processing"
+      "ko": "프로그래밍기능사 [舊 정보처리기능사]",
+      "en": "프로그래밍기능사 [舊 정보처리기능사]"
     },
     "summary": {
-      "ko": "한국산업인력공단 국가기술자격을 취득했습니다.",
-      "en": "Earned the national technical qualification administered by HRDKorea."
+      "ko": "한국산업인력공단에서 발급한 프로그래밍기능사 [舊 정보처리기능사] 자격을 취득했습니다.",
+      "en": "Earned 프로그래밍기능사 [舊 정보처리기능사], issued by Human Resources Development Service of Korea."
     },
     "featured": false,
     "tags": [
-      "certificate",
-      "computer-engineering",
-      "software"
-    ]
+      "programming"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "발급 기관: 한국산업인력공단",
+          "en": "Issuer: Human Resources Development Service of Korea"
+        },
+        {
+          "ko": "자격 구분: 국가기술(기능사)",
+          "en": "Credential category: 국가기술(기능사)"
+        }
+      ]
+    },
+    "links": []
   },
   {
     "slug": "omok-5-kyu",
@@ -243,18 +712,30 @@
     "period": "2019.11.16",
     "title": {
       "ko": "오목 5급",
-      "en": "Omok 5-kyu"
+      "en": "오목 5급"
     },
     "summary": {
-      "ko": "대한오목협회 오목 5급을 인허받았습니다.",
-      "en": "Received 5-kyu certification from the Korea Omok Association."
+      "ko": "대한오목협회에서 발급한 오목 5급 자격을 취득했습니다.",
+      "en": "Earned 오목 5급, issued by 대한오목협회."
     },
     "featured": false,
     "tags": [
-      "certificate",
       "omok",
-      "mind-sport"
-    ]
+      "board-game"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "발급 기관: 대한오목협회",
+          "en": "Issuer: 대한오목협회"
+        },
+        {
+          "ko": "자격 구분: 스포츠",
+          "en": "Credential category: 스포츠"
+        }
+      ]
+    },
+    "links": []
   },
   {
     "slug": "kendo-6-kyu",
@@ -264,17 +745,241 @@
     "period": "2017.08.01",
     "title": {
       "ko": "검도 6급",
-      "en": "Kendo 6-kyu"
+      "en": "검도 6급"
     },
     "summary": {
-      "ko": "검도 6급을 취득했습니다.",
-      "en": "Earned kendo 6-kyu."
+      "ko": "충청남도검도회에서 발급한 검도 6급 자격을 취득했습니다.",
+      "en": "Earned 검도 6급, issued by 충청남도검도회."
     },
     "featured": false,
     "tags": [
-      "certificate",
       "kendo",
       "sports"
-    ]
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "발급 기관: 충청남도검도회",
+          "en": "Issuer: 충청남도검도회"
+        },
+        {
+          "ko": "자격 구분: 스포츠",
+          "en": "Credential category: 스포츠"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "gtq-graphics-level-2",
+    "sortDate": "2017-01-13",
+    "kind": "certificate",
+    "status": "completed",
+    "period": "2017.01.13",
+    "title": {
+      "ko": "GTQ그래픽기술자격 2급",
+      "en": "GTQ (Graphic Technology Qualification) — Level 2"
+    },
+    "summary": {
+      "ko": "한국생산성본부에서 발급한 GTQ그래픽기술자격 2급 자격을 취득했습니다.",
+      "en": "Earned GTQ그래픽기술자격 2급, issued by Korea Productivity Center."
+    },
+    "featured": false,
+    "tags": [
+      "graphic-design",
+      "kpc",
+      "gtq",
+      "art"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "발급 기관: 한국생산성본부",
+          "en": "Issuer: Korea Productivity Center"
+        },
+        {
+          "ko": "자격 구분: 공인민간",
+          "en": "Credential category: 공인민간"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "itq-oa-master",
+    "sortDate": "2016-08-08",
+    "kind": "certificate",
+    "status": "completed",
+    "period": "2016.08.08",
+    "title": {
+      "ko": "ITQ OA Master",
+      "en": "ITQ OA Master"
+    },
+    "summary": {
+      "ko": "한국생산성본부에서 발급한 ITQ OA Master 자격을 취득했습니다.",
+      "en": "Earned ITQ OA Master, issued by Korea Productivity Center."
+    },
+    "featured": false,
+    "tags": [
+      "office-software",
+      "kpc",
+      "itq"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "발급 기관: 한국생산성본부",
+          "en": "Issuer: Korea Productivity Center"
+        },
+        {
+          "ko": "자격 구분: 민간인증",
+          "en": "Credential category: 민간인증"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "itq-hangul-a",
+    "sortDate": "2016-07-28",
+    "kind": "certificate",
+    "status": "completed",
+    "period": "2016.07.28",
+    "title": {
+      "ko": "ITQ정보기술자격 아래한글 A등급",
+      "en": "ITQ — Hangul, Grade A"
+    },
+    "summary": {
+      "ko": "한국생산성본부에서 발급한 ITQ정보기술자격 아래한글 A등급 자격을 취득했습니다.",
+      "en": "Earned ITQ정보기술자격 아래한글 A등급, issued by Korea Productivity Center."
+    },
+    "featured": false,
+    "tags": [
+      "office-software",
+      "kpc",
+      "itq",
+      "hangul",
+      "word-processing"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "발급 기관: 한국생산성본부",
+          "en": "Issuer: Korea Productivity Center"
+        },
+        {
+          "ko": "자격 구분: 공인민간",
+          "en": "Credential category: 공인민간"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "itq-internet-a",
+    "sortDate": "2016-06-02",
+    "kind": "certificate",
+    "status": "completed",
+    "period": "2016.06.02",
+    "title": {
+      "ko": "ITQ정보기술자격 인터넷 A등급",
+      "en": "ITQ — Internet, Grade A"
+    },
+    "summary": {
+      "ko": "한국생산성본부에서 발급한 ITQ정보기술자격 인터넷 A등급 자격을 취득했습니다.",
+      "en": "Earned ITQ정보기술자격 인터넷 A등급, issued by Korea Productivity Center."
+    },
+    "featured": false,
+    "tags": [
+      "digital-literacy",
+      "kpc",
+      "itq",
+      "internet-search"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "발급 기관: 한국생산성본부",
+          "en": "Issuer: Korea Productivity Center"
+        },
+        {
+          "ko": "자격 구분: 공인민간",
+          "en": "Credential category: 공인민간"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "itq-excel-a",
+    "sortDate": "2015-12-31",
+    "kind": "certificate",
+    "status": "completed",
+    "period": "2015.12.31",
+    "title": {
+      "ko": "ITQ정보기술자격 한글엑셀 A등급",
+      "en": "ITQ — Excel, Grade A"
+    },
+    "summary": {
+      "ko": "한국생산성본부에서 발급한 ITQ정보기술자격 한글엑셀 A등급 자격을 취득했습니다.",
+      "en": "Earned ITQ정보기술자격 한글엑셀 A등급, issued by Korea Productivity Center."
+    },
+    "featured": false,
+    "tags": [
+      "office-software",
+      "kpc",
+      "itq",
+      "excel",
+      "spreadsheets"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "발급 기관: 한국생산성본부",
+          "en": "Issuer: Korea Productivity Center"
+        },
+        {
+          "ko": "자격 구분: 공인민간",
+          "en": "Credential category: 공인민간"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "itq-powerpoint-b",
+    "sortDate": "2015-07-02",
+    "kind": "certificate",
+    "status": "completed",
+    "period": "2015.07.02",
+    "title": {
+      "ko": "ITQ정보기술자격 한글파워포인트 B등급",
+      "en": "ITQ — PowerPoint, Grade B"
+    },
+    "summary": {
+      "ko": "한국생산성본부에서 발급한 ITQ정보기술자격 한글파워포인트 B등급 자격을 취득했습니다.",
+      "en": "Earned ITQ정보기술자격 한글파워포인트 B등급, issued by Korea Productivity Center."
+    },
+    "featured": false,
+    "tags": [
+      "office-software",
+      "kpc",
+      "itq",
+      "powerpoint",
+      "presentation"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "발급 기관: 한국생산성본부",
+          "en": "Issuer: Korea Productivity Center"
+        },
+        {
+          "ko": "자격 구분: 공인민간",
+          "en": "Credential category: 공인민간"
+        }
+      ]
+    },
+    "links": []
   }
 ]

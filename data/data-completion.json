@@ -1,790 +1,1461 @@
 [
   {
-    "slug": "academic-credit-bank-course-history",
-    "sortDate": "2026-08-31",
-    "kind": "completion",
-    "status": "completed",
-    "period": "2025.12 — 2026.08",
-    "title": {
-      "ko": "학점은행제 멀티미디어학 인정 과목",
-      "en": "Academic Credit Bank Multimedia Coursework"
-    },
-    "summary": {
-      "ko": "평가인정 학습과정, 독학학위제와 자격을 통해 멀티미디어학 전문학사 학점을 구성했습니다.",
-      "en": "Built an associate-degree credit portfolio through accredited courses, self-study examinations, and certifications."
-    },
-    "featured": false,
-    "tags": [
-      "education",
-      "coursework",
-      "multimedia"
-    ],
-    "detail": {
-      "outcomes": [
-        {
-          "ko": "평가학습인정: 멀티미디어개론, 경제학개론, 컴퓨터개론, 인터넷프로그래밍, 데이터베이스, 한의학개론",
-          "en": "Accredited study: Introduction to Multimedia, Economics, Computer Science, Internet Programming, Databases, and Korean Medicine"
-        },
-        {
-          "ko": "독학학위제: 자연과학의이해, 컴퓨터의이해, 국어, 국사, 영어, 논리회로, C프로그래밍, 자료구조, 운영체제, 이산구조, 컴퓨터구조",
-          "en": "Self-study examinations: Natural Science, Computers, Korean, Korean History, English, Logic Circuits, C Programming, Data Structures, Operating Systems, Discrete Structures, and Computer Architecture"
-        },
-        {
-          "ko": "자격 학점: GTQ 2급, 비서 1급",
-          "en": "Certification credit: GTQ Level 2 and Secretary Level 1"
-        }
-      ]
-    }
-  },
-  {
-    "slug": "khu-course-history",
-    "sortDate": "2026-08-31",
-    "kind": "completion",
-    "status": "completed",
-    "period": "2023 — 2026",
-    "title": {
-      "ko": "경희대학교 전공 이수 교과",
-      "en": "Kyung Hee University Coursework"
-    },
-    "summary": {
-      "ko": "컴퓨터공학과 응용수학을 중심으로 19개 전공·기초 과목과 실감미디어기술 마이크로디그리를 이수했습니다.",
-      "en": "Completed 19 major and foundation courses centered on computer engineering and applied mathematics, plus an immersive-media microdegree."
-    },
-    "featured": false,
-    "tags": [
-      "education",
-      "coursework",
-      "computer-engineering",
-      "applied-mathematics",
-      "kyunghee"
-    ],
-    "detail": {
-      "outcomes": [
-        {
-          "ko": "2023-1: 물리학및실험Ⅰ, 미분적분학, 선형대수, 웹/파이선프로그래밍",
-          "en": "Spring 2023: Physics and Lab I, Calculus, Linear Algebra, Web/Python Programming"
-        },
-        {
-          "ko": "2023-2: 객체지향프로그래밍, 디자인적사고, 오픈소스SW개발방법및도구(2025-1 청강 포함)",
-          "en": "Fall 2023: Object-oriented Programming, Design Thinking, Open-source Software Methods and Tools (audited again in 2025)"
-        },
-        {
-          "ko": "2024-1: UI/UX프로그래밍, 이산구조, 확률및랜덤변수",
-          "en": "Spring 2024: UI/UX Programming, Discrete Structures, Probability and Random Variables"
-        },
-        {
-          "ko": "2024-2: 기계학습, 논리회로, 자료구조, 컴퓨터구조, 컴퓨터네트워크",
-          "en": "Fall 2024: Machine Learning, Logic Circuits, Data Structures, Computer Architecture, Computer Networks"
-        },
-        {
-          "ko": "2024-겨울: 리눅스시스템(숙명여대 학점교류)",
-          "en": "Winter 2024: Linux Systems through Sookmyung Women's University credit exchange"
-        },
-        {
-          "ko": "2025-1: 알고리즘, 운영체제; 2026-여름: 미분방정식",
-          "en": "Spring 2025: Algorithms, Operating Systems; Summer 2026: Differential Equations"
-        },
-        {
-          "ko": "실감미디어기술 마이크로디그리: 객체지향프로그래밍, UI/UX프로그래밍",
-          "en": "Immersive Media Technology microdegree: Object-oriented Programming and UI/UX Programming"
-        }
-      ]
-    }
-  },
-  {
     "slug": "seoul-course-data-illusion",
     "sortDate": "2026-02-04",
     "kind": "completion",
     "status": "completed",
-    "period": "2026.02.04 · 2h",
+    "period": "2026.02.04",
     "title": {
       "ko": "데이터를 안다는 착각",
       "en": "The Illusion of Knowing Data"
     },
     "summary": {
-      "ko": "조성준 교수의 서울시민대학 강좌를 2시간 이수했습니다.",
-      "en": "Completed a two-hour Seoul Open City University lecture by Professor Sungjun Cho."
+      "ko": "개설기관: 서울특별시 · 교강사: 조성준 교수 (서울대학교) · 이수 분량: 2시간",
+      "en": "Completed a course offered by Seoul Metropolitan Government. Duration: 2 hours. Instructor: 조성준 교수 (서울대학교)."
     },
     "featured": false,
     "tags": [
-      "course",
       "data-science",
-      "statistics"
-    ]
+      "statistics",
+      "mathematics"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "개설기관: 서울특별시",
+          "en": "Provider: 서울특별시"
+        },
+        {
+          "ko": "교강사: 조성준 교수 (서울대학교)",
+          "en": "Instructor: 조성준 교수 (서울대학교)"
+        },
+        {
+          "ko": "이수 분량: 2시간",
+          "en": "Duration: 2시간"
+        }
+      ]
+    },
+    "links": []
   },
   {
     "slug": "seoul-course-thought-it-was-science",
     "sortDate": "2026-01-19",
     "kind": "completion",
     "status": "completed",
-    "period": "2026.01.19 · 2h",
+    "period": "2026.01.19",
     "title": {
       "ko": "과학인 줄 알았지?",
       "en": "You Thought It Was Science?"
     },
     "summary": {
-      "ko": "과학적 사고를 다룬 서울시민대학 강좌를 2시간 이수했습니다.",
-      "en": "Completed a two-hour Seoul Open City University course on scientific thinking."
+      "ko": "개설기관: 서울특별시 · 이수 분량: 2시간",
+      "en": "Completed a course offered by Seoul Metropolitan Government. Duration: 2 hours."
     },
     "featured": false,
     "tags": [
-      "course",
-      "science",
-      "critical-thinking"
-    ]
+      "natural-science"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "개설기관: 서울특별시",
+          "en": "Provider: 서울특별시"
+        },
+        {
+          "ko": "이수 분량: 2시간",
+          "en": "Duration: 2시간"
+        }
+      ]
+    },
+    "links": []
   },
   {
     "slug": "seoul-course-it-with-a-difference",
     "sortDate": "2026-01-09",
     "kind": "completion",
     "status": "completed",
-    "period": "2026.01.09 · 2h",
+    "period": "2026.01.09",
     "title": {
       "ko": "차이나는 IT",
-      "en": "IT with a Difference"
+      "en": "IT with a Difference: China and the Tech Divide"
     },
     "summary": {
-      "ko": "이임복 강사의 IT 강좌를 2시간 이수했습니다.",
-      "en": "Completed a two-hour IT lecture by Imbok Lee."
+      "ko": "개설기관: 서울특별시 · 교강사: 이임복 대표 (세컨드브레인연구소) · 이수 분량: 2시간",
+      "en": "Completed a course offered by Seoul Metropolitan Government. Duration: 2 hours. Instructor: 이임복 대표 (세컨드브레인연구소)."
     },
     "featured": false,
     "tags": [
-      "course",
-      "information-technology"
-    ]
+      "it-industry",
+      "economics",
+      "china",
+      "digital-divide"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "개설기관: 서울특별시",
+          "en": "Provider: 서울특별시"
+        },
+        {
+          "ko": "교강사: 이임복 대표 (세컨드브레인연구소)",
+          "en": "Instructor: 이임복 대표 (세컨드브레인연구소)"
+        },
+        {
+          "ko": "이수 분량: 2시간",
+          "en": "Duration: 2시간"
+        }
+      ]
+    },
+    "links": []
   },
   {
     "slug": "army-signal-advanced-leader-course",
     "sortDate": "2026-01-08",
     "kind": "completion",
     "status": "completed",
-    "period": "2026.01.08 · 1h",
+    "period": "2026.01.08",
     "title": {
       "ko": "26-1기 정보학교 신호 고급리더 과정",
-      "en": "26-1 Signal Advanced Leader Course"
+      "en": "Signal Advanced Leadership Course, Class 26-1 (정보학교)"
     },
     "summary": {
-      "ko": "육군교육사령부의 신호 고급리더 과정을 1시간 이수했습니다.",
-      "en": "Completed a one-hour signal advanced-leader course with the Army Training and Doctrine Command."
+      "ko": "개설기관: 육군교육사령부 · 이수 분량: 1시간",
+      "en": "Completed a course offered by 육군교육사령부. Duration: 1 hour."
     },
     "featured": false,
     "tags": [
-      "course",
       "military",
-      "signal",
-      "leadership"
-    ]
+      "network"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "개설기관: 육군교육사령부",
+          "en": "Provider: 육군교육사령부"
+        },
+        {
+          "ko": "이수 분량: 1시간",
+          "en": "Duration: 1시간"
+        }
+      ]
+    },
+    "links": []
   },
   {
     "slug": "seoul-course-no-unbreakable-cipher",
     "sortDate": "2026-01-03",
     "kind": "completion",
     "status": "completed",
-    "period": "2026.01.03 · 3h",
+    "period": "2026.01.03",
     "title": {
       "ko": "세상에 못 푸는 암호는 없다",
       "en": "No Cipher Is Unbreakable"
     },
     "summary": {
-      "ko": "정은진 교수의 암호 관련 서울시민대학 강좌를 3시간 이수했습니다.",
-      "en": "Completed a three-hour cryptography lecture by Professor Eunjin Jung."
+      "ko": "개설기관: 서울특별시 · 교강사: 정은진 교수 (샌프란시스코대학교) · 이수 분량: 3시간",
+      "en": "Completed a course offered by Seoul Metropolitan Government. Duration: 3 hours. Instructor: 정은진 교수 (샌프란시스코대학교)."
     },
     "featured": false,
     "tags": [
-      "course",
       "cryptography",
       "security"
-    ]
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "개설기관: 서울특별시",
+          "en": "Provider: 서울특별시"
+        },
+        {
+          "ko": "교강사: 정은진 교수 (샌프란시스코대학교)",
+          "en": "Instructor: 정은진 교수 (샌프란시스코대학교)"
+        },
+        {
+          "ko": "이수 분량: 3시간",
+          "en": "Duration: 3시간"
+        }
+      ]
+    },
+    "links": []
   },
   {
     "slug": "seoul-course-platform-economy",
     "sortDate": "2026-01-03",
     "kind": "completion",
     "status": "completed",
-    "period": "2026.01.03 · 2h",
+    "period": "2026.01.03",
     "title": {
       "ko": "플랫폼 경제와 공짜 점심",
       "en": "The Platform Economy and the Free Lunch"
     },
     "summary": {
-      "ko": "강성호 강사의 플랫폼 경제 강좌를 2시간 이수했습니다.",
-      "en": "Completed a two-hour platform-economy lecture by Seongho Kang."
+      "ko": "개설기관: 서울특별시 · 교강사: 강성호 연구자 (금융위원회) · 이수 분량: 2시간",
+      "en": "Completed a course offered by Seoul Metropolitan Government. Duration: 2 hours. Instructor: 강성호 연구자 (금융위원회)."
     },
     "featured": false,
     "tags": [
-      "course",
-      "platform",
-      "economics"
-    ]
-  },
-  {
-    "slug": "seoul-course-ai-game-planning",
-    "sortDate": "2025-12-30",
-    "kind": "completion",
-    "status": "completed",
-    "period": "2025.12.30 · 1h",
-    "title": {
-      "ko": "AI 기술을 활용한 게임 기획과 개발",
-      "en": "Game Planning and Development with AI"
+      "economics",
+      "platform-economy"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "개설기관: 서울특별시",
+          "en": "Provider: 서울특별시"
+        },
+        {
+          "ko": "교강사: 강성호 연구자 (금융위원회)",
+          "en": "Instructor: 강성호 연구자 (금융위원회)"
+        },
+        {
+          "ko": "이수 분량: 2시간",
+          "en": "Duration: 2시간"
+        }
+      ]
     },
-    "summary": {
-      "ko": "안현석 강사의 AI 게임 기획·개발 강좌를 1시간 이수했습니다.",
-      "en": "Completed a one-hour lecture by Hyunseok Ahn on game planning and development with AI."
-    },
-    "featured": false,
-    "tags": [
-      "course",
-      "ai",
-      "game-development"
-    ]
+    "links": []
   },
   {
     "slug": "seoul-course-all-about-lies",
     "sortDate": "2025-12-30",
     "kind": "completion",
     "status": "completed",
-    "period": "2025.12.30 · 3h",
+    "period": "2025.12.30",
     "title": {
       "ko": "거짓말에 대한 모든 것",
       "en": "Everything About Lies"
     },
     "summary": {
-      "ko": "류재언 강사의 강좌를 3시간 이수했습니다.",
-      "en": "Completed a three-hour lecture by Jae-eon Ryu."
+      "ko": "개설기관: 서울특별시 · 교강사: 류재언 변호사 (어센던트율본) · 이수 분량: 3시간",
+      "en": "Completed a course offered by Seoul Metropolitan Government. Duration: 3 hours. Instructor: 류재언 변호사 (어센던트율본)."
     },
     "featured": false,
     "tags": [
-      "course",
-      "communication",
       "psychology"
-    ]
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "개설기관: 서울특별시",
+          "en": "Provider: 서울특별시"
+        },
+        {
+          "ko": "교강사: 류재언 변호사 (어센던트율본)",
+          "en": "Instructor: 류재언 변호사 (어센던트율본)"
+        },
+        {
+          "ko": "이수 분량: 3시간",
+          "en": "Duration: 3시간"
+        }
+      ]
+    },
+    "links": []
   },
   {
     "slug": "seoul-course-digital-reframe",
     "sortDate": "2025-12-30",
     "kind": "completion",
     "status": "completed",
-    "period": "2025.12.30 · 2h",
+    "period": "2025.12.30",
     "title": {
       "ko": "디지털 리프레임",
-      "en": "Digital Reframe"
+      "en": "Digital Reframing"
     },
     "summary": {
-      "ko": "장영재 교수의 디지털 전환 강좌를 2시간 이수했습니다.",
-      "en": "Completed a two-hour digital-transformation lecture by Professor Youngjae Chang."
+      "ko": "개설기관: 서울특별시 · 교강사: 장영재 교수 (KAIST) · 이수 분량: 2시간",
+      "en": "Completed a course offered by Seoul Metropolitan Government. Duration: 2 hours. Instructor: 장영재 교수 (KAIST)."
     },
     "featured": false,
     "tags": [
-      "course",
-      "digital-transformation",
-      "technology"
-    ]
+      "digital-literacy"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "개설기관: 서울특별시",
+          "en": "Provider: 서울특별시"
+        },
+        {
+          "ko": "교강사: 장영재 교수 (KAIST)",
+          "en": "Instructor: 장영재 교수 (KAIST)"
+        },
+        {
+          "ko": "이수 분량: 2시간",
+          "en": "Duration: 2시간"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "seoul-course-ai-game-planning",
+    "sortDate": "2025-12-30",
+    "kind": "completion",
+    "status": "completed",
+    "period": "2025.12.30",
+    "title": {
+      "ko": "인공지능기술 활용사례 - 게임 기획/개발 분야",
+      "en": "Applications of AI: Game Planning and Development"
+    },
+    "summary": {
+      "ko": "개설기관: 서울특별시 · 교강사: 안현석 개발자 (에이스프로젝트) · 이수 분량: 1시간",
+      "en": "Completed a course offered by Seoul Metropolitan Government. Duration: 1 hour. Instructor: 안현석 개발자 (에이스프로젝트)."
+    },
+    "featured": false,
+    "tags": [
+      "ai",
+      "game-development"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "개설기관: 서울특별시",
+          "en": "Provider: 서울특별시"
+        },
+        {
+          "ko": "교강사: 안현석 개발자 (에이스프로젝트)",
+          "en": "Instructor: 안현석 개발자 (에이스프로젝트)"
+        },
+        {
+          "ko": "이수 분량: 1시간",
+          "en": "Duration: 1시간"
+        }
+      ]
+    },
+    "links": []
   },
   {
     "slug": "ctl-ppt-course-materials",
     "sortDate": "2025-12-29",
     "kind": "completion",
     "status": "completed",
-    "period": "2025.12.29 · 2 sessions",
+    "period": "2025.12.29",
     "title": {
-      "ko": "파워포인트 수업자료의 개발과 활용",
-      "en": "Developing and Using PowerPoint Course Materials"
+      "ko": "파워포인트 수업자료의 개발과 활용[교수법]",
+      "en": "Developing and Using PowerPoint Teaching Materials"
     },
     "summary": {
-      "ko": "류지헌 교수의 교수법 강좌를 2차시 이수했습니다.",
-      "en": "Completed two sessions of a teaching-method course by Professor Jiheon Ryu."
+      "ko": "개설기관: 교수학습개발원 · 교강사: 류지헌 교수 (전남대학교) · 이수 분량: 2차시",
+      "en": "Completed a course offered by the Center for Teaching and Learning. Duration: 2 sessions. Instructor: 류지헌 교수 (전남대학교)."
     },
     "featured": false,
     "tags": [
-      "course",
-      "teaching-method",
+      "education",
       "presentation",
-      "education"
-    ]
+      "powerpoint",
+      "instructional-design",
+      "office-software"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "개설기관: 교수학습개발원",
+          "en": "Provider: 교수학습개발원"
+        },
+        {
+          "ko": "교강사: 류지헌 교수 (전남대학교)",
+          "en": "Instructor: 류지헌 교수 (전남대학교)"
+        },
+        {
+          "ko": "이수 분량: 2차시",
+          "en": "Duration: 2차시"
+        }
+      ]
+    },
+    "links": []
   },
   {
     "slug": "ctl-effective-lecture-strategies",
     "sortDate": "2025-12-28",
     "kind": "completion",
     "status": "completed",
-    "period": "2025.12.28 · 1 session",
+    "period": "2025.12.28",
     "title": {
-      "ko": "효과적인 강의를 위한 전략",
+      "ko": "효과적인 강의를 위한 전략[교수법]",
       "en": "Strategies for Effective Lectures"
     },
     "summary": {
-      "ko": "강정찬 교수의 교수법 강좌를 1차시 이수했습니다.",
-      "en": "Completed a teaching-method session by Professor Jeongchan Kang."
+      "ko": "개설기관: 교수학습개발원 · 교강사: 강정찬 교수 (신라대학교) · 이수 분량: 1차시",
+      "en": "Completed a course offered by the Center for Teaching and Learning. Duration: 1 session. Instructor: 강정찬 교수 (신라대학교)."
     },
     "featured": false,
     "tags": [
-      "course",
-      "teaching-method",
-      "education"
-    ]
+      "education",
+      "instructional-design"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "개설기관: 교수학습개발원",
+          "en": "Provider: 교수학습개발원"
+        },
+        {
+          "ko": "교강사: 강정찬 교수 (신라대학교)",
+          "en": "Instructor: 강정찬 교수 (신라대학교)"
+        },
+        {
+          "ko": "이수 분량: 1차시",
+          "en": "Duration: 1차시"
+        }
+      ]
+    },
+    "links": []
   },
   {
     "slug": "ctl-undergraduate-researcher",
     "sortDate": "2025-12-25",
     "kind": "completion",
     "status": "completed",
-    "period": "2025.12.25 · 4 sessions",
+    "period": "2025.12.25",
     "title": {
-      "ko": "슬기로운 경희생활: 학부연구생 편",
-      "en": "Wise KHU Life: Undergraduate Research"
+      "ko": "[2025-2] 슬기로운 경희생활: 학부연구생 편",
+      "en": "Making the Most of Kyung Hee University: Undergraduate Research (2025-2)"
     },
     "summary": {
-      "ko": "교수학습개발원의 학부연구생 관련 강좌를 4차시 이수했습니다.",
-      "en": "Completed four CTL sessions on undergraduate research."
+      "ko": "개설기관: 교수학습개발원 · 이수 분량: 4차시",
+      "en": "Completed a course offered by the Center for Teaching and Learning. Duration: 4 sessions."
     },
     "featured": false,
     "tags": [
-      "course",
-      "research",
-      "kyunghee"
-    ]
+      "khu"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "개설기관: 교수학습개발원",
+          "en": "Provider: 교수학습개발원"
+        },
+        {
+          "ko": "이수 분량: 4차시",
+          "en": "Duration: 4차시"
+        }
+      ]
+    },
+    "links": []
   },
   {
     "slug": "ctl-multiple-majors",
     "sortDate": "2025-12-23",
     "kind": "completion",
     "status": "completed",
-    "period": "2025.12.23 · 4 sessions",
+    "period": "2025.12.23",
     "title": {
-      "ko": "슬기로운 경희생활: 다전공 편",
-      "en": "Wise KHU Life: Multiple Majors"
+      "ko": "[2025-2] 슬기로운 경희생활: 다전공 편",
+      "en": "Making the Most of Kyung Hee University: Multiple Majors (2025-2)"
     },
     "summary": {
-      "ko": "교수학습개발원의 다전공 관련 강좌를 4차시 이수했습니다.",
-      "en": "Completed four CTL sessions on pursuing multiple majors."
+      "ko": "개설기관: 교수학습개발원 · 이수 분량: 4차시",
+      "en": "Completed a course offered by the Center for Teaching and Learning. Duration: 4 sessions."
     },
     "featured": false,
     "tags": [
-      "course",
-      "education",
-      "kyunghee"
-    ]
+      "khu"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "개설기관: 교수학습개발원",
+          "en": "Provider: 교수학습개발원"
+        },
+        {
+          "ko": "이수 분량: 4차시",
+          "en": "Duration: 4차시"
+        }
+      ]
+    },
+    "links": []
   },
   {
     "slug": "ctl-design-thinking-clinic",
     "sortDate": "2025-12-22",
     "kind": "completion",
     "status": "completed",
-    "period": "2025.12.22 · 6 sessions",
+    "period": "2025.12.22",
     "title": {
-      "ko": "협력적 문제해결 클리닉: 디자인싱킹",
-      "en": "Collaborative Problem-solving Clinic: Design Thinking"
+      "ko": "[2025-2] 협력적 문제해결 클리닉 (디자인싱킹: 생각을 설계하는 힘)",
+      "en": "Collaborative Problem-Solving Clinic: Design Thinking (2025-2)"
     },
     "summary": {
-      "ko": "권지은 박사의 디자인싱킹 기반 문제해결 강좌를 6차시 이수했습니다.",
-      "en": "Completed six sessions on design-thinking-based problem solving with Dr. Jieun Kwon."
+      "ko": "개설기관: 교수학습개발원 · 교강사: 권지은 박사 (AXL.T) · 이수 분량: 6차시",
+      "en": "Completed a course offered by the Center for Teaching and Learning. Duration: 6 sessions. Instructor: 권지은 박사 (AXL.T)."
     },
     "featured": false,
     "tags": [
-      "course",
-      "design-thinking",
-      "collaboration",
-      "problem-solving"
-    ]
+      "design-thinking"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "개설기관: 교수학습개발원",
+          "en": "Provider: 교수학습개발원"
+        },
+        {
+          "ko": "교강사: 권지은 박사 (AXL.T)",
+          "en": "Instructor: 권지은 박사 (AXL.T)"
+        },
+        {
+          "ko": "이수 분량: 6차시",
+          "en": "Duration: 6차시"
+        }
+      ]
+    },
+    "links": []
   },
   {
     "slug": "ctl-ppt-practical-tips",
     "sortDate": "2025-12-16",
     "kind": "completion",
     "status": "completed",
-    "period": "2025.12.16 · 6 sessions",
+    "period": "2025.12.16",
     "title": {
-      "ko": "실전에서 빠르고 유용한 PPT 활용 노하우",
-      "en": "Fast and Practical PowerPoint Techniques"
+      "ko": "[2025-2] 3차 학습법 특강(실전에서 빠르고 유용한 PPT 활용 노하우)",
+      "en": "Fast, Practical PowerPoint Techniques — Third Study-Skills Lecture (2025-2)"
     },
     "summary": {
-      "ko": "안수현 강사의 PPT 활용 강좌를 6차시 이수했습니다.",
-      "en": "Completed six sessions on practical PowerPoint techniques with Suhyun Ahn."
+      "ko": "개설기관: 교수학습개발원 · 교강사: 안수현 강사 (디어빌리티그룹) · 이수 분량: 6차시",
+      "en": "Completed a course offered by the Center for Teaching and Learning. Duration: 6 sessions. Instructor: 안수현 강사 (디어빌리티그룹)."
     },
     "featured": false,
     "tags": [
-      "course",
       "presentation",
-      "communication"
-    ]
+      "powerpoint",
+      "office-software"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "개설기관: 교수학습개발원",
+          "en": "Provider: 교수학습개발원"
+        },
+        {
+          "ko": "교강사: 안수현 강사 (디어빌리티그룹)",
+          "en": "Instructor: 안수현 강사 (디어빌리티그룹)"
+        },
+        {
+          "ko": "이수 분량: 6차시",
+          "en": "Duration: 6차시"
+        }
+      ]
+    },
+    "links": []
   },
   {
     "slug": "ctl-writing-a-syllabus",
     "sortDate": "2025-12-15",
     "kind": "completion",
     "status": "completed",
-    "period": "2025.12.15 · 1 session",
+    "period": "2025.12.15",
     "title": {
-      "ko": "수업계획서를 어떻게 작성하는가",
+      "ko": "수업계획서를 어떻게 작성하는가[교수법]",
       "en": "How to Write a Syllabus"
     },
     "summary": {
-      "ko": "박인우 교수의 교수법 강좌를 1차시 이수했습니다.",
-      "en": "Completed a teaching-method session on syllabus design by Professor Inwoo Park."
+      "ko": "개설기관: 교수학습개발원 · 교강사: 박인우 교수 (고려대학교) · 이수 분량: 1차시",
+      "en": "Completed a course offered by the Center for Teaching and Learning. Duration: 1 session. Instructor: 박인우 교수 (고려대학교)."
     },
     "featured": false,
     "tags": [
-      "course",
-      "teaching-method",
-      "curriculum",
-      "education"
-    ]
+      "education",
+      "instructional-design",
+      "writing"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "개설기관: 교수학습개발원",
+          "en": "Provider: 교수학습개발원"
+        },
+        {
+          "ko": "교강사: 박인우 교수 (고려대학교)",
+          "en": "Instructor: 박인우 교수 (고려대학교)"
+        },
+        {
+          "ko": "이수 분량: 1차시",
+          "en": "Duration: 1차시"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "khuda-7-completion",
+    "sortDate": "2025-07-09",
+    "kind": "completion",
+    "status": "completed",
+    "period": "2025.01.10 — 2025.07.09",
+    "title": {
+      "ko": "KHUDA 7기",
+      "en": "KHUDA — Cohort 7"
+    },
+    "summary": {
+      "ko": "KHUDA 7기를 수료했습니다.",
+      "en": "Completed the seventh cohort of KHUDA."
+    },
+    "featured": false,
+    "tags": [
+      "data-science",
+      "machine-learning",
+      "ai",
+      "khuda"
+    ],
+    "links": []
   },
   {
     "slug": "regional-field-practice-2025",
     "sortDate": "2025-07-07",
     "kind": "completion",
     "status": "completed",
-    "period": "2025.06.30 — 07.07",
+    "period": "2025.06.30. ~ 2025.07.07",
     "title": {
-      "ko": "지역사회 현장실습 프로젝트",
-      "en": "Regional Community Field Practice Project"
+      "ko": "지역현장실천프로젝트 (경희대학교 후마니타스칼리지 & 관악공동행동)",
+      "en": "Community Field-Practice Project (Kyung Hee University 후마니타스칼리지 · 관악공동행동)"
     },
     "summary": {
-      "ko": "지역사회 돌봄과 타임뱅크를 조사하고 현장 기반 프로젝트를 수행했습니다.",
-      "en": "Conducted field-based research on community care and time banking."
+      "ko": "대한성공회 봉천동나눔의집에서 ‘시간은행 形 지역 통합돌봄모델의 이해 및 기초조사’ 과제에 참여했습니다.",
+      "en": "Participated in a field-study project on time banking and community care at the 봉천동 나눔의집."
     },
     "featured": false,
     "tags": [
-      "program",
-      "fieldwork",
-      "community",
-      "social-value"
-    ]
+      "social-welfare",
+      "field-research",
+      "community-care",
+      "planning",
+      "khu"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "대한성공회 봉천동나눔의집에서 ‘시간은행 形 지역 통합돌봄모델의 이해 및 기초조사’ 과제에 참여했습니다. 두밥 프로젝트와 시간은행 프로젝트에 대해 이해하고, 관련 복지시설 및 기관을 방문했습니다. 최종 과제물로 공공 프로젝트 ‘이웃의 시간, 이웃의 꿈’, 공공 프로젝트 ‘길동무 상담회’, 시간은행 기반 ‘공간 공유형 돌봄 프로젝트’, 나눔의집 느티나무 및 화단 디자이닝을 제출했습니다. 또한 나눔의집 인근 아파트 단지 조사 결과를 정리하였습니다.",
+          "en": "Participated in a project on time-bank-based community care at 대한성공회 봉천동나눔의집. Studied its 두밥 and time-bank projects and visited local welfare facilities and organizations. Submitted proposals for 이웃의 시간, 이웃의 꿈, 길동무 상담회, a time-bank-based shared-space care project, and landscaping around the centre’s zelkova tree and flower beds. Also compiled a survey of nearby apartment complexes."
+        },
+        {
+          "ko": "드림한누리지역아동센터, 임대아파트 결연가정 두 곳, 성현동 주민센터, 드림2단지관리사무소, 장애인보호작업장 함께사는세상, 가족노숙인쉼터 살림터, 서울관악지역자활센터 및 산하 가게(푸른꿈가게, 우리동네 자전거 포 관악점) 등을 방문하며 관악 지역의 실태를 조사했습니다. 또한 관악주민연대 팀 및 대학동 프로젝트 팀과 활동 내용을 공유하며 관악 지역의 현황과 관악에서 이루어지는 시민단체 활동을 두루 이해했습니다. (지도교수: 강내영 교수 | 지도멘토: 김한승 신부)",
+          "en": "Visited 드림한누리지역아동센터, two partner households in rental housing, 성현동 주민센터, 드림2단지관리사무소, 함께사는세상, 살림터, and 서울관악지역자활센터 and its shops 푸른꿈가게 and 우리동네 자전거 포 관악점. Shared findings with the 관악주민연대 and 대학동 project teams to understand local conditions and civic activities. Faculty supervisor: 강내영; mentor: 김한승 신부."
+        }
+      ]
+    },
+    "links": []
   },
   {
     "slug": "netsec-kr-2025",
-    "sortDate": "2025-04-30",
+    "sortDate": "2025-04-18",
     "kind": "completion",
     "status": "completed",
-    "period": "2025 · 14h 10m",
+    "period": "2025.04.17. ~ 2025.04.18",
     "title": {
-      "ko": "NetSec-KR 2025",
+      "ko": "NetSec-KR 2025 (한국정보보호학회)",
       "en": "NetSec-KR 2025"
     },
     "summary": {
-      "ko": "네트워크 보안 관련 프로그램을 14시간 10분 이수했습니다.",
-      "en": "Completed 14 hours and 10 minutes of a network-security program."
+      "ko": "국가망 보안체계 N²SF 개념 및 주요 내용, 국가 암호기술 체계(이상 국가정보원), 최신 사이버안보 위협 실태 및 대응 방안(국가사이버안보센터), Cloud Native Application 개발 시 DevSecOps 구현 방안(올리브웍스 대표), N²SF 환경에서 국가 클라우드 보안 구현 전략(국가정보자원관리원 고광선 과장), 국내 적용 사례를 중심으로 한 클라우드 네이티브 보안 도입 방법(아스트론시큐리티 조근석 대표), 양자컴퓨팅 에뮬레이터를 이용한 해시 함수 기반 양자내성암호 안전성 동향 분석(ETRI 이종현), H/W 가속을 통한 쉽고 빠른 PQC 전환(ICTK 주범수 그룹장), 양자보안기술 이해와 글로벌 양자내성암호 전환 추진동향(서울대학교 이석윤 교수), 암호 프리미티브를 혼합한 양자 내성 체계 기술 동향(KISA 손기종 팀장) 등을 수강했습니다.",
+      "en": "Attended NetSec-KR 2025, including sessions on national network security, cloud security, cryptography, and post-quantum migration."
     },
     "featured": false,
     "tags": [
-      "program",
-      "network",
       "security",
-      "conference"
-    ]
+      "network",
+      "cryptography",
+      "kiisc",
+      "pqc",
+      "cloud",
+      "cloud-security",
+      "devsecops",
+      "quantum-computing"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "국가망 보안체계 N²SF 개념 및 주요 내용, 국가 암호기술 체계(이상 국가정보원), 최신 사이버안보 위협 실태 및 대응 방안(국가사이버안보센터), Cloud Native Application 개발 시 DevSecOps 구현 방안(올리브웍스 대표), N²SF 환경에서 국가 클라우드 보안 구현 전략(국가정보자원관리원 고광선 과장), 국내 적용 사례를 중심으로 한 클라우드 네이티브 보안 도입 방법(아스트론시큐리티 조근석 대표), 양자컴퓨팅 에뮬레이터를 이용한 해시 함수 기반 양자내성암호 안전성 동향 분석(ETRI 이종현), H/W 가속을 통한 쉽고 빠른 PQC 전환(ICTK 주범수 그룹장), 양자보안기술 이해와 글로벌 양자내성암호 전환 추진동향(서울대학교 이석윤 교수), 암호 프리미티브를 혼합한 양자 내성 체계 기술 동향(KISA 손기종 팀장) 등을 수강했습니다.",
+          "en": "Attended sessions on N²SF and the national cryptographic-technology framework (National Intelligence Service); current cyber threats and responses (국가사이버안보센터); DevSecOps for cloud-native applications (올리브웍스); national cloud security under N²SF (고광선, 국가정보자원관리원); cloud-native security deployment in Korea (조근석, 아스트론시큐리티); hash-based post-quantum cryptography analysed using a quantum-computing emulator (이종현, ETRI); hardware-accelerated PQC migration (주범수, ICTK); quantum-security technologies and global PQC migration (이석윤, Seoul National University); and hybrid post-quantum cryptographic primitives (손기종, KISA)."
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "bob-13-program",
+    "sortDate": "2025-03-28",
+    "kind": "completion",
+    "status": "completed",
+    "period": "2024.07.01. ~ 2025.03.28",
+    "title": {
+      "ko": "차세대 보안리더 양성 프로그램 Best of the Best 13기 (한국정보기술연구원)",
+      "en": "Best of the Best (BoB) — Cohort 13, Korea Information Technology Research Institute"
+    },
+    "summary": {
+      "ko": "BoB 13기 보안제품개발 트랙을 이수했습니다.",
+      "en": "Completed the Security Product Development track in the 13th Best of the Best cohort."
+    },
+    "featured": false,
+    "tags": [
+      "security",
+      "pqc",
+      "cryptography",
+      "embedded",
+      "bob",
+      "satellite",
+      "network",
+      "optimization",
+      "smaug-t",
+      "ebpf-xdp",
+      "autoencoder",
+      "machine-learning",
+      "ai"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "국내 최대 규모의 보안 분야 교육 프로그램인 BoB에서 보안제품개발 트랙(이경문 담임멘토)을 이수했습니다. 2차 교육 프로젝트로 ‘저성능 MCU 기반 인공위성의 PQC 하이브리드 암호화 모듈 설계 구현’을 진행했습니다(윤기순 · 한주성 멘토). 암호학 파트를 맡아 전반적인 이론을 보강하고 SMAUG-T를 최적화하였습니다. 3차 교육 그랑프리로 ‘eBPF/XDP와 autoencoder를 활용한 대용량 트래픽 분산 및 분석’의 사업화를 진행했습니다.",
+          "en": "Completed the BoB Security Product Development track under lead mentor 이경문. In the second-stage project, worked on 저성능 MCU 기반 인공위성의 PQC 하이브리드 암호화 모듈 설계 구현 with mentors 윤기순 and 한주성. Was responsible for cryptography, strengthened the theoretical foundation, and optimized SMAUG-T. In the third-stage Grand Prix, worked on commercializing eBPF/XDP와 autoencoder를 활용한 대용량 트래픽 분산 및 분석."
+        }
+      ]
+    },
+    "links": []
   },
   {
     "slug": "tekhu-conference-2024",
     "sortDate": "2024-06-01",
     "kind": "completion",
     "status": "completed",
-    "period": "2024.06.01 · 4 sessions",
+    "period": "2024.06.01",
     "title": {
       "ko": "2024 TE-KHU Conference",
       "en": "2024 TE-KHU Conference"
     },
     "summary": {
-      "ko": "경희대학교 컴퓨터공학부 학생회가 주관한 컨퍼런스를 4차시 이수했습니다.",
-      "en": "Completed four sessions at a conference organized by the KHU Computer Engineering Student Council."
+      "ko": "개설기관: 경희대학교 컴퓨터공학부 학생회 · 이수 분량: 4차시",
+      "en": "Completed a course offered by the the student council of Kyung Hee University’s Department of Computer Science and Engineering. Duration: 4 sessions."
     },
     "featured": false,
     "tags": [
-      "course",
-      "conference",
-      "computer-engineering",
-      "kyunghee"
-    ]
+      "computer-science",
+      "khu"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "개설기관: 경희대학교 컴퓨터공학부 학생회",
+          "en": "Provider: 경희대학교 컴퓨터공학부 학생회"
+        },
+        {
+          "ko": "이수 분량: 4차시",
+          "en": "Duration: 4차시"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "susc-winter-2023-learning",
+    "sortDate": "2024-02-25",
+    "kind": "completion",
+    "status": "completed",
+    "period": "2024.01.20. ~ 2024.02.25",
+    "title": {
+      "ko": "2023 Winter 대학방학교류 (SUSC)",
+      "en": "SUSC 2023 Winter Study Exchange"
+    },
+    "summary": {
+      "ko": "6개 대학 IT 동아리가 연합하여 진행한 방학 교류 활동입니다.",
+      "en": "Completed algorithm and security courses during SUSC 2023 Winter and attended an OpenStack lecture."
+    },
+    "featured": false,
+    "tags": [
+      "algorithm",
+      "security",
+      "susc",
+      "cloud",
+      "openstack",
+      "planning",
+      "event-operations"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "6개 대학 IT 동아리가 연합하여 진행한 방학 교류 활동입니다. 알고리즘(김민상 · 김서윤 멘토), 보안(정상수 멘토) 과정을 이수했습니다. ‘오픈스택으로 공부하는 클라우드 인프라 서비스의 구조’(조성수 멘토)를 수강했습니다. 운영진으로서 전반적인 활동 기획 및 진행에 참여했습니다.",
+          "en": "Joined a vacation study exchange organized by IT clubs from six universities. Completed algorithms sessions with mentors 김민상 and 김서윤 and security sessions with 정상수. Attended 오픈스택으로 공부하는 클라우드 인프라 서비스의 구조 with 조성수. Also helped plan and run the programme as an organizer."
+        }
+      ]
+    },
+    "links": []
   },
   {
     "slug": "susc-openstack-architecture",
     "sortDate": "2024-02-03",
     "kind": "completion",
     "status": "completed",
-    "period": "2024.02.03 · 2h",
+    "period": "2024.02.03",
     "title": {
-      "ko": "OpenStack 클라우드 인프라 아키텍처",
-      "en": "OpenStack Cloud Infrastructure Architecture"
+      "ko": "오픈스택으로 공부하는 클라우드 인프라 서비스의 구조",
+      "en": "Understanding Cloud Infrastructure Services through OpenStack"
     },
     "summary": {
-      "ko": "조성수 강사의 SUSC OpenStack 강좌를 2시간 이수했습니다.",
-      "en": "Completed a two-hour SUSC OpenStack lecture by Seongsu Cho."
+      "ko": "개설기관: SUSC · 교강사: 조성수 (NHN Cloud) · 이수 분량: 2시간",
+      "en": "Completed a course offered by SUSC. Duration: 2 hours. Instructor: 조성수 (NHN Cloud)."
     },
     "featured": false,
     "tags": [
-      "course",
-      "openstack",
       "cloud",
-      "infrastructure"
-    ]
+      "susc",
+      "openstack"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "개설기관: SUSC",
+          "en": "Provider: SUSC"
+        },
+        {
+          "ko": "교강사: 조성수 (NHN Cloud)",
+          "en": "Instructor: 조성수 (NHN Cloud)"
+        },
+        {
+          "ko": "이수 분량: 2시간",
+          "en": "Duration: 2시간"
+        }
+      ]
+    },
+    "links": []
   },
   {
     "slug": "ctl-value-of-korean-language",
     "sortDate": "2023-11-15",
     "kind": "completion",
     "status": "completed",
-    "period": "2023.11.15 · 1h",
+    "period": "2023.11.15",
     "title": {
       "ko": "우리 언어의 가치를 찾아가다",
-      "en": "Finding the Value of Our Language"
+      "en": "Exploring the Value of Our Language"
     },
     "summary": {
-      "ko": "박동호 교수의 한국어 이해·표현 교육론 강좌를 1시간 이수했습니다.",
-      "en": "Completed a one-hour Korean-language education lecture by Professor Dongho Park."
+      "ko": "개설기관: 교수학습개발원 · 교강사: 박동호 교수 (경희대학교) · 이수 분량: 1시간",
+      "en": "Completed a course offered by the Center for Teaching and Learning. Duration: 1 hour. Instructor: 박동호 교수 (경희대학교)."
     },
     "featured": false,
     "tags": [
-      "course",
       "korean-language",
-      "education"
-    ]
+      "khu"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "개설기관: 교수학습개발원",
+          "en": "Provider: 교수학습개발원"
+        },
+        {
+          "ko": "교강사: 박동호 교수 (경희대학교)",
+          "en": "Instructor: 박동호 교수 (경희대학교)"
+        },
+        {
+          "ko": "이수 분량: 1시간",
+          "en": "Duration: 1시간"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "gangwon-youth-olympics-basic-training",
+    "sortDate": "2023-11-15",
+    "kind": "completion",
+    "status": "completed",
+    "period": "2023.11.15",
+    "title": {
+      "ko": "2024 강원청소년동계올림픽 자원봉사 기본교육",
+      "en": "Gangwon 2024 Winter Youth Olympic Games — Basic Volunteer Training"
+    },
+    "summary": {
+      "ko": "개설기관: 2024강원청소년동계올림픽 · 이수 분량: 4시간",
+      "en": "Completed a course offered by the Gangwon 2024 Winter Youth Olympic Games. Duration: 4 hours."
+    },
+    "featured": false,
+    "tags": [
+      "gangwon-2024",
+      "volunteering"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "개설기관: 2024강원청소년동계올림픽",
+          "en": "Provider: 2024강원청소년동계올림픽"
+        },
+        {
+          "ko": "이수 분량: 4시간",
+          "en": "Duration: 4시간"
+        }
+      ]
+    },
+    "links": []
   },
   {
     "slug": "python-bootcamp-2",
     "sortDate": "2023-09-08",
     "kind": "completion",
     "status": "completed",
-    "period": "2023.08.27 — 09.08",
+    "period": "2023.08.27 ~ 2023.09.08",
     "title": {
-      "ko": "파이썬 부트캠프 2기",
-      "en": "Python Bootcamp Cohort 2"
+      "ko": "파이썬 신병 교육대 2기 (파이썬신병교육대)",
+      "en": "파이썬 신병 교육대 — Cohort 2"
     },
     "summary": {
-      "ko": "재고관리 프로그램을 제작하고 웹 개발 특화 과정을 이수했습니다.",
-      "en": "Built an inventory-management program and completed a web-development track."
+      "ko": "파이썬 활용 프로그램 개발, 개발 프로그램 발표에 참여했습니다.",
+      "en": "Participated in Python software development and project presentations."
     },
     "featured": false,
     "tags": [
-      "program",
       "python",
+      "automation",
+      "web-crawling",
       "web",
-      "software"
-    ]
+      "programming",
+      "presentation"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "파이썬 활용 프로그램 개발, 개발 프로그램 발표에 참여했습니다. 또한 ‘업무 자동화’, ‘웹 크롤링’, ‘데이터 시각화’를 주제로 하여 코드 자동 완성 도구의 활용 방법도 배웠습니다. 재고 관리 프로그램을 제작하여 웹개발 특기를 이수했습니다.",
+          "en": "Developed and presented a Python application. Learned to use code-completion tools for task automation, web crawling, and data visualization. Built an inventory-management application and completed the web-development track."
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "susc-summer-2023-learning",
+    "sortDate": "2023-08-20",
+    "kind": "completion",
+    "status": "completed",
+    "period": "2023.07.15. ~ 2023.08.20",
+    "title": {
+      "ko": "2023 Summer 대학방학교류 (SUSC)",
+      "en": "SUSC 2023 Summer Study Exchange"
+    },
+    "summary": {
+      "ko": "6개 대학 IT 동아리가 연합하여 진행한 방학 교류 활동입니다.",
+      "en": "Completed algorithm and Flutter courses during SUSC 2023 Summer."
+    },
+    "featured": false,
+    "tags": [
+      "algorithm",
+      "flutter",
+      "susc",
+      "planning",
+      "event-operations"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "6개 대학 IT 동아리가 연합하여 진행한 방학 교류 활동입니다. 알고리즘(김민상 멘토), 플러터(김현우 멘토) 과정을 이수했습니다. 또한 운영진으로서 전반적인 활동 기획 및 진행에 참여했습니다.",
+          "en": "Joined a vacation study exchange organized by IT clubs from six universities. Completed algorithms sessions with 김민상 and Flutter sessions with 김현우. Also helped plan and run the programme as an organizer."
+        }
+      ]
+    },
+    "links": []
   },
   {
     "slug": "susc-things-i-wish-i-knew",
     "sortDate": "2023-07-16",
     "kind": "completion",
     "status": "completed",
-    "period": "2023.07.16 · 1h",
+    "period": "2023.07.16",
     "title": {
       "ko": "대학생 때 알았더라면 좋았을 것들",
       "en": "Things I Wish I Had Known in College"
     },
     "summary": {
-      "ko": "옥찬호 강사의 SUSC 강좌를 1시간 이수했습니다.",
-      "en": "Completed a one-hour SUSC lecture by Chanho Ok."
+      "ko": "개설기관: SUSC · 교강사: 옥찬호 (Momenti) · 이수 분량: 1시간",
+      "en": "Completed a course offered by SUSC. Duration: 1 hour. Instructor: 옥찬호 (Momenti)."
     },
     "featured": false,
     "tags": [
-      "course",
-      "career"
-    ]
+      "susc"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "개설기관: SUSC",
+          "en": "Provider: SUSC"
+        },
+        {
+          "ko": "교강사: 옥찬호 (Momenti)",
+          "en": "Instructor: 옥찬호 (Momenti)"
+        },
+        {
+          "ko": "이수 분량: 1시간",
+          "en": "Duration: 1시간"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "tgwing-web-python-2023",
+    "sortDate": "2023-05-30",
+    "kind": "completion",
+    "status": "completed",
+    "period": "2023.03.14 — 2023.05.30",
+    "title": {
+      "ko": "2023 Web/Python 신입생 교육",
+      "en": "Introductory Web/Python Training for New Students (2023)"
+    },
+    "summary": {
+      "ko": "2023 Web/Python 신입생 교육(2023.03.14.-2023.05.30.)을 이수했습니다.",
+      "en": "Completed T.G.WinG introductory Web/Python training from March 14 to May 30, 2023."
+    },
+    "featured": false,
+    "tags": [
+      "python",
+      "web",
+      "tgwing",
+      "programming"
+    ],
+    "links": []
   },
   {
     "slug": "digital-fabrication-future",
     "sortDate": "2023-05-22",
     "kind": "completion",
     "status": "completed",
-    "period": "2023.05.22 · 1h",
+    "period": "2023.05.22",
     "title": {
-      "ko": "디지털 패브리케이션 도구의 미래",
-      "en": "The Future of Digital Fabrication Tools"
+      "ko": "소프트웨어 기술을 활용한 디지털 패브리케이션 도구의 미래",
+      "en": "The Future of Software-Based Digital Fabrication Tools"
     },
     "summary": {
-      "ko": "김현영 교수의 디지털 패브리케이션 강좌를 1시간 이수했습니다.",
-      "en": "Completed a one-hour digital-fabrication lecture by Professor Hyunyoung Kim."
+      "ko": "개설기관: 경희대학교 소프트웨어융합대학 · 교강사: 김현영 교수 (영국 버밍엄대학교) · 이수 분량: 1시간",
+      "en": "Completed a course offered by 경희대학교 소프트웨어융합대학. Duration: 1 hour. Instructor: 김현영 교수 (영국 버밍엄대학교)."
     },
     "featured": false,
     "tags": [
-      "course",
       "digital-fabrication",
       "maker",
-      "software"
-    ]
-  },
-  {
-    "slug": "chungnam-science-high-course-history",
-    "sortDate": "2023-02-28",
-    "kind": "completion",
-    "status": "completed",
-    "period": "2020 — 2023",
-    "title": {
-      "ko": "충남과학고 이수 교과",
-      "en": "Chungnam Science High School Coursework"
-    },
-    "summary": {
-      "ko": "정보과학·수학·과학 심화 및 AP·실험 과목을 포함한 과학고 교육과정을 이수했습니다.",
-      "en": "Completed a science-high curriculum spanning informatics, advanced mathematics and science, AP, and laboratory courses."
-    },
-    "featured": false,
-    "tags": [
-      "education",
-      "coursework",
-      "high-school",
-      "informatics",
-      "mathematics",
-      "science"
+      "khu"
     ],
     "detail": {
       "outcomes": [
         {
-          "ko": "1-1: 국어, 수학, 영어, 통합사회, 통합과학, 화학Ⅰ, 생명과학Ⅰ, 정보과학, 체육, 음악",
-          "en": "Year 1 Spring: Korean, Mathematics, English, Integrated Social Studies and Science, Chemistry I, Biology I, Informatics, PE, Music"
+          "ko": "개설기관: 경희대학교 소프트웨어융합대학",
+          "en": "Provider: 경희대학교 소프트웨어융합대학"
         },
         {
-          "ko": "1-2: 국어, 영어, 통합사회·과학, 정보과학, 심화수학Ⅰ, 정보과학 과제연구, 물리학Ⅱ, 지구과학Ⅱ, 체육, 음악",
-          "en": "Year 1 Fall: Korean, English, Integrated Social Studies and Science, Informatics, Advanced Mathematics I, Informatics Research, Physics II, Earth Science II, PE, Music"
+          "ko": "교강사: 김현영 교수 (영국 버밍엄대학교)",
+          "en": "Instructor: 김현영 교수 (영국 버밍엄대학교)"
         },
         {
-          "ko": "2-1: 문학, 한국사, 영어Ⅰ, 진로와직업, 심화수학Ⅱ, 고급 물리·화학·생명·지구과학, 정보과학 과제연구, 운동과건강, 음악",
-          "en": "Year 2 Spring: Literature, Korean History, English I, Career Studies, Advanced Mathematics II, advanced sciences, Informatics Research, Health, Music"
-        },
-        {
-          "ko": "2-2: 독서, 한국사, 영어Ⅱ, 진로와직업, 고급 물리·화학·생명·지구과학, 정보과학 융합탐구, 기하, 운동과건강",
-          "en": "Year 2 Fall: Reading, Korean History, English II, Career Studies, advanced sciences, Informatics Convergence Research, Geometry, Health"
-        },
-        {
-          "ko": "3-1: 고급수학Ⅰ, 일반물리학Ⅰ(AP), 일반화학Ⅰ(AP), 일반생물학(AP), 경제, 중국어Ⅰ, 정보과학 융합탐구, 심화영어회화Ⅰ, 빅데이터분석, 운동과건강, 음악",
-          "en": "Year 3 Spring: Advanced Mathematics I, AP Physics, Chemistry and Biology, Economics, Chinese I, Informatics Convergence Research, Advanced English Conversation, Big Data Analysis, Health, Music"
-        },
-        {
-          "ko": "3-2: 고급수학Ⅱ, 물리·화학·생명과학 실험, 경제, 중국어Ⅰ, 심화영어독해Ⅰ, 빅데이터분석, 운동과건강, 음악",
-          "en": "Year 3 Fall: Advanced Mathematics II, Physics/Chemistry/Biology Labs, Economics, Chinese I, Advanced English Reading, Big Data Analysis, Health, Music"
+          "ko": "이수 분량: 1시간",
+          "en": "Duration: 1시간"
         }
       ]
-    }
+    },
+    "links": []
   },
   {
-    "slug": "high-school-program-history",
-    "sortDate": "2023-02-28",
+    "slug": "gopoom-bass-lessons-2023",
+    "sortDate": "2023-05-15",
     "kind": "completion",
     "status": "completed",
-    "period": "2020 — 2022",
+    "period": "2023.03.27 — 2023.05.15",
     "title": {
-      "ko": "충남과학고 교내 프로그램 이력",
-      "en": "Chungnam Science High School Program History"
+      "ko": "2023년 1학기 베이스 레슨",
+      "en": "Bass-Guitar Lessons — Spring Semester 2023"
     },
     "summary": {
-      "ko": "알고리즘·AI·양자컴퓨터·창업·탐사·수학·통계·인문예술 프로그램에 참여했습니다.",
-      "en": "Participated in programs spanning algorithms, AI, quantum computing, entrepreneurship, field study, mathematics, statistics, and humanities."
+      "ko": "2023년 1학기 베이스 레슨(2023.03.27.-2023.05.15.)을 이수했습니다.",
+      "en": "Completed bass-guitar lessons with GOPOOM from March 27 to May 15, 2023."
     },
     "featured": false,
     "tags": [
-      "program",
-      "high-school",
-      "algorithm",
-      "ai",
-      "quantum-computing",
-      "entrepreneurship",
-      "mathematics",
-      "statistics"
+      "music",
+      "bass-guitar",
+      "gopoom"
     ],
-    "detail": {
-      "outcomes": [
-        {
-          "ko": "1학년: C언어 알고리즘 캠프(6h), 파이썬 AI 캠프(12h), 기술창업아카데미, 비버챌린지",
-          "en": "Year 1: C Algorithm Camp (6h), Python AI Camp (12h), Technology Entrepreneurship Academy, Beaver Challenge"
-        },
-        {
-          "ko": "2학년: 사이언스 크리에이터 프로젝트, NIE, TensorFlow AI 캠프(15h), 양자컴퓨터·양자알고리즘 특강(3h)",
-          "en": "Year 2: Science Creator Project, NIE, TensorFlow AI Camp (15h), Quantum Computing and Algorithms lecture (3h)"
-        },
-        {
-          "ko": "3학년: 자문자답 자연탐사, 파이주간, 과학기기설명회, 3UP Morning, 어울림부스한마당, 지능정보기술프로젝트캠프(9h)",
-          "en": "Year 3: Nature Expedition, Pi Week, Science Equipment Fair, 3UP Morning, School Festival, Intelligent IT Project Camp (9h)"
-        },
-        {
-          "ko": "3학년: 북 페스티벌, Art & Science 오디세이, 기술창업 챌린지, 통계 빅데이터 페스티벌, 창의수학 탐구 스피치, 인문학 한마당",
-          "en": "Year 3: Book Festival, Art & Science Odyssey, Technology Entrepreneurship Challenge, Statistics and Big Data Festival, Creative Mathematics Speech, Humanities Festival"
-        }
-      ]
-    }
+    "links": []
+  },
+  {
+    "slug": "khlug-security-basics-2023",
+    "sortDate": "2023-01-01",
+    "kind": "completion",
+    "status": "completed",
+    "period": "2023-1",
+    "title": {
+      "ko": "[2023-1] 정보보안 기초 교육 (강사: 연동현)",
+      "en": "Information-Security Fundamentals (2023-1; Instructor: 연동현)"
+    },
+    "summary": {
+      "ko": "[2023-1] 정보보안 기초 교육 (강사: 연동현)",
+      "en": "Completed KHLUG introductory information-security training in the first semester of 2023."
+    },
+    "featured": false,
+    "tags": [
+      "security",
+      "khlug"
+    ],
+    "links": []
   },
   {
     "slug": "kocw-youth-guidance",
     "sortDate": "2022-12-13",
     "kind": "completion",
     "status": "completed",
-    "period": "2022.12.13 · 3h",
+    "period": "2022.12.13",
     "title": {
       "ko": "청소년지도방법론",
-      "en": "Youth Guidance Methodology"
+      "en": "Methods of Youth Guidance"
     },
     "summary": {
-      "ko": "유영주 교수의 KOCW 강좌를 3시간 이수했습니다.",
-      "en": "Completed a three-hour KOCW course by Professor Youngjoo Yoo."
+      "ko": "개설기관: 한국교육학술정보원 KOCW · 교강사: 유영주 교수 (유원대학교) · 이수 분량: 3시간",
+      "en": "Completed a course offered by Korea OpenCourseWare (KOCW), operated by the Korea Education and Research Information Service (KERIS). Duration: 3 hours. Instructor: 유영주 교수 (유원대학교)."
     },
     "featured": false,
     "tags": [
-      "course",
-      "youth",
-      "education",
-      "kocw"
-    ]
+      "education"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "개설기관: 한국교육학술정보원 KOCW",
+          "en": "Provider: 한국교육학술정보원 KOCW"
+        },
+        {
+          "ko": "교강사: 유영주 교수 (유원대학교)",
+          "en": "Instructor: 유영주 교수 (유원대학교)"
+        },
+        {
+          "ko": "이수 분량: 3시간",
+          "en": "Duration: 3시간"
+        }
+      ]
+    },
+    "links": []
   },
   {
     "slug": "bloom-in-dgist-2022",
     "sortDate": "2022-12-06",
     "kind": "completion",
     "status": "completed",
-    "period": "2022.12.06 · 6.5h",
+    "period": "2022.12.06",
     "title": {
-      "ko": "Bloom in DGIST",
+      "ko": "Bloom in DGIST (대구경북과학기술원)",
       "en": "Bloom in DGIST"
     },
     "summary": {
-      "ko": "DGIST 프로그램을 6시간 30분 이수했습니다.",
-      "en": "Completed a six-and-a-half-hour DGIST program."
+      "ko": "DGIST 수시모집 최초 및 예비 합격자를 대상으로 진행한 활동입니다.",
+      "en": "Attended a programme for admitted and waitlisted DGIST applicants, including facility tours and student mentoring."
     },
     "featured": false,
     "tags": [
-      "program",
-      "dgist",
-      "career"
-    ]
+      "engineering",
+      "career-education",
+      "education"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "DGIST 수시모집 최초 및 예비 합격자를 대상으로 진행한 활동입니다. DGIST 기초학부 교육과정 소개 및 프로그램 소개, 연구 시설 및 캠퍼스 투어, 재학생 멘토링으로 이루어졌습니다. 연구 시설은 ‘Fabrication Facility’와 ‘Super Computing Center’를 보았으며, FAB 공정 과정과 슈퍼컴퓨터에 관한 설명을 들었습니다.",
+          "en": "Joined a programme for admitted and waitlisted DGIST applicants. Activities included an introduction to the undergraduate curriculum, programme briefings, research-facility and campus tours, and mentoring by current students. Visited the Fabrication Facility and Super Computing Center and learned about fabrication processes and supercomputers."
+        }
+      ]
+    },
+    "links": []
   },
   {
     "slug": "gifted-student-emotional-healing-camp",
     "sortDate": "2022-08-02",
     "kind": "completion",
     "status": "completed",
-    "period": "2022.08.01 — 08.02",
+    "period": "2022.08.01 ~ 2022.08.02",
     "title": {
-      "ko": "영재학생 정서 치유 캠프",
-      "en": "Gifted Student Emotional Well-being Camp"
+      "ko": "2022년 과학영재 정서함양 힐링 학생캠프 (부산광역시영재교육진흥원)",
+      "en": "Emotional Well-Being Camp for Gifted Science Students (2022; 부산광역시영재교육진흥원)"
     },
     "summary": {
-      "ko": "영재학생을 위한 정서 치유 캠프에 참여했습니다.",
-      "en": "Participated in an emotional well-being camp for gifted students."
+      "ko": "과학고·영재고 학생을 대상으로 포스텍에서 진행한 캠프입니다.",
+      "en": "Attended a camp at POSTECH covering gifted-student psychology, horticultural therapy, stress management, and mentoring."
     },
     "featured": false,
     "tags": [
-      "program",
-      "gifted-education",
-      "wellbeing"
-    ]
+      "psychology",
+      "career-education",
+      "education"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "과학고·영재고 학생을 대상으로 포스텍에서 진행한 캠프입니다. 과학영재 학생 심리에 관한 특강, 원예 치료 과정을 수강했으며 스트레스 관리법에 관하여 배웠습니다. 또한 포스텍 선배와의 대면을 통해 현재까지의 과정과 미래의 꿈과 관련한 멘토링 강연에 참여했습니다.",
+          "en": "Attended a camp at POSTECH for science-high-school and gifted-school students. Took sessions on gifted-student psychology, horticultural therapy, and stress management. Met POSTECH students for mentoring about their academic paths and future aspirations."
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "science-high-program-a175a825",
+    "sortDate": "2022-07-14",
+    "kind": "completion",
+    "status": "completed",
+    "period": "2022.07.14",
+    "title": {
+      "ko": "어울림부스한마당",
+      "en": "어울림 Hands-On Booth Festival"
+    },
+    "summary": {
+      "ko": "알고리즘·웹페이지 제작·3D 모델링·책 퀴즈 체험부스를 운영했습니다.",
+      "en": "Ran activity booths on algorithms, web development, 3D modelling, and book quizzes."
+    },
+    "featured": false,
+    "tags": [
+      "algorithm",
+      "web",
+      "3d-printing",
+      "reading",
+      "include",
+      "graph-algorithms",
+      "problem-setting",
+      "presentation",
+      "event-operations",
+      "education",
+      "3d-modeling",
+      "digital-logic",
+      "no-code",
+      "glide"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "#include 동아리",
+          "en": "#include club"
+        },
+        {
+          "ko": "'신호등이 존재하는 가중치 그래프의 최적의 길찾기 알고리즘 탐색'에 대해 탐구한 내용을 발표했습니다. 평소 알고리즘에 관심이 많았기 때문에 이러한 탐구를 진행하게 되었습니다. 부스에 방문한 학생들에게 다익스트라, 그리디, BFS 알고리즘을 친절하게 설명해주었습니다. 또한, 코딩테스트 부스를 운영했으며, 코딩 문제를 직접 출제했습니다. 그래프 탐색 알고리즘에 대한 이해도를 높일 수 있는 계기가 되었으며, 소스코드를 직접 짜고 결과까지 확인하는 과정이 재미있었습니다. 역할을 분배해 협업하는 과정을 배웠으며, 프로젝트 활동에서의 역할 분배의 중요성을 알 수 있었습니다.",
+          "en": "Presented an investigation of pathfinding in weighted graphs with traffic signals. Explained Dijkstra’s algorithm, greedy methods, and BFS to visitors; ran a coding-test booth and wrote its problems. Implementing and testing the algorithms deepened my understanding of graph search. Dividing responsibilities also taught me the importance of role allocation in collaborative projects."
+        },
+        {
+          "ko": "정코동 동아리",
+          "en": "정코동 club"
+        },
+        {
+          "ko": "웹페이지 제작에 대해 설명해주고, 노코딩툴인 글리드(glide)를 체험하는 부스를 운영했습니다. 알고 있는 지식을 전달해주는 과정에서 가르치는 활동의 재미를 느꼈습니다. 여러 친구들의 웹사이트 제작 아이디어를 보며, 저 또한 어떤 사이트를 제작해보고 싶은지 생각해보는 계기가 되었고, 각종 유용한 정보를 모아 이용자에 맞게 추천해주는 사이트 제작 아이디어를 떠올렸습니다.",
+          "en": "Explained website development and ran a hands-on booth using the no-code tool Glide. Teaching and seeing classmates’ ideas led me to consider building a site that collects useful information and recommends it to individual users."
+        },
+        {
+          "ko": "무한상상 동아리",
+          "en": "무한상상 club"
+        },
+        {
+          "ko": "3D프린터 모델링 강의를 진행했습니다. 이 과정에서 저 또한 모델링 실력이 향상될 수 있었으며, 제가 도와준 모델링들이 출력된 결과물을 보았을 때는 진심으로 기뻤습니다. 이를 통해 가르치는 것의 즐거움을 배울 수 있었습니다. 또한, '트렌지스터를 활용한 논리회로를 제작'에 대해 탐구한 내용을 발표했습니다. 물리 시간에 배운 트렌지스터로 직접 실습하는 과정을 통해 트렌지스터에 대한 이해도를 높일 수 있었으며, 전자공학에 더욱 관심을 갖게 되는 계기가 되었습니다. 이 활동 이후, 추가로 트렌지스터로 가산기를 구현해 간단한 이진수 덧셈을 하는 회로를 만들어보고 싶습니다.",
+          "en": "Taught 3D-printer modelling and improved my own modelling skills while helping others produce printed objects. Presented an investigation of transistor-based logic circuits, applying concepts from physics classes. The activity strengthened my interest in electronics and led to an idea for a transistor-based adder for binary arithmetic."
+        },
+        {
+          "ko": "헤르메스 동아리",
+          "en": "헤르메스 club"
+        },
+        {
+          "ko": "책갈피 만들기 및 책 퀴즈 부스를 운영했습니다. 책 퀴즈를 직접 출제하는 과정을 통해 책에 더욱 흥미를 갖게 되는 계기가 되었습니다.",
+          "en": "Ran bookmark-making and book-quiz booths. Writing the quiz questions encouraged my interest in books."
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "science-high-program-5787a65a",
+    "sortDate": "2022-06-08",
+    "kind": "completion",
+    "status": "completed",
+    "period": "2022.06.08",
+    "title": {
+      "ko": "북(Book) 페스티벌 '책, 그리고 우리'",
+      "en": "Book Festival: Books and Us"
+    },
+    "summary": {
+      "ko": "랜들 먼로의 위험한 과학책을 인생 도서로 선정해 발표했습니다. 이 책은 제가 창의력을 기르게 하고, 기존의 틀을 깨는 시도를 적극적으로 시작하게 한 책입니다. 따라서 이 책을 소개할때도, 내용의 흥미성을 중심으로 다루기보다 이 책의 정신을 가장 중요하게 소개했습니다. 세부적인 지식은 다른 곳에서도 금방 얻을 수 있지만, 이 책의 정신은 이 책만의 고유한 가치이기 때문입니다. 이 책의 문구대로, 저 또한 질문의 반복을 통해 꽤나 흥미로운 곳에 도달했으면 좋겠습니다.",
+      "en": "Presented Randall Munroe’s What If? as a personally meaningful book at the school book festival."
+    },
+    "featured": false,
+    "tags": [
+      "reading"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "랜들 먼로의 위험한 과학책을 인생 도서로 선정해 발표했습니다. 이 책은 제가 창의력을 기르게 하고, 기존의 틀을 깨는 시도를 적극적으로 시작하게 한 책입니다. 따라서 이 책을 소개할때도, 내용의 흥미성을 중심으로 다루기보다 이 책의 정신을 가장 중요하게 소개했습니다. 세부적인 지식은 다른 곳에서도 금방 얻을 수 있지만, 이 책의 정신은 이 책만의 고유한 가치이기 때문입니다. 이 책의 문구대로, 저 또한 질문의 반복을 통해 꽤나 흥미로운 곳에 도달했으면 좋겠습니다.",
+          "en": "Presented Randall Munroe’s What If? as a personally meaningful book. Focused on its approach to questions rather than individual facts: it encouraged creativity and attempts to think beyond familiar frameworks. I hoped to reach interesting places by continuing to ask questions."
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "science-high-program-d4d38033",
+    "sortDate": "2022-06-02",
+    "kind": "completion",
+    "status": "completed",
+    "period": "2022.5.16-2022.6.2",
+    "title": {
+      "ko": "지능정보기술프로젝트캠프",
+      "en": "Intelligent Information Technology Project Camp"
+    },
+    "summary": {
+      "ko": "Arduino·Bluetooth와 Selenium WebDriver 실습을 하고 SDGs를 조사·토론했습니다.",
+      "en": "Practised with Arduino, Bluetooth, and Selenium WebDriver, and researched and discussed the Sustainable Development Goals."
+    },
+    "featured": false,
+    "tags": [
+      "arduino",
+      "iot",
+      "web-crawling",
+      "web",
+      "sustainability",
+      "physical-computing",
+      "selenium",
+      "bluetooth",
+      "debate"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "2가지의 IoT 및 빅데이터 관련 실습 활동(아두이노와 블루투스 연결, 웹크롤링에 활용하는 Selenium WebDriver 사용)을 하고 이를 활용할 수 있는 다양한 기술과 사업을 접하고 저만의 활용 계획을 세웠습니다. 또한 SDG's 17개 목표를 팀원들과 나누어 조사하고 공유한 후 과학 기술 연구자가 지향해야 할 가치에 대해 토론했습니다.",
+          "en": "Practised connecting Arduino with Bluetooth and using Selenium WebDriver for web crawling. Explored possible technologies and business applications and developed personal application plans. Shared research on the 17 Sustainable Development Goals with teammates and discussed the values that science and technology researchers should pursue."
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "science-high-program-3aa23373",
+    "sortDate": "2022-05-28",
+    "kind": "completion",
+    "status": "completed",
+    "period": "2022.05.28",
+    "title": {
+      "ko": "과학기기설명회",
+      "en": "Science Equipment Demonstration Event"
+    },
+    "summary": {
+      "ko": "작년에 연구한 '변인에 따른 유전 알고리즘의 효율성과 최적 변인 확인'에 대해 소개했습니다. 또한, 관람객들에게 유전 알고리즘에 대해 설명해주어, 옆 부스인 유전알고리즘을 활용한 프로그램 제작에 대한 이해를 도왔습니다. 다른 정보과 부스들에 설명을 지원하거나 일부 역할을 보조했습니다. 다른 친구들의 부스에 참가하며 여러가지 과학적 원리들을 배웠습니다. 이러한 과정을 통해 과학에 대한 흥미가 증대되었으며 과학적 의사소통 능력이 향상되었습니다.",
+      "en": "Presented research on genetic-algorithm variables and explained it to visitors at the school science-equipment event."
+    },
+    "featured": false,
+    "tags": [
+      "science-communication",
+      "genetic-algorithm",
+      "algorithm",
+      "education",
+      "event-operations"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "작년에 연구한 '변인에 따른 유전 알고리즘의 효율성과 최적 변인 확인'에 대해 소개했습니다. 또한, 관람객들에게 유전 알고리즘에 대해 설명해주어, 옆 부스인 유전알고리즘을 활용한 프로그램 제작에 대한 이해를 도왔습니다. 다른 정보과 부스들에 설명을 지원하거나 일부 역할을 보조했습니다. 다른 친구들의 부스에 참가하며 여러가지 과학적 원리들을 배웠습니다. 이러한 과정을 통해 과학에 대한 흥미가 증대되었으며 과학적 의사소통 능력이 향상되었습니다.",
+          "en": "Presented the previous year’s research on how genetic-algorithm parameters affect efficiency and how to identify suitable parameters. Explained genetic algorithms to visitors, helping them understand an adjacent software-demonstration booth. Assisted other information-science booths and visited classmates’ booths to learn scientific principles and practise scientific communication."
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "science-high-program-c950ec26",
+    "sortDate": "2022-05-26",
+    "kind": "completion",
+    "status": "completed",
+    "period": "2022.05.26",
+    "title": {
+      "ko": "자문자답 자연탐사",
+      "en": "Self-Directed Nature Exploration"
+    },
+    "summary": {
+      "ko": "충남과학고등학교 교내 프로그램에 참여했습니다.",
+      "en": "Participated in a school nature-exploration programme."
+    },
+    "featured": false,
+    "tags": [
+      "cshs"
+    ],
+    "links": []
+  },
+  {
+    "slug": "science-high-program-520756c3",
+    "sortDate": "2022-04-06",
+    "kind": "completion",
+    "status": "completed",
+    "period": "2022.04.06",
+    "title": {
+      "ko": "3UP Morning Project",
+      "en": "3UP Morning Project"
+    },
+    "summary": {
+      "ko": "메타버스의 이해를 주제로 메타버스의 정의, 장점과 한계를 다양한 사례를 들어 발표했습니다. 또한 기존 플랫폼과 차별화되도록 하는 메타버스의 5가지 특징을 설명해 다른 애플리케이션이나 콘텐츠와의 차이를 설명했습니다. 또한, 행동경제학에 등장하는 ETAM을 활용해 메타버스의 발전 방향을 제시했습니다.",
+      "en": "Presented the definition, benefits, and limitations of the metaverse, with examples."
+    },
+    "featured": false,
+    "tags": [
+      "metaverse",
+      "presentation",
+      "economics"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "메타버스의 이해를 주제로 메타버스의 정의, 장점과 한계를 다양한 사례를 들어 발표했습니다. 또한 기존 플랫폼과 차별화되도록 하는 메타버스의 5가지 특징을 설명해 다른 애플리케이션이나 콘텐츠와의 차이를 설명했습니다. 또한, 행동경제학에 등장하는 ETAM을 활용해 메타버스의 발전 방향을 제시했습니다.",
+          "en": "Presented the definition, benefits, and limitations of the metaverse using examples. Explained five features distinguishing it from existing platforms, applications, and content. Used ETAM from behavioural economics to discuss possible directions for its development."
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "science-high-program-5d7f22ac",
+    "sortDate": "2022-03-23",
+    "kind": "completion",
+    "status": "completed",
+    "period": "2022.03.23",
+    "title": {
+      "ko": "창의수학 파이주간",
+      "en": "Creative Mathematics Pi Week"
+    },
+    "summary": {
+      "ko": "충남과학고등학교 교내 프로그램에 참여했습니다.",
+      "en": "Participated in the school creative-mathematics Pi Week programme."
+    },
+    "featured": false,
+    "tags": [
+      "mathematics",
+      "cshs"
+    ],
+    "links": []
   },
   {
     "slug": "sololearn-cpp",
     "sortDate": "2022-02-08",
     "kind": "completion",
     "status": "completed",
-    "period": "2022.02.08 · 12 sessions",
+    "period": "2022.02.08",
     "title": {
-      "ko": "SoloLearn C++ Course",
-      "en": "SoloLearn C++ Course"
+      "ko": "C++ Course",
+      "en": "C++ Course"
     },
     "summary": {
-      "ko": "SoloLearn의 C++ 과정을 12차시 이수했습니다.",
-      "en": "Completed the 12-session SoloLearn C++ course."
+      "ko": "개설기관: SoloLearn · 이수 분량: 12차시",
+      "en": "Completed a course offered by Sololearn. Duration: 12 sessions."
     },
     "featured": false,
     "tags": [
-      "course",
       "cpp",
       "programming"
-    ]
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "개설기관: SoloLearn",
+          "en": "Provider: Sololearn"
+        },
+        {
+          "ko": "이수 분량: 12차시",
+          "en": "Duration: 12차시"
+        }
+      ]
+    },
+    "links": []
   },
   {
     "slug": "kscy17-research-mentoring",
@@ -793,20 +1464,28 @@
     "status": "completed",
     "period": "2022.02.03",
     "title": {
-      "ko": "제17회 청소년학술대회 연구 멘토링",
-      "en": "17th Youth Academic Conference Research Mentoring"
+      "ko": "제17회 한국 청소년 학술대회 연구 멘토링 프로그램 (한국청소년학술대회조직위원회 & WRTN)",
+      "en": "17th KSCY — Research Mentoring Programme (KSCY Organizing Committee · WRTN)"
     },
     "summary": {
-      "ko": "청소년 연구 멘토링 프로그램을 이수했습니다.",
-      "en": "Completed a youth research-mentoring program."
+      "ko": "공학 분야의 컴퓨터공학 연구 멘토링 프로그램에 참여했습니다.",
+      "en": "Participated in computer science research mentoring at the 17th KSCY."
     },
     "featured": false,
     "tags": [
-      "program",
-      "research",
-      "mentoring",
-      "youth"
-    ]
+      "research-method",
+      "computer-science",
+      "kscy"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "공학 분야의 컴퓨터공학 연구 멘토링 프로그램에 참여했습니다. 분야 튜토리얼, 멘토링, 학술교류 등에 참여했습니다.",
+          "en": "Joined computer science research mentoring in the engineering field, including a subject tutorial, mentoring, and academic exchange."
+        }
+      ]
+    },
+    "links": []
   },
   {
     "slug": "kscy17-social-value-tutorial",
@@ -815,63 +1494,278 @@
     "status": "completed",
     "period": "2022.02.03",
     "title": {
-      "ko": "제17회 Social Value 튜토리얼",
-      "en": "17th Social Value Tutorial"
+      "ko": "제17회 한국 청소년 학술대회 Social Value (한국청소년학술대회조직위원회 & WRTN)",
+      "en": "17th KSCY — Social Value Tutorial (KSCY Organizing Committee · WRTN)"
     },
     "summary": {
-      "ko": "사회적 가치 관련 튜토리얼을 이수했습니다.",
-      "en": "Completed a tutorial on social value."
+      "ko": "Social Value Tutorial을 이수했습니다.",
+      "en": "Completed the Social Value Tutorial at the 17th KSCY."
     },
     "featured": false,
     "tags": [
-      "program",
-      "social-value",
-      "youth"
-    ]
+      "kscy"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "Social Value Tutorial을 이수했습니다.",
+          "en": "Completed the Social Value Tutorial."
+        }
+      ]
+    },
+    "links": []
   },
   {
     "slug": "winter-youth-media-mediation",
     "sortDate": "2022-01-18",
     "kind": "completion",
     "status": "completed",
-    "period": "2022.01.18 · 2h",
+    "period": "2022.01.18",
     "title": {
-      "ko": "겨울방학 청소년 미디어 중재학교",
-      "en": "Winter Youth Media Mediation School"
+      "ko": "겨울방학 청소년 언론 중재 스쿨",
+      "en": "Winter Youth Press Mediation School"
     },
     "summary": {
-      "ko": "언론중재위원회의 청소년 미디어 교육을 2시간 이수했습니다.",
-      "en": "Completed a two-hour youth media program by the Press Arbitration Commission."
+      "ko": "개설기관: 언론중재위원회 · 이수 분량: 2시간",
+      "en": "Completed a course offered by the Press Arbitration Commission. Duration: 2 hours."
     },
     "featured": false,
     "tags": [
-      "course",
-      "media",
       "law",
-      "youth"
-    ]
+      "journalism"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "개설기관: 언론중재위원회",
+          "en": "Provider: 언론중재위원회"
+        },
+        {
+          "ko": "이수 분량: 2시간",
+          "en": "Duration: 2시간"
+        }
+      ]
+    },
+    "links": []
   },
   {
     "slug": "python-bootcamp-1",
     "sortDate": "2022-01-02",
     "kind": "completion",
     "status": "completed",
-    "period": "2021.12.12 — 2022.01.02",
+    "period": "2021.12.12 ~ 2022.01.02",
     "title": {
-      "ko": "파이썬 부트캠프 1기",
-      "en": "Python Bootcamp Cohort 1"
+      "ko": "파이썬 신병 교육대 1기 (파이썬신병교육대)",
+      "en": "파이썬 신병 교육대 — Cohort 1"
     },
     "summary": {
-      "ko": "웹 크롤링을 이용한 검색 도우미를 제작했습니다.",
-      "en": "Built a search assistant using web crawling."
+      "ko": "파이썬 활용 프로그램 개발, 개발 프로그램 발표에 참여했습니다.",
+      "en": "Developed and presented a Python search-assistant programme and completed the web-crawling track."
     },
     "featured": false,
     "tags": [
-      "program",
       "python",
       "web-crawling",
-      "software"
-    ]
+      "web",
+      "programming",
+      "presentation"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "파이썬 활용 프로그램 개발, 개발 프로그램 발표에 참여했습니다. ‘검색 도우미’를 제작하여 웹크롤링 특기를 이수했습니다.",
+          "en": "Developed and presented a Python application. Built 검색 도우미 and completed the web-crawling track."
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "science-high-program-8c15d7dc",
+    "sortDate": "2022-01-01",
+    "kind": "completion",
+    "status": "completed",
+    "period": "2022",
+    "title": {
+      "ko": "Art & Science 오디세이 창의융합 프로젝트",
+      "en": "Art & Science Odyssey: Creative Interdisciplinary Project"
+    },
+    "summary": {
+      "ko": "C++로 CNN을 구현하고 합성곱·풀링·신경망의 수학적 원리를 발표했습니다.",
+      "en": "Implemented a CNN in C++ and presented the mathematical principles of convolution, pooling, and neural networks."
+    },
+    "featured": false,
+    "tags": [
+      "cpp",
+      "machine-learning",
+      "ai",
+      "programming",
+      "cnn",
+      "neural-networks",
+      "mathematics",
+      "presentation"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "앨런 튜링의 '프로그래밍은 책이 아닌 실습과 예제로 가장 잘 습득되는 기술이다'라는 말에 공감하여 인공지능의 수학적 원리를 응용한 C++을 활용한 CNN을 구현했습니다. 구현을 위해 CNN을 학습하고 원리를 발표했습니다. 필터를 적용해 이미지의 특징을 추출하고 행렬 크기를 줄이는 Convolution과 Pooling 과정을 설명했습니다. 또한, 손실함수의 편미분을 통해 그래프에서의 가중치를 조정하는 Neural Network 과정을 설명하고 시벤코정리를 통해 학습 가능성의 이론적 배경을 밝혔습니다. 조사한 원리를 바탕으로 CNN을 구현했으며 파이썬으로 구현된 기존보다 학습 시간 단축 효과를 누릴 수 있다는 기대 효과를 제시했습니다. 기능별로 소스코드를 분리해 알아보기 쉽게 코드를 작성하였으며 시각 자료로 이해하기 쉽도록 노력했습니다. 이를 통해 알고리즘 구현 능력과 인공지능에 대한 이해도를 높일 수 있었습니다.",
+          "en": "Implemented a CNN in C++ after studying and presenting its mathematical principles. Explained feature extraction and dimensional reduction through convolution and pooling, weight updates using partial derivatives of a loss function, and the theoretical background of learnability through Cybenko’s theorem. Proposed reduced training time compared with a Python implementation as an expected benefit, rather than a measured result. Organized the code by function and used visual materials to explain the implementation."
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "science-high-program-a504ba56",
+    "sortDate": "2022-01-01",
+    "kind": "completion",
+    "status": "completed",
+    "period": "2022",
+    "title": {
+      "ko": "기술창업 챌린지",
+      "en": "Technology Entrepreneurship Challenge"
+    },
+    "summary": {
+      "ko": "창업 아이템 겸 발명품으로 자동으로 소독되는 문손잡이를 제안했습니다. 사람이 문을 열고 나서 닫히면서 기어를 작동시켜 소독액이 담긴 분무기에서 소독액이 나오도록 설계했습니다. 설계도를 그리고 사용할 재료와 부품을 선정했습니다. 예측되는 장단점을 언급하며 아두이노 등을 활용한 대안도 언급하였으며, 대안을 여럿 제시하고 각각의 장단점을 설명했습니다.",
+      "en": "Proposed a self-disinfecting door handle, drew a design, selected components, and compared alternative approaches."
+    },
+    "featured": false,
+    "tags": [
+      "entrepreneurship",
+      "public-health",
+      "design-thinking"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "창업 아이템 겸 발명품으로 자동으로 소독되는 문손잡이를 제안했습니다. 사람이 문을 열고 나서 닫히면서 기어를 작동시켜 소독액이 담긴 분무기에서 소독액이 나오도록 설계했습니다. 설계도를 그리고 사용할 재료와 부품을 선정했습니다. 예측되는 장단점을 언급하며 아두이노 등을 활용한 대안도 언급하였으며, 대안을 여럿 제시하고 각각의 장단점을 설명했습니다.",
+          "en": "Proposed a self-disinfecting door handle as a business and invention idea. Designed a mechanism in which closing the door drives gears that trigger a disinfectant spray. Drew a design and selected materials and components. Compared its expected advantages and disadvantages with alternatives, including an Arduino-based approach."
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "science-high-program-02086a89",
+    "sortDate": "2022-01-01",
+    "kind": "completion",
+    "status": "completed",
+    "period": "2022",
+    "title": {
+      "ko": "통계 빅데이터 페스티벌",
+      "en": "Statistics and Big Data Festival"
+    },
+    "summary": {
+      "ko": "통계 빅데이터 페스티벌 활동으로 '발암물질 배출량 추이 및 발암물질 배출량과 암 발병률의 상관관계'를 주제로 빅데이터 프로그램을 제작하여 발표했습니다. 선행 연구의 부족했던 점을 개선하기 위한 후속 연구의 목적으로 주제를 선정하였고 파이썬을 이용해 프로그램을 제작했습니다. 공동연구로 진행해 프로그램 제작과 결론 도출 역할을 맡아 수행하였고 이러한 과정에서 데이터 분석 능력과 협업 능력을 기를 수 있었습니다.",
+      "en": "Analysed pollutant emissions and their correlation with cancer incidence using Python, and presented the results."
+    },
+    "featured": false,
+    "tags": [
+      "data-science",
+      "statistics",
+      "mathematics",
+      "python",
+      "public-health",
+      "correlation-analysis",
+      "presentation"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "통계 빅데이터 페스티벌 활동으로 '발암물질 배출량 추이 및 발암물질 배출량과 암 발병률의 상관관계'를 주제로 빅데이터 프로그램을 제작하여 발표했습니다. 선행 연구의 부족했던 점을 개선하기 위한 후속 연구의 목적으로 주제를 선정하였고 파이썬을 이용해 프로그램을 제작했습니다. 공동연구로 진행해 프로그램 제작과 결론 도출 역할을 맡아 수행하였고 이러한 과정에서 데이터 분석 능력과 협업 능력을 기를 수 있었습니다.",
+          "en": "Built and presented a Python data-analysis application on trends in carcinogen emissions and their correlation with cancer incidence. Chose the topic as follow-up research addressing limitations in earlier work. Was responsible for programming and drawing conclusions in the joint project, developing data-analysis and collaboration skills."
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "science-high-program-58615a80",
+    "sortDate": "2022-01-01",
+    "kind": "completion",
+    "status": "completed",
+    "period": "2022",
+    "title": {
+      "ko": "창의 수학 탐구 스피치",
+      "en": "Creative Mathematics Inquiry Presentation"
+    },
+    "summary": {
+      "ko": "창의 수학 탐구 스피치 활동으로 'Huzita-Hatori 공리의 증명을 활용한 종이접기 증명'을 주제로 탐구를 하여 발표했습니다. 작년 기하시간에 Huzita-Hatori 공리에 대해 연구한 뒤 종이접기에 관심이 생겨 후속 연구의 형태로 몇가지 종이접기 방법을 수식과 벡터를 활용해 증명하는 것을 연구했습니다. 깊이있는 탐구를 위해 체계적인 연구 과정을 구상해 수행하였고 이러한 과정에서 수학적 추론 역량과 수학적 의사소통 능력을 기를 수 있었습니다.",
+      "en": "Presented mathematical proofs of origami methods using the Huzita–Hatori axioms."
+    },
+    "featured": false,
+    "tags": [
+      "mathematics",
+      "origami",
+      "presentation"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "창의 수학 탐구 스피치 활동으로 'Huzita-Hatori 공리의 증명을 활용한 종이접기 증명'을 주제로 탐구를 하여 발표했습니다. 작년 기하시간에 Huzita-Hatori 공리에 대해 연구한 뒤 종이접기에 관심이 생겨 후속 연구의 형태로 몇가지 종이접기 방법을 수식과 벡터를 활용해 증명하는 것을 연구했습니다. 깊이있는 탐구를 위해 체계적인 연구 과정을 구상해 수행하였고 이러한 과정에서 수학적 추론 역량과 수학적 의사소통 능력을 기를 수 있었습니다.",
+          "en": "Investigated and presented proofs of origami methods using the Huzita–Hatori axioms. Continued an interest developed in the previous year’s geometry class, proving selected folding methods with equations and vectors. Planned a systematic investigation and practised mathematical reasoning and communication."
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "science-high-program-55552a32",
+    "sortDate": "2022-01-01",
+    "kind": "completion",
+    "status": "completed",
+    "period": "2022",
+    "title": {
+      "ko": "인문학 한마당",
+      "en": "Humanities Festival"
+    },
+    "summary": {
+      "ko": "사회자로 참여했습니다. 여행 작가 박성호의 강의를 듣고, 내가 어떤 삶을 살아야 할 지에 대해 고민해보는 계기가 되었습니다. 작가와 학생들이 책과 사연으로 하나가 될 수 있도록 도왔습니다.",
+      "en": "Served as emcee for a school humanities event featuring travel writer 박성호."
+    },
+    "featured": false,
+    "tags": [
+      "humanities",
+      "emcee"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "사회자로 참여했습니다. 여행 작가 박성호의 강의를 듣고, 내가 어떤 삶을 살아야 할 지에 대해 고민해보는 계기가 되었습니다. 작가와 학생들이 책과 사연으로 하나가 될 수 있도록 도왔습니다.",
+          "en": "Served as emcee for a humanities event featuring travel writer 박성호. Helped connect the author and students through books and personal stories, and reflected on how I wanted to live."
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "science-high-program-eef7f8dd",
+    "sortDate": "2021-10-13",
+    "kind": "completion",
+    "status": "completed",
+    "period": "2021.10.13",
+    "title": {
+      "ko": "양자컴퓨터 이론 및 양자알고리즘 실습 특강",
+      "en": "Quantum Computing Theory and Quantum Algorithms Workshop"
+    },
+    "summary": {
+      "ko": "양자컴퓨터의 개념 및 원리를 학습하고, IBM 퀀텀과 Qiskit을 실습했습니다.",
+      "en": "Studied quantum-computing principles and practised using IBM Quantum and Qiskit."
+    },
+    "featured": false,
+    "tags": [
+      "quantum-computing",
+      "qiskit"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "양자컴퓨터의 개념 및 원리를 학습하고, IBM 퀀텀과 Qiskit을 실습했습니다.",
+          "en": "Studied the concepts and principles of quantum computers and practised using IBM Quantum and Qiskit."
+        }
+      ]
+    },
+    "links": []
   },
   {
     "slug": "kscy16-research-mentoring",
@@ -880,20 +1774,28 @@
     "status": "completed",
     "period": "2021.07.30",
     "title": {
-      "ko": "제16회 청소년학술대회 연구 멘토링",
-      "en": "16th Youth Academic Conference Research Mentoring"
+      "ko": "제16회 한국 청소년 학술대회 연구 멘토링 프로그램 (한국청소년학술대회조직위원회 & WRTN)",
+      "en": "16th KSCY — Research Mentoring Programme (KSCY Organizing Committee · WRTN)"
     },
     "summary": {
-      "ko": "청소년 연구 멘토링 프로그램을 이수했습니다.",
-      "en": "Completed a youth research-mentoring program."
+      "ko": "공학 분야의 컴퓨터공학 연구 멘토링 프로그램에 참여했습니다.",
+      "en": "Participated in computer science research mentoring at the 16th KSCY."
     },
     "featured": false,
     "tags": [
-      "program",
-      "research",
-      "mentoring",
-      "youth"
-    ]
+      "research-method",
+      "computer-science",
+      "kscy"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "공학 분야의 컴퓨터공학 연구 멘토링 프로그램에 참여했습니다. 분야 튜토리얼, 멘토링, 학술교류 등에 참여했습니다.",
+          "en": "Joined computer science research mentoring in the engineering field, including a subject tutorial, mentoring, and academic exchange."
+        }
+      ]
+    },
+    "links": []
   },
   {
     "slug": "kscy16-social-value-course",
@@ -902,103 +1804,412 @@
     "status": "completed",
     "period": "2021.07.30",
     "title": {
-      "ko": "제16회 Social Value 과정",
-      "en": "16th Social Value Course"
+      "ko": "제16회 한국 청소년 학술대회 Social Value 과정 (한국청소년학술대회조직위원회 & WRTN)",
+      "en": "16th KSCY — Social Value Course (KSCY Organizing Committee · WRTN)"
     },
     "summary": {
-      "ko": "사회적 가치 관련 과정을 이수했습니다.",
-      "en": "Completed a course on social value."
+      "ko": "Social Value Tutorial을 이수했습니다.",
+      "en": "Completed the Social Value Tutorial at the 16th KSCY."
     },
     "featured": false,
     "tags": [
-      "program",
-      "social-value",
-      "youth"
-    ]
+      "kscy"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "Social Value Tutorial을 이수했습니다.",
+          "en": "Completed the Social Value Tutorial."
+        }
+      ]
+    },
+    "links": []
   },
   {
-    "slug": "sololearn-c",
-    "sortDate": "2020-08-26",
+    "slug": "kscy16-social-value-certification",
+    "sortDate": "2021-07-30",
     "kind": "completion",
     "status": "completed",
-    "period": "2020.08.26 · 8 sessions",
+    "period": "2021.07.30",
     "title": {
-      "ko": "SoloLearn C Course",
-      "en": "SoloLearn C Course"
+      "ko": "제16회 한국 청소년 학술대회 Social Value 연구 인증 (한국청소년학술대회조직위원회 & WRTN)",
+      "en": "16th KSCY — Social Value Research Certification (KSCY Organizing Committee · WRTN)"
     },
     "summary": {
-      "ko": "SoloLearn의 C언어 과정을 8차시 이수했습니다.",
-      "en": "Completed the eight-session SoloLearn C course."
+      "ko": "‘환경오염과 기후변화’를 주제로 Social Value 연구 인증을 받았습니다.",
+      "en": "Received Social Value research certification for work on environmental pollution and climate change."
     },
     "featured": false,
     "tags": [
-      "course",
+      "environment",
+      "kscy",
+      "climate",
+      "astronomy",
+      "satellite"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "‘환경오염과 기후변화’를 주제로 연구 인증을 받았습니다. 연구물 발표, Social Value Tutorial에 참여했습니다. 인공지능의 빛 공해 관련 연구를 통해 인증받았습니다.",
+          "en": "Received research certification on environmental pollution and climate change through research on artificial light pollution. Presented the research and attended the Social Value Tutorial."
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "science-high-program-a59e6ebb",
+    "sortDate": "2021-07-23",
+    "kind": "completion",
+    "status": "completed",
+    "period": "2021.07.19.-2021.07.23",
+    "title": {
+      "ko": "텐서플로우로 구현하는 인공지능 캠프",
+      "en": "AI Implementation Camp with TensorFlow"
+    },
+    "summary": {
+      "ko": "선형회귀·KNN·트리·DNN·CNN 등을 학습하고 필기 인식 및 단위 변환 프로그램을 제작했습니다.",
+      "en": "Studied regression, KNN, tree models, DNNs, and CNNs and built a handwriting-recognition and unit-conversion programme."
+    },
+    "featured": false,
+    "tags": [
+      "machine-learning",
+      "ai",
+      "tensorflow",
+      "python",
+      "neural-networks",
+      "cnn",
+      "planning"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "사전에 파이썬 학습자료를 제작해 참가자들에게 배포했습니다.",
+          "en": "Prepared and distributed Python learning materials before the camp."
+        },
+        {
+          "ko": "선형회귀, KNN, 의사결정트리, 랜덤포레스트, K-평균, DNN, CNN 등에 대해 학습했습니다.",
+          "en": "Studied linear regression, KNN, decision trees, random forests, K-means, DNNs, and CNNs."
+        },
+        {
+          "ko": "희망자 대상의 팀별 프로젝트에서 “필기 인식 및 단위 변환 프로그램”을 제작했습니다.",
+          "en": "Built a handwriting-recognition and unit-conversion application in an optional team project."
+        },
+        {
+          "ko": "활동 기획 과정에 참여했습니다.",
+          "en": "Helped plan the activity."
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "science-high-program-ad8094a6",
+    "sortDate": "2021-02-02",
+    "kind": "completion",
+    "status": "completed",
+    "period": "2020.10.30. ~ 2021.2.2",
+    "title": {
+      "ko": "기술창업아카데미",
+      "en": "Technology Entrepreneurship Academy"
+    },
+    "summary": {
+      "ko": "충남과학고등학교 기술창업아카데미에 참여했습니다.",
+      "en": "Participated in the school Technology Entrepreneurship Academy."
+    },
+    "featured": false,
+    "tags": [
+      "entrepreneurship",
+      "cshs"
+    ],
+    "links": []
+  },
+  {
+    "slug": "postech-security-camp-completion",
+    "sortDate": "2021-01-22",
+    "kind": "completion",
+    "status": "completed",
+    "period": "2021.01.18. ~ 2021.01.22",
+    "title": {
+      "ko": "Postech On-Line 해킹 & 보안 캠프 (포항공과대학교)",
+      "en": "POSTECH Online Hacking and Security Camp"
+    },
+    "summary": {
+      "ko": "보안개론/Linux개론, Python, Reversing, Pwnable, 암호학, Web, SQL 등에 대해 학습하였으며, 마지막날 CTF에서 팀이 3위를 하였습니다.",
+      "en": "Completed a five-day online hacking and security camp covering Linux, Python, reversing, pwnable, cryptography, web, and SQL."
+    },
+    "featured": false,
+    "tags": [
+      "security",
+      "linux",
+      "python",
+      "programming",
+      "cryptography",
+      "web",
+      "database",
+      "ctf",
+      "reverse-engineering",
+      "binary-exploitation"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "보안개론/Linux개론, Python, Reversing, Pwnable, 암호학, Web, SQL 등에 대해 학습하였으며, 마지막날 CTF에서 팀이 3위를 하였습니다.",
+          "en": "Studied security fundamentals, Linux fundamentals, Python, reversing, pwnable, cryptography, web security, and SQL. The team placed third in the final-day CTF."
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "science-high-program-91b2be3a",
+    "sortDate": "2021-01-01",
+    "kind": "completion",
+    "status": "completed",
+    "period": "2021",
+    "title": {
+      "ko": "사이언스 크리에이터 프로젝트",
+      "en": "Science Creator Project"
+    },
+    "summary": {
+      "ko": "사이언스 크리에이터 프로젝트에서 모의 크라우드펀딩을 진행했습니다.",
+      "en": "Participated in the Science Creator Project and a mock crowdfunding activity."
+    },
+    "featured": false,
+    "tags": [
+      "entrepreneurship",
+      "crowdfunding",
+      "planning"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "모의크라우드 펀딩(2021.12.29.)을 진행했습니다.",
+          "en": "Took part in a mock crowdfunding activity on December 29, 2021."
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "science-high-program-cc9e24bf",
+    "sortDate": "2021-01-01",
+    "kind": "completion",
+    "status": "completed",
+    "period": "2021",
+    "title": {
+      "ko": "학급특색활동(NIE)",
+      "en": "Class Activity: Newspaper in Education (NIE)"
+    },
+    "summary": {
+      "ko": "양자 컴퓨터 기사 읽기 활동을 하였습니다. 활동을 바탕으로 양자 내성 암호에 대해 탐구했습니다.",
+      "en": "Read an article about quantum computing and investigated post-quantum cryptography as part of a newspaper-in-education activity."
+    },
+    "featured": false,
+    "tags": [
+      "quantum-computing",
+      "pqc",
+      "cryptography",
+      "security",
+      "reading"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "양자 컴퓨터 기사 읽기 활동을 하였습니다. 활동을 바탕으로 양자 내성 암호에 대해 탐구했습니다.",
+          "en": "Read an article about quantum computing and investigated post-quantum cryptography as a follow-up activity."
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "science-high-program-f5593d69",
+    "sortDate": "2020-11-10",
+    "kind": "completion",
+    "status": "completed",
+    "period": "2020.11.09.-2020.11.10",
+    "title": {
+      "ko": "C언어와 함께하는 알고리즘 캠프",
+      "en": "Algorithms Camp with C"
+    },
+    "summary": {
+      "ko": "BFS/DFS, 배열탐색, 예외처리, 냅색알고리즘, 알고리즘 최적화에 대해 학습했습니다. 또한 4개의 알고리즘 문제(두더지굴, 치즈, 배낭, 공주구하기)를 풀어보며 알고리즘 구현을 실습했습니다.",
+      "en": "Studied BFS/DFS, search, error handling, the knapsack algorithm, and optimization, and solved four programming problems."
+    },
+    "featured": false,
+    "tags": [
+      "algorithm",
       "c",
-      "programming"
-    ]
+      "programming",
+      "graph-algorithms",
+      "dynamic-programming",
+      "optimization",
+      "competitive-programming"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "BFS/DFS, 배열탐색, 예외처리, 냅색알고리즘, 알고리즘 최적화에 대해 학습했습니다. 또한 4개의 알고리즘 문제(두더지굴, 치즈, 배낭, 공주구하기)를 풀어보며 알고리즘 구현을 실습했습니다.",
+          "en": "Studied BFS/DFS, array search, exception handling, the knapsack algorithm, and algorithm optimization. Practised implementation by solving four problems: 두더지굴, 치즈, 배낭, and 공주구하기."
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "science-high-program-e71614bc",
+    "sortDate": "2020-10-27",
+    "kind": "completion",
+    "status": "completed",
+    "period": "2020.09.24.-2020.10.27",
+    "title": {
+      "ko": "파이썬 언어로 구현하는 인공지능 캠프",
+      "en": "AI Implementation Camp with Python"
+    },
+    "summary": {
+      "ko": "파이썬 기초 문법 및 세부 내용, CSV 파일 읽기, 데이터 시각화, numpy, pandas, matplotlib, 인공지능 구현 원리에 대해 학습했습니다. 평균 수명과 선진화 지수를 연계한 프로젝트를 성과물로 제출했습니다.",
+      "en": "Studied Python, CSV processing, visualization, NumPy, pandas, matplotlib, and AI fundamentals, and submitted a data project."
+    },
+    "featured": false,
+    "tags": [
+      "python",
+      "machine-learning",
+      "ai",
+      "programming",
+      "numpy",
+      "pandas",
+      "matplotlib",
+      "visualization"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "파이썬 기초 문법 및 세부 내용, CSV 파일 읽기, 데이터 시각화, numpy, pandas, matplotlib, 인공지능 구현 원리에 대해 학습했습니다. 평균 수명과 선진화 지수를 연계한 프로젝트를 성과물로 제출했습니다.",
+          "en": "Studied Python syntax, CSV file processing, data visualization, NumPy, pandas, matplotlib, and principles of AI implementation. Submitted a project linking life expectancy with a development index."
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "science-high-program-065fa173",
+    "sortDate": "2020-10-26",
+    "kind": "completion",
+    "status": "completed",
+    "period": "2020.10.26",
+    "title": {
+      "ko": "비버챌린지 문제해결 활동",
+      "en": "Bebras Challenge Problem-Solving Activity"
+    },
+    "summary": {
+      "ko": "비버챌린지에 참가해 문제를 해결했습니다.",
+      "en": "Participated in the Bebras Challenge and solved its problems."
+    },
+    "featured": false,
+    "tags": [
+      "algorithm"
+    ],
+    "links": []
   },
   {
     "slug": "sololearn-html",
     "sortDate": "2020-08-26",
     "kind": "completion",
     "status": "completed",
-    "period": "2020.08.26 · 4 sessions",
+    "period": "2020.08.26",
     "title": {
-      "ko": "SoloLearn HTML Course",
-      "en": "SoloLearn HTML Course"
+      "ko": "HTML Course",
+      "en": "HTML Course"
     },
     "summary": {
-      "ko": "SoloLearn의 HTML 과정을 4차시 이수했습니다.",
-      "en": "Completed the four-session SoloLearn HTML course."
+      "ko": "개설기관: SoloLearn · 이수 분량: 4차시",
+      "en": "Completed a course offered by Sololearn. Duration: 4 sessions."
     },
     "featured": false,
     "tags": [
-      "course",
       "html",
       "web"
-    ]
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "개설기관: SoloLearn",
+          "en": "Provider: Sololearn"
+        },
+        {
+          "ko": "이수 분량: 4차시",
+          "en": "Duration: 4차시"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "sololearn-c",
+    "sortDate": "2020-08-26",
+    "kind": "completion",
+    "status": "completed",
+    "period": "2020.08.26",
+    "title": {
+      "ko": "C Course",
+      "en": "C Course"
+    },
+    "summary": {
+      "ko": "개설기관: SoloLearn · 이수 분량: 8차시",
+      "en": "Completed a course offered by Sololearn. Duration: 8 sessions."
+    },
+    "featured": false,
+    "tags": [
+      "c",
+      "programming"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "개설기관: SoloLearn",
+          "en": "Provider: Sololearn"
+        },
+        {
+          "ko": "이수 분량: 8차시",
+          "en": "Duration: 8차시"
+        }
+      ]
+    },
+    "links": []
   },
   {
     "slug": "information-gifted-7th",
     "sortDate": "2019-11-09",
     "kind": "completion",
     "status": "completed",
-    "period": "2019.03 — 11 · 114h",
+    "period": "2019.03.01. ~ 2019.11.09",
     "title": {
-      "ko": "정보영재 7기",
-      "en": "Information Gifted Program, Cohort 7"
+      "ko": "정보 영재 교육 7기 중등과정 (충청남도교육청연구정보원영재교육원)",
+      "en": "Gifted Education in Information Science — Cohort 7, Middle-School Programme (충청남도교육청연구정보원영재교육원)"
     },
     "summary": {
-      "ko": "정보 분야 영재교육과정을 114시간 이수했습니다.",
-      "en": "Completed 114 hours in an information-technology gifted program."
+      "ko": "창의 리더, 3D Printing, 창의 메이킹, 정보보안을 학습했으며 과학창의축전 부스운영 등에 참여했습니다.",
+      "en": "Completed 114 hours of information-gifted education, including server security, 3D printing, and making."
     },
     "featured": false,
     "tags": [
-      "program",
-      "gifted-education",
-      "informatics",
-      "programming"
-    ]
-  },
-  {
-    "slug": "hanmin-leadership-camp-2019",
-    "sortDate": "2019-07-26",
-    "kind": "completion",
-    "status": "completed",
-    "period": "2019.07.22 — 07.26",
-    "title": {
-      "ko": "한민 리더십 캠프",
-      "en": "Hanmin Leadership Camp"
+      "security",
+      "3d-printing",
+      "maker",
+      "windows-server",
+      "leadership-development",
+      "technical-support"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "창의 리더, 3D Printing, 창의 메이킹, 정보보안을 학습했으며 과학창의축전 부스운영 등에 참여했습니다. 사사과정은 윈도우 서버 구축 및 관리 (서버 보안 관리)입니다.",
+          "en": "Studied creative leadership, 3D printing, creative making, and information security, and helped run booths at a science and creativity festival. The mentored study focused on building and managing Windows servers, including server security."
+        }
+      ]
     },
-    "summary": {
-      "ko": "한민 리더십 캠프에 참여했습니다.",
-      "en": "Participated in the Hanmin Leadership Camp."
-    },
-    "featured": false,
-    "tags": [
-      "program",
-      "leadership"
-    ]
+    "links": []
   },
   {
     "slug": "seven-habits-teen-2019",
@@ -1007,83 +2218,154 @@
     "status": "completed",
     "period": "2019.07.26",
     "title": {
-      "ko": "성공하는 10대들의 7가지 습관",
+      "ko": "The Seven Habits Of Highly Effective Teen (Franklin Covey Co.)",
       "en": "The 7 Habits of Highly Effective Teens"
     },
     "summary": {
-      "ko": "청소년 자기관리·리더십 프로그램을 이수했습니다.",
-      "en": "Completed a youth self-management and leadership program."
+      "ko": "한민리더십캠프 과정 중 수료했습니다.",
+      "en": "Completed The 7 Habits of Highly Effective Teens as part of 한민 리더십 캠프."
     },
     "featured": false,
     "tags": [
-      "program",
-      "leadership"
-    ]
+      "leadership-development",
+      "self-directed-learning"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "한민리더십캠프 과정 중 수료했습니다.",
+          "en": "Completed the course as part of 한민 리더십 캠프."
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "hanmin-leadership-camp-2019",
+    "sortDate": "2019-07-26",
+    "kind": "completion",
+    "status": "completed",
+    "period": "2019.07.22. ~ 2019.07.26",
+    "title": {
+      "ko": "제10회 한민 리더십 캠프 (군인자녀교육진흥원 & 학교법인한민학원)",
+      "en": "10th 한민 Leadership Camp (군인자녀교육진흥원 · 학교법인한민학원)"
+    },
+    "summary": {
+      "ko": "성공하는 청소년의 7가지습관, 목표설정, 자기주도학습 습관 배양 등을 이수했습니다.",
+      "en": "Completed sessions on goal setting and self-directed learning at 제10회 한민 리더십 캠프."
+    },
+    "featured": false,
+    "tags": [
+      "leadership-development",
+      "self-directed-learning"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "성공하는 청소년의 7가지습관, 목표설정, 자기주도학습 습관 배양 등을 이수했습니다.",
+          "en": "Completed sessions on the seven habits for teenagers, goal setting, and self-directed learning."
+        }
+      ]
+    },
+    "links": []
   },
   {
     "slug": "youth-news-camp-2019",
     "sortDate": "2019-06-01",
     "kind": "completion",
     "status": "completed",
-    "period": "2019.06.01 · 8h",
+    "period": "2019.06.01",
     "title": {
-      "ko": "청소년 뉴스제작 캠프",
-      "en": "Youth News Production Camp"
+      "ko": "청소년 뉴스제작 경진대회 지역별 뉴스캠프 (대전시청자미디어센터)",
+      "en": "Youth News Production Competition — Regional Camp (대전시청자미디어센터)"
     },
     "summary": {
-      "ko": "8시간 미디어 캠프를 이수하고 봉사 2시간을 인정받았습니다.",
-      "en": "Completed an eight-hour media camp and received two volunteer hours."
+      "ko": "청소년 뉴스제작 경진대회의 일환으로 뉴스 캠프에 참여했습니다.",
+      "en": "Attended an eight-hour news-production camp covering scripts, smartphone filming, short news videos, and mentoring."
     },
     "featured": false,
     "tags": [
-      "program",
-      "media",
-      "youth",
-      "volunteer"
-    ]
+      "journalism",
+      "media-production",
+      "news-production",
+      "writing",
+      "planning"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "청소년 뉴스제작 경진대회의 일환으로 뉴스 캠프에 참여했습니다. 뉴스 원고 읽고 쓰기, 스마트폰 뉴스 촬영 및 90초 뉴스 제작, 시사회 및 뉴스 제작 멘토링에 참여했습니다. 미디어 체험존 구상 봉사활동으로 봉사시간 2시간이 인정되었습니다.",
+          "en": "Joined a regional camp for a youth news-production competition. Activities included reading and writing news scripts, filming with a smartphone, producing a 90-second news video, screenings, and production mentoring. Received two volunteer-service hours for planning a media-experience zone."
+        }
+      ]
+    },
+    "links": []
   },
   {
     "slug": "smart-leader-gifted-6th",
     "sortDate": "2018-11-10",
     "kind": "completion",
     "status": "completed",
-    "period": "2018.03 — 11 · 114h",
+    "period": "2018.03.01. ~ 2018.11.10",
     "title": {
-      "ko": "스마트리더 영재 6기",
-      "en": "Smart Leader Gifted Program, Cohort 6"
+      "ko": "스마트 리더 영재 교육 6기 정보분야 중등과정 (충청남도교육연구정보원부설스마트리더영재교육원)",
+      "en": "스마트 리더 Gifted Education — Cohort 6, Middle-School Information Programme (충청남도교육연구정보원부설스마트리더영재교육원)"
     },
     "summary": {
-      "ko": "스마트리더 영재교육과정을 114시간 이수했습니다.",
-      "en": "Completed 114 hours in the Smart Leader gifted program."
+      "ko": "창의 리더, C/C++, Java/Android Studio, Unreal Engine, Unity Engine 등을 학습했습니다.",
+      "en": "Completed 114 hours of gifted education, including C/C++, Java, Android Studio, Unreal Engine, and Unity."
     },
     "featured": false,
     "tags": [
-      "program",
-      "gifted-education",
-      "leadership",
-      "technology"
-    ]
+      "cpp",
+      "android",
+      "game-development",
+      "programming",
+      "java",
+      "c",
+      "unity",
+      "unreal-engine"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "창의 리더, C/C++, Java/Android Studio, Unreal Engine, Unity Engine 등을 학습했습니다. 사사과정은 Android Studio, Java입니다.",
+          "en": "Studied creative leadership, C/C++, Java with Android Studio, Unreal Engine, and Unity. The mentored study focused on Android Studio and Java."
+        }
+      ]
+    },
+    "links": []
   },
   {
     "slug": "environmental-classroom-2018",
     "sortDate": "2018-07-27",
     "kind": "completion",
     "status": "completed",
-    "period": "2018.07.23 — 07.27",
+    "period": "2018.07.23. ~ 2018.07.27",
     "title": {
-      "ko": "환경교실",
-      "en": "Environmental Classroom"
+      "ko": "제13회 청소년 환경사랑 생명사랑 교실 (동아ST)",
+      "en": "13th Youth Environmental and Life Education Camp (동아ST)"
     },
     "summary": {
-      "ko": "환경교육 프로그램에 참여하고 봉사 10시간을 기록했습니다.",
-      "en": "Participated in an environmental education program and recorded ten volunteer hours."
+      "ko": "자연과의 공존을 위한 강의, 논과 강 등의 다양한 생물을 이해하는 물이 품은 생명교실, 수확의 기쁨을 느낄 수 있는 농경문화 체험 활동, 밤하늘 별자리 관측 프로그램 등을 이수했습니다.",
+      "en": "Attended a five-day environmental camp covering ecology, agriculture, coexistence with nature, and stargazing."
     },
     "featured": false,
     "tags": [
-      "program",
       "environment",
-      "volunteer",
-      "education"
-    ]
+      "biology",
+      "ecology",
+      "agriculture",
+      "astronomy"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "자연과의 공존을 위한 강의, 논과 강 등의 다양한 생물을 이해하는 물이 품은 생명교실, 수확의 기쁨을 느낄 수 있는 농경문화 체험 활동, 밤하늘 별자리 관측 프로그램 등을 이수했습니다. 환경 관련 활동으로 봉사시간 10시간이 인정되었습니다.",
+          "en": "Completed sessions on coexistence with nature, aquatic life in rice fields and rivers, agricultural experiences including harvesting, and night-sky observation. Received ten volunteer-service hours for environmental activities."
+        }
+      ]
+    },
+    "links": []
   }
 ]

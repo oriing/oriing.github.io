@@ -4,31 +4,21 @@
     "sortDate": "2025-05-23",
     "kind": "media",
     "status": "completed",
-    "period": "2025.05",
+    "period": "2025.05.23",
     "title": {
-      "ko": "경희대학교 전공알림단 관련 대학주보 기사",
-      "en": "Kyung Hee University Newspaper Article on the Major Fair"
+      "ko": "[뉴스] 국제캠 전공박람회 43개 학과 참여해 전공 홍보...\"소속 전공생 아니면 알 수 없는 정보 많이 얻어”",
+      "en": "[News] 43 Departments Promote Their Majors at Global Campus Major Fair: “I Learned a Lot That Only Students in Those Majors Would Know”"
     },
     "summary": {
-      "ko": "전공알림단 활동과 전공 소개에 관한 대학주보 기사에 소개되었습니다.",
-      "en": "Featured in the university newspaper for major-fair and major-introduction activities."
+      "ko": "국제캠 전공박람회를 다룬 대학주보 기사입니다.",
+      "en": "An article in 대학주보 about the major fair at Global Campus."
     },
     "featured": false,
     "tags": [
-      "media",
-      "interview",
-      "career-education",
-      "kyunghee"
+      "education",
+      "career-education"
     ],
-    "links": [
-      {
-        "label": {
-          "ko": "기사 보기",
-          "en": "Read article"
-        },
-        "href": "https://media.khu.ac.kr/bbs/board.php?bo_table=univJubo&wr_id=34455"
-      }
-    ]
+    "links": []
   },
   {
     "slug": "media-khlug-khuthon-2025",
@@ -37,112 +27,89 @@
     "status": "completed",
     "period": "2025.05.10",
     "title": {
-      "ko": "KHLUG 언론: khuthon 2025",
-      "en": "KHLUG Media Coverage: khuthon 2025"
+      "ko": "[보도자료] ‘농업의 기술화’ 주제로 AI·SW 해커톤 열려",
+      "en": "[Press Release] AI·SW Hackathon Held on the Theme of ‘Technology in Agriculture’"
     },
     "summary": {
-      "ko": "khuthon 2025와 관련해 KHLUG 언론 기록에 소개되었습니다.",
-      "en": "Featured in KHLUG media coverage related to khuthon 2025."
+      "ko": "‘농업의 기술화’를 주제로 열린 khuthon 2025 보도자료입니다.",
+      "en": "A KHLUG press release about khuthon 2025 and its theme of technology in agriculture."
     },
     "featured": false,
     "tags": [
-      "media",
+      "hackathon",
+      "agriculture",
       "khlug",
-      "hackathon"
-    ]
+      "khuthon",
+      "ai",
+      "programming"
+    ],
+    "links": []
   },
   {
     "slug": "khu-council-website-media",
     "sortDate": "2025-01-07",
     "kind": "media",
     "status": "completed",
-    "period": "2025.01",
+    "period": "2025.01.07",
     "title": {
-      "ko": "경희대학교 총학생회 홈페이지 관련 대학주보 기사",
-      "en": "University Newspaper Article on the Student Council Website"
+      "ko": "[뉴스] 총학 홈페이지, 중앙동아리 '쿠러그' 도움으로 개설 완료",
+      "en": "[News] Student Council Website Launched with Help from KHLUG"
     },
     "summary": {
-      "ko": "총학생회 홈페이지와 학생사회 디지털 소통에 관한 기사에 소개되었습니다.",
-      "en": "Featured in an article about the student council website and digital communication in student society."
+      "ko": "쿠러그와 함께 구축한 총학생회 홈페이지를 다룬 대학주보 기사입니다.",
+      "en": "An article in 대학주보 about the student council website built with KHLUG."
     },
     "featured": false,
     "tags": [
-      "media",
-      "software",
+      "web",
       "student-governance",
-      "kyunghee"
+      "khlug"
     ],
-    "links": [
-      {
-        "label": {
-          "ko": "기사 보기",
-          "en": "Read article"
-        },
-        "href": "https://media.khu.ac.kr/bbs/board.php?bo_table=univJubo&wr_id=34091"
-      }
-    ]
+    "links": []
   },
   {
     "slug": "khu-interview-tips",
     "sortDate": "2024-11-01",
     "kind": "media",
     "status": "completed",
-    "period": "2024.11",
+    "period": "2024.11.01",
     "title": {
-      "ko": "경희대학교 면접 팁 인터뷰",
-      "en": "Kyung Hee University Interview Tips"
+      "ko": "경희대 선배들이 풀어주는 면접 당일의 이야기, 그리고 면접 팁!",
+      "en": "Kyung Hee Students Share Their Interview-Day Stories and Admissions Interview Tips"
     },
     "summary": {
-      "ko": "대학 입시 면접 경험과 준비 팁을 짧은 인터뷰로 공유했습니다.",
-      "en": "Shared university admissions interview experience and preparation tips in a short-form interview."
+      "ko": "경희대학교 면접 경험과 면접 준비 팁을 소개한 영상입니다.",
+      "en": "A Kyung Hee University video sharing admissions interview experiences and preparation tips."
     },
     "featured": false,
     "tags": [
-      "media",
-      "interview",
       "admissions",
-      "mentoring"
+      "khu"
     ],
-    "links": [
-      {
-        "label": {
-          "ko": "YouTube Shorts",
-          "en": "YouTube Shorts"
-        },
-        "href": "https://youtube.com/shorts/n33g-3zdyck?feature=shared"
-      }
-    ]
+    "links": []
   },
   {
     "slug": "e4ds-khlug-interview",
     "sortDate": "2024-08-01",
     "kind": "media",
     "status": "completed",
-    "period": "2024.08",
+    "period": "2024.08.01",
     "title": {
-      "ko": "e4ds KHLUG 인터뷰",
-      "en": "e4ds Interview on KHLUG"
+      "ko": "[특별기획-대학 동아리 릴레이 인터뷰]경희대 IT 동아리 쿠러그-“세상 모든 IT 기술 대한 연구…영역 제한 없이 모두 환영”",
+      "en": "[Special Feature: University Club Interview Series] KHLUG, Kyung Hee University’s IT Club: “Research Across All of IT… Everyone Is Welcome”"
     },
     "summary": {
-      "ko": "교내 IT 동아리 KHLUG의 활동과 운영 경험을 인터뷰로 소개했습니다.",
-      "en": "Discussed the activities and operations of KHLUG, a university IT club, in an e4ds interview."
+      "ko": "쿠러그의 활동과 운영 방식을 소개한 e4ds news 인터뷰입니다.",
+      "en": "An e4ds news interview about KHLUG activities and how the club operates."
     },
     "featured": false,
     "tags": [
-      "media",
-      "interview",
-      "club",
-      "education"
+      "khlug",
+      "organization-operations",
+      "computer-science",
+      "khu"
     ],
-    "links": [
-      {
-        "label": {
-          "ko": "인터뷰 보기",
-          "en": "Read interview"
-        },
-        "href": "https://www.e4ds.com/sub_view.asp?ch=2&t=0&idx=19494"
-      }
-    ]
+    "links": []
   },
   {
     "slug": "media-khlug-khuthon-2024",
@@ -151,57 +118,45 @@
     "status": "completed",
     "period": "2024.05.10",
     "title": {
-      "ko": "KHLUG 언론: khuthon 2024",
-      "en": "KHLUG Media Coverage: khuthon 2024"
+      "ko": "[보도자료] ‘환경과 소프트웨어’ 주제로 경희대학교 SW 해커톤 열려",
+      "en": "[Press Release] Kyung Hee University Software Hackathon Held on the Theme of ‘The Environment and Software’"
     },
     "summary": {
-      "ko": "khuthon 2024와 관련해 KHLUG 언론 기록에 소개되었습니다.",
-      "en": "Featured in KHLUG media coverage related to khuthon 2024."
+      "ko": "‘환경과 소프트웨어’를 주제로 열린 khuthon 2024 보도자료입니다.",
+      "en": "A KHLUG press release about khuthon 2024 and its theme of the environment and software."
     },
     "featured": false,
     "tags": [
-      "media",
+      "hackathon",
+      "environment",
       "khlug",
-      "hackathon"
-    ]
+      "khuthon",
+      "programming",
+      "khu"
+    ],
+    "links": []
   },
   {
     "slug": "scienceon-media",
     "sortDate": "2024-04-02",
     "kind": "media",
     "status": "completed",
-    "period": "2023 — 2024",
+    "period": "2024.04.02",
     "title": {
-      "ko": "ScienceON 활용사례 콘텐츠·인터뷰",
-      "en": "ScienceON Use-case Content and Interviews"
+      "ko": "[I LOVE KISTI] 대중들의 과학정보플랫폼으로 거듭난 'ScienceON'",
+      "en": "[I LOVE KISTI] ScienceON Evolves into a Science Information Platform for the Public"
     },
     "summary": {
-      "ko": "KISTI 블로그·활용사례집·YouTube에서 ScienceON 활용 경험을 소개했습니다.",
-      "en": "Shared ScienceON use cases through the KISTI blog, casebook, and YouTube."
+      "ko": "ScienceON에 관한 KISTI 기관지 인터뷰입니다.",
+      "en": "An interview feature in a KISTI publication about ScienceON."
     },
     "featured": false,
     "tags": [
-      "media",
-      "interview",
       "science-communication",
-      "content"
+      "kisti",
+      "scienceon"
     ],
-    "links": [
-      {
-        "label": {
-          "ko": "KISTI 블로그",
-          "en": "KISTI blog"
-        },
-        "href": "https://blog.naver.com/withkisti/223403043897"
-      },
-      {
-        "label": {
-          "ko": "YouTube",
-          "en": "YouTube"
-        },
-        "href": "https://www.youtube.com/watch?v=sQVkNowcIuI"
-      }
-    ]
+    "links": []
   },
   {
     "slug": "scienceon-casebook-2024",
@@ -210,49 +165,62 @@
     "status": "completed",
     "period": "2024.02.01",
     "title": {
-      "ko": "ScienceON 활용사례집 수록",
-      "en": "Featured in the ScienceON Casebook"
+      "ko": "2021-2023 ScienceON 활용사례집 (2023)",
+      "en": "2021–2023 ScienceON Use Case Collection (2023)"
     },
     "summary": {
-      "ko": "ScienceON 활용 사례가 사례집에 수록되었습니다.",
-      "en": "A ScienceON use case was included in its published casebook."
+      "ko": "2021–2023년 ScienceON 활용 사례를 소개한 사례집입니다.",
+      "en": "A publication collecting ScienceON use cases from 2021–2023."
     },
     "featured": false,
     "tags": [
-      "media",
-      "science-communication"
+      "science-communication",
+      "scienceon"
     ],
-    "links": [
-      {
-        "label": {
-          "ko": "ScienceON 발간물",
-          "en": "ScienceON publication"
-        },
-        "href": "https://scienceon.kisti.re.kr/pubs/movePubInfoDtl.do"
-      }
-    ]
+    "links": []
+  },
+  {
+    "slug": "scienceon-youtube-2023",
+    "sortDate": "2023-12-04",
+    "kind": "media",
+    "status": "completed",
+    "period": "2023.12.04",
+    "title": {
+      "ko": "과학기술에 연결을 더하다, ScienceON",
+      "en": "ScienceON: Adding Connections to Science and Technology"
+    },
+    "summary": {
+      "ko": "과학기술 지식인프라 ScienceON을 소개한 홍보 영상입니다.",
+      "en": "A promotional video introducing ScienceON."
+    },
+    "featured": false,
+    "tags": [
+      "science-communication",
+      "scienceon"
+    ],
+    "links": []
   },
   {
     "slug": "matijae-admissions-review-2023",
-    "sortDate": "2023-12-31",
+    "sortDate": "2023-01-01",
     "kind": "media",
     "status": "completed",
     "period": "2023",
     "title": {
       "ko": "교지 ‘마티재의 함성’ 입시 후기",
-      "en": "Admissions Retrospective for the School Journal ‘Voice of Matijae’"
+      "en": "Admissions Reflection in the School Magazine ‘마티재의 함성’"
     },
     "summary": {
-      "ko": "충남과학고 교지에 졸업 후 입시 후기를 작성했습니다.",
-      "en": "Wrote an admissions retrospective for the Chungnam Science High School journal after graduation."
+      "ko": "충남과학고등학교 2023년 교지 ‘마티재의 함성’에 입시 후기를 작성했습니다.",
+      "en": "Wrote an admissions account for Chung-Nam Science High School's 2023 journal ‘마티재의 함성’."
     },
     "featured": false,
     "tags": [
-      "media",
-      "high-school",
+      "writing",
       "admissions",
-      "writing"
-    ]
+      "cshs"
+    ],
+    "links": []
   },
   {
     "slug": "gongju-newspaper-crowdfunding-2021",
@@ -261,19 +229,19 @@
     "status": "completed",
     "period": "2021.01.19",
     "title": {
-      "ko": "공주신문: 충남과학고 모의 크라우드펀딩",
-      "en": "Gongju Newspaper: Chungnam Science High Mock Crowdfunding"
+      "ko": "충남과학고, 모의 크라우드 펀딩 행사 개최",
+      "en": "Chung-Nam Science High School Holds Mock Crowdfunding Event"
     },
     "summary": {
-      "ko": "충남과학고 모의 크라우드펀딩 활동이 지면 기사로 소개되었습니다.",
-      "en": "A Chungnam Science High mock-crowdfunding activity was covered in print."
+      "ko": "충남과학고 모의 크라우드 펀딩 행사를 소개한 기사입니다. <<내용필요: 게시 매체명 확인(공주일보/중도일보)>>",
+      "en": "An article about a mock crowdfunding event at Chung-Nam Science High School. <<내용필요: 게시 매체명 확인(공주일보/중도일보)>>"
     },
     "featured": false,
     "tags": [
-      "media",
-      "high-school",
+      "entrepreneurship",
       "crowdfunding",
-      "entrepreneurship"
-    ]
+      "cshs"
+    ],
+    "links": []
   }
 ]

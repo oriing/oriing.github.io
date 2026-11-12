@@ -1,307 +1,1278 @@
 [
   {
-    "slug": "volunteer-record-2025",
+    "slug": "heritage-guardian-promotion-2025",
     "sortDate": "2025-07-01",
     "kind": "volunteer",
     "status": "completed",
-    "period": "2025",
+    "period": "2025.03.01 — 2025.07.01",
     "title": {
-      "ko": "2025 봉사·교육기부 기록",
-      "en": "Volunteer and Educational Contribution Record, 2025"
+      "ko": "국가유산지킴이 : 국가유산 홍보 프로그램 제작·기획",
+      "en": "국가유산지킴이 — Heritage Promotion Program Planning and Production"
     },
     "summary": {
-      "ko": "전공박람회, 국가유산 홍보와 일대일 학습지도를 포함해 38시간을 기록했습니다.",
-      "en": "Recorded 38 hours across a major fair, heritage promotion, and one-to-one tutoring."
+      "ko": "국가유산 홍보 프로그램을 제작·기획했습니다.",
+      "en": "Planned and produced a national-heritage promotion program."
     },
     "featured": false,
     "tags": [
-      "volunteer",
-      "education",
       "history",
-      "event-operations"
+      "planning"
     ],
     "detail": {
       "outcomes": [
         {
-          "ko": "자유전공학부 전공박람회 부스·전공탐방 지원 6시간, 2025.03.01–05.23",
-          "en": "Undeclared-major fair booth and exploration support, 6 hours, Mar–May 2025"
+          "ko": "인정 봉사시간: 26시간",
+          "en": "Recognized volunteer hours: 26"
         },
         {
-          "ko": "국가유산지킴이 홍보 프로그램 제작·기획 26시간, 2025.03.01–07.01",
-          "en": "National Heritage Guardian promotion planning and production, 26 hours, Mar–Jul 2025"
+          "ko": "기관: 한국역사해설진흥원",
+          "en": "Organization: 한국역사해설진흥원"
         },
         {
-          "ko": "세광방과후학교 일대일 수학 지도 6시간, 2025.02.11·13 — 유리수와 순환소수, 식의 계산",
-          "en": "One-to-one mathematics tutoring at Segwang After-school Center, 6 hours on Feb 11 and 13 — rational and repeating decimals, algebraic expressions"
+          "ko": "장소: 한국역사해설진흥원",
+          "en": "Location: 한국역사해설진흥원"
         }
       ]
-    }
+    },
+    "links": []
   },
   {
-    "slug": "volunteer-record-2024",
+    "slug": "khu-major-fair-2025",
+    "sortDate": "2025-05-23",
+    "kind": "volunteer",
+    "status": "completed",
+    "period": "2025.03.01 — 2025.05.23",
+    "title": {
+      "ko": "2025 자유전공학부 전공박람회 부스운영 및 전공탐방지원 프로그램",
+      "en": "자유전공학부 Major Fair — Booth Operations and Major Exploration Support, 2025"
+    },
+    "summary": {
+      "ko": "전공박람회 부스운영 및 전공탐방지원 프로그램에 참여했습니다.",
+      "en": "Supported major-fair booths and major-exploration activities."
+    },
+    "featured": false,
+    "tags": [
+      "event-operations",
+      "career-education",
+      "education",
+      "khu"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "행사 진행일: 2025.05.19–05.21. 봉사 인정기간: 2025.03.01–05.23.",
+          "en": "Event dates: May 19–21, 2025. Volunteer recognition period: March 1–May 23, 2025."
+        },
+        {
+          "ko": "담당 업무: 부스 운영, 운영 방식 의견 제시, 행사 정리 보조",
+          "en": "Responsibilities: booth support, suggestions on operating procedures, and cleanup assistance."
+        },
+        {
+          "ko": "인정 봉사시간: 6시간",
+          "en": "Recognized volunteer hours: 6"
+        },
+        {
+          "ko": "기관: 경희대학교 자유전공학부",
+          "en": "Organization: 경희대학교 자유전공학부"
+        },
+        {
+          "ko": "장소: 경희대학교",
+          "en": "Location: Kyung Hee University"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "segwang-learning-support-2025",
+    "sortDate": "2025-02-13",
+    "kind": "volunteer",
+    "status": "completed",
+    "period": "2025.02.11 — 2025.02.13",
+    "title": {
+      "ko": "초등학교 1학년 ~ 중학교 1학년 수업 일대일 학습지도",
+      "en": "One-to-one Learning Support at 세광방과후학교"
+    },
+    "summary": {
+      "ko": "초등학교 1학년부터 중학교 1학년까지의 일대일 학습지도에 참여했습니다.",
+      "en": "Provided one-to-one learning support for students from grade 1 through grade 7."
+    },
+    "featured": false,
+    "tags": [
+      "education",
+      "mathematics",
+      "mentoring"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "인정 봉사시간: 6시간",
+          "en": "Recognized volunteer hours: 6"
+        },
+        {
+          "ko": "기관: 세광방과후학교",
+          "en": "Organization: 세광방과후학교"
+        },
+        {
+          "ko": "장소: 세광방과후학교",
+          "en": "Location: 세광방과후학교"
+        },
+        {
+          "ko": "중학교 1학년 수학의 유리수와 순환소수, 식의 계산을 지도했습니다. 2025.02.11·02.13 각 3시간.",
+          "en": "Taught grade 7 mathematics on rational numbers, repeating decimals, and algebraic expressions for three hours each on February 11 and 13, 2025."
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "sagwan-democracy-memorial-2024",
     "sortDate": "2024-12-24",
     "kind": "volunteer",
     "status": "completed",
-    "period": "2024",
+    "period": "2024.12.24",
     "title": {
-      "ko": "2024 봉사·캠페인 기록",
-      "en": "Volunteer and Campaign Record, 2024"
+      "ko": "과거를 기억하고 현재를 기록하는 대학생 서포터즈 사관 · 민주화운동기념관",
+      "en": "사관 University Supporters — 민주화운동기념관"
     },
     "summary": {
-      "ko": "동계청소년올림픽과 역사 기록 캠페인에서 총 193.5시간을 기록했습니다.",
-      "en": "Recorded 193.5 hours through the Winter Youth Olympics and public-history campaigns."
+      "ko": "민주화운동기념관에서 대학생 서포터즈 사관 활동에 참여했습니다.",
+      "en": "Participated in the 사관 university supporter activity at 민주화운동기념관."
     },
     "featured": false,
     "tags": [
-      "volunteer",
-      "international-event",
       "history",
-      "campaign",
-      "technical-support"
+      "campaign"
     ],
     "detail": {
       "outcomes": [
         {
-          "ko": "2024 강원 동계청소년올림픽 운영지원 177.5시간, 2024.01.16–02.03",
-          "en": "Gangwon 2024 Winter Youth Olympics operations, 177.5 hours, Jan–Feb 2024"
+          "ko": "인정 봉사시간: 4시간",
+          "en": "Recognized volunteer hours: 4"
         },
         {
-          "ko": "대학생 서포터즈 사관: 서울 보훈사적지 8시간(11.23), 경복궁 4시간(11.30), 민주화운동기념관 4시간(12.24)",
-          "en": "Sagwan history supporter: Seoul veterans' sites 8h, Gyeongbokgung 4h, Democracy Memorial Hall 4h"
+          "ko": "기관: 한국역사해설진흥원",
+          "en": "Organization: 한국역사해설진흥원"
+        },
+        {
+          "ko": "장소: 민주화운동기념관",
+          "en": "Location: 민주화운동기념관"
         }
       ]
-    }
+    },
+    "links": []
+  },
+  {
+    "slug": "sagwan-gyeongbokgung-2024",
+    "sortDate": "2024-11-30",
+    "kind": "volunteer",
+    "status": "completed",
+    "period": "2024.11.30",
+    "title": {
+      "ko": "과거를 기억하고 현재를 기록하는 대학생 서포터즈 사관 · 경복궁",
+      "en": "사관 University Supporters — Gyeongbokgung Palace"
+    },
+    "summary": {
+      "ko": "경복궁에서 대학생 서포터즈 사관 활동에 참여했습니다.",
+      "en": "Participated in the 사관 university supporter activity at Gyeongbokgung Palace."
+    },
+    "featured": false,
+    "tags": [
+      "history",
+      "campaign"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "인정 봉사시간: 4시간",
+          "en": "Recognized volunteer hours: 4"
+        },
+        {
+          "ko": "기관: 한국역사해설진흥원",
+          "en": "Organization: 한국역사해설진흥원"
+        },
+        {
+          "ko": "장소: 경복궁",
+          "en": "Location: Gyeongbokgung Palace"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "sagwan-veterans-sites-2024",
+    "sortDate": "2024-11-23",
+    "kind": "volunteer",
+    "status": "completed",
+    "period": "2024.11.23",
+    "title": {
+      "ko": "과거를 기억하고 현재를 기록하는 대학생 서포터즈 사관 · 서울 보훈사적지",
+      "en": "사관 University Supporters — Veterans' Historic Sites in Seoul"
+    },
+    "summary": {
+      "ko": "서울 보훈사적지에서 대학생 서포터즈 사관 활동에 참여했습니다.",
+      "en": "Participated in the 사관 university supporter activity at veterans' historic sites in Seoul."
+    },
+    "featured": false,
+    "tags": [
+      "history",
+      "campaign"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "인정 봉사시간: 8시간",
+          "en": "Recognized volunteer hours: 8"
+        },
+        {
+          "ko": "기관: 한국역사해설진흥원",
+          "en": "Organization: 한국역사해설진흥원"
+        },
+        {
+          "ko": "장소: 서울 보훈사적지",
+          "en": "Location: 서울 보훈사적지"
+        }
+      ]
+    },
+    "links": []
   },
   {
     "slug": "gangwon-youth-olympics-tech",
     "sortDate": "2024-02-03",
     "kind": "volunteer",
     "status": "completed",
-    "period": "2023.11 — 2024.02",
+    "period": "2024.01.16 — 2024.02.03",
     "title": {
-      "ko": "2024 강원 동계청소년올림픽 테크놀로지 봉사",
-      "en": "Technology Volunteer, Gangwon 2024 Winter Youth Olympics"
+      "ko": "2024 강원 동계청소년올림픽대회 운영지원",
+      "en": "Technology Volunteer, Gangwon 2024 Winter Youth Olympic Games"
     },
     "summary": {
-      "ko": "강릉 컬링센터에서 네트워크·프린터·전원 기술지원과 영어 기술 통역을 담당했습니다.",
-      "en": "Provided network, printer, and power support and English technical interpretation at the Gangneung Curling Centre."
+      "ko": "강릉컬링센터에서 통신·기술 지원과 영어 기술 통역을 맡았습니다.",
+      "en": "Provided communication and technical support and English technical interpretation at the Gangneung Curling Centre."
     },
     "featured": false,
     "tags": [
-      "volunteer",
-      "international-event",
+      "event-operations",
       "technical-support",
-      "network"
-    ]
+      "network",
+      "translation"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "인정 봉사시간: 177.5시간",
+          "en": "Recognized volunteer hours: 177.5"
+        },
+        {
+          "ko": "기관: 강릉시 자원봉사센터",
+          "en": "Organization: 강릉시 자원봉사센터"
+        },
+        {
+          "ko": "장소: 강릉컬링센터",
+          "en": "Location: Gangneung Curling Centre"
+        },
+        {
+          "ko": "사전 준비: 2023.11.29–2024.01.15. 현장 TECHNOLOGY T/F: 2024.01.16–2024.02.03.",
+          "en": "Preparation: November 29, 2023–January 15, 2024. On-site TECHNOLOGY T/F: January 16–February 3, 2024."
+        },
+        {
+          "ko": "무선 인터넷 연결, 프린터 서브넷마스크, 전원 관련 문제 해결을 지원하고 외국인 관계자와의 기술 통역을 맡았습니다.",
+          "en": "Assisted with Wi-Fi connectivity, printer subnet-mask and power issues, and technical interpretation with international staff."
+        }
+      ]
+    },
+    "links": []
   },
   {
     "slug": "volunteer-record-2023",
     "sortDate": "2023-09-24",
     "kind": "volunteer",
     "status": "completed",
-    "period": "2023",
+    "period": "2023.09.23 — 2023.09.24",
     "title": {
-      "ko": "2023 용인사이버과학축제 봉사",
-      "en": "2023 Yongin Cyber Science Festival Volunteer Work"
+      "ko": "제23회 용인사이버과학축제 행사운영",
+      "en": "23rd Yongin Cyber Science Festival — Event Operations"
     },
     "summary": {
-      "ko": "메타버스 체험학교 부스를 12시간 운영했습니다.",
-      "en": "Operated a metaverse experience booth for 12 hours."
+      "ko": "VR·AR·햅틱스·모션인식을 다룬 메타버스 체험학교 부스를 운영했습니다.",
+      "en": "Operated a metaverse experience booth covering VR, AR, haptics, and motion recognition."
     },
     "featured": false,
     "tags": [
-      "volunteer",
-      "education",
-      "vr",
-      "ar",
-      "event-operations"
-    ]
+      "science-communication",
+      "extended-reality",
+      "event-operations",
+      "metaverse"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "인정 봉사시간: 12시간",
+          "en": "Recognized volunteer hours: 12"
+        },
+        {
+          "ko": "기관: 용인시청 정보통신과",
+          "en": "Organization: 용인시청 정보통신과"
+        },
+        {
+          "ko": "장소: 용인미르스타디움",
+          "en": "Location: 용인미르스타디움"
+        }
+      ]
+    },
+    "links": []
   },
   {
-    "slug": "volunteer-record-2022",
+    "slug": "science-cafe-2022",
     "sortDate": "2022-08-20",
     "kind": "volunteer",
     "status": "completed",
-    "period": "2022",
+    "period": "2022.08.20",
     "title": {
-      "ko": "2022 봉사·교육기부 기록",
-      "en": "Volunteer and Educational Contribution Record, 2022"
+      "ko": "사이언스 카페 운영",
+      "en": "Science Café Operations, 2022"
     },
     "summary": {
-      "ko": "체험부스, 캠페인과 교내 지원 활동을 기록했습니다.",
-      "en": "Recorded science booths, campaigns, and school support activities."
+      "ko": "오조봇을 이용한 비주얼 코딩 체험을 운영했습니다.",
+      "en": "Operated visual-coding activities using Ozobot."
     },
     "featured": false,
     "tags": [
-      "volunteer",
+      "science-communication",
+      "robotics",
       "education",
-      "science",
+      "programming",
+      "event-operations"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "인정 봉사시간: 3시간",
+          "en": "Recognized volunteer hours: 3"
+        },
+        {
+          "ko": "기관: 충남교육청과학교육원",
+          "en": "Organization: 충남교육청과학교육원"
+        },
+        {
+          "ko": "장소: 충남교육청과학교육원",
+          "en": "Location: 충남교육청과학교육원"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "school-disease-prevention-2022",
+    "sortDate": "2022-07-15",
+    "kind": "volunteer",
+    "status": "completed",
+    "period": "2022.03.17 — 2022.07.15",
+    "title": {
+      "ko": "방역 도우미",
+      "en": "Disease-prevention Assistant"
+    },
+    "summary": {
+      "ko": "충남과학고등학교에서 방역 도우미로 활동했습니다.",
+      "en": "Served as a disease-prevention assistant at Chung-Nam Science High School."
+    },
+    "featured": false,
+    "tags": [
+      "public-health",
+      "cshs"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "봉사시간: 10시간",
+          "en": "Volunteer hours: 10"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "school-library-reading-support-2022",
+    "sortDate": "2022-07-08",
+    "kind": "volunteer",
+    "status": "completed",
+    "period": "2022.04.04 — 2022.07.08",
+    "title": {
+      "ko": "도서관 사서 도우미 및 독서행사 도우미",
+      "en": "School Library and Reading-event Support, 2022"
+    },
+    "summary": {
+      "ko": "도서관 사서 도우미 및 독서행사 도우미로 참여했습니다.",
+      "en": "Assisted the school library and reading events."
+    },
+    "featured": false,
+    "tags": [
+      "library",
+      "reading",
+      "event-operations",
+      "cshs"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "인정 봉사시간: 5시간",
+          "en": "Recognized volunteer hours: 5"
+        },
+        {
+          "ko": "기관: 충남과학고등학교",
+          "en": "Organization: Chung-Nam Science High School"
+        },
+        {
+          "ko": "장소: 충남과학고등학교",
+          "en": "Location: Chung-Nam Science High School"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "kscy-hope-bridge-2022",
+    "sortDate": "2022-06-11",
+    "kind": "volunteer",
+    "status": "completed",
+    "period": "2022.06.11",
+    "title": {
+      "ko": "KSCY 희망브리지 캠페인",
+      "en": "KSCY Hope Bridge Campaign"
+    },
+    "summary": {
+      "ko": "KSCY 희망브리지 캠페인에 참여했습니다.",
+      "en": "Participated in the KSCY Hope Bridge campaign."
+    },
+    "featured": false,
+    "tags": [
       "campaign",
+      "kscy"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "인정 봉사시간: 2시간",
+          "en": "Recognized volunteer hours: 2"
+        },
+        {
+          "ko": "기관: 전국재해구호협회",
+          "en": "Organization: Hope Bridge Korea Disaster Relief Association"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "science-equipment-fair-2022",
+    "sortDate": "2022-05-28",
+    "kind": "volunteer",
+    "status": "completed",
+    "period": "2022.05.28",
+    "title": {
+      "ko": "과학기기 설명회",
+      "en": "Scientific Equipment Information Session"
+    },
+    "summary": {
+      "ko": "유전 알고리즘 체험부스를 운영했습니다.",
+      "en": "Operated a genetic-algorithm experience booth."
+    },
+    "featured": false,
+    "tags": [
+      "science-communication",
+      "genetic-algorithm",
+      "algorithm",
+      "education",
+      "event-operations",
+      "cshs"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "인정 봉사시간: 4시간",
+          "en": "Recognized volunteer hours: 4"
+        },
+        {
+          "ko": "기관: 충남과학고등학교",
+          "en": "Organization: Chung-Nam Science High School"
+        },
+        {
+          "ko": "장소: 충남과학고등학교",
+          "en": "Location: Chung-Nam Science High School"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "science-culture-week-2022",
+    "sortDate": "2022-04-17",
+    "kind": "volunteer",
+    "status": "completed",
+    "period": "2022.04.17",
+    "title": {
+      "ko": "과학문화 확산주간 체험부스 운영",
+      "en": "Science Outreach Week — Experience-booth Operations, 2022"
+    },
+    "summary": {
+      "ko": "생태환경배움터 온실 체험부스를 운영했습니다.",
+      "en": "Operated a greenhouse ecology-learning experience booth."
+    },
+    "featured": false,
+    "tags": [
+      "science-communication",
+      "ecology",
+      "environment",
+      "event-operations"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "인정 봉사시간: 8시간",
+          "en": "Recognized volunteer hours: 8"
+        },
+        {
+          "ko": "기관: 충남교육청과학교육원",
+          "en": "Organization: 충남교육청과학교육원"
+        },
+        {
+          "ko": "장소: 충남교육청과학교육원",
+          "en": "Location: 충남교육청과학교육원"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "school-library-support-2021",
+    "sortDate": "2021-12-31",
+    "kind": "volunteer",
+    "status": "completed",
+    "period": "2021.03.15 — 2021.12.31",
+    "title": {
+      "ko": "도서관 사서 도우미",
+      "en": "School Library Assistant, 2021"
+    },
+    "summary": {
+      "ko": "충남과학고등학교 도서관 사서 도우미로 활동했습니다.",
+      "en": "Served as a library assistant at Chung-Nam Science High School."
+    },
+    "featured": false,
+    "tags": [
+      "library",
+      "cshs"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "인정 봉사시간: 30시간",
+          "en": "Recognized volunteer hours: 30"
+        },
+        {
+          "ko": "기관: 충남과학고등학교",
+          "en": "Organization: Chung-Nam Science High School"
+        },
+        {
+          "ko": "장소: 충남과학고등학교",
+          "en": "Location: Chung-Nam Science High School"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "school-irobby-support-2021",
+    "sortDate": "2021-12-30",
+    "kind": "volunteer",
+    "status": "completed",
+    "period": "2021.03.15 — 2021.12.30",
+    "title": {
+      "ko": "아이로비실 도우미",
+      "en": "아이로비실 Assistant"
+    },
+    "summary": {
+      "ko": "충남과학고등학교에서 아이로비실 도우미로 활동했습니다.",
+      "en": "Served as an assistant for 아이로비실 at Chung-Nam Science High School."
+    },
+    "featured": false,
+    "tags": [
+      "technical-support",
+      "cshs"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "봉사시간: 15시간",
+          "en": "Volunteer hours: 15"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "science-cafe-2021",
+    "sortDate": "2021-09-04",
+    "kind": "volunteer",
+    "status": "completed",
+    "period": "2021.09.04",
+    "title": {
+      "ko": "사이언스 카페 운영",
+      "en": "Science Café Operations, 2021"
+    },
+    "summary": {
+      "ko": "오조봇을 이용한 비주얼 코딩 체험을 운영했습니다.",
+      "en": "Operated visual-coding activities using Ozobot."
+    },
+    "featured": false,
+    "tags": [
+      "science-communication",
+      "robotics",
+      "education",
+      "programming",
+      "event-operations"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "인정 봉사시간: 3시간",
+          "en": "Recognized volunteer hours: 3"
+        },
+        {
+          "ko": "기관: 충남교육청과학교육원",
+          "en": "Organization: 충남교육청과학교육원"
+        },
+        {
+          "ko": "장소: 충남교육청과학교육원",
+          "en": "Location: 충남교육청과학교육원"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "good-neighbors-good-action-2021",
+    "sortDate": "2021-06-06",
+    "kind": "volunteer",
+    "status": "completed",
+    "period": "2021.06.06",
+    "title": {
+      "ko": "굿네이버스 'Good Action' 캠페인",
+      "en": "Good Neighbors Good Action Campaign, 2021"
+    },
+    "summary": {
+      "ko": "굿네이버스 Good Action 캠페인에 참여했습니다.",
+      "en": "Participated in the Good Neighbors Good Action campaign."
+    },
+    "featured": false,
+    "tags": [
+      "campaign"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "인정 봉사시간: 2시간",
+          "en": "Recognized volunteer hours: 2"
+        },
+        {
+          "ko": "기관: 굿네이버스",
+          "en": "Organization: Good Neighbors"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "chungnam-science-festival-booth-2019",
+    "sortDate": "2019-10-19",
+    "kind": "volunteer",
+    "status": "completed",
+    "period": "2019.10.19",
+    "title": {
+      "ko": "2019 가족과 함께하는 충남과학창의축전 부스 운영",
+      "en": "Chungnam Family Science and Creativity Festival — Booth Operations, 2019"
+    },
+    "summary": {
+      "ko": "피지컬컴퓨팅 기반 체험 기구 부스를 운영했습니다.",
+      "en": "Operated a booth with physical-computing experience equipment."
+    },
+    "featured": false,
+    "tags": [
+      "science-communication",
+      "physical-computing",
+      "event-operations"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "인정 봉사시간: 8시간",
+          "en": "Recognized volunteer hours: 8"
+        },
+        {
+          "ko": "기관: 충남교육청과학교육원",
+          "en": "Organization: 충남교육청과학교육원"
+        },
+        {
+          "ko": "장소: 충남교육청과학교육원",
+          "en": "Location: 충남교육청과학교육원"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "eomsa-math-festival-2019",
+    "sortDate": "2019-07-12",
+    "kind": "volunteer",
+    "status": "completed",
+    "period": "2019.07.12",
+    "title": {
+      "ko": "2019 엄사수학축제 도우미",
+      "en": "Eomsa Mathematics Festival — Volunteer, 2019"
+    },
+    "summary": {
+      "ko": "다빈치 돔 만들기 체험부스를 운영했습니다.",
+      "en": "Operated a Da Vinci dome-building experience booth."
+    },
+    "featured": false,
+    "tags": [
+      "education",
+      "mathematics",
+      "event-operations"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "인정 봉사시간: 5시간",
+          "en": "Recognized volunteer hours: 5"
+        },
+        {
+          "ko": "기관: 엄사중학교",
+          "en": "Organization: Eomsa Middle School"
+        },
+        {
+          "ko": "장소: 엄사중학교",
+          "en": "Location: Eomsa Middle School"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "daejeon-media-zone-2019",
+    "sortDate": "2019-06-01",
+    "kind": "volunteer",
+    "status": "completed",
+    "period": "2019.06.01",
+    "title": {
+      "ko": "2019 대전미디어제작경진대회 미디어체험존 구상",
+      "en": "Daejeon Media Production Contest — Media Experience Zone Planning, 2019"
+    },
+    "summary": {
+      "ko": "미디어체험존 구상 활동에 참여했습니다.",
+      "en": "Participated in planning a media experience zone."
+    },
+    "featured": false,
+    "tags": [
+      "planning",
+      "media-production"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "인정 봉사시간: 2시간",
+          "en": "Recognized volunteer hours: 2"
+        },
+        {
+          "ko": "기관: 대전시청자미디어센터",
+          "en": "Organization: 대전시청자미디어센터"
+        },
+        {
+          "ko": "장소: 세종특별자치시청",
+          "en": "Location: 세종특별자치시청"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "daejeon-cemetery-cleanup-2019",
+    "sortDate": "2019-05-20",
+    "kind": "volunteer",
+    "status": "completed",
+    "period": "2019.05.20",
+    "title": {
+      "ko": "나라사랑 체험 및 묘역 정화 활동 (2019)",
+      "en": "Daejeon National Cemetery Cleanup, 2019"
+    },
+    "summary": {
+      "ko": "나라사랑 체험 및 묘역 정화 활동에 참여했습니다.",
+      "en": "Participated in a patriotic-experience and cemetery-cleanup activity."
+    },
+    "featured": false,
+    "tags": [
+      "environment"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "인정 봉사시간: 1시간",
+          "en": "Recognized volunteer hours: 1"
+        },
+        {
+          "ko": "기관: 국립대전현충원",
+          "en": "Organization: Daejeon National Cemetery"
+        },
+        {
+          "ko": "장소: 국립대전현충원",
+          "en": "Location: Daejeon National Cemetery"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "eomsa-math-festival-2018",
+    "sortDate": "2018-11-28",
+    "kind": "volunteer",
+    "status": "completed",
+    "period": "2018.09.12 — 2018.11.28",
+    "title": {
+      "ko": "2018 엄사수학축제 도우미",
+      "en": "Eomsa Mathematics Festival — Volunteer, 2018"
+    },
+    "summary": {
+      "ko": "확률 실험실 체험부스 운영에 참여했습니다.",
+      "en": "Participated in running a probability-laboratory experience booth."
+    },
+    "featured": false,
+    "tags": [
+      "education",
+      "mathematics",
+      "statistics",
+      "event-operations"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "인정 봉사시간: 5시간",
+          "en": "Recognized volunteer hours: 5"
+        },
+        {
+          "ko": "기관: 엄사중학교",
+          "en": "Organization: Eomsa Middle School"
+        },
+        {
+          "ko": "장소: 엄사중학교",
+          "en": "Location: Eomsa Middle School"
+        },
+        {
+          "ko": "<<내용필요: 2018 엄사수학축제 날짜 확인 — 2018.09.12–11.28 또는 2019.11.27–28>>",
+          "en": "<<내용필요: Confirm the 2018 엄사수학축제 dates: September 12–November 28, 2018 or November 27–28, 2019>>"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "eomsa-cleanup-2018",
+    "sortDate": "2018-10-10",
+    "kind": "volunteer",
+    "status": "completed",
+    "period": "2018.10.10",
+    "title": {
+      "ko": "엄사리 자연정화 활동",
+      "en": "Environmental Cleanup in 엄사리, 2018"
+    },
+    "summary": {
+      "ko": "엄사리 일대 자연정화 활동에 참여했습니다.",
+      "en": "Participated in environmental cleanup around 엄사리."
+    },
+    "featured": false,
+    "tags": [
+      "environment"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "인정 봉사시간: 1시간",
+          "en": "Recognized volunteer hours: 1"
+        },
+        {
+          "ko": "기관: 엄사중학교",
+          "en": "Organization: Eomsa Middle School"
+        },
+        {
+          "ko": "장소: 엄사리 일대",
+          "en": "Location: 엄사리 일대"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "farm-river-cleanup-2018",
+    "sortDate": "2018-07-26",
+    "kind": "volunteer",
+    "status": "completed",
+    "period": "2018.07.26",
+    "title": {
+      "ko": "농촌봉사활동 및 하천정화활동",
+      "en": "Rural Volunteering and River Cleanup, 2018"
+    },
+    "summary": {
+      "ko": "농촌봉사활동 및 하천정화활동에 참여했습니다.",
+      "en": "Participated in rural volunteering and river cleanup."
+    },
+    "featured": false,
+    "tags": [
+      "environment",
+      "agriculture"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "인정 봉사시간: 4시간",
+          "en": "Recognized volunteer hours: 4"
+        },
+        {
+          "ko": "기관: 사단법인 생태지평",
+          "en": "Organization: 사단법인 생태지평"
+        },
+        {
+          "ko": "장소: 상주시 일원",
+          "en": "Location: 상주시 일원"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "paddy-wetland-monitoring-2018",
+    "sortDate": "2018-07-25",
+    "kind": "volunteer",
+    "status": "completed",
+    "period": "2018.07.25",
+    "title": {
+      "ko": "논 습지 모니터링",
+      "en": "Rice-paddy Wetland Monitoring, 2018"
+    },
+    "summary": {
+      "ko": "논 습지 모니터링에 참여했습니다.",
+      "en": "Participated in rice-paddy wetland monitoring."
+    },
+    "featured": false,
+    "tags": [
+      "environment",
+      "ecology"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "인정 봉사시간: 2시간",
+          "en": "Recognized volunteer hours: 2"
+        },
+        {
+          "ko": "기관: 사단법인 생태지평",
+          "en": "Organization: 사단법인 생태지평"
+        },
+        {
+          "ko": "장소: 상주시 일원",
+          "en": "Location: 상주시 일원"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "forest-ecology-monitoring-2018",
+    "sortDate": "2018-07-25",
+    "kind": "volunteer",
+    "status": "completed",
+    "period": "2018.07.25",
+    "title": {
+      "ko": "숲 생태 모니터링",
+      "en": "Forest Ecology Monitoring, 2018"
+    },
+    "summary": {
+      "ko": "숲 생태 모니터링에 참여했습니다.",
+      "en": "Participated in forest ecology monitoring."
+    },
+    "featured": false,
+    "tags": [
+      "environment",
+      "ecology"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "인정 봉사시간: 2시간",
+          "en": "Recognized volunteer hours: 2"
+        },
+        {
+          "ko": "기관: 사단법인 생태지평",
+          "en": "Organization: 사단법인 생태지평"
+        },
+        {
+          "ko": "장소: 상주시 일원",
+          "en": "Location: 상주시 일원"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "environmental-awareness-materials-2018",
+    "sortDate": "2018-07-24",
+    "kind": "volunteer",
+    "status": "completed",
+    "period": "2018.07.23 — 2018.07.24",
+    "title": {
+      "ko": "환경인식 개선 홍보물 제작",
+      "en": "Environmental-awareness Outreach Materials, 2018"
+    },
+    "summary": {
+      "ko": "환경인식 개선 홍보물 제작에 참여했습니다.",
+      "en": "Participated in producing environmental-awareness outreach materials."
+    },
+    "featured": false,
+    "tags": [
+      "environment",
+      "campaign"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "인정 봉사시간: 2시간",
+          "en": "Recognized volunteer hours: 2"
+        },
+        {
+          "ko": "기관: 사단법인 생태지평",
+          "en": "Organization: 사단법인 생태지평"
+        },
+        {
+          "ko": "장소: 상주시 일원",
+          "en": "Location: 상주시 일원"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "daejeon-cemetery-cleanup-2018",
+    "sortDate": "2018-05-28",
+    "kind": "volunteer",
+    "status": "completed",
+    "period": "2018.05.28",
+    "title": {
+      "ko": "나라사랑 체험 및 묘역 정화 활동 (2018)",
+      "en": "Daejeon National Cemetery Cleanup, 2018"
+    },
+    "summary": {
+      "ko": "나라사랑 체험 및 묘역 정화 활동에 참여했습니다.",
+      "en": "Participated in a patriotic-experience and cemetery-cleanup activity."
+    },
+    "featured": false,
+    "tags": [
+      "environment"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "인정 봉사시간: 1시간",
+          "en": "Recognized volunteer hours: 1"
+        },
+        {
+          "ko": "기관: 엄사중학교",
+          "en": "Organization: Eomsa Middle School"
+        },
+        {
+          "ko": "장소: 국립대전현충원",
+          "en": "Location: Daejeon National Cemetery"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "eomsa-math-festival-2017",
+    "sortDate": "2017-07-14",
+    "kind": "volunteer",
+    "status": "completed",
+    "period": "2017.07.13 — 2017.07.14",
+    "title": {
+      "ko": "2017 엄사수학축제 도우미",
+      "en": "Eomsa Mathematics Festival — Volunteer, 2017"
+    },
+    "summary": {
+      "ko": "다빈치 다리 만들기 체험부스를 운영했습니다.",
+      "en": "Operated a Da Vinci bridge-building experience booth."
+    },
+    "featured": false,
+    "tags": [
+      "education",
+      "mathematics",
+      "event-operations"
+    ],
+    "detail": {
+      "outcomes": [
+        {
+          "ko": "인정 봉사시간: 5시간",
+          "en": "Recognized volunteer hours: 5"
+        },
+        {
+          "ko": "기관: 엄사중학교",
+          "en": "Organization: Eomsa Middle School"
+        },
+        {
+          "ko": "장소: 엄사중학교",
+          "en": "Location: Eomsa Middle School"
+        }
+      ]
+    },
+    "links": []
+  },
+  {
+    "slug": "eomsa-library-support-2017-april",
+    "sortDate": "2017-04-09",
+    "kind": "volunteer",
+    "status": "completed",
+    "period": "2017.04.09",
+    "title": {
+      "ko": "서가 정리 및 일손 돕기 (2017.04.09)",
+      "en": "Shelving and Assistance at 엄사도서관, April 2017"
+    },
+    "summary": {
+      "ko": "엄사도서관 서가 정리 및 일손 돕기에 참여했습니다.",
+      "en": "Helped organize shelves and assisted at 엄사도서관."
+    },
+    "featured": false,
+    "tags": [
       "library"
     ],
     "detail": {
       "outcomes": [
         {
-          "ko": "사이언스 카페 3시간(08.20), KSCY 희망브리지 캠페인 2시간(06.11)",
-          "en": "Science Café 3h and KSCY Hope Bridge campaign 2h"
+          "ko": "인정 봉사시간: 3시간",
+          "en": "Recognized volunteer hours: 3"
         },
         {
-          "ko": "과학기기 설명회 4시간(05.28), 과학문화 확산주간 8시간(04.17)",
-          "en": "Science-equipment fair 4h and Science Culture Week 8h"
+          "ko": "기관: 엄사도서관",
+          "en": "Organization: 엄사도서관"
         },
         {
-          "ko": "도서관 사서·독서행사 지원 5시간(04.04–07.08), 방역 도우미 10시간(03.17–07.15)",
-          "en": "Library and reading-event support 5h and disease-prevention support 10h"
+          "ko": "장소: 엄사도서관",
+          "en": "Location: 엄사도서관"
         }
       ]
-    }
+    },
+    "links": []
   },
   {
-    "slug": "volunteer-record-2021",
-    "sortDate": "2021-12-31",
+    "slug": "eomsa-library-support-2017-march",
+    "sortDate": "2017-03-18",
     "kind": "volunteer",
     "status": "completed",
-    "period": "2021",
+    "period": "2017.03.18",
     "title": {
-      "ko": "2021 봉사·교육기부 기록",
-      "en": "Volunteer and Educational Contribution Record, 2021"
+      "ko": "서가 정리 및 일손 돕기 (2017.03.18)",
+      "en": "Shelving and Assistance at 엄사도서관, March 2017"
     },
     "summary": {
-      "ko": "도서관·아이로비실·사이언스 카페와 Good Action 캠페인에 참여했습니다.",
-      "en": "Participated in library and iRobby support, Science Café, and the Good Action campaign."
+      "ko": "엄사도서관 서가 정리 및 일손 돕기에 참여했습니다.",
+      "en": "Helped organize shelves and assisted at 엄사도서관."
     },
     "featured": false,
     "tags": [
-      "volunteer",
-      "library",
-      "science",
-      "campaign",
-      "education"
+      "library"
     ],
     "detail": {
       "outcomes": [
         {
-          "ko": "도서관 사서 도우미 30시간, 아이로비실 도우미 15시간",
-          "en": "Library assistant 30h and iRobby-room assistant 15h"
+          "ko": "인정 봉사시간: 3시간",
+          "en": "Recognized volunteer hours: 3"
         },
         {
-          "ko": "굿네이버스 Good Action 2시간, 사이언스 카페 3시간",
-          "en": "Good Neighbors Good Action 2h and Science Café 3h"
+          "ko": "기관: 엄사도서관",
+          "en": "Organization: 엄사도서관"
+        },
+        {
+          "ko": "장소: 엄사도서관",
+          "en": "Location: 엄사도서관"
         }
       ]
-    }
+    },
+    "links": []
   },
   {
-    "slug": "volunteer-record-2019",
-    "sortDate": "2019-10-19",
+    "slug": "chuncheon-waste-resource-program-2014",
+    "sortDate": "2014-05-23",
     "kind": "volunteer",
     "status": "completed",
-    "period": "2019",
+    "period": "2014.05.23",
     "title": {
-      "ko": "2019 봉사·체험부스 기록",
-      "en": "Volunteer and Experience-booth Record, 2019"
+      "ko": "쓰레기 처리 과정 및 자원화 방법 알기",
+      "en": "Waste Treatment and Resource Recovery Program, 2014"
     },
     "summary": {
-      "ko": "과학축전, 수학축제, 미디어체험존과 현충원 정화 활동에 참여했습니다.",
-      "en": "Supported a science festival, math festival, media zone, and memorial-cemetery cleanup."
+      "ko": "쓰레기 처리 과정 및 자원화 방법 알기 활동에 참여했습니다.",
+      "en": "Participated in a program on waste processing and resource recovery."
     },
     "featured": false,
     "tags": [
-      "volunteer",
-      "education",
-      "science",
-      "mathematics",
-      "media",
       "environment"
     ],
     "detail": {
       "outcomes": [
         {
-          "ko": "충남과학창의축전 부스 8시간(10.19), 엄사수학축제 5시간(07.12)",
-          "en": "Chungnam Science Creativity Festival 8h and Eomsa Math Festival 5h"
+          "ko": "인정 봉사시간: 2시간",
+          "en": "Recognized volunteer hours: 2"
         },
         {
-          "ko": "대전미디어제작경진대회 미디어체험존 구상 2시간(06.01)",
-          "en": "Media-zone concept for the Daejeon Media Production Contest, 2h"
+          "ko": "기관: 소양초등학교",
+          "en": "Organization: 소양초등학교"
         },
         {
-          "ko": "국립대전현충원 묘역 정화 1시간(05.20)",
-          "en": "Daejeon National Cemetery cleanup, 1h"
+          "ko": "장소: 춘천 환경 기초 시설",
+          "en": "Location: 춘천 환경 기초 시설"
         }
       ]
-    }
+    },
+    "links": []
   },
   {
-    "slug": "volunteer-record-2018",
-    "sortDate": "2018-11-28",
+    "slug": "gombaeryeong-cleanup-2012",
+    "sortDate": "2012-10-05",
     "kind": "volunteer",
     "status": "completed",
-    "period": "2018",
+    "period": "2012.10.05",
     "title": {
-      "ko": "2018 봉사·환경 활동 기록",
-      "en": "Volunteer and Environmental Record, 2018"
+      "ko": "곰배령 쓰레기 되가져오기 및 주변 정리",
+      "en": "Waste Carry-out and Cleanup at 곰배령, 2012"
     },
     "summary": {
-      "ko": "수학축제, 환경 모니터링·홍보, 농촌·하천·현충원 정화 활동에 참여했습니다.",
-      "en": "Supported a math festival, environmental monitoring and outreach, farm and river work, and memorial cleanup."
+      "ko": "곰배령 쓰레기 되가져오기 및 주변 정리에 참여했습니다.",
+      "en": "Participated in carrying out waste and cleaning the 곰배령 area."
     },
     "featured": false,
     "tags": [
-      "volunteer",
-      "environment",
-      "education",
-      "mathematics",
-      "community"
-    ],
-    "detail": {
-      "outcomes": [
-        {
-          "ko": "2018 엄사수학축제 5시간(09.12–11.28), 엄사리 자연정화 1시간(10.10)",
-          "en": "2018 Eomsa Math Festival 5h and Eomsa-ri cleanup 1h"
-        },
-        {
-          "ko": "농촌·하천 정화 4시간(07.26), 논 습지·숲 생태 모니터링 각 2시간(07.25)",
-          "en": "Farm and river cleanup 4h; rice-paddy wetland and forest monitoring 2h each"
-        },
-        {
-          "ko": "환경인식 개선 홍보물 제작 2시간(07.23–24), 현충원 묘역 정화 1시간(05.28)",
-          "en": "Environmental-awareness material production 2h and cemetery cleanup 1h"
-        }
-      ]
-    }
-  },
-  {
-    "slug": "volunteer-record-2017-earlier",
-    "sortDate": "2017-07-14",
-    "kind": "volunteer",
-    "status": "completed",
-    "period": "2012 — 2017",
-    "title": {
-      "ko": "2012–2017 봉사 기록",
-      "en": "Volunteer Record, 2012–2017"
-    },
-    "summary": {
-      "ko": "수학축제, 도서관, 환경시설과 곰배령 정화 활동에 참여했습니다.",
-      "en": "Supported a math festival, library work, an environmental-facility program, and cleanup at Gombaeryeong."
-    },
-    "featured": false,
-    "tags": [
-      "volunteer",
-      "education",
-      "library",
       "environment"
     ],
     "detail": {
       "outcomes": [
         {
-          "ko": "2017 엄사수학축제 5시간(07.13–14), 엄사도서관 서가 정리 각 3시간(03.18, 04.09)",
-          "en": "2017 Eomsa Math Festival 5h and two 3h library-shelving sessions"
+          "ko": "인정 봉사시간: 5시간",
+          "en": "Recognized volunteer hours: 5"
         },
         {
-          "ko": "춘천 환경기초시설 체험 2시간(2014.05.23), 곰배령 쓰레기 되가져오기·정리 5시간(2012.10.05)",
-          "en": "Chuncheon environmental-facility program 2h and Gombaeryeong cleanup 5h"
+          "ko": "기관: 하남초등학교",
+          "en": "Organization: 하남초등학교"
+        },
+        {
+          "ko": "장소: 곰배령 일대",
+          "en": "Location: 곰배령 일대"
         }
       ]
-    }
+    },
+    "links": []
   }
 ]

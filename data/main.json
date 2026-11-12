@@ -1,25 +1,49 @@
 {
   "identity": {
-    "name": { "ko": "박정식", "en": "Park Jeongsik" },
-    "roles": [
-      { "ko": "컴퓨터공학", "en": "Computer Science" },
-      { "ko": "응용수학", "en": "Applied Mathematics" },
-      { "ko": "멀티미디어학", "en": "Multimedia" }
-    ],
-    "headline": { "ko": "연구하고, 만들고, 가르칩니다.", "en": "I research, build, and teach." },
-    "introduction": {
-      "ko": "연구자이자 개발자 박정식입니다. 컴퓨터를 중심으로 한 융·복합 학문을 추구합니다. 학문의 경계와 분야를 가리지 않고 공부하며, 아이디어를 떠올리고 해결하는 것을 좋아합니다.",
-      "en": "I am Jeongsik Park, a researcher and developer pursuing interdisciplinary work centered on computing. I enjoy learning across boundaries, forming ideas, and turning them into working answers."
+    "name": {
+      "ko": "박정식",
+      "en": "Park Jeongsik"
     },
-    "location": { "ko": "대한민국", "en": "Republic of Korea" },
+    "roles": [
+      {
+        "ko": "컴퓨터공학",
+        "en": "Computer Science and Engineering"
+      },
+      {
+        "ko": "응용수학",
+        "en": "Applied Mathematics"
+      },
+      {
+        "ko": "멀티미디어학",
+        "en": "Multimedia"
+      }
+    ],
+    "headline": {
+      "ko": "연구하고, 만들고, 가르칩니다.",
+      "en": "I research, build, and teach."
+    },
+    "introduction": {
+      "ko": "컴퓨터공학과 응용수학을 공부하는 박정식입니다. 양자내성암호 구현, 위성 통신 보안 분석, 정렬 알고리즘을 연구했습니다. 프로그래밍 강의와 진로 멘토링을 진행하고, 동아리와 학생자치 활동에도 참여해 왔습니다.",
+      "en": "I study computer science and engineering, alongside applied mathematics. My research has covered post-quantum cryptography implementations, satellite communication security analysis, and sorting algorithms. I have also taught programming, mentored students, and worked with clubs and student organizations."
+    },
+    "location": {
+      "ko": "대한민국",
+      "en": "Republic of Korea"
+    },
     "profileImage": {
       "src": "./images/profile.webp",
-      "alt": { "ko": "프로필 사진", "en": "profile picture" }
+      "alt": {
+        "ko": "프로필 사진",
+        "en": "profile picture"
+      }
     }
   },
   "motto": {
     "primary": "Ad lucem per scientiam, ad astra per intellectum",
-    "translation": { "ko": "지식을 통해 빛으로, 이성을 통해 별들로", "en": "To light through knowledge, to the stars through reason" },
+    "translation": {
+      "ko": "지식을 통해 빛으로, 이성을 통해 별들로",
+      "en": "To light through knowledge, to the stars through reason"
+    },
     "secondary": {
       "ko": "사색은 진리를 뚫어보고, 의지는 대망을 성취한다.",
       "en": "Reflection sees through to truth; will accomplishes great aspirations."
@@ -30,71 +54,150 @@
     {
       "id": "systems-security",
       "index": "01",
-      "title": { "ko": "시스템 보안과 암호", "en": "Systems Security & Cryptography" },
-      "overline": { "ko": "Systems & Security", "en": "Systems & Security" },
-      "description": {
-        "ko": "저사양 장치와 위성 통신 환경에서 양자내성암호의 구현·최적화·적용 가능성을 연구했습니다.",
-        "en": "I have studied the implementation, optimization, and practical use of post-quantum cryptography on constrained devices and satellite links."
+      "title": {
+        "ko": "시스템 보안과 암호",
+        "en": "Systems Security & Cryptography"
       },
-      "tags": ["security", "cryptography", "pqc", "satellite"]
+      "overline": {
+        "ko": "Systems & Security",
+        "en": "Systems & Security"
+      },
+      "description": {
+        "ko": "저성능 MCU의 양자내성암호 구현·메모리 최적화와 위성 통신 보안 분석 도구를 연구했습니다.",
+        "en": "My work includes post-quantum cryptography implementations and memory optimization on low-performance MCUs, and a tool for satellite communication security analysis."
+      },
+      "tags": [
+        "security",
+        "cryptography",
+        "pqc",
+        "satellite"
+      ]
     },
     {
       "id": "algorithms-data",
       "index": "02",
-      "title": { "ko": "알고리즘과 데이터", "en": "Algorithms & Data" },
-      "overline": { "ko": "Algorithms & Data", "en": "Algorithms & Data" },
-      "description": {
-        "ko": "정렬 알고리즘부터 메타러닝, 기후·관광 데이터까지 문제에 맞는 계산 방법을 설계하고 실험했습니다.",
-        "en": "From sorting algorithms to meta-learning and climate or tourism data, I design and test computational methods around the problem at hand."
+      "title": {
+        "ko": "알고리즘과 데이터",
+        "en": "Algorithms & Data"
       },
-      "tags": ["algorithm", "machine-learning", "data-science", "mathematics"]
+      "overline": {
+        "ko": "Algorithms & Data",
+        "en": "Algorithms & Data"
+      },
+      "description": {
+        "ko": "정렬 알고리즘과 MAML의 파라미터 업데이트를 연구하고, 한국어 맞춤법 추천·대재해채권·산책로 데이터 프로젝트에 참여했습니다.",
+        "en": "I have studied sorting algorithms and parameter updates in MAML, and participated in projects on Korean spelling recommendations, catastrophe bonds, and walking-route data."
+      },
+      "tags": [
+        "algorithm",
+        "machine-learning",
+        "ai",
+        "data-science",
+        "mathematics"
+      ]
     },
     {
       "id": "education-community",
       "index": "03",
-      "title": { "ko": "교육과 커뮤니티", "en": "Education & Community" },
-      "overline": { "ko": "Education & Community", "en": "Education & Community" },
-      "description": {
-        "ko": "강의·멘토링·학생자치·행사 운영을 통해 기술을 설명하고 사람들이 함께 학습하는 구조를 만들었습니다.",
-        "en": "Through teaching, mentoring, student governance, and event operations, I explain technology and build structures for people to learn together."
+      "title": {
+        "ko": "교육과 커뮤니티",
+        "en": "Education & Community"
       },
-      "tags": ["education", "mentoring", "leadership", "community"]
+      "overline": {
+        "ko": "Education & Community",
+        "en": "Education & Community"
+      },
+      "description": {
+        "ko": "강의와 멘토링을 진행했고, 동아리·학생자치 조직과 행사를 운영했습니다.",
+        "en": "I have taught and mentored students and helped run clubs, student organizations, and events."
+      },
+      "tags": [
+        "education",
+        "mentoring",
+        "student-governance",
+        "event-operations"
+      ]
     }
   ],
   "featuredSlugs": [
     "satellite-security-analysis-tool",
     "smaug-memory-optimization",
     "adaptive-partition-sort",
-    "khuthon-operations"
+    "khuthon-2025"
   ],
   "quotes": [
     {
       "ko": "질문에 제대로 답하려고 노력하다 보면 꽤나 흥미로운 곳에 도달할 때도 있다 ─ 랜들 먼로",
       "en": "But it turns out that trying to thoroughly answer a stupid question can take you to some pretty interesting places. ─ Randall Munroe"
     },
-    { "ko": "사용자를 알라, 사용자는 그대가 아닐지니 ─ 데이비드 플랫", "en": "Know thy user, for he is not thee. ─ David Platt" },
+    {
+      "ko": "사용자를 알라, 사용자는 그대가 아닐지니 ─ 데이비드 플랫",
+      "en": "Know thy user, for he is not thee. ─ David Platt"
+    },
     {
       "ko": "경험을 현명하게 사용한다면 낭비되는 시간은 없다. ─ 오귀스트 로댕",
       "en": "Nothing is a waste of time if you use the experience wisely. ─ Auguste Rodin"
     }
   ],
   "links": [
-    { "label": { "ko": "업무 이메일", "en": "Business email" }, "href": "mailto:cyangsa10@gmail.com" },
-    { "label": { "ko": "학교 이메일", "en": "Academic email" }, "href": "mailto:ori@khu.ac.kr" },
-    { "label": { "ko": "GitHub", "en": "GitHub" }, "href": "https://github.com/oriing" },
-    { "label": { "ko": "LinkedIn", "en": "LinkedIn" }, "href": "https://www.linkedin.com/in/parkjeongsik/" },
-    { "label": { "ko": "블로그", "en": "Blog" }, "href": "https://blog.naver.com/oriisme" }
+    {
+      "label": {
+        "ko": "업무 이메일",
+        "en": "Business email"
+      },
+      "href": "mailto:cyangsa10@gmail.com"
+    },
+    {
+      "label": {
+        "ko": "학교 이메일",
+        "en": "Academic email"
+      },
+      "href": "mailto:ori@khu.ac.kr"
+    },
+    {
+      "label": {
+        "ko": "GitHub",
+        "en": "GitHub"
+      },
+      "href": "https://github.com/oriing"
+    },
+    {
+      "label": {
+        "ko": "LinkedIn",
+        "en": "LinkedIn"
+      },
+      "href": "https://www.linkedin.com/in/parkjeongsik/"
+    },
+    {
+      "label": {
+        "ko": "블로그",
+        "en": "Blog"
+      },
+      "href": "https://blog.naver.com/oriisme"
+    }
   ],
   "contact": {
-    "title": { "ko": "함께 이야기할 주제가 있다면", "en": "If there is something worth exploring together" },
+    "title": {
+      "ko": "연락하기",
+      "en": "Contact"
+    },
     "description": {
-      "ko": "연구 협업, 기술 프로젝트, 교육과 컴퓨터공학에 관한 제안과 대화를 기다립니다.",
-      "en": "I welcome conversations about research collaboration, technical projects, education, and computing."
+      "ko": "연구 협업, 기술 프로젝트, 교육과 강연에 관한 제안은 아래 연락처로 보내주세요.",
+      "en": "For research collaboration, technical projects, teaching, or talks, use one of the channels below."
     },
     "topics": [
-      { "ko": "연구 협업과 학술 교류", "en": "Research collaboration" },
-      { "ko": "보안·데이터·시스템 프로젝트", "en": "Security, data, and systems projects" },
-      { "ko": "교육과 강연", "en": "Education and talks" }
+      {
+        "ko": "연구 협업과 학술 교류",
+        "en": "Research collaboration"
+      },
+      {
+        "ko": "보안·데이터·시스템 프로젝트",
+        "en": "Security, data, and systems projects"
+      },
+      {
+        "ko": "교육과 강연",
+        "en": "Education and talks"
+      }
     ]
   },
   "updated": "2026.11"
