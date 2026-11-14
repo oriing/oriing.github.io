@@ -2784,21 +2784,38 @@ html:lang(ko) .work-detail-hero h1 {
   }
 }
 
-/* 경력: 직책 */
-.timeline-section.detail-section-muted .profile-timeline-title h3 {
-  margin: 0;
-  font-size: clamp(1rem, 1.4vw, 1.25rem);
-  font-weight: 500;
-  line-height: 1.5;
+/* 타임라인 글꼴 통일 */
+.profile-timeline .profile-timeline-body {
+  font-family:
+    "Pretendard Variable", "Pretendard",
+    "Apple SD Gothic Neo", "Noto Sans KR",
+    "Malgun Gothic", sans-serif;
 }
 
-/* 경력: 기관·소속 */
-.timeline-section.detail-section-muted .profile-timeline-org {
-  margin: 0.5rem 0 0.875rem;
-  font-size: clamp(1.25rem, 1.8vw, 1.625rem);
+/* 학위·직책: 초기 크기에서 소폭 축소 */
+.profile-timeline .profile-timeline-body .profile-timeline-title h3 {
+  margin: 0;
+  font-family: inherit;
+  font-size: clamp(1.375rem, 2.2vw, 1.75rem);
+  font-weight: 600;
+  line-height: 1.4;
+  letter-spacing: -0.025em;
+}
+
+/* 소속과 기술 카드 제목의 크기 통일 */
+.profile-timeline .profile-timeline-body > .profile-timeline-org,
+.skill-grid > article > h3 {
+  font-size: clamp(1.25rem, 1.8vw, 1.5rem);
   font-weight: 700;
   line-height: 1.4;
-  color: inherit;
+  letter-spacing: -0.02em;
+}
+
+/* 소속: 작은 파란 보조문구처럼 보이지 않도록 */
+.profile-timeline .profile-timeline-body > .profile-timeline-org {
+  margin: 0.5rem 0 0.875rem;
+  font-family: inherit;
+  color: #171a20;
   word-break: keep-all;
   overflow-wrap: anywhere;
 }
