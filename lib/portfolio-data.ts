@@ -28,6 +28,7 @@ export type MainData = {
   current: LocalizedText[];
   researchAxes: ResearchAxis[];
   featuredSlugs: string[];
+  featuredCareerIds: string[];
   quotes: LocalizedText[];
   links: LinkItem[];
   contact: { title: LocalizedText; description: LocalizedText; topics: LocalizedText[] };

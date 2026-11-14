@@ -68,51 +68,26 @@
     ]
   },
   {
-    "id": "army-cyber-operations",
-    "period": "2026.01.01 — 현재 (2027.01.20 종료 예정)",
+    "id": "army-cyber-operation-brigade",
+    "period": "2025.08.28 — 2027.01.20",
     "order": 35,
     "kind": "career",
     "title": {
       "ko": "사이버기술병",
-      "en": "사이버기술병"
+      "en": "Cyber Operation Soldier"
     },
     "organization": {
-      "ko": "대한민국 육군 사이버작전여단 202작전대",
-      "en": "Republic of Korea Army · 사이버작전여단 202작전대"
+      "ko": "대한민국 육군 사이버작전여단",
+      "en": "Republic of Korea Army · Cyber Operation Brigade"
     },
     "description": {
-      "ko": "사이버기술병으로 복무 중이며, 2027년 1월 20일 전역 예정입니다.",
-      "en": "Serving as 사이버기술병, with discharge scheduled for January 20, 2027."
+      "ko": "육군 전산 자산과 무기체계의 취약점을 분석하고 개선 방안을 도출했습니다. 사이버·전자전 분야의 연구 과제를 수행하고 관련 소요를 제기했습니다. 또한 군이 보유한 사이버 자산을 보다 효과적으로 활용하는 방안을 제안하고 실증했습니다.",
+      "en": "I assessed vulnerabilities in Army IT assets and weapon systems and developed recommendations for improvement. I conducted research in cyber and electronic warfare and submitted capability requirement proposals. I also proposed and demonstrated ways to make more effective use of existing military cyber assets."
     },
     "status": "ongoing",
     "tags": [
       "military",
       "security"
-    ]
-  },
-  {
-    "id": "army-cyber-operations-center",
-    "period": "2025.08.28 — 2025.12.31",
-    "order": 36,
-    "kind": "career",
-    "title": {
-      "ko": "사이버기술병",
-      "en": "사이버기술병"
-    },
-    "organization": {
-      "ko": "대한민국 육군 사이버작전센터 기술통제대",
-      "en": "Republic of Korea Army · Cyber-Operations Center · 기술통제대"
-    },
-    "description": {
-      "ko": "사이버·전자전 관련 기술 연구와 과제 지원, 사이버 정책 과제 공동 제안, 육군 사이버보안 경진대회 운영과 과학기술그룹 자문회의 지원을 수행했습니다.",
-      "en": "Supported cyber and electronic-warfare research tasks, co-proposed a cyber policy project, and supported the Army cybersecurity competition and a science and technology advisory meeting."
-    },
-    "status": "completed",
-    "tags": [
-      "military",
-      "security",
-      "policy",
-      "event-operations"
     ]
   },
   {

@@ -2783,3 +2783,22 @@ html:lang(ko) .work-detail-hero h1 {
     box-shadow: none !important;
   }
 }
+
+/* 경력: 직책 */
+.timeline-section.detail-section-muted .profile-timeline-title h3 {
+  margin: 0;
+  font-size: clamp(1rem, 1.4vw, 1.25rem);
+  font-weight: 500;
+  line-height: 1.5;
+}
+
+/* 경력: 기관·소속 */
+.timeline-section.detail-section-muted .profile-timeline-org {
+  margin: 0.5rem 0 0.875rem;
+  font-size: clamp(1.25rem, 1.8vw, 1.625rem);
+  font-weight: 700;
+  line-height: 1.4;
+  color: inherit;
+  word-break: keep-all;
+  overflow-wrap: anywhere;
+}

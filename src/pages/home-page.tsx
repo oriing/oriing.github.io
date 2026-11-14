@@ -7,7 +7,15 @@ import { featuredWorks, mainData, tagLabel, timeline } from "@/lib/portfolio-dat
 
 export function HomePage() {
   const { locale, t } = useLocale();
-  const careerPreview = timeline.filter((item) => item.kind === "career").slice(0, 3);
+  const careerPreview = (mainData.featuredCareerIds ?? [])
+    .flatMap((id) => {
+      const item = timeline.find(
+        (item) => item.id === id && item.kind === "career"
+      );
+
+      return item ? [item] : [];
+    })
+    .slice(0, 3);
   const identityPoints = mainData.current.length > 0 ? mainData.current : mainData.identity.roles;
   const copy =
     locale === "ko"
