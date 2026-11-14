@@ -5,7 +5,7 @@
     "order": 10,
     "kind": "education",
     "title": {
-      "ko": "[공학사] 컴퓨터공학 · [이학사] 응용수학",
+      "ko": "공학사: 컴퓨터공학 · 이학사: 응용수학",
       "en": "B.E. in Computer Science and Engineering and B.S. in Applied Mathematics"
     },
     "organization": {
@@ -18,7 +18,6 @@
     },
     "status": "ongoing",
     "tags": [
-      "khu",
       "computer-science",
       "mathematics"
     ]
@@ -29,7 +28,7 @@
     "order": 20,
     "kind": "education",
     "title": {
-      "ko": "[경영전문학사] 경영 전공",
+      "ko": "경영전문학사: 경영 전공",
       "en": "A.B.A. in Business Management"
     },
     "organization": {
@@ -52,7 +51,7 @@
     "order": 20,
     "kind": "education",
     "title": {
-      "ko": "[공업전문학사] 멀티미디어 전공",
+      "ko": "공업전문학사: 멀티미디어 전공",
       "en": "A.E. in Multimedia"
     },
     "organization": {
@@ -82,12 +81,11 @@
       "en": "Chung-Nam Science High School"
     },
     "description": {
-      "ko": "과학과로 재학했으며, 2023년 2월 졸업했습니다.",
-      "en": "Studied in Department of Science and graduated in February 2023."
+      "ko": "과학과 정보전공으로 재학했으며, 2023년 2월 졸업했습니다.",
+      "en": "Studied in Informatics Track in department of Science and graduated in February 2023."
     },
     "status": "completed",
     "tags": [
-      "cshs",
       "computer-science",
       "science",
       "mathematics"
@@ -217,7 +215,7 @@
     "kind": "career",
     "title": {
       "ko": "ScienceON 서포터즈 ‘사이언스오너’",
-      "en": "ScienceON supporter ‘사이언스오너’"
+      "en": "ScienceON supporter ‘ScienceONER’"
     },
     "organization": {
       "ko": "한국과학기술정보연구원",
