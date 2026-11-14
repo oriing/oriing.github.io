@@ -99,6 +99,10 @@
     "ko": "Body·Head 업데이트",
     "en": "Body and Head Updates"
   },
+  "business-administration": {
+    "ko": "경영학",
+    "en": "Business Administration"
+  },
   "c": {
     "ko": "C",
     "en": "C"
@@ -954,6 +958,10 @@
   "satnogs": {
     "ko": "SatNOGS",
     "en": "SatNOGS"
+  },
+  "science": {
+    "ko": "과학",
+    "en": "Science"
   },
   "science-communication": {
     "ko": "과학 소통",

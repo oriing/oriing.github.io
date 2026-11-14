@@ -1419,10 +1419,11 @@ button {
 }
 
 .profile-timeline-org {
-  margin: 0.4rem 0 1rem !important;
-  color: var(--blue) !important;
-  font-size: 0.73rem !important;
+  font-size: 1.45rem;
   font-weight: 700;
+  line-height: 1.4;
+  color: #171a20;
+  margin: 0.5rem 0 0.875rem;
 }
 
 .profile-timeline-body > p {

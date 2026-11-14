@@ -5,21 +5,45 @@
     "order": 10,
     "kind": "education",
     "title": {
-      "ko": "컴퓨터공학·응용수학 학사과정",
-      "en": "Undergraduate studies in Computer Science and Engineering and Applied Mathematics"
+      "ko": "[공학사] 컴퓨터공학 · [이학사] 응용수학",
+      "en": "B.E. in Computer Science and Engineering and B.S. in Applied Mathematics"
     },
     "organization": {
       "ko": "경희대학교",
       "en": "Kyung Hee University"
     },
     "description": {
-      "ko": "경희대학교에서 컴퓨터공학과 응용수학을 공부하고 있습니다. <<내용필요: 한국어학·우주과학 등 추가 전공의 최종 구분과 이수 상태>>",
-      "en": "Studying Computer Science and Engineering and Applied Mathematics at Kyung Hee University. <<내용필요: 한국어학·우주과학 등 추가 전공의 최종 구분과 이수 상태>>"
+      "ko": "경희대학교에서 컴퓨터공학과 응용수학을 공부하고 있습니다. 한국어학을 부전공하고 있습니다.",
+      "en": "Studying Computer Science and Engineering and Applied Mathematics at Kyung Hee University, with a minor in Korean Language."
     },
     "status": "ongoing",
     "tags": [
+      "khu",
       "computer-science",
       "mathematics"
+    ]
+  },
+  {
+    "id": "business-associate",
+    "period": "2026.09 — 2027.02",
+    "order": 20,
+    "kind": "education",
+    "title": {
+      "ko": "[경영전문학사] 경영 전공",
+      "en": "A.B.A. in Business Management"
+    },
+    "organization": {
+      "ko": "학점은행제",
+      "en": "Academic Credit Bank System"
+    },
+    "description": {
+      "ko": "학점은행제로 경영 전공의 경영전문학사를 취득했습니다.",
+      "en": "Earned Associate Degree in Business Administration with a major in Business Management through the Academic Credit Bank System."
+    },
+    "status": "completed",
+    "tags": [
+      "economics",
+      "business-administration"
     ]
   },
   {
@@ -28,8 +52,8 @@
     "order": 20,
     "kind": "education",
     "title": {
-      "ko": "공업전문학사 · 멀티미디어",
-      "en": "공업전문학사 · 멀티미디어"
+      "ko": "[공업전문학사] 멀티미디어 전공",
+      "en": "A.E. in Multimedia"
     },
     "organization": {
       "ko": "학점은행제",
@@ -37,7 +61,7 @@
     },
     "description": {
       "ko": "학점은행제로 멀티미디어 전공의 공업전문학사를 취득했습니다.",
-      "en": "Earned 공업전문학사 with a major in multimedia through the Academic Credit Bank System."
+      "en": "Earned Associate Degree in Engineering with a major in Multimedia through the Academic Credit Bank System."
     },
     "status": "completed",
     "tags": [
@@ -50,20 +74,22 @@
     "order": 30,
     "kind": "education",
     "title": {
-      "ko": "과학과 · 정보전공",
-      "en": "Science programme · Informatics track"
+      "ko": "과학과",
+      "en": "Department of Science"
     },
     "organization": {
       "ko": "충남과학고등학교",
       "en": "Chung-Nam Science High School"
     },
     "description": {
-      "ko": "과학과 정보전공으로 재학했으며, 2023년 2월 졸업했습니다.",
-      "en": "Studied in the science program's informatics track and graduated in February 2023."
+      "ko": "과학과로 재학했으며, 2023년 2월 졸업했습니다.",
+      "en": "Studied in Department of Science and graduated in February 2023."
     },
     "status": "completed",
     "tags": [
+      "cshs",
       "computer-science",
+      "science",
       "mathematics"
     ]
   },
@@ -82,7 +108,7 @@
     },
     "description": {
       "ko": "육군 전산 자산과 무기체계의 취약점을 분석하고 개선 방안을 도출했습니다. 사이버·전자전 분야의 연구 과제를 수행하고 관련 소요를 제기했습니다. 또한 군이 보유한 사이버 자산을 보다 효과적으로 활용하는 방안을 제안하고 실증했습니다.",
-      "en": "I assessed vulnerabilities in Army IT assets and weapon systems and developed recommendations for improvement. I conducted research in cyber and electronic warfare and submitted capability requirement proposals. I also proposed and demonstrated ways to make more effective use of existing military cyber assets."
+      "en": "Assessed vulnerabilities in Army IT assets and weapon systems and developed recommendations for improvement. Conducted research in cyber and electronic warfare and submitted capability requirement proposals. Also proposed and demonstrated ways to make more effective use of existing military cyber assets."
     },
     "status": "ongoing",
     "tags": [
@@ -127,8 +153,8 @@
       "en": "FLOW EDU · TEdI"
     },
     "description": {
-      "ko": "조교로 근무하며 C++와 정보올림피아드 대비 수업을 직접 진행했습니다.",
-      "en": "Worked as a teaching assistant and taught C++ and Olympiad preparation classes."
+      "ko": "조교로 근무하며 C++와 한국정보올림피아드 대비 수업을 직접 진행했습니다. 본선 장려상 수상자를 배출했습니다.",
+      "en": "Worked as a teaching assistant and taught C++ and Korea Olympiad in Informatics (KOI) preparation classes. Produced an Encouragement Award winner in the finals."
     },
     "status": "completed",
     "tags": [
@@ -143,7 +169,7 @@
     "order": 60,
     "kind": "career",
     "title": {
-      "ko": "Technology T/F 자원봉사자",
+      "ko": "경기지원본부 정보통신부 Technology T/F 자원봉사자",
       "en": "Volunteer, Technology T/F"
     },
     "organization": {
@@ -151,8 +177,8 @@
       "en": "Gangwon 2024 Winter Youth Olympic Games"
     },
     "description": {
-      "ko": "강릉 컬링센터에서 인터넷·프린터 관련 문제 해결, 전력 점검 보조와 외국인 관계자를 위한 기술 통역을 수행했습니다.",
-      "en": "Handled internet and printer troubleshooting, assisted with power checks, and provided technical interpretation for international staff at Gangneung Curling Centre."
+      "ko": "강릉 컬링센터에서 인터넷 관련 문제 해결, 전력 점검 보조 및 IOC, Omega, OBS 등 외국인 관계자를 위한 기술 통역을 수행했습니다.",
+      "en": "Handled internet troubleshooting, assisted with power checks, and provided technical interpretation for international staff from IOC, Omega, and OBS at Gangneung Curling Centre."
     },
     "status": "completed",
     "tags": [
@@ -175,8 +201,8 @@
       "en": "Seasonal University Study & Communication (SUSC)"
     },
     "description": {
-      "ko": "쿠러그 대표자로 대학 간 교류를 담당했습니다. 2023 Summer 콘텐츠팀, 2023 Winter 기획팀 리더로 활동 구성을 맡았습니다.",
-      "en": "Represented KHLUG in inter-university exchanges and led content planning for 2023 Summer and program planning for 2023 Winter."
+      "ko": "오픈소스 커뮤니티인 SUSC에서 2023 Summer 콘텐츠팀, 2023 Winter 기획팀 리더로 활동 구성을 맡았습니다.",
+      "en": "Led content planning for 2023 Summer and program planning for 2023 Winter in SUSC, an opensource community."
     },
     "status": "completed",
     "tags": [
@@ -198,8 +224,8 @@
       "en": "Korea Institute of Science and Technology Information"
     },
     "description": {
-      "ko": "카드뉴스와 블로그 기사를 작성하고 ScienceON 홍보 방법과 활용 사례를 제안했습니다.",
-      "en": "Created card news and blog articles and proposed promotion ideas and use cases for ScienceON."
+      "ko": "카드뉴스와 블로그 기사를 작성하고 ScienceON 홍보 방법과 활용 사례를 제안했습니다. 사이언스온 홈페이지 개편 과정에서 피드백 과정에 참여했습니다.",
+      "en": "Created card news and blog articles and proposed promotion ideas and use cases for ScienceON. Provided feedback during the overhaul of the ScienceON website."
     },
     "status": "completed",
     "tags": [
